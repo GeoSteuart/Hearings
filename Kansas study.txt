@@ -1,0 +1,2326 @@
+American Journal of Epidemiology
+Copyright © 2000 by The Johns Hopkins University School of Hygiene and Public Health
+All rights reserved
+
+Vol. 152, No. 10
+Printed in U.S.A.
+
+Prevalence and Patterns of Gulf War Illness Steele
+
+Prevalence and Patterns of Gulf War Illness in Kansas Veterans: Association
+of Symptoms with Characteristics of Person, Place, and Time of Military
+Service
+
+Gulf War veterans have reported health problems that they attribute to their military service, but little is
+understood about the nature or extent of these conditions. To determine whether Kansas Gulf War veterans are
+affected by excess health problems, a population-based survey of 1,548 veterans who served in the Persian Gulf
+War (PGW) and 482 veterans who served elsewhere (non-PGW) was conducted in 1998. Gulf War illness,
+defined as having chronic symptoms in three of six domains, occurred in 34% of PGW veterans, 12% of nonPGW veterans who reported receiving vaccines during the war, and 4% of non-PGW veterans who did not
+receive vaccines. The prevalence of Gulf War illness was lowest among PGW veterans who served on board
+ship (21%) and highest among those who were in Iraq and/or Kuwait (42%). Among PGW veterans who served
+away from battlefield areas, Gulf War illness was least prevalent among those who departed the region prior to
+the war (9%) and most prevalent among those who departed in June or July of 1991 (41%). Observed patterns
+suggest that excess morbidity among Gulf War veterans is associated with characteristics of their wartime
+service, and that vaccines used during the war may be a contributing factor. Am J Epidemiol 2000;152:992–1002.
+fatigue syndrome, chronic; Persian Gulf syndrome; risk factors; symptoms and general pathology; veterans
+
+On August 2, 1990, Iraq’s Republican Army invaded
+Kuwait. Within 1 week, US military forces began to arrive
+in the region as part of Operation Desert Shield. Operation
+Desert Storm began with the air war on January 17, 1991,
+and continued with a 4-day ground war that ended February
+28, 1991. After the war, the force size was reduced over a
+period of months, with the majority of troops out of the area
+by July 1991 (1). Since the war, Gulf War veterans have
+reported anomalous health problems that include a variety
+of chronic symptoms such as headache, fatigue, joint pain,
+rashes, respiratory problems, and neuropsychological difficulties.
+Despite a growing body of research on the health problems reported by Gulf War veterans, little is known about
+their nature or causes. Government review panels (2–4)
+have generally not found that a single “Gulf War syndrome”
+is likely to explain all of the health problems reported by
+veterans. At the same time, research studies have consistently documented similar types of symptoms and illnesses
+in different groups of Gulf War veterans (5–9) and have
+invariably found these problems to occur at higher rates in
+Gulf War veterans than in veterans serving elsewhere
+(10–15).
+
+Basic epidemiologic questions regarding the prevalence
+of these conditions and their association with characteristics
+of Gulf War service have also remained unanswered. The
+lack of progress in identifying these parameters is due in
+part to the difficulty of investigating symptom-based health
+problems that lack corresponding clinical signs and for
+which no accepted case definition exists (1, 5, 8, 16, 17). By
+December 1997, about 12 percent of eligible veterans who
+had served in the Persian Gulf War (PGW) had enrolled in
+one of two voluntary registries offered by the US
+Departments of Defense and Veterans Affairs (18).
+Population-based studies, however, have suggested that a
+substantially higher proportion of veterans are experiencing
+health problems (13–15).
+The Kansas Persian Gulf War Veterans Health Initiative
+Program was developed by the state of Kansas in response
+to veterans’ claims that they had health problems resulting
+from Gulf War service. The present study was designed to
+determine if Kansas Gulf War veterans experienced a
+greater burden of health problems than contemporary veterans who did not serve in the Gulf War and, if so, to describe
+any excess health problems, their prevalence, and patterns
+of occurrence.
+
+Received for publication December 17, 1999, and accepted for
+publication August 3, 2000.
+Abbreviations: CI, confidence interval; non-PGW, veterans who
+did not serve in the Persian Gulf War; OR, odds ratio; PGW, veterans who served in the Persian Gulf War.
+From the Kansas Commission on Veterans Affairs, Topeka, KS.
+Reprint requests to Dr. Lea Steele, Kansas Commission on
+Veterans Affairs, 700 S.W. Jackson, Suite 701, Topeka, KS 66603 (email: kspgwvets@cjnetworks.com).
+
+MATERIALS AND METHODS
+Study design and population
+
+Veterans were eligible for the study if they 1) were
+Kansas residents at the time of the study, 2) had served on
+active military duty for any period between August 1990
+992
+
+Downloaded from https://academic.oup.com/aje/article/152/10/992/55709 by University of Missouri-Columbia Law Library user on 09 April 2025
+
+Lea Steele
+
+Prevalence and Patterns of Gulf War Illness 993
+
+Data collection
+
+Interviews were conducted by telephone between
+February and August of 1998, using a computer-assisted
+telephone interviewing system. The survey instrument was
+designed to provide health information, particularly symptom data, comparable with that from other studies of Gulf
+War veterans. Questionnaires from previous populationbased studies were reviewed. A list of representative health
+questions was generated and pretested in a group of
+Missouri Gulf War veterans. Veterans were asked if they had
+ever been diagnosed or treated by a physician for any of 16
+specific medical and psychiatric conditions, or for any medical condition in five general areas, and when each reported
+condition had developed. Veterans were also asked if 37
+individual symptoms had been persistent or recurring problems in the prior year, to rate the severity of each symptom
+endorsed, and when the problem first began. Only limited
+questions were asked about veterans’ military service.
+Deployed veterans were asked when they arrived in and
+departed from the Persian Gulf area, the countries to which
+they deployed, the units with which they served, and
+whether they had been notified by the Department of
+Defense that they had been in the area potentially affected
+by the Khamisiyah munitions demolition in Iraq. Veterans
+who did not serve in the Persian Gulf War (non-PGW) were
+asked if they had received any vaccinations or injections
+from the military between August 1990 and July 1991.
+Criteria for “Gulf War illness” symptom complex
+
+The approach used to characterize the health problems
+reported by Kansas Gulf War veterans relied on two basic
+premises. First, not all symptoms and conditions experienced by Gulf War veterans were likely to be attributable to
+their wartime service. Some level of symptomatology and
+disease would be expected among Gulf War veterans even
+had they not served in the war (19, 20). Second, the level of
+morbidity expected in the absence of Gulf War service could
+Am J Epidemiol Vol. 152, No. 10, 2000
+
+be estimated from an appropriate referent group. Any identified excess or atypical morbidity associated with PGW
+deployment might then be considered “Gulf War illness.”
+Lacking a gold standard for Gulf War illness, cases were
+defined by a method similar to that used for another condition defined primarily by symptoms, chronic fatigue syndrome (21). It involved identification of “exclusionary”
+conditions—that is, medical and psychiatric diagnoses not
+included under the general category of “Gulf War illness”
+for current research purposes—and quantifying the symptoms reported by PGW veterans to define “inclusionary”
+criteria.
+Exclusionary conditions.
+Diagnosed medical and psychiatric conditions were not included under the general
+rubric of Gulf War illness if they: 1) were not elevated
+among Kansas PGW veterans but might produce symptoms
+similar to those previously associated with Gulf War service, or 2) might interfere with respondents’ perception or
+reports of their symptoms (i.e., serious psychiatric conditions). Therefore, veterans who reported being diagnosed or
+treated by a physician for any of the following conditions
+were excluded from consideration as Gulf War illness cases:
+cancer, diabetes, heart disease, chronic infectious disease,
+problems resulting from postwar injuries, liver disease,
+lupus, multiple sclerosis, stroke, or any serious psychiatric
+condition (those associated with psychosis and/or for which
+the respondent had been hospitalized since 1991).
+Symptom groups and criteria.
+Several approaches to
+quantifying symptom criteria were considered, including
+exploratory factor analysis to identify latent constructs that
+might be used to define symptom groupings or illness subtypes. This approach provided general validation regarding
+the cooccurrence of symptoms within system-based categories (e.g., respiratory symptoms tended to occur together,
+as did gastrointestinal symptoms, and so on). The cooccurrence of symptoms in different categories, however, varied
+in veteran subgroups (e.g., PGW vs. non-PGW veterans,
+males vs. females, PGW veterans deployed to different
+areas). This method was therefore not considered a reliable
+way to define illness subtypes in this population. Instead, a
+more descriptive approach was taken, defining symptom
+groups based on measures of correlation and comparisons
+between PGW and non-PGW veterans. Veterans were asked
+about symptoms in several general categories (e.g., respiratory, gastrointestinal, neuropsychological, sleep disturbances, pain), as well as symptoms (e.g., fatigue, headache)
+for which no single category was apparent. Gulf War illness
+criteria symptoms must have persisted or recurred in the
+year prior to interview and first have been a problem for
+respondents in 1990 or later. The correlation of symptom
+scores was assessed among PGW veterans who did not
+report exclusionary conditions. The internal reliability of
+each symptom grouping was determined using Cronbach’s
+alpha (22). Symptom groups were considered reliable constructs if they were associated with an alpha of 0.70 or
+greater; individual items were retained within symptom
+groups if they had item-scale correlations of 0.50 or greater.
+Symptoms not included in a group were iteratively correlated with all symptom groups in order to identify additional
+
+Downloaded from https://academic.oup.com/aje/article/152/10/992/55709 by University of Missouri-Columbia Law Library user on 09 April 2025
+
+and July 1991, and 3) were separated or retired from the military or currently served in the reserve component. The
+Defense Manpower Data Center provided names, deployment, and demographic information for individuals who had
+served on active duty during the target year, whose last
+address of record was in Kansas. Based on earlier reports
+that reservists and women were disproportionately affected
+by post-Gulf War health problems (5, 13, 14), a stratified
+random sample was drawn to increase representation of
+those two groups. A sample of 3,138 names, including all
+activated reservists from the pool of eligible names and a
+similar number of active component veterans, was selected
+to be located, screened, and invited to participate. Because
+the military does not maintain current addresses after veterans have been discharged from service, contact information
+was identified using state records, telephone directories,
+Internet listings, and postal service files. Contact attempts
+were limited to veterans for whom in-state information was
+identified.
+
+994
+
+Steele
+
+with chronic symptoms were determined using logistic
+regression. Prevalence odds ratios for defined symptom
+complexes were also determined by logistic regression, controlling for military as well as demographic variables.
+Statistical analyses were performed using SAS version
+6.12 computer software (24).
+
+Data analyses
+
+Health indicators among PGW and non-PGW veterans
+
+Analyses compared the health of PGW veterans with that
+of non-PGW veterans using several health indicators,
+including 1) general health status, 2) medical and psychiatric conditions reported to have been diagnosed or treated
+by a physician since 1990, 3) symptoms persisting over the
+prior year, and 4) defined symptom complexes (Gulf War
+illness, Centers for Disease Control and Prevention-defined
+multisymptom illness, chronic fatigue syndrome). The incidence of physician-diagnosed conditions and the prevalence
+of symptoms were assessed among veterans who did not
+have each problem prior to 1990. All outcomes among nonPGW veterans were stratified by veterans’ self-reported
+receipt of vaccines or injections from the military during the
+index year.
+Among both PGW and non-PGW veterans, health outcomes were frequently associated with veterans’ sex, age,
+income level, and education level. Therefore, all analyses
+controlled for the effects of these variables. Indicators of
+general health status were compared using Mantel-Haenszel
+chi-square tests (23). Odds ratios for the association of
+deployment and vaccine status with conditions diagnosed or
+treated by a physician and prevalence odds ratios associated
+
+PGW veterans generally reported worse overall health
+and more symptoms than did non-PGW veterans (table 2).
+Forty-seven percent of all PGW veterans reported a lower
+level of health in 1998 than in 1990, compared with 19 percent of non-PGW veterans. Non-PGW veterans who
+received vaccines during the war were more likely to report
+a worsened health status since 1990 than were non-PGW
+veterans who did not receive vaccines, and the former
+endorsed a greater number of symptoms.
+A significantly higher proportion of PGW than non-PGW
+veterans reported being diagnosed or treated by a physician
+for 10 of 21 types of medical conditions since 1990 (table
+3). One condition, hypertension, was significantly higher
+among non-PGW veterans who had received vaccines than
+among those who had not (not shown; 11 percent vs. 5 percent, odds ratio (OR)  2.99, 95 percent confidence interval
+(CI): 1.19, 7.54).
+Table 4 shows the proportion of veterans who reported
+each of 37 symptoms as persistent problems in the year prior
+to interview, in the absence of exclusionary conditions.
+Prevalence odds ratios for the association of symptoms with
+PGW deployment ranged from 1.95 to 6.63. Among non-
+
+RESULTS
+Study population
+
+Of 3,138 veterans randomly selected for contact and
+screening, 2,396 (76 percent) were located using in-state
+contact information. Twenty-four of those located were
+unable to participate because family members reported them
+as being deceased, hospitalized, or unreachable by telephone. Of the remaining veterans, 7 percent were ineligible
+for the study because they did not fulfill residency or military service requirements. The remaining 2,211 veterans
+were invited to be interviewed for the study; 2,030 (92 percent) agreed and 181 declined. PGW veterans (93 percent
+vs. 88 percent non-PGW) and women (95 percent vs. 91
+percent males) were significantly more likely to agree to
+participate. Characteristics of the target and study populations are provided in table 1.
+For 143 (7 percent) of the 2,030 study participants, selfreported deployment status differed from that in military
+personnel records. This was a particular problem among the
+482 veterans whose records indicated they had not served in
+the war, 70 (15 percent) of whom reported they had.
+Additional study data (e.g., veteran-reported time period
+and location of service) were used to clarify deployment status, where possible. Veterans for whom additional study
+data were insufficient to verify deployment status (n  50)
+were excluded from subsequent analyses.
+
+Am J Epidemiol Vol. 152, No. 10, 2000
+
+Downloaded from https://academic.oup.com/aje/article/152/10/992/55709 by University of Missouri-Columbia Law Library user on 09 April 2025
+
+associations according to the above criteria. In this manner,
+five highly reliable symptom groups were identified:
+1) fatigue/sleep problems (α  0.81), 2) pain symptoms
+(α  0.78), 3) neurologic/cognitive/mood symptoms (α 
+0.89), 4) gastrointestinal symptoms (α  0.77), and 5) respiratory symptoms (α  0.76). One additional symptom
+group, skin symptoms, was identified. Veterans were asked
+specifically about only one skin symptom (rashes), disallowing correlation assessments. This symptom was frequently reported, strongly associated with deployment, and
+relatively independent of other symptom groups. Veterans
+also frequently reported other skin problems, about which
+they had not specifically been asked.
+A similar proportion of PGW and non-PGW veterans
+reported a very low level of symptomatology within most
+symptom groups (e.g., 9 percent of non-PGW veterans
+reported a single, mild fatigue/sleep problems symptom,
+compared with 10 percent of PGW veterans). Greater symptom burdens were significantly associated with PGW
+deployment in all symptom categories. Therefore, only
+respondents with at least one moderately severe symptom or
+two or more symptoms within a group were considered to
+have an elevated level of symptoms in that group.
+Criteria for other symptom-defined outcomes. Cases of
+multisymptom illness as defined by the Centers for Disease
+Control and Prevention were required to have one or more
+chronic symptoms from at least two of the following three
+groups: 1) fatigue; 2) mood/cognition (feeling down or
+depressed, memory problems, difficulty concentrating, trouble finding words, problems falling or staying asleep); and
+3) musculoskeletal (joint pain, muscle pain) (14). Cases of
+chronic fatigue syndrome were defined on the basis of selfreported symptoms, fatigue characteristics, and medical
+diagnoses, according to established criteria (21).
+
+Prevalence and Patterns of Gulf War Illness 995
+TABLE 1.
+sample
+
+Distribution of January 1991 characteristics of Kansas Gulf War-era veterans and interviewed
+
+All Kansas PGW*-era veterans
+
+Interviewed veterans
+
+% of
+non-PGW*
+(n = 10,331)
+
+% of
+total
+(n = 16,566)
+
+% of
+PGW
+(n = 1,548)
+
+% of
+non-PGW
+(n = 482)
+
+% of
+total
+(n = 2,030)
+
+92
+8
+
+86†
+14
+
+88
+12
+
+86
+14
+
+87
+13
+
+87
+13
+
+Age (years)
+17–21
+22–25
+26–33
+≥34
+
+26
+26
+26
+22
+
+26†
+23
+25
+26
+
+26
+24
+26
+24
+
+19
+22
+27
+32
+
+16†
+18
+23
+42
+
+19
+21
+26
+34
+
+Race/ethnicity
+White
+Black
+Hispanic
+Other
+
+79
+15
+3
+3
+
+83†
+12
+2
+3
+
+82
+13
+2
+3
+
+87
+8
+3
+2
+
+91
+5
+3
+1
+
+88
+8
+3
+2
+
+78
+22
+
+89†
+11
+
+85
+15
+
+47
+53
+
+42
+58
+
+45
+55
+
+Branch
+Army
+Air Force
+Navy
+Marines
+Coast Guard
+
+68
+11
+13
+8
+0
+
+50†
+29
+14
+7
+1
+
+56
+22
+13
+7
+1
+
+66
+16
+11
+6
+0
+
+43†
+39
+9
+8
+1
+
+61
+22
+11
+7
+<1
+
+Rank
+Enlisted
+Officer
+
+89
+11
+
+84†
+16
+
+86
+14
+
+85
+15
+
+80†
+20
+
+84
+16
+
+Demographic characteristics
+Sex
+Male
+Female
+
+Military characteristics
+Component
+Active
+Reserve/Guard
+
+* PGW, Persian Gulf War veterans; non-PGW, Persian Gulf War-era veterans who did not serve in the Persian
+Gulf War.
+† Distribution among non-PGW veterans differs significantly from that of PGW veterans (p < 0.01).
+
+PGW veterans, six symptoms, all in the pain and neurologic/cognitive/mood symptom categories, were endorsed
+by significantly more veterans who received vaccines during the war.
+Prevalence of symptom-defined health outcomes
+
+A certain level of morbidity was common to all veterans,
+independent of deployment status. The proportion of veterans reporting any exclusionary condition was similar among
+PGW and non-PGW veterans (7 percent vs. 6 percent, p 
+0.41), as was the proportion reporting moderate or multiple
+symptoms in only one or two defined symptom groups (30
+percent vs. 29 percent, p  0.78). For symptomatology in
+three or more symptom groups, however, a significant difference by deployment status emerged. This pattern of morbidity—moderate or multiple symptoms in at least three of
+the six defined groups, in the absence of diagnosed exclusionary conditions—was associated with deployment to the
+Gulf War and defined “Gulf War illness” for purposes of the
+present study.
+Am J Epidemiol Vol. 152, No. 10, 2000
+
+Table 5 provides estimates of prevalence and prevalence
+odds ratios for the association of Gulf War illness with
+deployment and vaccine status. A similar pattern of association between PGW deployment, vaccine status, and illness
+was observed for Gulf War illness, Centers for Disease
+Control and Prevention-defined multisymptom illness, and
+chronic fatigue syndrome.
+Distribution of Gulf War illness in PGW veterans
+
+The prevalence of Gulf War illness among PGW demographic, military, and deployment subgroups is shown in
+table 6, with unadjusted and adjusted prevalence odds ratios.
+After adjustment, the prevalence of Gulf War illness was
+significantly elevated among women, veterans with lower
+household incomes and less education, Army veterans, and
+enlisted personnel.
+Fewer than 10 percent of Kansas veterans served primarily on board ship during the war. Nearly all remaining veterans were stationed for some period of time in Saudi Arabia
+and/or the island nation of Bahrain off the coast of Saudi
+
+Downloaded from https://academic.oup.com/aje/article/152/10/992/55709 by University of Missouri-Columbia Law Library user on 09 April 2025
+
+% of
+PGW
+(n = 6,235)
+
+996
+
+Steele
+TABLE 2.
+
+General health status of Kansas Gulf War-era veterans, 1990–1998
+PGW* vs. all non-PGW*
+
+Non-PGW only,
+by vaccine status†
+% receiving
+% receiving
+vaccines
+no vaccines
+(n = 208)
+(n = 187)
+
+% non-PGW
+(n = 435)
+
+Health status in August 1990
+Excellent
+Good
+Fair/poor
+
+61
+37
+2
+
+59
+38
+3
+
+62
+37
+1
+
+53
+43
+4
+
+Health status in 1998
+Excellent
+Good
+Fair/poor
+
+25‡
+51
+24
+
+45
+47
+8
+
+47
+47
+7
+
+43
+48
+10
+
+Difference in health status category, 1990–1998
+Same or better
+Worse
+
+53‡
+47
+
+81
+19
+
+78‡
+22
+
+86
+14
+
+No. of chronic symptoms in 1998
+0–3 symptoms
+4–6 symptoms
+≥7 symptoms
+
+42‡
+14
+44
+
+74
+13
+13
+
+72‡
+11
+17
+
+77
+14
+9
+
+Hospitalized for any reason, 1991–1998
+
+34
+
+31
+
+29
+
+34
+
+Applied for VA* disability benefits, 1991–1998§
+
+22
+
+19
+
+13‡
+
+25
+
+Believes she/he has had health problems related
+to 1990–1991 military service
+
+46‡
+
+11
+
+10
+
+11
+
+* PGW, Persian Gulf War veterans; non-PGW, Persian Gulf War-era veterans who did not serve in the Persian
+Gulf War; VA, US Department of Veterans Affairs.
+† Excludes 40 non-PGW veterans who could not recall if they had received vaccines or injections during the
+war.
+‡ Distributions differ significantly (p < 0.05), adjusted for sex, age, income level, and education level.
+§ Compensation for service-connected disabilities from the US Department of Veterans Affairs.
+
+Arabia. About 40 percent also entered Iraq and/or Kuwait,
+countries in which the ground war and coalition air strikes
+occurred. Overall, veterans who served primarily on board
+ship were least affected by Gulf War illness. The prevalence
+of Gulf War illness was somewhat higher among those serving in only Saudi Arabia or Bahrain and highest among
+those who entered Iraq and/or Kuwait.
+Most PGW veterans were present in the Gulf region during the ground and air wars in January and February of
+1991. Only 56 (4 percent) left the Gulf area prior to January
+1991, and 29 (2 percent) arrived in the area in March 1991
+or later. The prevalence of Gulf War illness was lowest
+among veterans who departed the region prior to the war,
+higher for those present during the war who left the region
+by March, and highest for those departing in June or July of
+1991.
+The association of Gulf War illness with time period differed by location in theater (not shown in table). The prevalence of Gulf War illness was highest among veterans who
+served in Iraq or Kuwait (42 percent), regardless of when
+they left the region. For veterans not in Iraq or Kuwait, Gulf
+War illness occurred in 9 percent of those departing prior to
+the war (referent), 21 percent of those departing in March
+
+(OR  2.86, 95 percent CI: 1.05, 7.78), 32 percent of those
+departing in April or May (OR  3.55, 95 percent CI: 1.28,
+9.84), and 41 percent of those departing in June or July
+(OR  10.31, 95 percent CI: 2.61, 40.78). This pattern was
+maintained after adjusting for the number of months veterans spent in the region, with odds ratios ranging from 2.54
+for veterans leaving the region in March to 6.04 for those
+departing in June or July of 1991.
+Finally, among non-PGW veterans, Gulf War illness was
+significantly associated only with self-reported receipt of
+vaccines (table 5) and being female (OR  3.19, 95 percent
+CI: 1.23, 8.29). In multivariable modeling, there was no significant association of Gulf War illness with age, income
+level, education level, rank, component, or branch of service.
+DISCUSSION
+
+The results of this study indicate that, 7 years after serving in the Persian Gulf War, Kansas veterans experienced
+substantially more health problems than did era veterans
+who did not serve in the war. Increased morbidity was
+reflected in worse overall health status, higher rates of medAm J Epidemiol Vol. 152, No. 10, 2000
+
+Downloaded from https://academic.oup.com/aje/article/152/10/992/55709 by University of Missouri-Columbia Law Library user on 09 April 2025
+
+% PGW
+(n = 1,545)
+
+Prevalence and Patterns of Gulf War Illness 997
+TABLE 3. Number and proportion of Kansas Gulf War-era veterans reporting medical conditions
+diagnosed or treated by a physician, with new onset, 1990–1998
+
+Condition(s)
+
+Non-PGW*
+(n = 435)
+
+No.
+
+%‡
+
+No.
+
+%‡
+
+299
+219
+179
+161
+160
+155
+142
+138
+134
+119
+98
+63
+43
+37
+37
+30
+24
+23
+21
+18
+15
+
+21
+15
+12
+11
+11
+11
+9
+10
+9
+10
+6
+4
+3
+2
+2
+2
+2
+2
+1
+1
+1
+
+26
+32
+30
+24
+21
+36
+5
+19
+33
+23
+6
+9
+8
+7
+2
+4
+2
+7
+5
+4
+1
+
+6
+8
+7
+6
+5
+9
+1
+5
+8
+7
+1
+2
+2
+2
+<0.5
+1
+<0.5
+2
+1
+1
+<0.5
+
+OR*,†
+
+3.83
+2.13
+1.85
+1.99
+2.25
+1.24
+8.70
+2.61
+1.24
+1.41
+4.74
+2.08
+1.47
+1.56
+4.77
+2.32
+3.69
+1.17
+1.22
+1.21
+4.17
+
+95% CI*
+
+2.50,
+1.43,
+1.22,
+1.27,
+1.39,
+0.84,
+3.53,
+1.53,
+0.82,
+0.88,
+2.05,
+1.02,
+0.65,
+0.69,
+1.14,
+0.81,
+0.86,
+0.47,
+0.45,
+0.40,
+0.51,
+
+5.87
+3.17
+2.81
+3.14
+3.64
+1.84
+21.46
+4.47
+1.89
+2.26
+10.94
+4.26
+3.31
+3.56
+20.04
+6.67
+15.84
+2.90
+3.30
+3.69
+31.90
+
+* PGW, Persian Gulf War veterans; non-PGW, Persian Gulf War-era veterans who did not serve in the Persian
+Gulf War; OR, odds ratio; CI, confidence interval.
+† Odds ratio adjusted for sex, age, income, and education level.
+‡ Among veterans who did not have condition prior to 1990.
+
+ical and psychiatric diagnoses, and more frequent and severe
+chronic symptoms.
+Among Gulf War veterans, the prevalence of Gulf War illness was most strongly associated with the time period and
+location in which they served. Earlier reports have hinted at
+similar associations. US PGW veterans were least likely to
+participate in government registries if they were in the Gulf
+region before the war and most likely to participate if they
+served during Desert Storm (25). A report on veterans participating in the US Department of Veterans Affairs’ registry
+suggested that veterans exhibit different illness profiles in
+connection with their location of service during the war
+(26). Iowa PGW veterans were found to have more health
+problems if they served in Iraq, Kuwait, or Saudi Arabia
+than if they served elsewhere in the region (13). In addition,
+Kansas Army veterans, enlisted personnel, and women were
+disproportionately affected by Gulf War illness, supporting
+previous indications that ground troops, enlisted personnel,
+and women may have more health problems than other
+PGW veterans (7, 10, 14, 27).
+A question of central importance to veterans, government
+officials, and healthcare providers is, “How many veterans
+are affected by Gulf War-related health problems?” The
+answer depends on how such problems are conceptualized
+and defined, but a surprisingly consistent estimate for the
+excess burden of symptom-defined illness is emerging from
+existing population-based studies. Among four Air National
+Guard units, 45 percent of PGW veterans and 15 percent of
+non-PGW veterans met criteria for Centers for Disease
+Am J Epidemiol Vol. 152, No. 10, 2000
+
+Control and Prevention-defined multisymptom illness, an
+excess of 30 percent associated with PGW deployment (14).
+Among servicemen from the United Kingdom, 62 percent of
+PGW and 36 percent of non-PGW veterans met similar criteria, an excess of 26 percent among PGW veterans (15). In
+the present study, 47 percent of Kansas PGW veterans met
+criteria for Centers for Disease Control and Preventiondefined multisymptom illness, compared with 20 percent of
+non-PGW veterans, an excess of 27 percent. In addition, 34
+percent of PGW veterans met the more restrictive criteria for
+Kansas-defined Gulf War illness, compared with 8 percent
+of non-PGW veterans, an excess of 26 percent among PGW
+veterans. Thus, using two definitions in three distinct veteran populations, the excess burden of illness associated
+with deployment to the Gulf War has consistently been
+between 25 and 30 percent.
+Nearly all PGW veterans were likely to have received
+vaccines prior to or during the war. Inoculations are routinely given in the military prior to overseas duty (28), and
+about 98 percent of Iowa veterans reported receiving vaccines in association with PGW deployment (13). The
+results of the present study suggest that non-PGW veterans
+who received vaccines during the war may experience
+some of the same health problems as PGW veterans. The
+observed association of Gulf War illness with vaccines
+among non-PGW veterans is based on self-reported receipt
+of vaccines and so must be considered preliminary in
+nature. It does not appear to be due to a general overreporting of health problems in this group, however, since only
+
+Downloaded from https://academic.oup.com/aje/article/152/10/992/55709 by University of Missouri-Columbia Law Library user on 09 April 2025
+
+Skin condition(s) (other than skin cancer)
+Stomach or intestinal condition(s)
+Depression
+Arthritis
+Migraine headaches
+High cholesterol
+Chronic fatigue syndrome
+Bronchitis
+High blood pressure
+Allergies
+Posttraumatic stress disorder
+Asthma
+Alcohol or drug dependence
+Heart disease
+Lung disease
+Thyroid condition
+Fibromyalgia
+Skin cancer
+Diabetes
+Cancer (other than skin cancer)
+Seizures
+
+PGW*
+(n = 1,545)
+
+998
+
+Steele
+
+TABLE 4. Prevalence of chronic symptoms with onset since 1990 among Kansas Gulf War-era veterans reporting no exclusionary conditions
+PGW* vs. all non-PGW*
+
+Fatigue/sleep problems
+Not feeling rested after sleep
+Fatigue
+Problems falling or staying asleep
+Feeling unwell after exercise or exertion
+
+OR*,‡
+
+95% CI*
+
+%
+%
+receiving
+receiving
+vaccines no vaccines
+(n =197) (n = 177)
+
+OR‡
+
+95% CI
+
+42
+36
+33
+17
+
+21
+12
+14
+4
+
+2.69
+4.10
+2.98
+4.28
+
+2.04,
+2.94,
+2.18,
+2.57,
+
+3.54
+5.72
+4.08
+7.13
+
+24
+14
+15
+5
+
+18
+9
+12
+3
+
+1.43
+1.77
+1.22
+1.84
+
+0.83,
+0.89,
+0.65,
+0.58,
+
+47
+
+21
+
+3.32
+
+2.52, 4.38
+
+25
+
+17
+
+1.46
+
+0.84, 2.55
+
+37
+21
+16
+
+15
+6
+5
+
+3.27
+4.57
+3.93
+
+2.40, 4.44
+2.90, 7.19
+2.39, 6.48
+
+17
+7
+6
+
+11
+5
+2
+
+1.94
+1.89
+3.78
+
+1.02, 3.70
+0.74, 4.81
+1.13, 12.66
+
+34
+
+13
+
+3.57
+
+2.57, 4.98
+
+14
+
+10
+
+2.07
+
+1.01, 4.25
+
+Neurologic/cognitive/mood symptoms
+Problems remembering recent information
+Feeling irritable/angry outbursts
+Numbness or tingling in extremities
+Headaches
+Eyes very sensitive to light
+Trouble finding words when speaking
+Feeling down or depressed
+Difficulty concentrating
+Night sweats
+Feeling dizzy, lightheaded, or faint
+Low tolerance for heat or cold
+Symptomatic response to chemicals, odors
+Blurred or double vision
+Tremors or shaking
+
+32
+31
+29
+29
+25
+24
+23
+22
+20
+19
+18
+17
+13
+9
+
+8
+8
+14
+12
+11
+6
+9
+5
+4
+6
+6
+4
+5
+4
+
+4.92
+5.18
+2.33
+2.96
+2.62
+4.20
+2.99
+4.60
+5.33
+3.35
+3.67
+4.62
+2.49
+1.95
+
+3.35,
+3.47,
+1.70,
+2.11,
+1.84,
+2.76,
+2.07,
+2.92,
+3.21,
+2.18,
+2.30,
+2.73,
+1.55,
+1.17,
+
+7.21
+7.73
+3.18
+4.15
+3.74
+6.39
+4.31
+7.26
+8.84
+5.17
+5.87
+7.81
+4.00
+3.25
+
+12
+10
+17
+13
+14
+10
+11
+7
+5
+8
+6
+4
+6
+5
+
+5
+5
+12
+11
+6
+3
+7
+4
+3
+4
+5
+3
+3
+3
+
+3.02
+2.28
+1.63
+1.44
+2.25
+4.48
+1.64
+2.51
+1.68
+2.20
+1.35
+1.63
+3.53
+2.31
+
+1.28,
+0.94,
+0.86,
+0.73,
+1.02,
+1.61,
+0.78,
+0.95,
+0.53,
+0.86,
+0.51,
+0.52,
+1.13,
+0.74,
+
+Moderate or multiple neurologic symptoms
+
+59
+
+27
+
+3.94
+
+3.05, 5.10
+
+32
+
+20
+
+2.07
+
+1.23, 3.45
+
+19
+17
+15
+
+6
+4
+4
+
+3.38
+4.25
+4.23
+
+2.18, 5.23
+2.55, 7.08
+2.46, 7.25
+
+8
+6
+5
+
+3
+3
+2
+
+2.60
+1.69
+2.59
+
+0.96, 7.02
+0.59, 4.88
+0.75, 8.94
+
+22
+
+7
+
+3.63
+
+2.38, 5.53
+
+9
+
+5
+
+3.13
+
+1.17, 8.32
+
+18
+17
+13
+
+4
+8
+5
+
+4.09
+2.20
+2.51
+
+2.49, 6.71
+1.49, 3.26
+1.57, 4.01
+
+5
+9
+6
+
+5
+8
+6
+
+0.91
+1.18
+0.89
+
+0.34, 2.42
+0.55, 2.52
+0.35, 2.23
+
+21
+
+7
+
+3.37
+
+2.19, 5.18
+
+6
+
+8
+
+0.81
+
+0.35, 1.87
+
+20
+
+4
+
+5.73
+
+3.41, 9.62
+
+4
+
+4
+
+1.03
+
+0.33, 3.22
+
+19
+
+6
+
+4.09
+
+2.53, 6.63
+
+7
+
+3
+
+1.70
+
+0.56, 5.15
+
+33
+23
+19
+14
+12
+11
+10
+
+15
+7
+7
+6
+4
+4
+2
+
+2.64
+4.06
+3.34
+2.04
+2.94
+2.39
+5.79
+
+1.90,
+2.60,
+2.13,
+1.33,
+1.73,
+1.42,
+2.67,
+
+3.68
+6.34
+5.23
+3.14
+5.01
+4.03
+12.52
+
+17
+7
+8
+6
+4
+5
+3
+
+13
+5
+4
+7
+3
+3
+1
+
+1.37
+1.91
+1.68
+1.03
+1.25
+1.44
+1.64
+
+0.70,
+0.72,
+0.65,
+0.44,
+0.40,
+0.49,
+0.30,
+
+8
+8
+
+2
+1
+
+3.75
+6.63
+
+1.88, 7.49
+2.68, 16.38
+
+3
+1
+
+2
+1
+
+2.20
+1.25
+
+0.52, 9.25
+0.20, 7.86
+
+Moderate or multiple fatigue symptoms
+Pain symptoms
+Pain in joints
+Pain in muscles
+Body pain-hurt all over
+Moderate or multiple pain symptoms
+
+Gastrointestinal symptoms
+Diarrhea
+Nausea or upset stomach
+Abdominal pain or cramping
+Moderate or multiple gastrointestinal symptoms
+Respiratory symptoms
+Difficulty breathing or catching breath
+Persistent cough when don’t have cold
+Wheezing in chest
+Moderate or multiple respiratory symptoms
+Skin symptoms
+Rashes
+Moderate or multiple skin symptoms
+Other symptoms
+Sinus congestion
+Ringing in ears
+Hearing loss
+Problems with teeth or gums
+Sore or swollen glands in neck
+Sore throat
+Unusual hair loss
+Veteran or partner feels a burning sensation
+after sex
+Mouth sores
+
+2.46
+5.68
+2.31
+5.83
+
+7.11
+5.53
+3.08
+2.83
+4.94
+12.48
+3.48
+6.64
+5.29
+5.68
+3.58
+5.06
+11.03
+7.24
+
+2.68
+5.09
+4.38
+2.42
+3.87
+4.26
+8.87
+
+* PGW, Persian Gulf War veterans; non-PGW, Persian Gulf War-era veterans who did not serve in the Persian Gulf War; OR, prevalence odds ratio; CI, confidence interval.
+† Excludes 35 non-PGW veterans who could not recall if they had received vaccines or injections during the war.
+‡ Prevalence odds ratio adjusted for sex, age, income, and education level.
+
+one medical condition (hypertension) and two types of
+symptoms were significantly associated with receiving vaccines. Additionally, non-PGW veterans who received vac-
+
+cines were no more likely to attribute health problems to
+their wartime service than were non-PGW veterans who did
+not receive vaccines.
+Am J Epidemiol Vol. 152, No. 10, 2000
+
+Downloaded from https://academic.oup.com/aje/article/152/10/992/55709 by University of Missouri-Columbia Law Library user on 09 April 2025
+
+%
+%
+PGW
+non-PGW
+(n =1,435) (n = 409)
+
+Non-PGW only, by vaccine status†
+
+* CDC, Centers for Disease Control and Prevention; OR, prevalence odds ratio; CI, confidence interval; PGW, Persian Gulf War veterans; non-PGW, Persian Gulf War-era veterans
+who did not serve in the Persian Gulf War.
+† Prevalence odds ratio adjusted for sex, age, income, education, rank, and service branch and component.
+‡ Excludes 40 veterans who could not recall if they had received vaccines or injections during the war.
+
+Undefined
+Undefined
+1.4
+7.1
+2.04
+4.77
+23.1
+47.2
+48
+729
+24
+529
+208
+1,545
+
+11.5
+34.2
+
+1.0
+7
+
+PGW vs. non-PGW veterans, by
+vaccine status‡
+Non-PGW veterans/no vaccines
+Non-PGW veterans/received
+vaccines
+PGW veterans
+
+187
+
+3.7
+
+3.78
+10.64
+
+1.50, 9.54
+4.91, 23.06
+
+28
+
+15.0
+
+1.0
+
+1.15, 3.60
+3.07, 7.41
+
+3
+110
+
+0
+0
+
+2.58, 26.10
+1.0
+8.21
+3
+110
+2.48, 4.28
+1.0
+3.26
+19.8
+47.2
+86
+729
+3.25, 6.75
+1.0
+4.68
+8.3
+34.2
+36
+529
+435
+1,545
+PGW* vs. all non-PGW* veterans
+All non-PGW veterans
+PGW veterans
+
+No.
+Total
+
+0.7
+7.1
+
+95% CI
+OR†
+Prevalence
+(%)
+No.
+95% CI*
+
+No.
+
+CDC*-defined
+multisymptom illness
+PreOR†
+valence
+95% CI
+(%)
+Gulf War illness
+(Kansas defined)
+PreOR*,†
+valence
+(%)
+
+TABLE 5. 1998 prevalence of symptom-defined health outcomes in Kansas Gulf War-era veterans
+
+Am J Epidemiol Vol. 152, No. 10, 2000
+
+A relation between vaccinations and illness has been
+observed among Gulf War veterans from the United
+Kingdom and Canada, and a mechanism for an association
+of illness with multiple vaccinations has been proposed (29).
+The prevalence of multisymptom illness was associated
+with reports by veterans from the United Kingdom of
+receiving vaccines against biologic warfare agents (anthrax,
+plague, pertussis adjuvant) and with receiving multiple vaccinations during deployment (15, 30). A 1998 study of
+Canadian Gulf War veterans found a significant association
+between receiving “nonroutine immunizations” (anthrax,
+plague) and several symptom-defined outcomes (10).
+Patterns associated with where and when a veteran served
+suggest that multiple factors likely contributed to the excess
+morbidity experienced by Gulf War-era veterans. Fewer
+than 4 percent of era veterans with no identified PGWrelated exposures experienced symptoms of Gulf War illness. Between 9 and 12 percent of veterans likely to have
+had the lowest level of Gulf War-related exposures (nonPGW veterans who received vaccines during the war and
+veterans returning from the Gulf region prior to Desert
+Storm) had symptoms of Gulf War illness. The highest rate
+of illness, independent of time period, occurred among veterans who were in Iraq and/or Kuwait, suggesting that the
+factor or factors contributing to Gulf War illness were most
+concentrated in battlefield areas. Veterans in those areas
+might have encountered a greater number or concentration
+of potentially toxic exposures and experienced more battlerelated trauma.
+The observation that veterans in support areas who
+departed the region soon after the war were less likely to be
+ill than those who departed months later is particularly
+intriguing. It suggests an association of illness with toxic
+exposures, since battle-related stressors were reduced in
+later months. Potential risk factors that would have been
+more prevalent in support areas in later months might
+include exposure to contaminants from oil well fires, exposure to toxicants transferred via people or equipment from
+battlefield areas, and exposures associated with cleanup and
+refurbishing of equipment.
+The results of this study raise methodological issues
+likely to be important in other Gulf War-related research.
+Fifteen percent of Gulf War-era veterans whose military
+records indicated they had not served in the Gulf War
+reported that they had. If the discrepancies observed here are
+representative, large studies of Gulf War-era military populations that rely on military personnel databases to compare
+outcomes between PGW and non-PGW veterans may be
+seriously affected by inaccurate assessment of deployment
+status.
+Another important methodological issue relates to the use
+of non-PGW veterans as an “unexposed” referent group in
+cross-sectional and cohort studies. If vaccines administered
+to troops are one of the factors contributing to excess morbidity in Gulf War veterans, studies comparing PGW with
+non-PGW veterans should assess and control for the effects
+of vaccines received by non-PGW veterans.
+There are limitations to consider in interpreting the findings reported here. First, all health and most military infor-
+
+Downloaded from https://academic.oup.com/aje/article/152/10/992/55709 by University of Missouri-Columbia Law Library user on 09 April 2025
+
+Chronic fatigue
+syndrome
+
+Prevalence and Patterns of Gulf War Illness 999
+
+1000
+
+Steele
+TABLE 6. 1998 prevalence of Gulf War illness (GWI) among Kansas Gulf War veterans, stratified by
+demographic, military, and wartime service characteristics
+Unadjusted
+
+Adjusted
+
+Total
+
+% with
+GWI
+
+OR*
+
+95% CI*
+
+1,358
+187
+
+33
+41
+
+1.0
+1.36
+
+1.00, 1.87
+
+1.0
+1.49
+
+1.06, 2.08
+
+362
+621
+374
+188
+
+35
+36
+34
+27
+
+1.0
+1.07
+0.96
+0.68
+
+0.82, 1.41
+0.71, 1.31
+0.46, 1.00
+
+1.0
+1.16
+1.23
+1.40
+
+0.86, 1.57
+0.84, 1.80
+0.83, 2.34
+
+1,309
+112
+118
+
+33
+48
+39
+
+1.0
+1.93
+1.32
+
+1.32, 2.83
+0.90, 1.95
+
+1.0
+1.23
+1.08
+
+0.81, 1.87
+0.70, 1.65
+
+931
+577
+
+31
+41
+
+1.0
+1.56
+
+1.26, 1.93
+
+1.0
+1.30
+
+1.02, 1.66
+
+436
+1,102
+
+24
+38
+
+1.0
+1.93
+
+1.51, 2.48
+
+1.0
+1.60
+
+1.18, 2.15
+
+284
+176
+94
+991
+
+19
+23
+33
+41
+
+1.0
+1.32
+2.14
+3.00
+
+0.84, 2.09
+1.28, 3.60
+2.19, 4.11
+
+1.0
+1.18
+1.26
+1.71
+
+0.62, 2.21
+0.65, 2.44
+1.12, 2.61
+
+687
+507
+348
+
+36
+38
+26
+
+1.0
+1.08
+0.62
+
+0.85, 1.37
+0.47, 0.83
+
+1.0
+1.21
+1.10
+
+0.93, 1.59
+0.77, 1.58
+
+224
+1,318
+
+18
+37
+
+1.0
+2.61
+
+1.84, 3.69
+
+1.0
+1.70
+
+1.12, 2.58
+
+290
+889
+350
+
+26
+37
+36
+
+1.0
+1.66
+1.61
+
+1.24, 2.23
+1.15, 2.27
+
+1.0
+0.91
+1.01
+
+0.63, 1.32
+0.65, 1.60
+
+1,156
+271
+
+33
+42
+
+1.0
+1.47
+
+1.12, 1.92
+
+1.0
+1.28
+
+0.95, 1.73
+
+Location in theater
+On board ship
+Saudi Arabia/Bahrain (not Iraq/Kuwait)
+Entered Iraq/Kuwait
+
+121
+792
+606
+
+21
+31
+42
+
+1.0
+1.64
+2.62
+
+1.04, 2.58
+1.67, 4.11
+
+1.0
+1.73
+2.73
+
+0.99, 3.04
+1.52, 4.90
+
+Time period in theater
+Left Gulf area prior to January 1991
+Present during war, left March 1991
+Present during war, left April–May 1991
+Present during war, left June–July 1991
+
+56
+295
+779
+311
+
+9
+25
+36
+43
+
+1.0
+3.35
+5.85
+7.72
+
+1.35, 8.33
+2.56, 13.40
+3.38, 17.66
+
+1.0
+3.27
+3.22
+11.70
+
+1.19, 8.96
+1.17, 8.83
+3.16, 43.40
+
+Age (years)‡
+24–29
+30–39
+40–49
+≥50
+Race
+White
+Black
+Other
+Annual income ($)‡
+≥35,000
+<35,000
+Education‡
+≥4-year college degree
+<4-year college degree
+Military characteristics, 1990–1991
+Branch
+Air Force
+Navy
+Marines
+Army
+Component
+Active
+Reserves
+National Guard
+Rank
+Officer
+Enlisted
+Time and location of Gulf War service
+Months in theater (August 1990–July 1991)
+1–3 months
+4–6 months
+7–12 months
+Notified of proximity to Khamisiyah
+demolition site
+No
+Yes
+
+OR†
+
+95% CI
+
+* OR, prevalence odds ratio; CI, confidence interval.
+† Prevalence odds ratio adjusted for sex, income, education level, branch of service, rank, location in theater, and time period in theater.
+‡ Age, annual household income, and level of education at time of interview.
+
+mation was self-reported. The considerable amount of
+media attention given to issues surrounding Gulf Warrelated health problems may have generated an increased
+awareness of symptoms among PGW veterans and an
+increased willingness to report them. The possible impact of
+differential recall or reporting on apparent increases in morbidity among Gulf War veterans is difficult to quantify but
+has been assessed in previous studies. A large national sur-
+
+vey of Gulf War-era veterans found that veteran-reported
+information relating to clinical encounters was in good
+agreement with medical records in 93 percent of cases and
+in partial agreement in 4–6 percent of cases (31). The Iowa
+Persian Gulf Study Group, using measures of physical function and veterans’ tendency to respond to questions in a
+socially desirable way, concluded that recall bias may not
+explain the higher prevalence of health problems observed
+Am J Epidemiol Vol. 152, No. 10, 2000
+
+Downloaded from https://academic.oup.com/aje/article/152/10/992/55709 by University of Missouri-Columbia Law Library user on 09 April 2025
+
+Demographic characteristics
+Sex
+Male
+Female
+
+Prevalence and Patterns of Gulf War Illness 1001
+
+ACKNOWLEDGMENTS
+
+This study was funded by the state of Kansas.
+The author gratefully acknowledges members of the
+Kansas Persian Gulf War Veterans Health Initiative
+Advisory Board: Jim Bunker, Robert Hayes, Jeff Lawson,
+Dr. John Neuberger, Dr. Fred Oehme, Sharon Raby, Larry
+Salmans, and Dan Thimesch, as well as Don Myer for
+advice and support in project development. The author also
+thanks Dr. John Neuberger, Jeff Ford, Dr. Walter Schumm,
+Am J Epidemiol Vol. 152, No. 10, 2000
+
+and Dr. Tony Jurich for suggestions regarding questionnaire
+development; Dr. Robert Poresky, Dr. Minakshi Tikoo, and
+Jeremy Yorgason for supervising computer-assisted telephone interviewing data collection; the Defense Manpower
+Data Center for providing data on Kansas veterans; the
+Information Network of Kansas for assistance with state
+data; Jay Hemenway, Nicole Charles, and Amy Meier for
+assistance in locating veterans; Jill Covert and Rebecca
+Smith for assistance in data management; and Dr. Jeff
+Levin, Dr. Fred Oehme, Dr. John Neuberger, and Dr. Irving
+Cohen for helpful suggestions on earlier versions of this
+manuscript. Special acknowledgment is given to Dan
+Thimesch, whose persistent efforts made this study possible.
+
+REFERENCES
+1. Committee to Review the Health Consequences of Service
+during the Persian Gulf War. Health consequences of service
+during the Persian Gulf War: initial findings and recommendations for immediate action. Washington, DC: National
+Academy Press, 1995.
+2. Defense Science Board. Report of the Defense Science Board
+task force on Persian Gulf War health effects. Washington, DC:
+Office of the Undersecretary of Defense for Acquisition and
+Technology, 1994.
+3. NIH Technology Assessment Workshop Panel. The Persian
+Gulf experience and health. JAMA 1994;272:391–6.
+4. Presidential Advisory Committee on Gulf War Veterans’
+Illnesses: final report. Washington, DC: US Government
+Printing Office, 1996.
+5. Joseph SC, Comprehensive Clinical Evaluation Program
+Evaluation Team. A comprehensive clinical evaluation of
+20,000 Persian Gulf War veterans. Mil Med 1997;162:149–54.
+6. Haley RW, Kurt TL, Horn J. Is there a Gulf War syndrome?:
+searching for syndromes by factor analysis of syndromes.
+JAMA 1997;277:215–22.
+7. Wolfe J, Proctor SP, Davis JD, et al. Health symptoms reported
+by Persian Gulf War veterans two years after return. Am J Ind
+Med 1998;33:104–13.
+8. Coker WJ, Bhatt BM, Blatchley NF, et al. Clinical findings for
+the first 1000 Gulf War veterans in the Ministry of Defence’s
+medical assessment program. BMJ 1999;318:290–4.
+9. Murphy FM, Kang H, Dalager NA, et al. The health status of
+Gulf War veterans: lessons learned from the Department of
+Veterans Affairs health registry. Mil Med 1999;164:327–31.
+10. Goss Gilroy, Inc. Health study of Canadian forces personnel
+involved in the 1991 conflict in the Persian Gulf. Vol 1. Prepared
+for Gulf War Illness Advisory Committee, Department of
+National Defence. Ottawa, Canada: Department of National
+Defence, 1998. (http://www.dnd.ca/menu/press/Reports/Health/
+health_study_e_vol1_TOC.htm).
+11. Stretch RH, Bliese PD, Marlowe DH, et al. Physical health
+symptomatology of Gulf War-era service personnel from the
+states of Pennsylvania and Hawaii. Mil Med 1995;160:131–6.
+12. Pierce PF. Physical and emotional health of Gulf War veteran
+women. Aviat Space Environ Med 1997;68:317–21.
+13. Iowa Persian Gulf Study Group. Self-reported illness and
+health status among Gulf War veterans—a population-based
+study. JAMA 1997;277:238–45.
+14. Fukuda K, Nisenbaum R, Stewart G, et al. Chronic multisymptom illness affecting Air Force veterans of the Gulf War.
+JAMA 1998;280:981–8.
+15. Unwin C, Blatchley N, Coker W, et al. Health of UK service
+men who served in the Persian Gulf War. Lancet 1999;353:
+169–78.
+16. Wegman DH, Woods NF, Bailar JC. How would we know a
+
+Downloaded from https://academic.oup.com/aje/article/152/10/992/55709 by University of Missouri-Columbia Law Library user on 09 April 2025
+
+among PGW veterans (13). It is also unlikely that increased
+symptom awareness or reporting among PGW veterans
+would fully account for the high odds ratios associated with
+Gulf War illness in the present study. In particular, media
+influence would not explain the nonrandom distribution of
+Gulf War illness observed here, since associations of illness
+with time and place of Gulf War service have not been
+widely reported.
+Limitations generally associated with self-reported exposures in the Gulf War theater were minimized in this study
+by including only more objective service-related indicators—rank, branch of service, dates of service, and the countries in which veterans served. The accuracy of self-reported
+receipt of vaccines by non-PGW veterans is open to question, however, and could have biased the associations
+observed here in either direction.
+Further, it is not known whether the health experience of
+Kansas veterans is representative of Gulf War veterans
+nationally. Overall, Kansas Gulf War veterans were similar
+to their national peers with respect to rank, gender, and age
+distribution but included fewer non-Caucasians and a lower
+proportion of Navy and Marine Corps veterans (25). Still,
+the prevalence of Centers for Disease Control and
+Prevention-defined multisymptom illness observed in
+Kansas veterans was similar to that found among Air
+National Guard units (14), and the estimated prevalence of
+chronic fatigue syndrome in Kansas PGW veterans (7 percent) was similar to that reported from a nationwide survey
+of PGW veterans (5 percent) (27).
+Over a decade after Iraq invaded Kuwait, the health
+problems reported by Gulf War veterans remain largely an
+unsolved mystery. These health problems appear to be complex, and their understanding will likely require an approach
+that considers “clusters of causes” and “combinations of
+effects” (32). The basic epidemiologic approach taken
+here—describing excess health problems reported by veterans and their association with person, place, and time—
+provides answers to preliminary questions and suggests
+areas of follow-up that might produce useful insights
+regarding etiology and illness subtypes. Such investigations
+should include comparisons between veteran subgroups
+with higher and lower rates of illness and among those with
+different types of symptoms. In this way, as the results of
+this study and of other recent studies suggest, many of the
+outstanding questions regarding Gulf War-related health
+problems may be answerable.
+
+1002
+
+17.
+18.
+
+20.
+21.
+22.
+23.
+24.
+
+Gulf War syndrome if we saw one? Am J Epidemiol
+1997;146:704–11.
+Hyams KC, Roswell RH. Resolving the Gulf War syndrome
+question. Am J Epidemiol 1998;148:339–42.
+Department of Veterans Affairs, Veterans Health Administration,
+Office of Public Health and Environmental Hazards.
+Consolidation and combined analysis of the databases of the
+Department of Veterans Affairs’ Persian Gulf Health Registry
+and the Department of Defense’s Comprehensive Clinical
+Evaluation Program, 1997. Cited in US Senate Committee on
+Veterans’ Affairs, report of the Special Investigation Unit on
+Gulf War Illnesses. Washington, DC: US Government Printing
+Office, 1998:129.
+Kroenke K, Price RK. Symptoms in the community: prevalence, classification, and psychiatric comorbidity. Arch Intern
+Med 1993;153:2474–80.
+Verbrugge LM, Ascione FJ. Exploring the iceberg: common
+symptoms and how people care for them. Med Care 1987;
+25:539–63.
+Fukuda K, Straus SE, Hickie I, et al. The chronic fatigue syndrome: a comprehensive approach to its definition and study.
+Ann Intern Med 1994;21:953–9.
+Cronbach LJ. Coefficient alpha and the internal structure of
+tests. Psychometrika 1951;16:297–334.
+Mantel N, Haenszel W. Statistical aspects of the analysis of
+data from retrospective studies of disease. J Natl Cancer Inst
+1959;22:719–48.
+SAS Institute, Inc. SAS version 6.12. Cary, NC: SAS Institute,
+Inc, 1997.
+
+25. Gray GC, Hawksworth AW, Smith TC, et al. Gulf War veterans’ health registries: who is most likely to seek evaluation?
+Am J Epidemiol 1998;148:343–9.
+26. Marshall F, Gass A. Gulf War diseases: a critical review of 400
+examinations. Presented at the Conference on Federally
+Sponsored Gulf War Veterans’ Illnesses Research, Washington,
+DC, June 1998.
+27. Kang HK, Mahan CM, Lee KY, et al. Prevalence of chronic
+fatigue syndrome among U.S. Gulf War veterans. Presented at
+the Fourth International American Association for Chronic
+Fatigue Syndrome Research Conference, Cambridge,
+Massachusetts, October 1998.
+28. Committee to Study the Interactions of Drugs, Biologics, and
+Chemicals in US Military Forces. Interactions of drugs, biologics, and chemicals in US military forces. Washington, DC:
+National Academy Press, 1996.
+29. Rook GAW, Zumla A. Gulf War syndrome: is it due to a systemic shift in cytokine balance towards a Th2 profile? Lancet
+1997;349:1831–3.
+30. Hotopf M, David A, Hull L, et al. Role of vaccinations as risk
+factors for ill health in veterans of the Gulf War: cross sectional study. BMJ 2000;320:1363–7.
+31. Magee CA, Kang HK, Mahan CM, et al. Validation of selected
+veteran-reported health outcomes in the National Survey of
+Gulf War-Era Veterans. Presented at the Conference on
+Federally Sponsored Gulf War Veterans Illnesses Research,
+Washington, DC, June 1999.
+32. Stallones RA. Community health. (Editorial). Science
+1972;175:839.
+
+Am J Epidemiol Vol. 152, No. 10, 2000
+
+Downloaded from https://academic.oup.com/aje/article/152/10/992/55709 by University of Missouri-Columbia Law Library user on 09 April 2025
+
+19.
+
+Steele
+
+

@@ -1,0 +1,941 @@
+Risk Analysis, Vol. 26, No. 2, 2006
+
+DOI: 10.1111/j.1539-6924.2006.00750.x
+
+Why People Believe They Were Exposed to Biological
+or Chemical Warfare: A Survey of Gulf War Veterans
+Noel T. Brewer,1 ∗ Sarah E. Lillie,1 and William K. Hallman2
+
+The study sought to understand better how people come to believe they have been exposed
+to biological and chemical warfare. We conducted telephone interviews with 1,009 American
+veterans (65% response rate) deployed and not deployed to the Gulf War, a conflict during
+which there were credible threats that such warfare could be used. Only 6% of non-Gulf
+War veterans reported exposure to biological or chemical warfare, but most of Gulf War
+veterans reported exposure (64%). The majority of these were unsure whether the exposure
+was chemical or biological in nature. The most commonly reported exposure indicators were
+receiving an alert from the military and having physical symptoms. Veterans who were certain
+of the type of exposure (biological or chemical) were more likely to recall having been told
+by the military and to recall physical symptoms. Future communications with soldiers and the
+general public about biological and chemical warfare may need to emphasize the uncertain
+nature of such risk information. Evaluations of exposure diagnostic technologies should take
+into account the problem of people initially believing, but not later discounting, false positive
+results.
+KEY WORDS: Biological warfare; chemical warfare; risk perception; symptom reporting; weapons of
+mass destruction
+
+1. INTRODUCTION
+
+and chemical warfare could be used against people
+living within the borders of the United States.
+A serious and unanswered question is how, in the
+event of another attack, Americans would know they
+had been exposed to these agents, especially in the
+absence of immediate on-scene physical or medical
+evidence. If there were such an attack, people would
+need to make rapid decisions about whether to seek
+immediate care for themselves and how to help those
+believed to have been exposed. The best course of action may substantially differ for exposures to specific
+biological warfare agents and chemical warfare agents
+(that may or may not be contagious), yet it is unclear
+whether the intuitive models held by lay people about
+such exposures enable them to make such an important distinction. The belief that one may have been
+exposed to biological or chemical agents might also
+impact decisions long after the immediate threat has
+
+The events of September 2001 dramatically
+changed the way that Americans see their personal
+safety. The destruction of the World Trade Center
+towers on September 11 raised the specter of additional attacks on American soil. Indeed, seven days
+later a series of attacks began in which anthrax of increasingly refined grade was mailed to unsuspecting
+recipients. These two events alarmed the public and
+health officials, causing them to worry that biological
+
+1
+
+University of North Carolina at Chapel Hill.
+
+2 Rutgers University.
+∗ Address correspondence
+
+to Noel T. Brewer, University of North
+Carolina at Chapel Hill, School of Public Health, Rosenau Hall
+306, CB 7440, Chapel Hill, NC 27599; tel: 919-966-3282; fax: 919966-2921; ntb1@unc.edu.
+
+337
+
+C 2006 Society for Risk Analysis
+0272-4332/06/0100-0337$22.00/1 
+
+passed. These might include pursuing novel or unproven medical treatments, the filing of class-action
+suits, liability, or insurance claims, or lobbying the government for compensation.
+To better understand how people might come to
+believe they had been exposed to biological or chemical warfare agents, ideally one would wish to study
+a group that were either exposed or had good reason
+to believe they had been. Fortunately, few Americans
+have ever had to consider whether they have been exposed to such agents. Yet, because of the uncertainties
+surrounding the use of chemical and biological warfare against allied troops during the Gulf War, many
+veterans of that conflict have faced this question.
+Just under 700,000 American soldiers were deployed to the Gulf War between 1990 and 1991. Before soldiers were deployed, during the war, and in
+the time afterward, there was substantial speculation
+about the use of chemical and biological weapons. A
+large number of these soldiers experienced medically
+unexplained symptoms when they returned from duty
+or shortly thereafter.(1–4) A Centers for Disease Control and Prevention study investigating the American
+veterans’ concerns identified a chronic condition most
+often characterized by fatigue, mood-cognition disturbances, and musculoskeletal symptoms.(5) These
+symptoms became known in the popular press as Gulf
+War Syndrome. The condition appears to be independent of any medical signs, comorbid illness, or increased mortality.(5–7)
+Although the cause of the illness has yet to be determined,(7,8) numerous explanations have been offered, including proximity to Iraqi munitions being
+destroyed after the war,(9) traumatic psychological
+stress,(10) exposure to oil fires,(11) taking pyridostigmine tablets to protect against anthrax,(11) and exposure to biological or chemical warfare.(3) Many
+veterans believe they were exposed to biological or
+chemical warfare, and studies have confirmed a correlation between such exposure beliefs and symptom
+reporting(1,8–10,12–14) (see also References 2 and 15).
+The widespread belief in exposure to biological and
+chemical agents is somewhat unexpected because the
+Department of Defense has repeatedly asserted that
+veterans were not exposed to these.(16) Surprisingly,
+none of these studies examined how it is that soldiers
+came to believe they were exposed.
+1.1. Present Study
+We present data from interviews with Gulf War
+veterans who believe they were exposed to biologi-
+
+Brewer, Lillie, and Hallman
+cal or chemical warfare. The study was exploratory
+in nature because so little is known about the origin of exposure beliefs. We sought to characterize
+whether veterans were certain of the type of exposure (i.e., biological warfare, chemical warfare). We
+also sought to identify the indicators that veterans
+used for knowing they had been exposed. Finally, we
+sought to determine whether veterans used certain indicators more often than others to identify a particular
+type of exposure.
+2. METHOD
+2.1. Participants
+Participants were Gulf War veterans or GulfWar-era veterans involved in an ongoing longitudinal study. One group was a random sample from all
+veterans serving in the military at the time of the
+Gulf War who were not deployed to the war (“GWera veterans”) and a second group was a random
+sample from all Gulf War veterans (“GW-a veterans”).(17) A third group was a random sample from
+a national registry of American veterans with concerns about medical problems they believed resulted
+from their Gulf War service (“GW-r veterans”).(18)
+Contact and demographic information were obtained
+from the U.S. Department of Defense. To increase the
+number of veterans who reported chemical or biological warfare exposure (and thus increase the power of
+the study), we oversampled veterans who had health
+problems resulting from their military service either
+as determined by a statistical algorithm(18) or by their
+self-report.
+2.2. Procedure and Measures
+In a computer-assisted telephone interview, veterans were asked if they believed they were exposed to
+biological or chemical warfare during any of their military deployments. Veterans who agreed were asked
+whether they had been exposed to biological warfare,
+chemical warfare, both types of warfare, or an unidentified agent. Veterans were then queried about their
+exposures. Those reporting biological warfare exposure were asked additional questions regarding biological agents and veterans reporting chemical warfare exposure were asked parallel questions about
+chemical agents (Table I). Veterans who believed
+themselves to have been exposed to both were asked
+separate sets of questions regarding biological and
+chemical agents. Those who did not know the nature
+
+15396924, 2006, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1539-6924.2006.00750.x by University Of Missouri Columbia, Wiley Online Library on [04/05/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+338
+
+339
+
+Table I. Survey Design
+
+(11) used other hints or clues during or after the
+war (“was given an anthrax shot [and thought
+I] might have been exposed”).
+
+Veterans Reporting This
+Type of Exposure. . .
+Responded to Survey
+Items about. . .
+Biological warfare
+Chemical warfare
+Unknown warfare type
+
+Biological Chemical
+Unknown
+Warfare
+Warfare Both
+Type
+
+
+
+
+
+
+
+
+
+
+of their exposures were asked further questions about
+the unknown agent.
+Veterans were asked, in an open-ended question, to identify what things led them to suspect
+that they had been exposed. Responses were coded
+during the interview into at least one of eleven
+categories:
+(1) told by military personnel of exposure (excluding chemical warfare alerts) during or
+after the war (“got a letter from the military
+after I got stateside”);
+(2) told by military personnel during the war to
+wear protective gear such as a gas mask;
+(3) received chemical warfare alert from the
+military or from official military equipment
+when exposed (“test strips that we carried for
+the exposure to chemical, they were attached
+to our uniforms and turned color when chemicals were in the air”);
+(4) heard stories in the news, including on radio
+or television, during or after the war;
+(5) heard a rumor (unofficial information, usually from a nonmedia source) during or after
+the war;
+(6) heard that fellow soldiers had physical symptoms during the war (“entire unit became ill
+[with] flu-like symptoms”);
+(7) had physical symptoms when exposed or
+later on (“You can just tell by your eyes.
+They burn. You can just tell you have been
+exposed.”);
+(8) saw, smelled, or tasted the agent when exposed or later on (“boots turned from black
+and green to orange”);
+(9) saw dead animals, people, or vegetation during the war (“all of the vegetation was
+killed”);
+(10) saw a SCUD missile during the war (“SCUDs
+blew up over [my] position scattering debris”); and
+
+2.3. Data Analyses
+To examine differences in response rates, we conducted a multiple logistic regression predicting study
+participation using cohort controlling for gender, race,
+education, military rank, military branch, age, and interactions of cohort and these variables. To examine
+differences in exposure reports among the cohorts, we
+conducted chi-square analyses. To examine correlates
+of exposure reports, we conducted logistic regressions
+that controlled for cohort, gender, race, education,
+military rank, military branch, and age. We repeated
+the logistic regressions controlling for interactions of
+cohort and these variables, controlling for anxiety, and
+controlling for physical symptoms. The regressions
+compared those who reported that they had been exposed to those who did not, essentially comparing the
+last row of Table I separately to each of the first two.
+Because preliminary analyses of Columns 1 versus
+3 and 2 versus 3 did not yield any meaningful differences, we created a composite variable for beliefs
+about biological warfare exposure and another composite variable for chemical warfare exposure. For example, we combined responses about biological warfare from those exposed only to biological warfare
+and those reporting exposure to both chemical and
+biological warfare. This approach allowed us to focus
+on the more interesting comparisons of those who
+were unsure of what their exposure was to those who
+were certain. The logistic regressions yielded odds ratios (ORs) and 95% confidence intervals (CIs) that
+characterized the size of the relationship.
+3. RESULTS
+3.1. Study Participation
+Of 448 GW-era veterans who we attempted to
+contact, we interviewed 289 (65% response rate). Of
+599 GW-a veterans who we attempted to contact, we
+interviewed 358 (60% response rate). Of 505 GW-r
+veterans who we attempted to contact, we interviewed
+362 (70% response rate). Characteristics of the resulting sample are shown in Table II. Participants were
+mostly male, white, and of middle age, had modest
+levels of education and were more likely to have been
+enlisted rank and in the Army. GW-a veterans (OR =
+0.66, CI: 0.50–0.84) and GW-era veterans (OR = 0.66,
+
+15396924, 2006, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1539-6924.2006.00750.x by University Of Missouri Columbia, Wiley Online Library on [04/05/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Biological and Chemical Warfare
+
+Brewer, Lillie, and Hallman
+Table II. Characteristics of Study Participants
+
+Male gender
+White race
+College education
+Enlisted rank
+Branch of military (Army)
+Age, mean years
+
+Table III. Reports of Biological or Chemical Warfare Exposure
+
+GW-era
+Veterans1
+n = 269
+
+GW-a
+Veterans2
+n = 335
+
+GW-r
+Veterans3
+n = 360
+
+85%
+82%
+44%
+34%
+44%
+43
+
+91%
+77%
+31%
+49%
+54%
+40
+
+92%
+83%
+30%
+47%
+69%
+43
+
+GW-era
+GW-a
+GW-r
+Veterans Veterans1 Veterans2
+n = 269
+n = 335
+n = 360
+Not exposed
+Don’t know if exposed
+Exposed
+Biological warfare exposure
+Chemical warfare exposure
+Bio. and chem. exposure
+Unknown exposure
+
+91%
+3%
+6%
+0.4%
+2%
+0.4%
+3%
+
+33%
+14%
+53%
+1%
+12%
+10%
+30%
+
+15%
+10%
+75%
+2%
+17%
+18%
+38%
+
+1 Veterans
+
+not deployed to the Gulf War but in the military at the
+time.
+2 Veterans deployed to the Gulf War.
+3 From a federal registry for veterans with unexplained medical
+problems resulting from Gulf War service.
+Note: Some cases had missing data for education (n = 5) and
+military rank (n = 6).
+
+CI: 0.50–0.84) were less likely to respond than GW-r
+veterans. Because cohort did not interact with any of
+the other variables, we report here only the predictors of response across the three cohorts. Older veterans were more likely to respond than younger veterans (OR = 1.04, CI: 1.02–1.06), black veterans were
+less likely to respond than white veterans (OR = 0.60,
+CI: 0.45–0.79), and officers were more likely to respond than enlisted (OR = 1.66, CI: 1.01–2.72). Data
+were dropped from further analyses for participants
+who reported Gulf War service that differed from Department of Defense records (GW-era, n = 20; GW-a,
+n = 23; GW-r, n = 2) because they did not represent
+the desired sample frame.
+3.2. Frequency of Exposure Beliefs
+Our primary research question was to examine
+how Gulf War veterans came to believe they had
+been exposed to biological and chemical warfare (Table III). Our first step was to examine how common
+it was to report biological or chemical warfare exposure. Of the GW-era veterans not deployed to the Gulf
+War, only 6% reported any exposure. Of the GWa veterans, 53% reported exposure and 75% of the
+GW-r veterans reported exposure to biological and
+chemical warfare. These differences were significant,
+χ 2 (4, n = 964) = 395.77, p < 0.001 (first three rows of
+Table III). This is an important finding because it indicates that few non-Gulf War veterans reported having been exposed. More importantly, it also suggests
+that most exposures reported by veterans deployed
+to the Gulf War are likely to have happened during
+
+1 Veterans
+
+deployed to the Gulf War.
+a federal registry for veterans with unexplained medical
+problems resulting from Gulf War service.
+Note: The underlined cells represent the data analyzed in the
+remainder of the article.
+
+2 From
+
+this deployment and not during another deployment.
+Because so few GW-era veterans (i.e., not deployed to
+the Gulf) reported exposure, we dropped them from
+further analyses.
+Our second step was to examine the prevalence
+of types of perceived exposure. We combined data
+for the remaining two cohorts of GW veterans because they did not differ in their reports of different
+types of exposure, χ 2 (3, n = 446) = 2.47, n.s. (underlined cells in Table III). The majority reported exposure to an agent they could not identify but believed
+to be either chemical or biological (54%, n = 240).
+Of the veterans who reported exposure to a known
+agent, exposure to chemical warfare was more common than exposure to biological warfare (22%, n = 99
+and 2%, n = 11, respectively). The remaining veterans reported exposure to both chemical and biological
+warfare agents (22%, n = 96).
+3.3. Indicators of Exposure
+We next examined the ways that veterans came to
+know they had been exposed to an agent. Nearly all
+respondents readily provided at least one explanation
+for their exposure(s): Only 4 veterans did not offer an
+indicator for biological warfare exposure, 2 for chemical warfare exposure, and 22 for unknown exposure
+type. Of the exposure indicators mentioned by veterans, nearly all (98%) fit into one of the indicator categories shown in Table IV. Looking across all types
+of reported exposure, the most commonly reported
+indicators were receiving an alert (37%), having physical symptoms (23%), using hints or clues (22%), and
+being told to wear protective gear (21%). The least
+
+15396924, 2006, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1539-6924.2006.00750.x by University Of Missouri Columbia, Wiley Online Library on [04/05/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+340
+
+341
+
+Table IV. Indicators of Biological and Chemical Warfare Exposure
+
+Indicator from military
+Told of exposure
+Told to wear protective gear
+Chemical warfare alert
+Indicators from others
+Heard from news media
+Heard rumor
+Heard of physical symptoms (others’)
+Indicators from own experience
+Physical symptoms (own)
+Smelled, tasted, or saw agent
+Saw dead plants, animals, or persons
+Saw SCUD missile
+Used hints or clues
+
+Biological
+Warfare
+Exposure
+n = 107
+
+Chemical
+Warfare
+Exposure
+n = 195
+
+Unknown
+Exposure
+n = 240
+
+Bio vs.
+Unknown1
+OR (95% CI)
+
+Chem. vs.
+Unknown2
+OR (95% CI)
+
+19%
+14%
+26%
+
+26%
+20%
+42%
+
+9%
+22%
+31%
+
+3.25∗ (1.54–6.86)
+0.88 (0.41–1.87)
+0.73 (0.42–1.39)
+
+4.70∗ (2.53–8.70)
+1.00 (0.57–1.75)
+1.81∗ (1.15–2.84)
+
+4%
+7%
+10%
+
+6%
+4%
+9%
+
+4%
+4%
+6%
+
+1.03 (0.28–3.77)
+2.18 (0.73–6.55)
+1.32 (0.54–3.24)
+
+1.48 (0.55–4.03)
+0.96 (0.32–2.84)
+1.09 (0.49–2.43)
+
+31%
+8%
+8%
+16%
+22%
+
+25%
+16%
+5%
+19%
+21%
+
+18%
+17%
+3%
+20%
+20%
+
+2.48∗ (1.31–4.70)
+0.48 (0.21–1.11)
+3.78∗ (1.23–11.61)
+1.07 (0.53–2.17)
+1.28 (0.69–2.39)
+
+2.05∗ (1.20–3.52)
+1.21 (0.67–2.18)
+1.55 (0.54–4.48)
+1.23 (0.71–2.15)
+1.10 (0.65–1.87)
+
+∗p
+
+< 0 .05.
+participants were dropped from the analysis because of missing data for education (n = 2) and military rank (n = 2).
+2 Three participants were dropped from the analysis because of missing data for education (n = 2) and military rank (n = 1).
+Note: Veterans who reported exposure to both biological and chemical warfare were asked separate sets of questions about each and appear
+in both of the first two columns of data. OR = odds ratio. 95% CI = 95% confidence interval. Odds ratios adjusted for indicators listed in
+table as well as cohort, gender, race, education, military rank, military branch, and age.
+1 Four
+
+common were hearing a rumor, hearing from the media, and seeing dead people, animals, or vegetation
+(5% for each).
+When exposure indicators were stratified by type
+of exposure, physical symptoms were more commonly
+reported when veterans felt certain of the type of
+agent to which they had been exposed (either biological or chemical). Indeed, the most common indicators for exposure to biological warfare were physical
+symptoms (31%), an alert going off (26%), and the
+use of hints or clues (22%). Similarly, the most common indicators for exposure to chemical warfare were
+physical symptoms (25%), an alert going off (42%),
+and being told by the military (26%). However, the
+most common indicators for exposure to an indeterminate agent were an alert going off (31%), being
+told to wear protective gear (22%), the use of hints
+or clues (20%), and seeing a SCUD missile (20%).
+3.4. Correlates of Exposure
+Our last step was to examine the correlates of
+exposure. The logistic regression analyses confirmed
+that veterans used physical symptoms as an indicator of exposure to biological warfare and to chemical
+warfare more often than as an indicator of exposure
+to an unknown agent (OR = 2.48, OR = 2.05, respec-
+
+tively, ps < 0.05). Being told by the military was another common indicator that differentiated between
+exposure to a known agent (either biological or chemical) and an undetermined one (OR = 3.25, OR =
+4.70, respectively, ps < 0.05). The only demographic
+covariate (including cohort) that predicted certainty
+about chemical or biological warfare exposure was
+level of education; college-educated veterans were
+more likely to report an exposure of a certain than
+an uncertain type (OR = 1.64, OR = 1.53, respectively, ps < 0.05). However, veterans who believed
+they were exposed to biological warfare used one indicator more often than those unsure of the type of their
+exposure: seeing dead people, animals, or vegetation
+(OR = 3.78, p < 0.05). One additional indicator, an
+alert going off, was used more often to identify chemical agents than undetermined agents (OR = 1.81,
+p < 0.05).
+Because we were concerned that our findings
+might differ for the two samples of veterans that we
+interviewed, we examined cohort as a moderator of
+the relation between indicator and type of reported
+exposure. None of the interactions were statistically
+significant. The findings suggest that our results hold
+for both deployed cohorts.
+We were also concerned that these reports, having occurred so long after the end of the war, might
+
+15396924, 2006, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1539-6924.2006.00750.x by University Of Missouri Columbia, Wiley Online Library on [04/05/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Biological and Chemical Warfare
+
+be subject to substantial recall bias.(15) For example,
+current levels of symptoms or anxiety might cause veterans to be more likely to report these types of exposure indicators. An examination of the bivariate correlations between symptoms or anxiety and recall of
+exposure indicator showed two small but statistically
+significant findings. Higher levels of symptom reporting (a count of 48 symptoms) were correlated with the
+belief that exposure was identified by symptoms (r =
+0.12, p < 0.05) and greater state anxiety (an average
+of four items) predicted the belief that exposure was
+identified by seeing a SCUD missile (r = 0.12, p <
+0.05). Although we view these as trivial findings given
+their size and scarcity (2 of 20 correlations were significant), we reanalyzed our data controlling for anxiety
+or symptoms but the findings were unchanged. This
+result increases our confidence that our findings are
+not merely an artifact of recall bias.
+
+4. DISCUSSION
+Most research involving Gulf War veterans has
+attempted to identify the unknown etiology of Gulf
+War illness by finding correlations between the types
+of veterans’ exposure during the war and their present
+medical symptoms. To our knowledge, ours is the first
+study to document the ways that veterans came to believe they had been exposed. Veterans used a range
+of indicators as evidence that they had been exposed
+to chemical and biological warfare, primarily from
+their own experience or from information provided
+by the military. The findings provide health officials
+and others responsible for communication to the public with fundamental and empirically-based insights
+about one way that people may come to know they
+have been exposed.
+One of the most common exposure indicators
+was one veterans derived from their own experience:
+physical symptoms. Symptoms were frequently used
+to determine the presence of any type of chemical or
+biological warfare agents but were also a way that
+veterans distinguished between the two. This finding is consistent with a large body of research showing that people use symptoms as indicators of health
+hazards and harm, both accurately(19,20) and inaccurately.(21–24)
+Another commonly cited exposure indicator—
+and means to identify with certainty the specific
+agent—was communication from the military. Chemical alerts were, perhaps unsurprisingly, more often a
+way that veterans became certain that they had been
+
+Brewer, Lillie, and Hallman
+exposed to chemical warfare. Strangely, the alerts
+were also frequently used for identifying biological
+warfare exposure (26% to 42%). The findings suggest
+that chemical warfare alerts frequently spread misinformation and confusion among veterans.
+Relatively few veterans reported information
+from others as relevant for indicating exposure and
+none of these indicators predicted their certainty
+about exposure. Certainly, there is no shortage of
+sources from which to gather such information. The
+finding may mean that veterans privilege own experiences and the information they received from the
+military.
+The study has several limitations that we feel
+should be highlighted. First, because the Gulf War
+occurred over 10 years ago, veterans’ reports maybe
+subject to errors in recall that include overreporting
+events covered extensively in the popular press and
+underreporting others that came less easily to mind.
+Post-hoc analyses suggested that the relationships we
+reported are inconsistent with memory error, but the
+mean levels of the reports may have systematic biases
+that such analyses do not address. Second, the design
+of the study was cross-sectional. The constructs we
+report could be linked by a number of causal pathways including some via unmeasured third variables.
+Last, we believe the findings will generalize to veterans of the Gulf War and there is some reason to believe the findings would generalize to other military
+populations who experienced similar circumstances.
+It is not known whether our findings will generalize
+to diverse civilian populations given that the study
+sample comprised mostly white males who served
+in Operations Desert Storm and Desert Shield. We
+also note that oversampling ill veterans may have
+caused the resulting sample to differ from the general population of veterans. Having noted these limitations, we offer the following speculations about possible implications for risk communication and disaster
+preparedness.
+4.1. Implications for Risk Communication
+and Disaster Preparedness
+Veterans’ exposure beliefs stand in contrast to
+the U.S. military’s repeated statements that veterans
+were exposed to neither biological nor chemical warfare agents.(16) The military’s communications on the
+matter appear to have been particularly unsuccessful.
+To make sense of why the beliefs are so prevalent,
+even in the face of contrary statements by the military, we consider several potential and not mutually
+
+15396924, 2006, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1539-6924.2006.00750.x by University Of Missouri Columbia, Wiley Online Library on [04/05/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+342
+
+exclusive explanations, each of which has its own implications for future risk communication efforts.
+First, veterans had good reason to believe in exposure. There was a rich stream of media coverage
+(before, during, and after the war) warning of possible exposure to chemical and biological warfare.
+Furthermore, the military made concerted efforts to
+train and alert soldiers to such dangers before they
+traveled to Iraq. Such exposure may have primed soldiers to be especially receptive to believing they had
+been exposed. Research suggests that perceptions of
+risky stimuli are strongly colored by preexisting beliefs;(25,26) indeed risk perceptions and trust may be
+the outcomes of more general attitudes rather than
+the driver of such attitudes.(27)
+A related possibility is that people may easily
+come to believe chemical warfare alarms or other
+public alerts and yet have a very difficult time “unbelieving” them. The ease of believing in exposure
+may be facilitated by a preference for negative stimuli.(26,28–30) People are more likely to attend to negative stimuli and are quicker to process the ones they
+perceive.(31) Furthermore, a long stream of research
+has shown that once a belief is established, it can be
+very difficult to counter.(32,33) Social psychological research has shown that people may initially believe all
+propositions and must later unbelieve them, sometimes without success.(34,35) Additionally, the official
+disconfirmation of chemical warfare alerts used in the
+Gulf was often unclear (e.g., did a chemical warfare
+alert that was cleared indicate that chemical warfare
+had come and gone or that there was never any in the
+first place?) due to limitations in the technology and
+the uncertainties. These factors may act in concert to
+make some people especially susceptible to believing
+in exposure and unlikely to later discount the belief.
+A final issue is that physical symptoms provide a
+uniquely credible source of information. Alerts that
+are believed (and not later unbelieved) may cause
+some people to incorrectly attribute experiences such
+as physical symptoms to exposure. The attribution
+to exposure may cause symptoms to become more
+enduring, creating a vicious cycle of reinforcement
+characterized by escalating symptoms and increasing
+certainty about exposure.(36) What is more, a symptomatic person cannot conduct the experiment required to know whether the symptoms are normatively diagnostic of exposure (e.g., “I have symptoms
+because I was exposed chemical exposure. Would I
+have these symptoms if I hadn’t been exposed?”).(37)
+Thus, the powerful “consider the opposite” intervention in which people contemplate counterfactual situ-
+
+343
+ations may not be effective(38,39) in disentangling the
+attribution and symptoms.
+Policies that bear on the adoption of terrorism
+and other public health alerting systems should include the potential costs of false positive results such
+as somatization and its inverse, desensitization. Despite the public enthusiasm for medical testing,(40)
+tests and alerts with a high false positive rates may
+not be entirely cost-free.(41–43) As described above,
+false positive alarms may cause some to somaticize the
+perceived exposure. On the other hand, as shown in
+the literature on cancer screening, others who do not
+have salient reinforcing events may incorrectly ignore
+alarms that are frequently incorrect. Qualitative interviews with veterans that laid the groundwork for the
+present study offered support for both speculations.
+The findings from the present study could have
+a substantial benefit for both military and civilian
+preparedness planning and policies.(44,45) One implication is that risk communications may need to be
+couched in less definitive language than was commonly used during the buildup to the war in order
+to limit the development of strongly held preconceptions about exposure. A second implication is that the
+alerts may be uniquely persuasive, sowing beliefs that
+are difficult to uproot and creating unintended behavioral and policy problems. Lastly, increased medical symptoms (or at least the attribution of existing
+symptoms and unrelated novel symptoms) and related health care utilization will surely result from any
+widespread alert. These effects on the health care system will need to be planned for.(46,47)
+The many ways that the military might better
+communicate the all clear for a false positive alert
+may be an important area for future research. The
+military’s myriad communications with soldiers, veterans, and the public have been little studied and the
+communications’ effects not well understood. For example, neither the present study nor any other that
+we are aware of address potentially differing effects
+of information provided on the battlefield (whether
+immediately after an alert or much later) and stateside. It may also matter whether the information is
+verbal or written and whether it comes from a senior
+official or from a person closer to one’s own rank.
+Additional research is needed that elaborates
+on how people think about biological and chemical threats as a way to improve our emergency and
+routine communications on such matters. Because
+the chemical warfare alerts and other communications from the military were successful in creating a
+concern over exposure but later efforts to get veterans
+
+15396924, 2006, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1539-6924.2006.00750.x by University Of Missouri Columbia, Wiley Online Library on [04/05/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Biological and Chemical Warfare
+
+to “unbelieve” the alerts were less successful, we
+should be concerned about similar phenomena among
+the general public. We may even see stronger effects
+among a population not used to making sense of such
+fluid and highly probabilistic information. Evaluations of new exposure diagnostic technologies should
+take into account the problem of people initially believing but not later discounting false positive results.
+REFERENCES
+1. Unwin, C., Blatchley, N., Coker, W., Ferry, S., Hotopf, M., &
+Hull, L., et al. (1999). Health of UK servicemen who served
+in Persian Gulf War. Lancet, 353, 169–178.
+2. Shapiro, S. E., Lasarev, M. R., & McCauley, L. A. (2002). Factor analysis of Gulf War illness: What does it add to our understanding of possible health effects of deployment? American
+Journal of Epidemiology, 156, 578–585.
+3. Haley, R. W., Kurt, T., & Horn, J. (1997). Is there a Gulf
+War syndrome? Searching for syndromes by factor analysis
+of symptoms. JAMA, 277, 215–222.
+4. Gray, G. C., Smith, T. C., Knoke, J. D., & Heller, J. M. (1999).
+The postwar hospitalization experience of Gulf War Veterans possibly exposed to chemical munitions destruction at
+Khamisiyah, Iraq. American Journal of Epidemiology, 150,
+532–540.
+5. Fukuda, K., Nisenbaum, R., Stewart, G., Thompson, W.,
+Robin, L., Washko, R., et al. (1998). Chronic multisymptom
+illness affecting air force veterans of the Gulf War. JAMA,
+280, 981–988.
+6. Gray, G. C., Reed, R. J., Kaiser, K. S., Smith, T. C., & Gastanaga, V. M. (2002). Self-reported symptoms and medical
+conditions among 11,868 Gulf War-era veterans: The Seabee
+Health Study. American Journal of Epidemiology, 155, 1033–
+1044.
+7. Hodgson, M. J., & Kipen, H. M. (1999). Gulf War illnesses:
+Causation and treatment. Journal of Occupational and Environmental Medicine, 41, 443–452.
+8. Nisenbaum, R., Barrett, D. H., Reyes, M., & Reeves, W. C.
+(2000). Deployment stressors and a chronic multisymptom illness among Gulf War veterans. Journal of Nervous and Mental
+Disease, 188, 259–266.
+9. McCauley, L. A., Rischitelli, G., Lambert, W. E., Lasarev, M.,
+Stickler, D. L., & Spencer, P. S. (2001). Symptoms of Gulf
+War veterans possibly exposed to organophosphate chemical
+warfare agents at Khamisiyah, Iraq. International Journal of
+Occupational & Environmental Health, 7, 79–89.
+10. Proctor, S. P., Heeren, T., White, R. F., Wolfe, J., Borgos, M.
+S., Davis, J. D., et al. (1998). Health status of Persian Gulf War
+veterans: Self-reported symptoms, environmental exposures
+and the effect of stress. International Journal of Epidemiology,
+27, 1000–1010.
+11. Wessely, S. (2001). Ten years on: What do we know about the
+Gulf War syndrome? Clinical Medicine, 1, 28–37.
+12. Boyd, K. C., Hallman, W. K., Wartenberg, D., Fiedler, N.,
+Brewer, N. T., & Kipen, H. M. (2003). Reported exposures,
+stressors, and life events among Gulf War registry veterans.
+Journal of Occupational and Environmental Medicine, 45,
+1247–1256.
+13. Haley, R. W., Marshall, W. W., McDonald, G. G., Daughterty,
+M., Petty, F., & Fleckenstein, J. L. (2000). Brain abnormalities
+in Gulf War syndrome; evaluation with 1 H MR spectroscopy.
+Radiology, 215, 807–817.
+14. Wolfe, J., Proctor, S. P., Davis, J. D., Borgos, M. S., & Friedman,
+M. J. (1998). Health symptoms reported by Persian Gulf War
+
+Brewer, Lillie, and Hallman
+
+15.
+
+16.
+17.
+18.
+19.
+20.
+
+21.
+22.
+23.
+
+24.
+25.
+26.
+27.
+28.
+29.
+30.
+
+31.
+32.
+
+33.
+
+34.
+
+veterans two years after return. American Journal of Industrial
+Medicine, 33, 104–113.
+Wessely, S., Unwin, C., Hotopf, M., Hull, L., Ismail, K., Nicolaou, et al. (2003). Stability of recall of military hazards over
+time: Evidence from the Persian Gulf War of 1991. British
+Journal of Psychiatry, 183, 314–322.
+Department of Defense. (2000). Close-Out Report: Biological Warfare Investigation. Accessed April 5, 2005:
+www.gulflink.osd.mil/bw.
+Brewer, N. T., Hallman, W. K., Kipen, H. M., & Fiedler, N.
+(2004). Why do people report better health by phone than by
+mail? Medical Care, 42, 875–883.
+Hallman, W. K., Kipen, H. M., Diefenbach, M., et al. (2003).
+Symptom patterns among Gulf War registry veterans. American Journal of Public Health, 93, 624–630.
+Cox, D. J., Clarke, W. L., Gonder-Frederick, L. A., Pohl, S. L.,
+Hoover, C., Snyder, A., et al. (1985). Accuracy of perceiving
+blood glucose in IDDM. Diabetes Care, 8(6), 529–536.
+Barsky, A. J. (1999). The validity of bodily symptoms in medical outpatients. In A. A. Stone, J. S. Turkkan, C. A. Bachrach,
+J. B. Jobe, H. S. Kurtzman, & V. S. Cain (Eds.), The Science of
+Self-Report: Implications for Research and Practice (pp. 339–
+361). Mahwah, NJ: Lawrence Earlbaum.
+Mechanic, D. (1972). Social psychologic factors affecting the
+presentation of bodily complaints. New England Journal of
+Medicine, 286(21), 1132–1139.
+David, A., & Wessely, S. (1995). The legend of Camelford:
+Medical consequences of a water pollution accident. Journal
+of Psychosomatic Research, 39(1), 1–9.
+Brownlee, S., Leventhal, H., & Leventhal, E. (2000). Regulation, self-regulation, and construction of the self in the maintenance of physical health. In M. Boekartz, P. R. Pintrick, & M.
+Zeidner (Eds.), Handbook of Self-Regulation (pp. 369–416).
+San Diego, CA: Academic Press.
+Brewer, N. T., Chapman, G. B., Brownlee, S., & Leventhal, E.
+(2002). Cholesterol, adherence, and illness cognition. British
+Journal of Health Psychology, 7, 433–447.
+White, M. P., Pahl, S., Buehner, M., & Haye, A. (2003). Trust
+in risky messages: The role of prior attitudes. Risk Analysis,
+23(4), 717–726.
+Poortinga, W., & Pidgeon, N. F. (2004). Trust, the asymmetry
+principle, and the role of prior beliefs. Risk Analysis, 24(6),
+1475–1486.
+Poortinga, W., & Pidgeon, N. F. (2005). Trust in risk regulation:
+Cause or consequence of the acceptability of GM food? Risk
+Analysis, 25(1), 199–209.
+Taylor, S. E. (1991). Asymmetrical effects of positive and negative events—The mobilization minimization hypothesis. Psychological Bulletin, 110(1), 67–85.
+Rozin, P., & Royzman, E. B. (2001). Negativity bias, negativity
+dominance, and contagion. Personality and Social Psychology
+Review, 5(4), 296–320.
+Siegrist, M., & Cvetkovich, G. (2001). Better negative
+than positive? Evidence of a bias for negative information
+about possible health dangers. Risk Analysis, 21(1), 199–
+206.
+Dijksterhuis, A., & Aarts, H. (2003). On wildebeests and humans: The preferential detection of negative stimuli. Psychological Science, 14(1), 14–18.
+Lord, C. G., Ross, L., & Lepper, M. R. (1979). Biased assimilation and attitude polarization: The effects of prior theories
+on subsequently considered evidence. Journal of Personality
+and Social Psychology, 37, 2098–2109.
+Anderson, C. A., & Sechler, E. S. (1986). Effects of explanation and counter-explanation on the development and use of
+social theories. Journal of Personality and Social Psychology,
+50(1), 24–34.
+Gilbert, D. T., Krull, D. S., & Malone, P. S. (1990). Unbelieving the unbelievable: Some problems in the rejection of false
+
+15396924, 2006, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1539-6924.2006.00750.x by University Of Missouri Columbia, Wiley Online Library on [04/05/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+344
+
+35.
+36.
+37.
+38.
+39.
+40.
+41.
+
+information. Journal of Personality and Social Psychology, 59,
+601–613.
+Hasson, U., Simmons, J. P., & Todorov, A. (2005). Believe it
+or not—On the possibility of suspending belief. Psychological
+Science, 16(7), 566–571.
+Barsky, A. J., & Borus, J. F. (1999). Functional somatic syndromes. Annals of Internal Medicine, 130(11), 910–921.
+Einhorn, H. J., & Hogarth, R. M. (1985). Ambiguity and uncertainty in probabilistic inference. Psychological Review, 92(4),
+433–461.
+Lord, C. G., Lepper, M. R., & Preston, E. (1984). Considering
+the opposite—A corrective strategy for social judgment. Journal of Personality and Social Psychology, 47(6), 1231–1243.
+Chapman, G. B., & Johnson, E. J. (1999). Anchoring, activation, and the construction of values. Organizational Behavior
+and Human Decision Processes, 79(2), 115–153.
+Schwartz, L. M., Woloshin, S., Fowler, F. J., & Welch, H. G.
+(2004). Enthusiasm for cancer screening in the United States.
+JAMA, 291(1), 71–78.
+Taylor, K. L., Shelby, R., Gelmann, E., & McGuire, C. (2004).
+Quality of life and trial adherence among participants in
+
+345
+
+42.
+
+43.
+
+44.
+45.
+46.
+47.
+
+the prostate, lung, colorectal, and ovarian cancer screening
+trial. Journal of the National Cancer Institute, 96(14), 1083–
+1094.
+Rotmensch, S., & Cole, L. A. (2000). False diagnosis and needless therapy of presumed malignant disease in women with
+false-positive human chorionic gonadotropin concentrations.
+Lancet, 335(355), 712–715.
+Lafata, J. E., Simpkins, J., Lamerato, L., Poisson, L., Divine,
+G., & Johnson, C. C. (2004). The economic impact of falsepositive cancer screens. Cancer Epidemiology, Biomarkers &
+Prevention, 13(12), 2126–2132.
+Deisler, P. F. (2002). A perspective: Risk analysis as a tool for
+reducing the risks of terrorism. Risk Analysis, 22(3), 405–413.
+Haas, C. N. (2002). The role of risk analysis in understanding
+bioterrorism. Risk Analysis, 22(4), 671–677.
+Waeckerle, J. F. (2000). Domestic preparedness for events involving weapons of mass destruction. Journal of the American
+Medical Association, 283(2), 252–254.
+Mattox, K. (2001). The World Trade Center attack disaster
+preparedness: Health care is ready, but is the bureaucracy?
+Critical Care, 5(6), 323–325.
+
+15396924, 2006, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1539-6924.2006.00750.x by University Of Missouri Columbia, Wiley Online Library on [04/05/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+Biological and Chemical Warfare
+
+

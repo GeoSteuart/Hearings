@@ -1,0 +1,247 @@
+Report of the Panel Reviewing Analysis of the
+Khamisiyah Pit Release of Nerve Agent, March 1991
+
+Summary of Findings
+July, 1997 1
+
+
+
+
+
+Overview
+In March 1991, after the conclusion of Operation Desert Storm, US Army demolition teams destroyed ammunition bunkers and stacks of munitions at the Khamisiyah Ammunition Storage Area in southeastern Iraq. The units performing the demolition believed that these were conventional high~explosive munitions, and procedures for rendering conventional munitions unusable were followed.
+
+
+The US Government now believes that the 122mm rockets destroyed in one of the bunkers (Bunker 73), and an excavated area that became known as "the pit," were filled with a mixture of the nerve agents sarin and cyclosarin, and that the demolitions conducted by the US Army released an undetermined amount of this material into the atmosphere. No US forces reported nerve agent symptoms following these demolitions. Analyses of the bunker demolition, conducted by Science Applications International Corporation (SAIC) under contract to the CIA, modeled an area that could have been contaminated by chemical agents, including at low levels. At the time, there was greater uncertainty about the release of agent from the pit.
+
+
+Postulated causes of the health complaints of many Gulf War veterans have included the possibility of low-level exposure to nerve agent. This possibility has led to the need for further analyses to reconstruct the dispersion of nerve agents following the demolition. As a result, Deputy Secretary of Defense White and former Director of Central Intelligence Deutch asked the Institute for Defense Analyses to convene an independent Panel of experts in meteorology, physics, chemistry, and related disciplines to review the analyses of the Khamisiyah pit demolitions and subsequent movement of agent in order to:
+
+
+
+assess the current state of these analyses;
+
+identify improvements in the analysis of this incident that could be achieved in the near term; and
+
+recommend measures to enhance Department of Defense capability to assess the exposure of US forces to hazardous materials in the long term.
+
+
+1 Information cutoff date: April 30, 1997
+
+The Panel, members of which are listed in the Appendix, met twice once on 18- 20 November, 1996 and again on 13 February, 1997 and communicated extensively between meetings and after the February meeting. At the first meeting, the Panel reviewed what was then known about the demolition in the pit, the analyses performed for the CIA by SAIC, and modeling capabilities extant in the Department of Defense and the Department of Energy. The second meeting was held to review additional analyses that had been requested at the first meeting. This report summarizes the findings of the Panel.
+
+
+
+Review of the SAIC Analysis
+
+The CIA and their contractor reported to the Panel unpublished analyses of their analysis of the pit demolition. Their briefings detailed a number of assumed parameters, such as the number of rockets that could have been affected by the demolition, the number that may have been flyouts, agent purity and other characteristics, and the mechanisms by which agent may have been released.
+
+
+The SAIC analysis utilized a number of transport and diffusion models: NUSSE4 and D2PC, which are maintained by the US Army Chemical and Biological Defense Command; VLSTRACK, which is maintained by the Navy Surface Warfare Center; and the OMEGA mesoscale atmospheric prediction model, which is being developed by the Defense Special Weapons Agency. Based on the briefings received, the Panel assessed that SAIC primarily used the NUSSE4 model, which assumed a constant expected value of meteorological conditions, to determine the farthest downwind direction that agent might travel under a variety of release conditions; the OMEGA model to detenrune the directions that local winds may have carried agent; and the D2PC model, which is used by DOD to model potential releases from the US chemical stockpile and demilitarized sites, to represent the spill source. Although SAIC briefed that VLSTRACK and OMEGA were linked, and that analytical linkages were then made to NUSSE4 and D2PC, it is the view of the Panel that these meteorological, source, and transport and diffusion models were not adequately linked.
+
+
+The outputs of these models, as interpreted by the Panel, were combined to yield an "area of concern"-a sector, the subtended angle of which was determined by the extent to which winds could have moved agent over a 48 hour period, and the radius of which was determined by the distance that the dispersion model predicted the agent would persist above a specific dosage level, such as the level specified as safe for the general population in Army material safety publications.
+
+
+The CIA suspended the pit analysis in September, 1996, when it became clear that the uncertainties were too great to continue. Not only were the source factors that were reflecting the phenomenology of this release not well understood, but also the observations supporting the meteorological reconstruction were very sparse around Khamisiyah.
+
+
+The nearest surface observations were some 85 kilometers from Khamisiyah and the nearest higher altitude observations were approximately 200 kilometers distant. The Panel's deliberations began in November.
+
+The Panel agreed, based on the information it was given, that there were major uncertainties about almost all key parameters in the analysis. In addition, the Panel also concluded that the initial analyses of the pit performed by SAIC had a number of serious drawbacks. First, the Panel felt that the duration of meteorological reconstruction was inadequate, particularly if large amounts of agent had been released from the pit or if it had been released slowly, perhaps over many days. This is especially the case since very low exposure levels were of concern. Second, given the fact that the initial analysis showed that it was possible that agent might have traveled considerable distances, the use of a dispersion model validated for short-range tactical purposes was less than ideal. Third, and perhaps most important, the Panel felt that failing to directly link the OMEGA meteorological and NUSSE4 dispersion models made it impossible to determine where concentrations of agent might have gone. This, in turn, made it impossible to calculate possible dosages to US forces in the area of Khamisiyah. Such dosage information would be necessary for epidemiological assessments of the role of nerve agent as a possible cause of the illnesses being experienced by Gulf War veterans.
+
+
+
+Analytical Activities Requested by the Panel
+
+After reviewing the initial analyses and receiving briefings on other models applicable to this problem, the Panel asked that a set of analyses be conducted to provide greater insight into the difficulties of analyzing an agent release such as the one at Khamisiyah. First, because of the Panel's concern that the initial meteorological reconstruction was too short, they requested that meteorological reconstructions extend for at least 72 hours following the initial release. Second, they requested that any dispersion models used be linked with meteorological output so that agent dosage contours could be generated. And finally, the Panel felt that the way to move forward with the source term, given the lack of knowledge concerning what actually happened in the pit, was to look at a variety of parametric variations that could bound the problem. Accordingly, the Panel specified varying source term assumptions for its work and the work it tasked to others:
+
+
+Variations in the numbers of rockets. The upper and lower bounds were based on briefings provided to the Panel by the CIA, and an intermediate value halfway in-between was chosen.
+Variations in release mechanism, ranging from a fully instantaneous release to situations in which different fractions of the agent were released over time to simulate, albeit imperfectly, the evaporative release of agent that was spilled from damaged rockets
+
+
+The Panel requested that several organizations perform at least some of these analyses, to be funded by DOD. The Naval Research Laboratory (NRL) teamed with the Naval Surface Warfare Center (NSWC) to link the COAMPS meteorological model with the VLSTRACK dispersion model. COAMPS is a developmental mesoscale prognostic meteorological model. VLSTRACK is widely used in the Navy and elsewhere for tactical analyses, and in that sense it is similar to the NUSSE4 model used by the SAIC, but it can accommodate varying meteorology. The second effort was tasked to the Lawrence Livermore National Laboratory (LLNL) Airborne Release Advisory Capability (ARC), which operates the MATHEW diagnostic meteorological model with the ADPIC dispersion model. Finally, the Defense Special Weapons Agency DSWA) was asked to run the OMEGA prognostic meteorological model linked to the SCIPUFF dispersion model.
+
+The results of these assessments differed so significantly that it was not possible to choose the most likely affected areas; hence, plots of the results did not provide predictions that were useful for helping to investigate possible effects on US forces. Much of the uncertainty emanated from differences in the way the meteorological models reconstructed the winds in the area at the time, as well as from the lack of definitive information about the source term. Another major uncertainty stemmed from the possibility that the models treated vertical diffusion differently. The wind in the area varied rapidly with height; thus, model differences in vertical mixing could result in large differences in the transport of agent.
+
+
+More specifically, the DSWA and LLNL models showed similar initial directions for agent transport; however, the DSWA model predicted agent eventually turning to the west, while the LLNL model showed the agent continuing in a southeasterly direction. The NRL/NSWC models showed a more southwesterly initial vector but, like the DSWA model, the agent contours turned toward the west and then back toward the north as the wind changed. Review of the wind patterns reconstructed by the models suggests that part of the difference has to do with the altitude of the winds that control agent dispersion. In the case of the LLNL model, agent is moved by higher altitude winds whereas, for the other models, the boundary layer holds the agent nearer the surface.
+
+
+Finally, in order to gain insight into the validity of the meteorological reconstruction based on so few observations in the immediate vicinity of Khamisiyah, the Panel asked that analyses that perturbed the weather inputs be conducted. The Naval Research Laboratory performed a number of reassessments of the meteorology with COAMPS and the global-scale model NOGAPS. These included "data denial" runs, where observations in the vicinity of Khamisiyah were ignored; a "constant baseline" run, where the synoptic input to COAMPS was held constant; and a "random perturbation" run, where local observations were randomly changed to represent observational error (a single component of an "ensemble" analysis).
+
+
+These analyses suggest that the lack of local observations may be less of a concern than initially thought-that the meteorology was driven primarily by synoptic weather activity.
+
+Although the outputs varied somewhat as the inputs were changed, these variations were commensurate with the input variations, and agent transport contours generated by the NRL for these cases looked very similar.
+
+The Naval Research Laboratory was also able to secure 48 hours of meteorological reconstruction with the MM5 mesoscale model from the National Center for Atmospheric Research. These results were generally consistent with both COAMPS and OMEGA, although the three models predicted somewhat different areas of agent coverage.
+
+
+Based on the initial presentations to the Panel, and the additional analyses performed and presented, the Panel has the following recommendations for improving the Khamisiyah analysis and for performing such analyses in the future.
+
+
+
+
+Improving the Analysis
+
+Because there are uncertainties in the source term and the meteorology, and differences in the models used in the analysis, there can be no single definitive reconstruction of this event; the differences in possible outcomes are such that it will not be possible to specify the dosage received at a given location. The best that can be done is to provide a range of possible dosages. If one is willing to impose a prior probability distribution on the input conditions-for example, assuming all are equally likely then a distribution of outputs can be derived.
+
+
+
+Estimating the Source Term
+
+Among the most important facets of the source term are:
+
+the number of rockets
+their locations at the time of detonation
+the duration of the demolition process; e.g. whether the process occurs over several minutes or several days
+the quantity of agent released from the munitions
+the vertical distribution of agent release; i.e., how high into the atmosphere agent is released
+the purity of the agent, and
+the processes by which agent is removed from the environment.
+Because there are little or no existing data regarding the release of chemical agent under the conditions that prevailed at Khamisiyah, it may be possible to improve the estimates of some of these factors through field and laboratory tests; however, it must be recognized that a certain degree of uncertainty will always remain with regard to source term matters.
+
+Thus, with or without tests, ranges of reasonable and defensible source term factors should be selected (although field tests should help to narrow some of these ranges). Best estimates and reasonable bounding values for at least the following characteristics should be determined:
+the distribution of numbers of rockets affected per demolition incident
+the spatial and temporal pattern of release
+the mix and purity of agent
+the amount of agent instantaneously vaporized versus the amount merely exposed to the atmosphere
+the rate of vaporization of agent exposed to the atmosphere
+the vertical profile of agent release, and
+the rates of removal of agent from the atmosphere.
+
+While the number of combinations could be large, a fairly rich representative sampling should be chosen to ensure that the range of possible outcomes is investigated. This is particularly important since different cases will result in different coverage patterns, and units that might be exposed in some cases might not be in others. This approach can be used to differentiate among the units that would not have been exposed in any case, the units that would have been exposed in all cases, and the units that may have been exposed in some cases.
+
+
+Fortunately, this aspect of the simulation is less computer intensive than the meteorological reconstructions, and a large number of different cases can be examined for each meteorological analysis. It is important, however, to use an accepted transport and diffusion model that can model the key phenomena associated with the source term and that can accept the output of a meteorological analysis.
+
+
+
+Estimating the Meteorology
+
+As we have noted above, there are sparse local observational data to 'support mesoscale modeling at the time of the Khamisiyah pit demolition. Moreover, reconstructing the meteorological conditions at the time requires considerable computer resources, making the exploration of variations in the meteorology time-consuming and expensive.
+
+
+The Panel recommends that models well known and accepted in the community be used for this purpose. Among the models mentioned in this regard are MM5, RAMS, and ETA. The COAMPS and OMEGA models are not as well-established in the meteorological community, although both appear to be capable models. Comparisons among MM5, COAMPS, and OMEGA indicate that these models produce similar reconstructions of the meteorology at Khamisiyah. The MATHEW model used by LLNL was viewed to be less capable because it models atmospheric phenomena with less fidelity. Because all models have relative strengths and weaknesses, using several models to reconstruct the meteorology will help bound model-induced (as opposed to data- induced) uncertainties in the results.
+
+The Panel also recommends assessing the magnitude of data-induced uncertainties through ensemble and perturbation methods, which systematically vary input data, and/or data-denial methods, which examine the impact of removing certain observations from the analysis. The combination of using more than one model and of varying the inputs provides a comprehensive approach to understanding the uncertainties contributed by the reconstruction of the meteorology at the time of the demolition.
+
+
+The Naval Surface Warfare Center also investigated meteorological variations by systematically offsetting the detonation in time (plus or minus 1 hour) and space (60 km north, south, east, and west), producing transport and diffusion results and recentering them on the actual Khamisiyah coordinates. This is somewhat less computer-intensive than varying the meteorological models, and can be used to provide additional insight into possible variations.
+
+
+
+Estimating Transport and Diffusion
+A variety of models are available for estimating agent transport and diffusion given a meteorological reconstruction. Ideally, a model used for this should account for spatially and temporally varying horizontal and vertical mixing. Rather than rely on Pasquill-Gifford nomogram estimates of atmospheric stability, transport and diffusion models should compute this mixing directly from atmospheric parameters. They should also be configured for medium- and long-range transport. Among the models which have these features are SCIPUFF, HYSPLIT 4, HYPACT, and LPDM. Gaussian models using Pasquill-Gifford stability categories such as VLSTRACK are less preferred, although VLSTRACK has the advantages that it is configured with a chemical agent data base, can interface easily with the COAMPS model, and is widely used within the Department of Defense. The NUSSE4 model does not accept varying meteorological input but does contain a number of sophisticated algorithms dealing with, among other things, mixtures of chemical agents and evaporation, that are important elements of the Khamisiyah release.
+
+
+
+Dealing with Uncertainty/Presenting the Results
+
+We have discussed the unknowns, uncertainties, and variabilities in the source and meteorological data. These can be addressed through systematic parametric variation of these data. A second source of uncertainty emerges from the differences among the models. Even models that simulate the same physical phenomena can differ in their outputs because of the use of different solution algorithms, data gridding, and other factors.
+
+
+One way to address these concerns is to apply several appropriate models. If they agree, then there should be less concern for model-induced bias.
+
+If they do not agree, then their outputs should be considered equally likely unless investigation into the differences reveals an error in one of the models. One could, for example, use two appropriate meteorological models and feed their results into two transport and diffusion models. This would provide four sets of reconstructions for each set of source and meteorological inputs.
+
+Varying the source inputs parametrically and the meteorological inputs through ensemble, perturbation, and/or by moving the detonation in time and space, as the Naval Surface Warfare Center did, and by using combinations of models, appears to be the only sure way to develop the range of possible outcomes that might have occurred at Khamisiyah.
+
+
+Presenting the results requires some care. There are two audiences for these results. Epidemiologists are concerned with concentration profiles, over time, where troops were actually located. These profiles can be used to compute the exposures possibly experienced by these forces (or, more properly, the ranges of exposures experienced by these forces). However, concentration profiles at grids of locations do little to visualize the release for reviewers or for the general public. Total integrated dosages for the full duration of the release are useful for showing all the places that agent might have gone, but can overstate the risk to forces that were not present and stationary during the entire time of the release. Probably the most realistic summary presentations are periodic integrated dosage contours using a time period equal to the periods for which troop locations are known. For example, if troop locations are known only once per twenty-four-hour day, then a set of twenty-four-hour integrated dosage contours probably best summarizes the release.
+
+
+
+Recommendations for the Future
+Some of the challenges to reconstructing the Khamisiyah pit release will likely be faced in the future. If realization that there has been a nerve agent release comes after the fact, reconstructing meteorological and source data could be difficult. There is little that can be done to prevent this a priori, except to be more aware of possible agent release during demolition and bombing and to take appropriate measurements without delay.
+
+
+Model capabilities do not appear to be a constraint. There are excellent models to address meteorological analysis, and transport and diffusion. However, the Panel noted that model selection and application in this incident was ad hoc and less than ideally coordinated. These factors, as much as anything, have contributed to delays and controversy regarding the pit reconstruction. This process could be improved by ensuring that some organization has the end-to-end responsibility for addressing this type of issue, has selected the most appropriate meteorological and transport and diffusion models, and has ensured that the models are either linked together or that there are unified models incorporating all of the elements required for the analysis.
+
+When called upon to address an incident such as Khamisiyah, a protocol should be followed that:
+determines the most appropriate tools to apply
+identifies the initial synoptic boundary conditions and the initial meteorological data values
+specifies the modeling grid size(s) and arrangement
+specifies variations appropriate for ensemble analysis, and
+lays out the baseline assumptions and variability in the source term.
+Since it is unlikely that all combinations of variations can be analyzed, a clear strategy that limits the number of cases to be examined, while capturing the possible range of outputs, needs to be articulated. This framework can then be reviewed by both interested and neutral parties for completeness, so as to reduce as much as possible post- analysis criticism of the thoroughness of the reconstruction.
+
+Appendix: Panelists
+
+GENERAL LARRY D. WELCH, Chairman
+USAF (Retired)
+President
+Institute for Defense Analyses
+1801 N. Beauregard St.
+Alexandria, VA 22311 - 1772
+
+DR. PENROSE (PARNEY) C. ALBRIGHT
+Science and Technology Division
+Institute for Defense Analyses
+1801 N. Beauregard St.
+Alexandria, VA 22311-1772
+
+DR. ANNE M. ANDREWS
+Science and Technology Division
+Institute for Defense Analyses
+1801 N. Beauregard St.
+Alexandria, VA 22311-1772
+
+DR. ROBERT D. BORNSTEIN
+Department of Meteorology
+San Jose State Universiy
+One Washington Square
+San Jose, CA 95192
+
+DR. KERRY EMANUEL
+Director of Center for Meteorology and Physical Oceanography
+Massachusetts Institute of Technology
+Bldg. 54, Room 1620
+Cambridge, MA 02139
+
+DR. EDWARD A. FRIEMAN
+Research Professor-Director Emeritus
+Scripps Institution of Oceanography
+Institute of Geophysics and Planetary Physics
+University of California, San Diego, CA
+
+Appendix:Panelists (contd)
+DR. JEFFREY H. GROTTE
+Deputy Director
+Strategy. Forces and Resources Division
+Institute for Defense Analyses
+1801 N. Beauregard St.
+Alexandria, VA 22311 - 1772
+
+MR. JEFFERY T. MCQUEEN
+Meteorologist
+NOAA/Air Resources b, Rm. 3463
+1315 East West Highway
+Silver Spring, MD 20910
+
+DR. GREGORY J. MCRAE
+Bayer Professor of Chemical Engineering
+Massachusetts Institute of Technology
+Room 66466
+Cambridge, MA 02139
+
+DR. RICHARD J. REED
+Professor Emeritus
+University of Washington
+Department of Atmospheric Sciences
+Box 351640
+Seattle, WA 98195-1640
+
+DR. ROBERT E. ROBERTS
+Vice President-Research
+Institute for Defense Analyses
+1801 N. Beauregard St.
+Alexandria, VA 22311-1772
+
+MR. DOUGLAS P. SCRULTZ
+Strategy, Forces and Resources Division
+Institute for Defense Analyses
+1801 N. Beauregard St.
+Alexandria, VA 22311-1772

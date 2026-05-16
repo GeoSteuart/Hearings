@@ -1,0 +1,822 @@
+HHS Public Access
+Author manuscript
+Author Manuscript
+
+Epilepsia. Author manuscript; available in PMC 2019 October 01.
+Published in final edited form as:
+Epilepsia. 2018 October ; 59(Suppl 2): 92–99. doi:10.1111/epi.14500.
+
+Acute and long-term consequences of exposure to
+organophosphate nerve agents in humans
+Taiza H. Figueiredo, James P. Apland¥, Maria F. M. Braga, and Ann M. Marini*,§
+*Department
+
+of Neurology, Department of Anatomy, Physiology and Genetics; Uniformed
+Services University of the Health Sciences, Bethesda, Maryland 20814
+
+Author Manuscript
+
+¥Neuroscience
+
+Program, US Army Medical Research Institute of Chemical Defense, Aberdeen
+Proving Ground, MD 21010, United States
+
+Summary
+
+Author Manuscript
+
+Nerve agents are organophosphate (OP) compounds and among the most powerful poisons known
+to man. A terrorist attack on civilian or military populations causing mass casualties is a real
+threat. The OP nerve agents include soman, sarin, cyclosarin, tabun and VX. The major
+mechanism of acute toxicity is the irreversible inhibition of acetylcholinesterase (AChE). AChE
+inhibition results in the accumulation of excessive acetylcholine levels in synapses leading to
+progression of toxic signs including hypersecretions, tremors, status epilepticus, respiratory
+distress and death. Miosis and rhinorrhea are the most common clinical findings in those
+individuals acutely exposed to OP nerve agents. Prolonged seizures are responsible for the
+neuropathology. The brain region that shows the most severe damage is the amygdala followed by
+the piriform cortex, hippocampus, cortex, thalamus, and caudate/putamen. Current medical
+countermeasures are only modestly effective in attenuating the seizures and neuropathology.
+Anticonvulsants such as benzodiazepines decrease seizure activity and improve outcome but their
+efficacy depends upon the administration time post-exposure to the nerve agent. Administration of
+benzodiazepines may increase the risk for seizure recurrence. Recent studies document long-term
+neurologic and behavior deficits while technological advances demonstrate structural brain
+changes on magnetic resonance imaging.
+
+Keywords
+organophosphate nerve agents; acetylcholinesterase; human; acute effects; long-term effects
+
+Author Manuscript
+
+§
+
+Address correspondence to: Ann M. Marini, Ph.D., M.D., Department of Neurology, Uniformed Services University of the Health
+Sciences, 4301 Jones Bridge Road, Bethesda, Maryland 20814, Ann.marini@usuhs.edu, Phone number: 301-295-9686.
+Disclosure of Conflicts of Interest
+The authors have no conflicts of interest.
+
+Ethical Publication
+We confirm that we have read the Journal’s position on issues involved in ethical publication and affirm that this report is consistent
+with those guidelines.
+
+Figueiredo et al.
+
+Page 2
+
+Author Manuscript
+
+Introduction
+Background
+
+Author Manuscript
+
+Organophosphate (OP) G-series nerve agents were synthesized in the 1930s by German
+scientists.1 An accidental spill in a laboratory where synthetic production of nerve agents
+was being conducted highlighted the extreme toxicity of these compounds.2 These
+compounds quickly and efficiently penetrate the human body via the skin, inhalation, and
+through the bloodstream. OP nerve agent use during war is particularly advantageous given
+that they cause mass casualties by inducing status epilepticus and incapacitating organ
+systems in the body that may result in death. These compounds were deployed during the
+Iraq-Iran war3 and on Kurdish people in Northern Iraq.4 In 2013, sarin was dropped in
+Damascus killing over 1400 Syrians,5,6 including 426 children;5,7 sarin gas was suspected to
+have been deployed again outside of Damascus in 2016 (http://www.telegraph.co.uk/news/
+2016/05/17/assads-forces-have-used-sarin-nerve-gas-for-the-first-time-since/).
+
+Author Manuscript
+
+The recent death of a high profile figure by VX, a V-series nerve agent that exerts higher
+toxicity in comparison with some other G-series nerve agents possibly due to the inability of
+phosphorylphosphatases to break the phosphorous-sulfur bond in the bloodstream,8 at an
+international airport (http://www.bbc.com/news/world-asia-39096172) demonstrates facile
+concealment, accessibility, mobility and immediate deployment of OP nerve agents. Similar
+but more widespread human intoxication occurred in June of 1994 when sarin gas was
+surreptitiously released at midnight while people slept in the city of Matsumoto, Japan and
+again in March 1995 when sarin gas was deployed in the Tokyo subway where thousands of
+individuals were intoxicated and nineteen died.9 These events illustrate the versatility and
+destructive capability of chemical warfare agents i.e., killing one person versus incurring
+mass casualties.
+Acetylcholinesterase
+
+Author Manuscript
+
+Nerve agents have the ability to irreversibly inhibit the enzyme AChE in central and
+peripheral nervous system synapses. In the mammalian brain, AChE, located in membranes
+of postsynaptic neurons10, exists mostly as a four subunit enzyme of 70 kDa. The catalytic
+subunits are linked together by disulfide bonds to the hydrophobic subunit P. Subunit P is
+required for localization at the cell surface11. The acetylcholinesterase gene is transcribed by
+alternative splicing at the carboxyl terminal with peptide sequences of R (readthrough), H
+(hydrophobic). or T (tail) catalytic subunit isoforms that determine post-translational
+processing, quaternary associations and anchoring12. The soluble and cell membranelocalized acetylcholinesterase forms are generated from the AChER form. AChEH is a
+glycosylphosphatidylinositol-anchored dimer that is primarily expressed in red blood cells
+and liver. Perhaps the most interesting, diverse and dynamic isoform is the AChET form
+because it produces monomers, dimers and the collagen-and hydrophobic-tailed forms and
+soluble forms13. The “T’ peptide directs the assembly of tetramers of AChE14 and the
+product of this specific transcript is the synaptic form of AChE that is expressed
+predominately in the CNS and muscle tissue15. Inducers of the readthrough AChE transcript
+include stress i.e. forced swim, continued use and toxic concentrations of AChE inhibitors
+and inflammation16–19. The molecular diversity of AChE leading to three isoforms serves
+
+Epilepsia. Author manuscript; available in PMC 2019 October 01.
+
+Figueiredo et al.
+
+Page 3
+
+Author Manuscript
+
+the functional range and location of this enzyme as soluble monomers, dimers, and tetramers
+that are anchored in membranes, amphiphilic dimers, hydrophobic- and collagen-tailed
+tetramers13.
+Mechanism of Action
+
+Author Manuscript
+
+Exposure to nerve agents results in rapid absorption of agent into the bloodstream from
+every route, including percutaneous, inhalation and oral administration8,20. Nerve agents
+selectively target and irreversibly inhibit acetylcholinesterase (AChE), the enzyme that
+breaks down the excitatory neurotransmitter acetylcholine. In the central nervous system,
+acetylcholinesterase inhibition results in the overactivation of muscarinic receptors leading
+to the initiation of status epilepticus whereas other types of toxic signs are observed in the
+peripheral nervous system (Figure 1). Miosis and rhinorrhea are the most common clinical
+signs of exposure to OP nerve agents.9,21,22 Excessive synaptic acetylcholine levels cause a
+massive release of glutamate which in turn, sustains and maintains status epilepticus23,24
+resulting in hypoxic-ischemic neuronal cell death via N-methyl-D-aspartate (NMDA)
+receptor-mediated excitotoxicity.23, 25–28
+
+Status epilepticus is a serious complication of nerve agent exposure and is defined as a
+prolonged seizure or continuous seizures lasting more than five minutes without regaining
+consciousness.29 It is well-established that prolonged seizures cause the neuropathology.
+30–32 Neurodegeneration occurs most frequently in the amygdala, followed by the piriform
+cortex, hippocampus, cerebral cortex, thalamus, and caudate/putamen.30,33, 34–37
+Some characteristics of OP nerve agents
+
+Author Manuscript
+Author Manuscript
+
+Sarin belongs to the same class of G-series OP nerve agents as tabun, soman and cyclosarin.
+The OP nerve agents are volatile liquids and persist for a short time in the environment.38
+Nerve agents are clear, and odorless liquids at room temperature. The vapor pressures of the
+nerve agents (2.9 mm Hg (sarin), 0.4 mm Hg (soman), 0.07 mm Hg (tabun) and 0.044 mm
+Hg (cyclosarin)) are high and the lethal vapor risk follows in descending order with sarin
+exhibiting the highest lethal vapor risk39. The higher the vapor pressure, the higher the
+volatility of the organophosphate nerve agent at any given temperature. The vapor/aerosol
+state enters the body through the respiratory tract and eyes, and the liquid state enters the
+body through eyes, skin and mouth. While it has been reported that nerve agents that exhibit
+low volatility do not cause miosis as an initial symptom40, the Center for Disease Control,
+the Agency for Toxic Substances and Disease Registry (ATSDR) and the National Institutes
+of Health all list miosis and other symptoms including diarrhea on their websites as
+symptoms following exposure to organophosphate nerve agents regardless of route of
+administration (https://www.atsdr.cdc.gov/MMG/MMG.asp?id=523&tid=93; https://
+emergency.cdc.gov/agent/nerve/tsd.asp; https://chemm.nlm.nih.gov/nerveagents.htm).
+Clinical examination of any patient exposed to an organophosphate nerve agent regardless of
+route of administration (oral, systemic, dermal, inhalation) should include evaluation of all
+signs of acetylcholinesterase inhibition within the sympathetic and parasympathetic system.
+In particular, evaluation of miosis is rapid and easy to recognize during the examination. A
+thorough examination of individuals thought or confirmed to be exposed to organophosphate
+
+Epilepsia. Author manuscript; available in PMC 2019 October 01.
+
+Figueiredo et al.
+
+Page 4
+
+Author Manuscript
+
+nerve agents will minimize oversight of even an uncommon symptom that may otherwise
+result in respiratory failure and death.
+Evaluation after OP nerve agent exposure
+
+Author Manuscript
+
+Exposure to OP nerve agents requires immediate evaluation and treatment because vapor
+and systemic exposure in particular can result in the rapid development of symptoms leading
+to death. It is extremely important for personnel caring for individuals exposed to OP nerve
+agents to keep in mind that these agents can emanate from clothing. Liquid droplets from an
+OP nerve agent that are absorbed by clothing can cross contaminate the skin of personnel
+that in turn can result in local signs initially such as sweating and fasciculations but more
+progressive signs of toxicity will occur as the nerve agent is absorbed and carried
+systemically throughout the body leading to generalized signs of toxicity including status
+epilepticus, defecation, miosis, bronchospasm, bronchorrhea, paralysis and respiratory
+failure40. If dermal exposure is suspected, multiple clinical examinations may be important
+in detecting delayed systemic signs and symptoms. Dermal exposure via touching
+contaminated clothing can result in devastating consequences if the contaminated skin like
+the fingers rub the eyes as ocular contact results in rapid local and systemic toxic effects40.
+A highly organized and coordinated effort must be in place after dissemination of an OP
+nerve agent. Tents with showers should be set up in the field and victims must be
+decontaminated with copious amounts of water. A basic outline of the exposure levels,
+clinical signs and symptoms and treatments is shown in Table 1.
+
+Author Manuscript
+
+At the hospital, a detailed history and examination of individuals suspected of OP nerve
+agent exposure need to be performed as the rapid development of symptoms could lead to
+death depending upon the specific agent, route of exposure, and the amount of agent and
+time of exposure. Taking advantage of easily recognized clinical signs such as sweating,
+fasciculations and miosis helps to arrive at the correct diagnosis and provide urgent and lifesaving treatment.
+
+Author Manuscript
+
+It is incumbent upon emergency department staff to be properly prepared if victims
+suspected of OP nerve agent exposure are expected to arrive at the hospital. Medical staff
+were not wearing the proper equipment in the emergency department while triaging sarin
+victims after the subway attack in Tokyo and were exposed to sarin vapor leading to signs
+and symptoms of exposure9. All personnel involved with the care of nerve agent victims
+need to wear personal protective equipment, and air supplied respirators. Butyl rubber
+gloves and aprons are protective against dermal exposure. This equipment is required until
+the patient is decontaminated; air purifying respirators and double latex gloves are not
+protective41. In addition to protecting staff and caring for victims urgently, it should be
+emphasized that chemical weapons inflict mass casualties. The deployment and
+dissemination of OP nerve agents cause chaos in the field as well as in the emergency
+department due to the overwhelming number of critically ill patients that need urgent
+treatment. If a significant amount of an OP nerve agent is deployed in a small but crowded
+area, one can expect that first responders will not be able to administer life-saving
+countermeasures within minutes of the deployment. Under these circumstances, it is not
+unreasonable to predict that status epilepticus in some if not many victims may continue for
+
+Epilepsia. Author manuscript; available in PMC 2019 October 01.
+
+Figueiredo et al.
+
+Page 5
+
+Author Manuscript
+
+up to an hour before currently approved medical countermeasures can be administered to
+these victims.
+In summary, cognizance of the possibility of OP nerve agent exposure requires an organized,
+carefully crafted and coordinated plan involving local hazmat teams, police, fire and experts
+in the field as well as a network of medical centers where well-trained and equipped staff are
+prepared to further decontaminate and urgently treat the expected large number of victims.
+Treatment
+
+Author Manuscript
+
+Standard-of-care treatment for OP nerve agent acute exposure includes atropine, a
+muscarinic antagonist, pralidoxime (2-PAM), an oxime that regenerates acetycholinesterase
+activity in those molecules that are not aged, and diazepam, a benzodiazepine to stop/
+attenuate seizures.8,25 Repeated administration of atropine five minutes after the first
+injection may be necessary to reduce secretions, difficulty breathing and improve
+ventilation. It is critical to thoroughly wash the eyes for 5–10 minutes to limit eye injury
+after exposure to liquid OP nerve agents; decontamination of eyes is of no use when
+individuals are exposed to the vapors of OP nerve agents41. Inhibition of AChE activity by
+OP nerve agents is initially reversible but over time the covalent bond between the active site
+and the OP nerve agent stabilizes by removal of an alkyl group, a process called aging42, and
+results in irreversible AChE inhibition.
+
+Author Manuscript
+
+Current medical countermeasures are only modestly effective when given post-exposure in a
+mass casualty situation because it is anticipated that large crowds or a crowded areas of
+limited space would delay administration of life-saving medical countermeasures. Thus, it
+will take some time for first responders to identify survivors that need urgent treatment with
+medical countermeasures while victims are being decontaminated. The use of
+benzodiazepines is relatively ineffective when given thirty minutes or longer after OP nerve
+agent exposure and may increase seizure recurrence.43–45 Given the expected number of
+victims and the time it will take for first responders to identify and treat critically ill victims,
+it is not inconceivable that victims may be in status epilepticus for at least 30 minutes prior
+to administration of currently approved medical countermeasures.
+Long-term effects after exposure to OP nerve agents
+
+Author Manuscript
+
+Years after exposure to sarin, victims of the Tokyo subway attack presented with significant
+declines in psychomotor and memory functions,46,47 signifying long-term cognitive
+impairment. An active duty soldier exposed to low-dose sarin while deployed to Iraq six
+years prior to evaluation exhibited poor informational processing speed, difficulties with
+speed-related bilateral manual motor coordination, poor attention, reduced memory and
+recall.48 In a recent article, 344 adults who were children at the time they were exposed to
+mustard gas and sarin in the Kurdish city of Halabja and surrounding areas deployed by
+Iraqi forces in 1988, participated in a study investigating the long-term effects of chemical
+warfare agents. Eighteen participants were excluded from the study after their forms were
+lost in transit. Participants exposed to chemical warfare agents were children (10 years or
+younger) at the time of chemical warfare exposure. The mean age of the group at the time of
+exposure was 4.9 years and the mean age of subjects when they were examined was 20
+
+Epilepsia. Author manuscript; available in PMC 2019 October 01.
+
+Figueiredo et al.
+
+Page 6
+
+Author Manuscript
+
+years. There were 202 females and 142 males in the study. Only four participants received
+emergency treatment within 24 hours of exposures; the remainder received treatment
+between 24 hours and more than one week after chemical warfare exposure. There was no
+mention whether anyone received currently approved medical countermeasures. Current or
+previous smokers, anyone who had a medical condition that affected organs relevant to the
+study or had a history of occupational dust exposure were excluded from the study.
+Documentation of both acute and long-term effects of chemical warfare agents was
+conducted in the subjects fourteen to twenty-two years after exposure. Among the maladies
+at the time of examination by investigators, seventy-four percent of subjects had
+neurological symptoms. Twenty percent of subjects had convulsions while ninety percent
+exhibited signs of anxiety/restlessness/muscular cramps. Additional clinical neurologic signs
+that were found in the subjects included ataxia (31%), paralysis (4%), fasciculations (7%),
+confusion (38%), dysarthria (22%), headaches (43%) and coma (38%)49.
+
+Author Manuscript
+Author Manuscript
+
+People exposed to OP pesticides also exhibit long-term effects. Sheep farmers exposed to
+low-level OP pesticides demonstrated significant cognitive impairment on working, verbal
+and visual memory testing, response speed, fine motor control, mental flexibility and
+strategy making. In contrast, other cognitive domains such as visuospatial, verbal abilities
+and verbal reasoning were not impaired. Two different control groups were used in this
+study to ensure that there was no selection bias.50 Depression is a major neuropsychiatric
+disorder found in individuals exposed to either intoxicating or low-dose OP nerve agents,
+deployed veterans exposed to nerve agents,51,52 individuals of the terrorist attack in the
+Tokyo subway53 as well as those exposed to OP pesticides,50, 54–58 particularly women.59
+Post-traumatic stress disorder (PTSD), an anxiety disorder, was reported in human studies
+following exposure to OP nerve agents despite administration of standard-of-care drugs to
+promote survival and stop the nerve agent-induced seizures.60,61 Anxiety in the absence of
+PTSD has also been found in individuals exposed to OP pesticides.50,57,62
+
+Author Manuscript
+
+The long-term effects of OP nerve agent exposure in humans are similar to results reported
+in rodents exposed to OP nerve agents demonstrating neuropathological changes in several
+brain regions following soman exposure63,64. Neuronal damage continues for days and
+weeks after OP exposure in rodents despite lifesaving treatment with an oxime, atropine and
+diazepam.65–67 Learning and memory deficits and depressive-like behavior are also
+associated with soman-induced brain damage.64–69 In summary, long-term neuropsychiatric
+deficits have been reported in humans exposed to either low or intoxicating levels of OP
+nerve agents. A recent report in children exposed to chemical warfare agents suggests that
+exposure to chemical warfare agents can lead to long-term neurological and
+neuropsychiatric deficits. Animal models of OP nerve agents replicate many of the adult
+human cognitive deficits.
+Structural brain changes on magnetic resonance imaging after OP nerve agent exposure
+Structural brain alterations were observed in the amygdala and left anterior cingulate cortex
+in those individuals exposed to sarin in the Tokyo subway attack carrying a diagnosis of
+post-traumatic stress disorder (PTSD).60,70,71 On brain magnetic resonance imaging (MRI),
+there was a significant reduction in the amygdalar volume on both sides of the brain; a
+
+Epilepsia. Author manuscript; available in PMC 2019 October 01.
+
+Figueiredo et al.
+
+Page 7
+
+Author Manuscript
+Author Manuscript
+
+negative correlation existed between the left amygdalar volume and PTSD and the left
+anterior cingulate cortex was also smaller.60 Exposure to an intoxicating dose of sarin as
+occurred during the Tokyo subway attack resulted in regional reductions in gray and white
+matter; the significant decrease in the white matter volume in the left temporal stem near the
+insula correlated with the serum cholinesterase levels and the severity of the somatic
+complaints.71 A significant reduction in regional gray matter volume was found in the right
+insula, temporal cortices and left hippocampus in comparison with controls.71 Structural
+brain changes occurred in veterans exposed to low-dose sarin and cyclosarin. A significant
+reduction was found in total gray and white matter volume72,73. Significant reductions in the
+CA2 and CA3/dentate gyrus subfields of the hippocampus were reported in individuals
+exposed to low-dose chemical warfare agents74 and remodeling of the white matter is
+suspected in the temporal stem, corona radiata, superior/inferior cingulum, internal and
+external capsule, inferior and superior fronto-occipital fasciculus and nine superficial white
+matter areas located between the cortex and deep white matter.75 Taken together, these
+results underscore that low-level as well as intoxicating levels of OP nerve agents can result
+in structural gray and white matter alterations in the brain long after exposure to OP nerve
+agents.
+
+Acknowledgments
+Our research has been supported by the CounterACT Program, National Institutes of Health, Office of the Director
+and the National Institute of Neurologic Disorders and Stroke [Grant Number 5U01NS058162-07 to MFB].
+
+References
+
+Author Manuscript
+Author Manuscript
+
+1. López-Muñoz F, García-García P, Alamo C. The pharmaceutical industry and the German National
+Socialist Regime: I.G. Farben and pharmacological research. J Clin Pharm Ther. 2009; 34:67–77.
+[PubMed: 19125905]
+2. López-Muñoz F, Alamo C, Guerra JA, et al. The development of neurotoxic agents as chemical
+weapons during the National Socialist period in Germany. Rev Neurol. 2008; 47:99–106. [PubMed:
+18623009]
+3. Balali-Mood M, Saber H. Recent advances in the treatment of organophosphorous poisonings. Iran J
+Med Sci. 2012; 37:74–91. [PubMed: 23115436]
+4. Haines DD, Fox SC. Acute and Long-Term Impact of Chemical Weapons: Lessons from the IranIraq War. Forensic Sci Rev. 2014; 26:97–114. [PubMed: 26227026]
+5. Dolgin E. Syrian gas attack reinforces need for better anti-sarin drugs. Nat Med. 2013; 19:1194–
+1195. [PubMed: 24100968]
+6. Rosman Y, Eisenkraft A, Milk N, et al. Lessons learned from the Syrian sarin attack: evaluation of a
+clinical syndrome through social media. Ann Intern Med. 2014; 160:644–648. [PubMed: 24798526]
+7. Thiermann H, Worek F, Kehe K. Limitations and challenges in treatment of acute chemical warfare
+agent poisoning. Chem Biol Interact. 2013; 206:435–443. [PubMed: 24091052]
+8. Bajgar J. Complex view on poisoning with nerve agents and organophosphates. Acta Medica
+(Hradec Kralove). 2005; 48:3–21.
+9. Okumura T, Takasu N, Ishimatsu S, et al. Report on 640 victims of the Tokyo subway sarin attack.
+Ann Emerg Med. 1996; 28:129–135. [PubMed: 8759575]
+10. Teravainen H. Histochemical localization of acetylcholinesterase in isolated brain synaptosomes.
+Histochemie. 1969; 18:191–194. [PubMed: 5810186]
+11. Massoulié J, Sussman J, Bon S, Silman I. Structure and functions of acetylcholinesterase and
+butyrylcholinesterase. Prog Brain Res. 1993; 98:139–246. [PubMed: 8248501]
+
+Epilepsia. Author manuscript; available in PMC 2019 October 01.
+
+Figueiredo et al.
+
+Page 8
+
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+12. Massoulié J. The origin of the molecular diversity and functional anchoring of cholinesterases.
+Neurosignals. 2002; 11:130–143. [PubMed: 12138250]
+13. Massoulié, Anselmet A, Bon S, Krejci E, Legay C, Morel N, Simon S. The polymorphism of
+acetycholinesterase: post-translational processing, quaternary associations and localization.
+Chemico-Biological Interactions. 1999; 119–120:20–42.
+14. Bon S, Massoulié J. Quaternary associations of acetylcholinesterase. I. Oligomeric associations of
+T subunits with and without the amino-terminal domain of the collagen tail. J Biol Chem. 1997;
+272:3007–3015. [PubMed: 9006949]
+15. Massoulie J, Millard CB. Cholinesterases and the basal lamina a vertebrate neuromuscular
+junctions. Curr Opin Pharmacol. 2009; 9:316–325. [PubMed: 19423392]
+16. Kaufer D, Friedman A, Seidman S, Soreq H. Acute stress facilitates long-lasting changes in
+cholinergic gene expression. Nature. 1998; 393:349–360.
+17. Nijholt I1, Farchi N, Kye M, Sklan EH, Shoham S, Verbeure B, Owen D, Hochner B, Spiess J,
+Soreq H, Blank T. Stress-induced alternative splicing of acetylcholinesterase results in enhanced
+fear memory and long-term potentiation. Mol Psychiatry. 2004; 9:174–183. [PubMed: 14581933]
+18. Dori A, Ifergane G, Saar-Levy T, Bersudsky M, Mor I, Soreq H, Wirguin I. Readthrough
+acetylcholinesterase in inflammation-associated neuropathies. Life Sci. 2007; 80:2369–2374.
+[PubMed: 17379257]
+19. Evron T, Greenberg D, Mor TS, Soreq H. Adaptive changes in acetylcholinesterase gene
+expression as mediators of recovery from chemical and biological insults. Toxicology. 2007;
+233:97–107. [PubMed: 17005312]
+20. Nozaki H, Aikawa N, Shinozawa Y, et al. Sarin poisoning in Tokyo subway. Lancet. 1995;
+345:980–981.
+21. Brown MA, Brix KA. Review of health consequences from high-, intermediate- and low-level
+exposure to organophosphorus nerve agents. J Appl Toxicol. 1998; 18:393–408. [PubMed:
+9840747]
+22. Okudera H. Clinical features on nerve gas terrorism in Matsumoto. J Clin Neurosci. 2002; 9:17–21.
+[PubMed: 11749011]
+23. Lallement G, Carpentier P, Collet A, et al. Effects of soman-induced seizures on different
+extracellular amino acid levels and on glutamate uptake in rat hippocampus. Brain Res. 1991;
+563:234–240. [PubMed: 1786536]
+24. Wade JV, Samson FE, Nelson SR, et al. Changes in extracellular amino acids during soman- and
+kainic acid-induced seizures. J Neurochem. 1987; 49:645–650. [PubMed: 3598590]
+25. Lallement G, Dorandeu F, Filliat P, et al. Medical management of organophosphate-induced
+seizures. J Physiol Paris. 1998; 92:369–373. [PubMed: 9789839]
+26. McDonough JH Jr, Shih TM. Neuropharmacological mechanisms of nerve agent-induced seizure
+and neuropathology. Neurosci Biobehav Rev. 1997; 21:559–579. [PubMed: 9353792]
+27. Raveh L, Chapman S, Cohen G, et al. The involvement of the NMDA receptor complex in the
+protective effect of anticholinergic drugs against soman poisoning. Neurotoxicology. 1999;
+20:551–559. [PubMed: 10499354]
+28. Solberg Y, Belkin M. The role of excitotoxicity in organophosphorous nerve agents central
+poisoning. Trends Pharmacol Sci. 1997; 18:183–185. [PubMed: 9226993]
+29. Trinka E, Cock H, Hesdorffer D, et al. A definition and classification of status epilepticus--Report
+of the ILAE Task Force on Classification of Status Epilepticus. Epilepsia. 2015; 56:1515–1523.
+[PubMed: 26336950]
+30. Shih TM, Duniho SM, McDonough JH. Control of nerve agent-induced seizures is critical for
+neuroprotection and survival. Toxicol Appl Pharmacol. 2003; 188:69–80. [PubMed: 12691725]
+31. McDonough JH Jr, McMonagle J, Copeland T, et al. Comparative evaluation of benzodiazepines
+for control of soman-induced seizures. Arch Toxicol. 1999; 73:473–478. [PubMed: 10650919]
+32. Shih TM, McDonough JH Jr. Neurochemical mechanisms in soman-induced seizures. J Appl
+Toxicol. 1997; 17:255–264. [PubMed: 9285539]
+33. Carpentier P, Lambrinidis M, Blandchet G. Early dendritic changes in hippocampal pyriamidal
+neurons (field CA1) of rats subjected to acute soman intoxication: a light microscopic study. Brain
+Res. 1991; 541:293–299. [PubMed: 2054643]
+Epilepsia. Author manuscript; available in PMC 2019 October 01.
+
+Figueiredo et al.
+
+Page 9
+
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+34. Aroniadou-Anderjaska V, Figueiredo TH, Apland JP, et al. Primary brain targets of nerve agents:
+the role of the amygdala in comparison to the hippocampus. Neurotoxicology. 2009; 30:772–776.
+[PubMed: 19591865]
+35. Baze WB. Soman-induced morphological changes: an overview in the non-human primate. J Appl
+Toxicol. 1993; 13:173–177. [PubMed: 8326086]
+36. McDonough JH Jr, Zoeffel LD, McMonagle J, et al. Anticonvulsant treatment of nerve agent
+seizures: anticholinergics versus diazepam in soman-intoxicated guinea pigs. Epilepsy Res. 2000;
+38:1–14. [PubMed: 10604601]
+37. Prager EM, Aroniadou-Anderjaska V, Almeida-Suhett CP, et al. Acetylcholinesterase inhibition in
+the basolateral amygdala plays a key role in the induction of status epilepticus after soman
+exposure. Neurotoxicology. 2013; 38:84–90. [PubMed: 23817175]
+38. Bajgar J. Organophosphates/nerve agent poisoning: mechanism of action, diagnosis, prophylaxis.
+Adv Clin Chem. 2004; 38:151–216. [PubMed: 15521192]
+39. Ramesh C, Gupta, editorsHandbook of Toxicology of Chemical Warfare Agents. 2009. 88–100.
+40. Holstege CP, Kirk M, Sidell FR. Chemical Warfare. Medical Toxicology. 1997; 13:923–942.
+41. Medical Management Guidelines for Acute Chemical Exposures. Washington, DC: ATSDR, US
+Department of Health and Human Services; 1994. Registry of Agency for Toxic Substances and
+Disease: Managing Hazardous Materials Incidents, vol 3.
+42. Millard CB, Kryger G, Ordentlich A, et al. Crystal structures of aged phosphonylated
+acetylcholinesterase: nerve agent reaction products at the atomic level. Biochemistry. 1999;
+38:7032–7039. [PubMed: 10353814]
+43. Reddy SD, Reddy DS. Midazolam as an anticonvulsant antidote for organophosphate intoxication-A pharmacotherapeutic appraisal. Epilepsia. 2015; 56:813–821. [PubMed: 26032507]
+44. de Araujo Furtado M, Lumley LA, Robison C, et al. Spontaneous recurrent seizures after status
+epilepticus induced by soman in Sprague-Dawley rats. Epilepsia. 2010; 51:1503–1510. [PubMed:
+20067510]
+45. Apland JP, Aroniadou-Anderjaska V, Figueiredo TH, Rossetti F, Miller SL, Braga MF. The
+limitations of diazepam as a treatment for nerve agent-induced seizures and neuropathology in
+rats: comparison with UBP302. J Pharmacol Exp Ther. 2014; 351:359–372. [PubMed: 25157087]
+46. Miyaki K, Nishiwaki Y, Maekawa K, et al. Effects of sarin on the nervous system of subway
+workers seven years after the Tokyo subway sarin attack. Journal of occupational health. 2005;
+47:299–304. [PubMed: 16096354]
+47. Nishiwaki Y, Maekawa K, Ogawa Y, et al. Effects of sarin on the nervous system in rescue team
+staff members and police officers 3 years after the Tokyo subway sarin attack. Environmental
+health perspectives. 2001; 109:1169–1173. [PubMed: 11713003]
+48. Loh Y, Swanberg MM, Ingram MV, et al. Case report: Long-term cognitive sequelae of sarin
+exposure. Neurotoxicology. 2010; 31:244–246. [PubMed: 20036279]
+49. Talabani JM, Ali AL, Kadir AM, Rashid R, Samin F, Greenwood D, Hay AWM. Long-term health
+effects of chemical warfare agents on children following a single heavy exposure. Human and
+Experimental Toxicology. 2017 Jan 1. 960327117734620.
+50. Mackenzie Ross SJ, Brewin CR, Curran HV, et al. Neuropsychological and psychiatric functioning
+in sheep farmers exposed to low levels of organophosphate pesticides. Neurotoxicol Teratol. 2010;
+32:452–459. [PubMed: 20227490]
+51. Toomey R, Alpern R, Vasterling JJ, Baker DG, Reda DJ, et al. Neuropsychological functioning of
+U.S. Gulf War veterans 10 years after the war. Journal of the International Neuropsychological
+Society: JINS. 2009; 15:717–729. [PubMed: 19640317]
+52. Seidel F. Soman and sarin: Clinical manifestations and treatment of accidental poisoning by
+organophosphates. Clinical Toxicology. 1974; 7:1–17. [PubMed: 4838227]
+53. Yokoyama K, Araki S, Murata K, et al. Chronic neurobehavioral effects of Tokyo subway sarin
+poisoning in relation to posttraumatic stress disorder. Arch Environ Health. 1998; 53:249–256.
+[PubMed: 9709988]
+54. West I. Sequelae of poisoning from phosphate ester pesticides. Ind Med Surg. 1968; 37:832–836.
+55. Gershon S, Shaw FH. Psychiatric sequelae of chronic exposure to organophosphorus insecticides.
+Lancet. 1961; 1:1371–1374. [PubMed: 13704751]
+Epilepsia. Author manuscript; available in PMC 2019 October 01.
+
+Figueiredo et al.
+
+Page 10
+
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+56. Beard JD, Umbach DM, Hoppin JA, et al. Pesticide exposure and depression among male private
+pesticide applicators in the agricultural health study. Environ Health Perspect. 2014; 122:984–991.
+[PubMed: 24906048]
+57. Malekirad AA, Faghih M, Mirabdollahi M, et al. Neurocognitive, mental health, and glucose
+disorders in farmers exposed to organophosphorus pesticides. Arh Hig Rada Toksikol. 2013; 64:1–
+8. [PubMed: 23705196]
+58. Beseler CL, Stallones L, Hoppin JA, et al. Depression and pesticide exposures among private
+pesticide applicators enrolled in the Agricultural Health Study Environ Health Perspect. 2008; :
+1161713–1719/1719. DOI: 10.1289/ehp.11091
+59. Bazylewicz-Walczak B, Majczakowa W, Szymczak M. Behavioral effects of occupational exposure
+to organophosphorous pesticides in female greenhouse planting workers. Neurotoxicology. 1999;
+20:819–826. [PubMed: 10591517]
+60. Rogers MA, Yamasue H, Abe O, et al. Smaller amygdala volume and reduced anterior cingulate
+gray matter density associated with history of post-traumatic stress disorder. Psychiatry Res. 2009;
+174:210–216. [PubMed: 19914045]
+61. Yamasue H, Kasai K, Iwanami A, et al. Voxel-based analysis of MRI reveals anterior cingulate
+gray-matter volume reduction in posttraumatic stress disorder due to terrorism. Proc Natl Acad Sci
+U S A. 2003; 100:9039–9043. [PubMed: 12853571]
+62. Yamasue H, Abe O, Kasai K, et al. Human brain structural change related to acute single exposure
+to sarin. Ann Neurol. 2007; 61:37–46. [PubMed: 17187377]
+63. Salvi RM, Lara DR, Ghisolfi ES, et al. Neuropsychiatric evaluation in subjects chronically exposed
+to organophosphate pesticides. Toxicol Sci. 2003; 72:267–271. [PubMed: 12660361]
+64. Schultz MK, Wright LK, de Araujo Furtado M, et al. 2014 Caramiphen edisylate as adjunct to
+standard therapy attenuates soman-induced seizures and cognitive deficits in rats. Neurotoxicol
+Teratol. 2014; 44:89–104. [PubMed: 24946037]
+65. Pan H, Piermartiri TC, Chen J, et al. Repeated systemic administration of the nutraceutical alphalinolenic acid exerts neuroprotective efficacy, an antidepressant effect and improves cognitive
+performance when given after soman exposure. Neurotoxicology. 2015; 51:38–50. [PubMed:
+26386148]
+66. Philippens IH, Melchers BP, de Groot DM, Wolthuis OL, et al. Behavioral performance, brain
+histology, and EEG sequela after immediate combined atropine/diazepam treatment of somanintoxicated rats. Pharmacol Biochem Behav. 1992; 42:711–719. [PubMed: 1513852]
+67. Piermartiri TCB, Pan H, Chen J, et al. Alpha-linolenic acid-induced increase of neurogenesis is a
+key factor in the improvement in the passive avoidance task after soman exposure.
+NeuroMolecular Medicine. 2015; 17:251–269. [PubMed: 25920465]
+68. Moffett MC, Schultz MK, Schwartz JE, et al. Impaired auditory and contextual fear conditioning in
+soman-exposed rats. Pharmacol Biochem Behav. 2011; 98:120–129. [PubMed: 21144858]
+69. Piermartiri T, Pan H, Figueiredo TH, et al. α-Linolenic Acid, A Nutraceutical with Pleiotropic
+Properties That Targets Endogenous Neuroprotective Pathways to Protect against
+Organophosphate Nerve Agent-Induced Neuropathology. Molecules. 2015; 20(11):20355–80.
+[PubMed: 26569216]
+70. Riekkinen P Jr, Riekkinen M, Sirviö J. Cholinergic drugs regulate passive avoidance performance
+via the amygdala. J Pharmacol Exp Ther. 1993; 267:1484–1492. [PubMed: 8263810]
+71. Abe O, Yamasue H, Kasai K, et al. Voxel-based diffusion tensor analysis reveals aberrant anterior
+cingulum integrity in posttraumatic stress disorder due to terrorism. Psychiatry Res. 2006;
+146:231–242. [PubMed: 16545552]
+72. Chao LL, Rothlind JC, Cardenas VA, et al. Effects of low-level exposure to sarin and cyclosarin
+during the 1991 Gulf War on brain function and brain structure in US veterans. Neurotoxicology.
+2010; 31:493–501. [PubMed: 20580739]
+73. Chao LL, Kriger S, Buckley S, et al. Effects of low-level sarin and cyclosarin exposure and Gulf
+War illness on brain structure and function: a study at 4T. Neurotoxicology. 2011; 32:814–822.
+[PubMed: 21741405]
+
+Epilepsia. Author manuscript; available in PMC 2019 October 01.
+
+Figueiredo et al.
+
+Page 11
+
+Author Manuscript
+
+74. Chao LL, Kriger S, Buckley S, et al. Effects of low-level sarin and cyclosarin exposure on
+hippocampal subfields in Gulf War Veterans. Neurotoxicology. 2014; 44:263–269. [PubMed:
+25058901]
+75. Chao LL, Zhang Y, Buckley S. Effects of low-level sarin and cyclosarin exposure on white matter
+integrity in Gulf War Veterans. Neurotoxicology. 2015; 48:239–248. [PubMed: 25929683]
+
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Epilepsia. Author manuscript; available in PMC 2019 October 01.
+
+Figueiredo et al.
+
+Page 12
+
+Author Manuscript
+
+Key Point Box
+
+Author Manuscript
+
+•
+
+Organophosphate (OP) nerve agents are deadly poisons that inflict mass
+casualties in human populations.
+
+•
+
+Irreversible inhibition of acetylcholinesterase activity by OP nerve agents
+leads to accumulation of acetylcholine in synapses and hyperstimulation of
+muscarinic and nicotinic receptors in the central and peripheral nervous
+systems.
+
+•
+
+Hyperstimulation of muscarinic receptors in brain results in status epilepticus
+
+•
+
+A plethora of clinical manifestations in the central and peripheral nervous
+system results from exposure to OP nerve agents; miosis and rhinorrhea are
+the most common clinical signs of OP nerve agent exposure.
+
+•
+
+Long-term effects occur after low or intoxicating levels of exposure to OP
+nerve agents.
+
+Author Manuscript
+Author Manuscript
+Epilepsia. Author manuscript; available in PMC 2019 October 01.
+
+Figueiredo et al.
+
+Page 13
+
+Author Manuscript
+Author Manuscript
+Figure 1. Overview of the mechanism of action and clinical manifestations of the acute exposure
+to organophosphate nerve agents
+
+Author Manuscript
+
+Exposure to organophosphate (OP) nerve agents leads to the irreversible inhibition of
+acetylcholinesterase (AChE) resulting in the accumulation of the excitatory neurotransmitter
+acetylcholine (ACH) in synapses and hyperstimulation of muscarinic and nicotinic
+acetylcholine receptors in the central and peripheral nervous system. The major clinical
+manifestation in the central nervous system after exposure to OP nerve agents is
+overactivation of muscarinic receptors resulting in status epilepticus. Prolonged status
+epilepticus results in hypoxic-ischemic neuronal cell death via an N-methyl-D-aspartate
+(NMDA) receptor-mediated mechanism. Clinical manifestations in the peripheral nervous
+system depend upon the type of acetylcholine receptors expressed in the particular organ.
+Miosis and rhinorrhea are the most common clinical findings of exposure to OP nerve agents
+whereas excessive bronchial secretions and respiratory depression lead to death.
+
+Author Manuscript
+Epilepsia. Author manuscript; available in PMC 2019 October 01.
+
+Figueiredo et al.
+
+Page 14
+
+Table 1
+
+Author Manuscript
+
+Preparations and Actions in the field after deployment of an OP nerve agent
+
+Author Manuscript
+
+Guidelines for
+First responders
+
+Field Equipment
+and Actions
+
+Exposure
+Levels
+
+Clinical symptoms
+and signs
+
+Treatment
+
+Personal Protective
+Equipment, air supplied
+respirators, butyl rubber
+gloves and aprons.
+
+HAZMAT teams, experts
+in chemical warfare
+agents, rapid
+decontamination of
+individuals exposed to
+organophosphate nerve
+agents.
+
+Very high
+
+Patient is unconscious, in
+status epilepticus, having
+breathing difficulties,
+muscle paralysis, cardiac
+dysfunction
+
+Diazepam, 2-PAM and
+atropine, oxygen mask,
+intravenous access, watch
+for deterioration
+
+First responders should
+have ATNAA*
+autoinjector kits used by
+the military as this is the
+most efficacious way to
+administer life-saving
+medical countermeasures
+
+If showers are available,
+all patients need to be
+divested of their clothes
+and washed down rapidly
+and extensively to
+minimize further
+absorption, dermal and
+ocular contact of vapors
+and liquid
+
+Moderate with caution
+
+Patient is recovering from
+exposure to
+organophosphate nerve
+agent. Patient may need to
+remain if dermal contact
+is suspected or confirmed
+in anticipation of delayed
+symptoms and signs
+
+2-PAM, atropine and
+diazepam should be on
+stand-by
+
+Ensure open airway,
+breathing and circulation.
+Start intravenous fluids
+and monitor heart rate,
+blood pressure, evidence
+of seizures. Have 2-PAM
+and atropine close by in
+case patient suddenly
+deteriorates
+
+Run water over eyes
+extensively to reduce eye
+injury
+
+Minimal
+
+Patient has a few minor
+symptoms i.e. miosis,
+secretions
+
+No treatment necessary
+
+Report to hospital
+approximate number of
+seriously affected patients.
+
+Showers for victims,
+personal protective
+equipment for
+Emergency personnel
+
+Extremely High
+
+Patient is in prolonged
+cardiopulmonary arrest
+
+Assisted ventilation, CPR,
+2-PAM, atropine and
+diazepam if seizing
+
+*
+
+ATNAA is defined as Antidote treatment-nerve agent autoinjector
+
+Author Manuscript
+Author Manuscript
+Epilepsia. Author manuscript; available in PMC 2019 October 01.
+
+

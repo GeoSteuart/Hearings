@@ -1,0 +1,356 @@
+View metadata, citation and similar papers at core.ac.uk
+
+brought to you by
+
+CORE
+
+provided by UNT Digital Library
+
+This document was prepared in conjunction with work accomplished under Contract No. DE-AC09-96SR18500
+with the U. S. Department of Energy.
+DISCLAIMER
+This report was prepared as an account of work sponsored by an agency of the United States Government. Neither the
+United States Government nor any agency thereof, nor any of their employees, nor any of their contractors,
+subcontractors or their employees, makes any warranty, express or implied, or assumes any legal liability or
+responsibility for the accuracy, completeness, or any third party's use or the results of such use of any information,
+apparatus, product, or process disclosed, or represents that its use would not infringe privately owned rights. Reference
+herein to any specific commercial product, process, or service by trade name, trademark, manufacturer, or otherwise,
+does not necessarily constitute or imply its endorsement, recommendation, or favoring by the United States Government
+or any agency thereof or its contractors or subcontractors. The views and opinions of authors expressed herein do not
+necessarily state or reflect those of the United States Government or any agency thereof.
+
+Integration of Predicted Atmospheric Contaminant Plumes into ArcView GIS
+
+Larry D. Koffman
+Savannah River National Laboratory, Building 773-42A, Aiken, SC 29808, larry.koffman@srnl.doe.gov
+Abstract – The Savannah River National Laboratory (SRNL) plays a key role in emergency response scenarios in which
+there may be a release of atmospheric chemical or radiological contamination at the DOE’s Savannah River Site (SRS).
+Meteorologists at SRNL use a variety of tools to predict the path of the plume and levels of contamination along the path.
+These predictions are used to guide field teams that take sample measurements for verification. Integration of these
+predicted plumes as well as field measurements into existing Geographic Information System (GIS) interactive maps provides
+key additional information for decision makers during an emergency. In addition, having this information in GIS format
+facilitates sharing the information with other agencies that use GIS.
+In order to be useful during an emergency, an application for converting predictions or measurements into GIS format
+must be automated and simple to use. Thus, a key design goal in developing such applications is ease of use. Simple menu
+selections and intuitive forms with graphical user interfaces are used to accomplish this goal.
+Applications have been written to convert two different predictive code results into ArcView GIS. Meteorologists at
+SRNL use the Puff/Plume code, which is tied to real-time wind data, to predict the direction and spread of the atmospheric
+plume for early assessment. The calculated circular puffs are converted into an ArcView polygon shapefile with attributes
+for predicted time, dose, and radius of the puff.
+The meteorologists use the more sophisticated Lagrangian Particle Dispersion Model (LPDM) to predict particle
+dispersion and deposition. The calculational grid is brought into ArcView as a point shapefile and then interpolated to ARC
+GRID format using Spatial Analyst. This GRID can then be contoured into a line shapefile, which is easily shared with other
+agencies. The deposition grid is also automatically contoured for values that correspond to FDA Derived Intervention
+Levels for beef, produce, and dairy products.
+Decision makers at SRS routinely use these predicted plumes to direct field teams. In the case of a strong release, this
+information can be used to decide whether to evacuate a particular area. Having this information in GIS format may aid the
+decision maker because other infrastructure information can be overlaid with geographic reference.
+
+I. INTRODUCTION
+The DOE’s Savannah River Site, located southeast of
+Augusta, Georgia, produced nuclear materials from the
+1950’s to the 1990’s and continues to handle a variety of
+hazardous materials, both chemical and radioactive.
+Consequently, emergency response to a potential
+atmospheric release of chemical or radioactive material
+has long been an issue of both operational readiness and
+research and development. For many years, the
+Atmospheric Technologies Group (ATG) at Savannah
+River National Laboratory (SRNL) has developed and
+maintained state-of-the-art measurement and predictive
+capabilities. These capabilities have culminated in the
+Weather Information and Display (WIND) System, which
+is a computer-based resource for predicting the
+consequences of an accidental release of hazardous
+material. The WIND System integrates measurements
+and predictive capabilities into a single, automated
+process. Local measurements are continuously collected
+from a network of monitoring sites, and various other
+
+regional atmospheric information feeds and forecasts are
+collected, including local Doppler radar. ATG has
+developed an operational configuration of the Regional
+Atmospheric Modeling System (RAMS) to produce near
+real-time predictions of complex three-dimensional
+atmospheric motion, generating detailed eight-hour
+forecasts every three hours. The measurements and
+operational RAMS predictions are integrated in the
+WIND System to be used by a suite of environmental
+transport models to support consequence assessments and
+protective action decisions during all phases of
+emergency response.
+In the late 1990’s SRNL developed the first site-wide
+ArcView GIS system at SRS that made typical GIS
+infrastructure data available over the site computer
+network. ATG was an early user of this GIS system and
+through ATG this GIS system was introduced to and
+adopted by the SRS Emergency Operations Center
+(EOC). ATG realized that the overlay of various types of
+data provided another useful tool for decision makers and
+
+began a program to integrate their predictive plume
+results into the ArcView GIS system.
+In order to be useful during an emergency, an
+application for converting predictions or measurements
+into GIS format must be automated and simple to use.
+Thus, a key design goal in developing such applications is
+ease of use. Simple menu selections and intuitive forms
+with graphical user interfaces are used to accomplish the
+goal of ease of use. The automation is accomplished by
+developing a “handshake” with the predictive model in
+the WIND system so that output from the predictive
+model can be automatically converted into GIS format.
+
+UTM coordinates before the pathline and puff polygons
+are created.
+The ease of use of the application is shown by the
+form in Figure 1. All that is required is for the user to
+browse to locate the text file written by Puff/Plume and
+then specify the location and basename of the shapefile.
+Buttons with preset directories for input and output
+quickly guide the user to the default locations. When the
+Convert button is clicked, the application processes the
+text file information into the shapefiles previously
+described.
+
+II. CONVERSION OF PUFF/PLUME RESULTS
+Within the suite of predictive models in the WIND
+System, the Puff/Plume code is used for early assessment
+in an emergency. Puff/Plume is a highly flexible
+trajectory Gaussian model that provides an initial,
+reasonably conservative estimate of downwind
+concentration or dose. Release trajectories are
+constructed for up to 12 hours based on observed and/or
+forecast winds. Puff/Plume is easy to run and runs
+quickly, typically taking less than a minute to compute.
+Puff/Plume is a PC Windows application with a graphical
+user interface (GUI) for user choices. Puff/Plume
+contains its own graphical output in which the computed
+plume is overlaid on a static basemap, with several
+different choices of basemaps. One of the user options is
+to export a text file for conversion to ArcView GIS
+format.
+An ArcView extension was written to process the
+text file that is written by Puff/Plume. The “handshake”
+between Puff/Plume and the ArcView conversion is
+created by insuring that the text file has a consistent
+format, which is as follows. Line 1 is a header line with
+time and date of release, the time step between puffs, a
+flag of 1 for radioisotope or 2 for chemical, and the name
+of the radioisotope or chemical. Line 2 has the longitude
+and latitude of the release location. Subsequent lines are
+for each successive time step in the calculation and each
+line has a flag for display of the puff (0=no, 1=yes), the
+longitude and latitude of the puff center, the radius of the
+puff, and the concentration or dose.
+The ArcView extension reads this text information
+and creates two shapefiles. One shapefile is a line
+shapefile that shows the plume path by connecting the
+puff center points. The second shapefile is a polygon
+shapefile that shows the puff circles with the radius of
+each puff as read from the text file at its time step. The
+attributes of the puff shapefile include the time step
+number, the date, the time, the dose or concentration, the
+distance from the source along the path, the radius of the
+puff circle, and a flag for display. Note that in the
+conversion the lat/lon center coordinates are converted to
+
+Fig. 1. Form for Conversion of Puff/Plume.
+In addition to creating the shapefiles, the shapefiles
+are automatically loaded into the view and classified
+(color coded) to match the legend in the Puff/Plume
+output interface. For radioisotopes, the dose is broken
+into five ranges of decades including 0-1 mrem, 1-10
+mrem, 10-100 mrem, 100-1000 mrem, and above 1 rem.
+For chemicals, the concentration is classified into four
+ranges that are predetermined according to the chemical.
+A dictionary lookup is used to assign these ranges. The
+dictionary is created from the ranges contained in the
+Puff/Plume code and must be updated if the ranges in
+Puff/Plume are changed. Figure 2 shows an example of a
+chemical plume that has been converted into shapefiles
+and added to a view (note that the GIS view would use
+colors; grayscale is used here for publication).
+
+Fig. 2. Example of Puff/Plume Conversion.
+
+Note that having these predicted plume results in
+shapefile format allows for easy sharing with other
+agencies that use ArcView GIS. The legend classification
+discussed above is shared by creating a legend file with
+ArcView 3.x or by creating a layer file with ArcGIS.
+
+a line shapefile of contours. This contour shapefile is
+easily shared with other agencies and is convenient to use
+in the GIS display. The GRID format is also useful for
+display but is more difficult to share. The main menu for
+the conversion is shown in Figure 3 and follows the
+strategy just outlined.
+
+III. CONVERSION OF LPDM RESULTS
+For the case of radionuclide contamination, once the
+early assessment has been established a highly refined
+transport and dispersion analysis can be performed with
+the Lagrangian Particle Dispersion Model (LPDM).
+LPDM utilizes the three-dimensional winds and
+turbulence fields generated by RAMS. LPDM is a threedimensional stochastic model that calculates particle
+dispersion and deposition of radiological isotopes from
+the three-dimensional flow field. Outputs include
+transient instantaneous surface concentration, integrated
+surface deposition, initial exposure dose, dose rate, and
+total dose equivalent for 4-day, 1-year, and 2-year
+exposure. LPDM has an input graphical user interface
+written in IDL (Interactive Data Language) and also has
+sophisticated graphical output capabilities.
+As with Puff/Plume, the advantage of converting
+LPDM output to GIS format is for easy overlay with other
+information used in the GIS system. The conversion to
+GIS format is not as straightforward since we are now
+dealing with three-dimensional fields. However, for
+consequence analysis the deposition at ground level is of
+most importance, so that the two-dimensional results at
+ground level can be converted to GIS format.
+There is now significantly more information but the
+“handshake” strategy is the same. That is, text files are
+written from post-processing of the LPDM results and the
+text files are in a standard format that is read by the
+ArcView application. There are six text files written with
+standard names and formats as follows.
+
+Fig. 3. Menu for LPDM Conversion.
+When the first menu option is chosen to Convert
+LPDM to ArcView, another form appears that is similar
+to the form in Figure 1. The main difference is that there
+are now six input files and six output files. The
+application is written so that the standard names for input
+files are automatically populated when the user browses
+to find the IDL_header file. Likewise, standard names for
+the output files are automatically populated when the user
+browses to an output directory location. The user
+normally performs these two browse operations and then
+clicks the convert button to perform the processing. The
+processing performs the following steps.
+1. The IDL_header cell location data is converted to a
+point shapefile with the cell ID as an attribute for each
+point.
+2. This point shapefile is projected to UTM coordinates.
+An example of cell locations is shown in Figure 4.
+
+IDL_header
+ddep1.xxxx
+conc1.xxxx
+dosei.dat
+
+XY cell ID and lat/lon of cell location
+Cell ID, integrated deposition (pCi/m2)
+Cell ID, concentration (pCi/m3)
+Cell ID, 50-year Dose Equivalent Initial
+Exposure (Rem), Dose Rate (µRem/hr)
+doseo.dat
+Cell ID, 4-Day Total Dose Equivalent
+(Rem), 1-yr TDE (Rem), 2-yr TDE
+(Rem)
+autotime-pc.dat Number and lat/lon location of sources
+Note that the extension xxxx denotes a time and there
+may be outputs at multiple times. Each time result would
+be processed separately in the ArcView conversion.
+The strategy for the LPDM conversion is to convert
+the cell locations to a point shapefile with an output value
+as an attribute, convert the point shapefile to GRID format
+using Spatial Analyst with the value interpolated onto a
+grid of specified cell size, and then contour the grid to get
+
+Fig. 4. Example of LPDM Grid Cell Locations.
+
+3. Each of the value files is converted to a DBF table, e.g.
+dosei.dat is converted to dosei.dbf. In addition to the
+value field, a field with the log of the value is added.
+4. The point shapefile with cell locations is added to the
+view and the value table is joined to the point shapefile
+using the cell ID for joining.
+5. The log of the value field is used to classify the value
+over five decades starting from the maximum value.
+Figure 5 shows an example of deposition values classified
+over five decades. Note that cells with zero deposition
+are not displayed (transparent).
+
+Fig. 6. Example of Grid of Deposition Values.
+While the grid is useful, it is not easily shared with
+other agencies. The third menu option in Figure 3,
+Contour LPDM Grid, can be used to automatically
+generate a contour shapefile with five contours at the
+same decade intervals as shown in the grid legend. The
+contour shapefile is automatically added to the view and
+classified with the same colors as the grid. Figure 7
+shows an example of the contours of the grid in Figure 6.
+Fig. 5. Example of LPDM Deposition Values.
+6. Each of the value fields are automatically joined to a
+point shapefile and classified into five decades so that all
+data is available for viewing or further processing. Note
+that in Figure 5 that Conc, Dose, and Tde4d have been
+added to the view in addition to deposition.
+At this point the user has the LPDM results converted
+into point shapefiles and can proceed to grid the values of
+interest. Usually deposition is of most interest and the
+following steps will use deposition as the example. With
+the deposition theme selected, the user chooses the second
+menu option in Figure 3 to interpolate the values into
+GRID format. The user is given an option to choose the
+cell size for the interpolation, which is presented with a
+default value of 1/16 of the cell spacing. Usually the user
+takes the default and the grid is created. The grid is
+automatically added to the view and classified into five
+decades. Figure 6 shows the grid corresponding to the
+point values in Figure 5.
+The grid in Figure 6 is useful as a backdrop in the
+GIS view and this is used in the WIND ArcView System.
+One example of how this grid is used is to direct field
+teams that are deployed to gather field measurements to
+verify the predicted plume and deposition. This
+information could also be used by decision makers to
+determine if certain areas should be evacuated.
+
+Fig. 7. Example of Contours of Deposition Values.
+Figure 3 shows a fourth menu option, Compute
+Threshold Contours. This option is used with the
+deposition grid and produces contours for deposition
+values that correspond to FDA Derived Intervention
+Levels for beef, produce, and dairy products. A
+dictionary lookup for the radionuclide automatically
+provides the threshold levels and generates the contours.
+
+A message tells what the threshold value is and whether it
+is exceeded. If the value is exceeded, then the shapefile is
+automatically added to the view.
+IV. CONCLUSIONS
+During an emergency, decision makers rely on
+integrated information, and having spatial information in
+a GIS system may be beneficial to the decision makers.
+Complex calculations such as atmospheric plume
+predictions can be integrated into the GIS system for
+overlay with other information. Key design goals in
+developing a conversion application are ease of use and
+automation to minimize manual operations. Examples
+have been given for the conversion of two atmospheric
+plume computations used at Savannah River National
+Laboratory. “Handshake” between the computational
+code and ArcView is easily accomplished using text files
+in a defined format. The Puff/Plume and LPDM
+conversions to ArcView are routinely used at SRNL
+during emergency response situations.
+ACKNOWLEDGMENTS
+The author wishes to thank Robert Addis, the
+manager of the Atmospheric Technologies Group at
+SRNL, for his support and his encouragement of the
+integration of GIS with ATG calculations used for
+emergency response. The author has worked closely with
+Charles Hunter, the WIND System Coordinator, who has
+provided the technical direction for integration of GIS
+with the WIND System. Gary Snyder maintains the
+Puff/Plume code and worked with the author to develop
+the handshake for Puff/Plume conversion. Robert
+Buckley developed the LPDM capability at SRNL and
+worked with the author to develop the handshake for
+LPDM conversion.
+
+

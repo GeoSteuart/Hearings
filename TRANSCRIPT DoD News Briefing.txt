@@ -1,0 +1,510 @@
+TRANSCRIPT DoD News Briefing
+Thursday, July 24, 1997 - 1:30 p.m.
+Subject: GWI Report on Plume Analysis
+
+Mr. Kenneth H. Bacon, ASD PA Dr. Bernard D. Rostker, Special Assistant for Gulf War Illness Mr. Bob Walpole, Special Assistant, CIA Dr. Thomas L. Garthwaite, Deputy Under Secretary for Health, VA
+Mr. Bacon: Good afternoon.
+
+In 1994, President Clinton launched a comprehensive examination of the health concerns arising from the Gulf War. He established the Presidential Advisory Committee on Gulf War Veterans' Illnesses and ordered government departments to work together to uncover the causes of illnesses that some veterans are suffering, and to improve the health care for future deployments.
+
+Thirteen months ago here, after an interagency review of intelligence information, the Defense Department announced that U.S. troops unknowingly blew up chemical weapons when they destroyed a large ammunition depot at Khamisiyah in Iraq in March of 1991, shortly after the end of the war. Khamisiyah raised the possibility that some soldiers could have been exposed to sarin, a nerve agent. However, we have found no clinical evidence that U.S. troops were exposed to chemical agents.
+
+Last fall, Dr. Bernard Rostker was named special assistant for Gulf War illnesses. He launched an energetic effort to improve our understanding of the health consequences of Gulf War service, including a review of what happened at Khamisiyah. Also last fall, the Central Intelligence Agency set out to model the 1991 dispersion of chemical agents from Khamisiyah so that we could figure out which units might have been exposed. This turned out to be very complex, and the task was just completed by the CIA and Defense working together.
+
+Bob Walpole, the special assistant to the director of Central Intelligence for Persian Gulf illnesses, will describe the modeling effort.
+
+When the Defense Department learned that the modeling effort was going to take many months, it undertook a less sophisticated effort to identify veterans close to Khamisiyah. We estimated that soldiers within a 25-kilometer radius of Khamisiyah could have experienced some sort of symptoms if they had been exposed to chemicals. To be conservative, we doubled that radius to 50 kilometers. Last fall we estimated that about 20,000 soldiers had been inside that circle between March 4th and March 15th, 1991.
+
+Unlike the CIA Defense analysis, our figure was not an exposure estimate. We set out to contact those soldiers to learn more about the events at Khamisiyah and the health consequences of their service. Dr. Rostker can describe our findings from that survey when he speaks.
+
+The analysis that we are presenting today is an attempt to calculate how the nerve agent was dispersed by winds after weapons were destroyed in an open pit on March 10, 1991, and to model the dimensions of its plume. The analysis confirms what we had learned from our earlier survey -- no U.S. units experienced any noticeable health effects at the time of the event.
+
+As you know by now, the plume model shows that nearly 99,000 service members were possibly exposed to a very low level of nerve agent vaporized during the weapons destruction. We are in the process of notifying those soldiers.
+
+Current medical evidence indicates that long term health problems aren't likely from brief, low level exposure to nerve agents. However, medical research on this question is limited. Therefore, the Departments of Defense and Veterans Affairs have launched studies to learn more about the health consequences of brief, low level exposure. Dr. Thomas L. Garthwaite, Deputy Under Secretary for Health at the Department of Veterans Affairs, will address this and other health-related issues.
+
+Bob Walpole of the CIA will start the briefing, followed by Dr. Rostker from the Defense Department, and Dr. Garthwaite from the Department of Veterans Affairs.
+
+Before they begin, I would like to stress that the government's work on Gulf War Illnesses is being conducted by an interagency team that also includes the Department of Health and Human Services. President Clinton's advisors on Gulf War Illnesses have provided oversight and coordination. Each agency is making important contributions to our continuing efforts to explain Gulf War health issues and to care for veterans who are ill.
+
+With that, I'll turn the podium over to Bob Walpole.
+
+Mr. Walpole: You have several papers in your package, and the one I'll be drawing from is the one that looks like this. It's on the modeling, the chemical weapons relief at the Khamisiyah pit.
+
+Last year, CIA was asked by the Presidential Advisory Committee and the National Security Council staff to model two events at Khamisiyah. One was Bunker 73, and one was in the pit. This was a demolition of chemical weapons there.
+
+We were able to complete the modeling of Bunker 73 because we had had ground testing in the 1960s that gave us very important data on what chemical agent would do when destroyed inside a building. We did not have comparable data for what happened when destroyed in an open pit, and it made it very hard to do the modeling. On top of that, we had great uncertainties in the weather conditions, so the modeling came to a halt.
+
+In the intervening months, we have spent a lot of time addressing those uncertainties, and let me walk through some of that. I briefed a little bit of this last week, but I can see we've got a larger group, so some of this will be new.
+
+When we tried the modeling last year we had two soldiers telling us what had happened in the pit. They had contradictory stories. We've now increased the number of soldiers that are talking to us about the pit to five, and that's at least half of those that were directly involved in the demolition activity.
+
+By getting them together in a room at the same time, DoD and CIA being there to ask questions, we were able to eliminate most or all of the controversy, the conflicting statements, that they had made. They described activities that occurred at all parts of the pit. They explained that what was a log entry on March 12th was recorded after the fact from accumulated data, and we should not place credibility on that. So we gained a lot more information for what happened in the pit, and we appreciate the veterans that were helping us with that. We eliminated the uncertainty on the date of demolition.
+
+In addition, the Defense Department and CIA jointly asked the IDA panel to review what we had done and to make recommendations on how to address the uncertainties that had stopped us from completing that work. They provided a significant amount of meteorological expertise and made recommendations that we were able to follow in this modeling process. We were also able to come up with new sources of meteorological data. We were able to find a photograph of the bunkers destroyed shortly after they were destroyed on March 10th, and tracking the soot patterns from those bunkers we were able to get the azimuth of the wind direction at the same time as the event. We were also able to track the smoke from the oil fires in Kuwait over the period of days we're talking about to track our weather conditions.
+
+Finally, we were able to refine the source term, the last three bullets on the chart, the source term, Dugway testing, and multiple mathematical models were used. I'm going to discuss those in more detail with the next slide.
+
+On refining the source term, if you can't get a handle on how many rockets were there and what the agent purity was, you would have to run multiple parametric variations to try to track that. Instead, we were able to refine those numbers to a best estimate. We knew the Iraqis had declared 1100 rockets in the pit. We believed there were more than that, but we didn't have any real data to tell us how many more than that. We could establish an upper bound by assuming that all 13 stacks in the pit were the same height, and that all the crates were packed as closely together as possible. That gave us 1400. Except based on these soldiers' descriptions, we knew all the stacks were not the same height, so we know 1400 was not the right number, it was just an upper bound.
+
+In getting the soldiers together and having them describe which stacks they worked on, what the heights of those stacks were, we were able to ascertain the tallest and shortest stacks. We then matched that with photography of the stacks and measurements of the height of the stacks, and that yields the number 1250, which is a best estimate of what was actually there.
+
+Of that number, after the demolition, six months later, UNSCOM went in and found about 750 of the rockets had not been affected by the demolition, and saw them disposed in another manner. That left a potential for 500 to be affected by the demolition.
+
+Now at this point in the briefing, that's the last time I'll really talk in terms of numbers of rockets, because the model runs the amount of agent that is released, not the number of rockets.
+
+So on that point, relative to the amount of agent, when we were proceeding with the Dugway testing, we needed to have warheads manufactured for that testing. In the course of manufacturing those warheads, it became clear that we were overestimating the amount of agent in each rocket. It was not eight kilograms, it was 6.3. We couldn't get eight kilograms into the warheads. The eight kilograms included the mass of the plastic containers, and there's two in each rocket.
+
+Finally, on agent purity. Last year when we tried to model this we were considering agent purity at 100 percent. We knew it wasn't 100 percent. We knew it would have been degraded, but we couldn't quantify how much. We knew that UNSCOM had made samples, but it was from one rocket and had 10 percent. That wasn't statistically valid enough to use that for an estimate. We also knew the Iraqis had claimed purity of as high as 70 percent, but we didn't know what that referred to -- when it came out of the production plant, was that the highest run, what have you?
+
+We got access recently to the Iraqi production records, and taking that information we were able to ascertain that during the time of the demolition the purity of the agent estimated between 40 to 60 percent, so we used 50 percent purity for our modeling.
+
+The Dugway testing. In addition to helping us understand how much agent was in each rocket, Dugway provided a lot of other information. For example, we learned that only those rockets that had charges placed on the warheads aerosolized the agent. And in fact, we only had two percent of the agent aerosolized, and you can see that in the two points up here. They were aerosolized as vapor and droplets.
+
+We translated this chart to gallons so that we're not talking in terms of percentage. If you take the 1250 rockets, multiply it by the kilograms per and so on, you get 1882 gallons total agent in the pit at that time. Nineteen gallons of that aerosolized as vapor. Nineteen gallons as droplets.
+
+How did we get that? During the Dugway testing, we had sensors in the towers, we had sensors on wires, we had cards placed all over the desert floor so we were able to estimate the amount of agent that fell into those two categories. We also found that in doing the tests at Dugway, that 60 percent or about 60 percent of the agent, did not release in any manner. That's the large block right there. That correlates very well with the 750 rockets that UNSCOM found did not receive any harm.
+
+Fifteen percent of that agent went into the wooden crates. Of that 15 percent, two-thirds evaporated from the wood and one-third stayed in the wood. Another 15 percent of the agent went into the soil, and a third of that evaporated from the soil over two to three days, and two-thirds of that stayed in the soil. This was done both from the Dugway tests and evaporation tests that we did after the fact by using simulated agent in wood and simulated agent in soil. We were able to get soil samples not directly from Khamisiyah, but nearby, and those that are familiar with the Khamisiyah area indicated this is about the same as the soil that we saw there; as well as those that understand the geology of the area said this is comparable to the soil.
+
+Finally, eight percent of the agent that you see on this chart burned during the detonation. When you have a detonation at a bunker, you have a higher percentage that actually destroys because of the accumulation of heat.
+
+Finally, the last two charts on both sides, walk through the process that we had to come up with the plumes that you'll be seeing shortly.
+
+The same source terms were applied to each of the models. This is so we could have consistency in how we were approaching the issue.
+
+Secondly, we had two different synoptic meteorology models -- those models that tell us the global weather conditions at the time of the event. IDA had recommended that we use multiple models and so we have done that from the synoptic models, all the way to the meso scale and the transport diffusion models.
+
+On the meso scale models, the ones that tell us the local weather conditions, we were able to feed that data in in various linkage as you can see through here, from the global information, to determine what the weather was doing over that two to three day period of time. IDA had recommended, given the uncertainties, that we run perturbations on that weather to find out what directions it would run. After running those perturbations, we dropped those that were inconsistent with observed data. I mentioned before the foot patterns, I mentioned the smoke from the oil fires. So any model that ran completely opposite from what we knew to be accurate, we were able to drop.
+
+Then we linked that information with three different transport and diffusion models, those models that tell you where the agent travels and how the agent travels. We did that through five different linkages. IDA had recommended that we link these models, rather than just do a straight line method. After we did that, we were able to lay each of the plumes on top of each other and we ended up with a composite of the plume -- what I mean by that is a union. We did not say take an intersection of well, this is where they overlap, so we'll use that. We drew the outside boundary of all the models overlaid on each other to increase our confidence on what we were laying down and decrease any other uncertainties.
+
+With that, let me turn it over to the plume itself, with Dr. Rostker.
+
+Dr. Rostker: Before I show you the maps and the plume, I want to go over with you the issue of dosage and limits, because you'll see that on the slide that we'll be talking about.
+
+We're going to break the analysis into two parts bounded by the area we call first noticeable affects. So we're going to deal with the area of first noticeable affects, and then I'll come back later and talk about the area between first noticeable affects and the general population limit.
+
+First noticeable affects is important because it relates to the 50 kilometers around Khamisiyah and what we did last October. I think in your packages you may have Dr. White's memo from last October which pointed out that we really did not know a lot about the events of Khamisiyah. Many of you had heard me talk about Khamisiyah as an enigma. We knew the UN blew things up, we knew our troops were there, but the supporting information -- Why didn't we hear alarms? Why weren't anybody sick? -- were things that troubled us, and we thought we could get some insights from talking to the large number of people that had been around Khamisiyah.
+
+We looked at the literature, we made a general stab at 25 kilometers being an area we might have seen first affects. Then we doubled it. Since there was great uncertainty about the wind, we went 360 degrees at 50 kilometers, and our best assessment at that time was that we were talking about roughly 20,000 troops.
+
+So this is an area of the KTO, the Kuwaiti Theater of Operation. Khamisiyah is in the center, and this is the area of 50 kilometers.
+
+We're going to blow that up for you in a series of slides. This is the 50 kilometer area and the area where we believe there may have been first affects, and in the center there an area where we believe if chemical alarms had been, those alarms would have gone off. Let me blow that up again a little bit more for you.
+
+This is Khamisiyah with Highway 8. The little dots are the areas where we believe company size units were located based upon our S3/G3 conferences.
+
+The fallout pattern, the plume pattern of first affects has this finger here, and this is an artifact of using a union approach, four models pointed due south, and one model moved slightly to the east, so we're showing the union of that. This really helps us understand why we got the results we got at Khamisiyah.
+
+You'll notice the area of alarms, and here we frankly changed the scale a bit. The area of first affects is a dosage, an area of dosage in which time plays an important portion. The area of our alarms are concentration. The alarms recycle every 20 seconds, so this is really a peak, a spike, and that's a shorter period. This is about 10 miles long by about three or four miles wide. This is a very small area of several kilometers by about one kilometer. The particular wind patterns, the particular release indicates that there were no troops that would have felt first affects based upon the unit locations, and that the area of the alarms to go off was extremely small.
+
+Again, the unit locations do not capture where individual troops were. We know that Sergeant Howard did transit this area during the dirt and the fallout from the explosions. He had no health affects. But clearly one person was captured in that area, but he's the only other person, and as far as large scale troops captured in that area, the particular pattern of the wind does not indicate that. That was, as I'll show you in a moment, confirmed by our survey results.
+
+The troops that did the explosions in Khamisiyah actually evacuated along this road and were out here someplace.
+
+Let's now look at the second day. Again, focusing on first affects where people would have felt something -- a tightness of the chest, wheezy eyes. An area about five miles across and five miles down, a smaller area. What's feeding this is the material leaching out of the soil, leaching out of the wood. Now that's an effect that is very important as we go through these charts and something we would never have expected without Dugway. What we had all thought was an instantaneous release into the atmosphere and what we found in Dugway was that a very important factor was the material going into the wood, going into the soil, and a wick effect, being drawn into the atmosphere over the next several days feeds the plumes.
+
+On the third day...
+
+Q: Not much wind, though.
+
+Dr. Rostker: Not much wind at this point, and the wind starts to shift. But not much material, also, on that day.
+
+On the third day we have no measurable amount at Khamisiyah, according to our analysis.
+
+Let's go back now and take a look at the survey results and how does our contacts with soldiers in the 50-kilometer range coordinate with that, whether it correlates with that. We sent almost 20,000 questionnaires out. We looked at them for a period of about 11 days from the original bunker through our outer estimates of when there may have been a pit explosion. We received 7400 questionnaires back, and 99.5 percent of those questionnaires indicate that the people had no physical affects that could be correlated with possible Sarin exposure. We are carrying 26 cases where we've talked to people as follow-up on the questionnaire where they had symptoms where we can't rule out that they had some effect, but these are also symptoms that are consistent with the flu, with allergies -- runny noise, watery eyes and the like. But that maximum number here is 26 out of 7400. So 99 percent plus of the people we surveyed and have got responses to around Khamisiyah had no physical symptoms, and that's exactly what we would have expected given the weather analysis and the diffusion analysis, because we didn't see that those plumes were over any of those troops.
+
+Now let's go on to the issue of low level exposure. This is an area of concern to us where our medical research is focused. We know the outer bound of the general population limit. The upper bound of noticeable affects. Our best assessment is that current medical science indicates no long term affects. This was a relatively brief exposure measured in hours at very low levels, not measured in days or weeks as one would have with chemical workers or agricultural workers. So it's measured in hours. But the coordinated efforts of VA, DoD, and HHS are putting research and dollars into better understanding this phenomena.
+
+Now a look at the area of the general population limits.
+
+This is the first day. It is the union of five models, so any individual model would be substantially smaller than this. We have great certainty that anybody exposed would be captured in this footprint, in this plume. We can't say the converse, that everyone under that plume has been exposed. Since we have grown the plume, wherever we had uncertainty, and we've grown the plume to include the output of five different models. So this is the union, and again, gives us great certainty that people who were exposed would be captured by this analysis.
+
+The wind driving due south, all five models agree, extending about 150 miles into Saudi Arabia.
+
+The second day is really an important indication of why having detailed weather models are important, because the wind shifts, and in this case it starts moving towards the west. Moreover, since this was not an immediate single release where you'd have a cloud and the cloud is moving downrange, but a phenomena of constant releasing of agent because of what was in the sand and in the wood, that plume is being refreshed and you can see elements tailing off towards the west, and we capture some troops at KKMC, at the logistics base along the Tap Road. This is the day we have the most low level exposure.
+
+On the third day, the material in the atmosphere in the south is gone, it's below the general population limit, but in a sense a new cloud is formed based upon the evaporation, and that cloud is moving up the Euphrates Valley.
+
+Then on the fourth day, conditions localize around Khamisiyah and that's the last day that we even are able to calculate to the general population limit.
+
+These are the day totals. On the first day, the narrow plume moving towards the south captured some 19,000 troops. The second day, that plume thickens as the wind moves towards the west and move westward in Saudi Arabia, and some 79,000 troops were exposed that day.
+
+The third day moving up the Euphrates Valley, 3,300 troops were exposed. And the last day, localized around Khamisiyah, two battalions of troops were there, about 1,600.
+
+There is double counting here, so it nets out to almost 99,000.
+
+When we get to do the detailed epidemiological work, we will have profiles for individual units that show their exposure over time both with the concentration they had at any point in time and the cumulative dosage. So we can portray for our research purposes, a much more detailed pattern. The assumption here is that we have one observation per unit location per day so that the unit is fixed and the cloud is moving in 10-minute increments. We calculate those concentrations and the dosage, and then at the turn of the day, at midnight, the unit moves to its new location. That's the best assumptions that we can have. We know that's not totally real, but it gives us the best estimate that we can provide at this point.
+
+We have ongoing responsibilities to our veterans. Letters of notification are being sent. The first letters went out today. That program will continue into next week. There are two letters, and I believe we have shared those with you. The first letter will go to anybody who is under this plume, the 99,000, and it will say that we believe you may have been exposed to low level chemicals, and that our best assessment is that there are no long term health consequences. However, if you have any concerns, we invite you to come to the DoD Health Registry or the VA Health Registry.
+
+There are a number of people who we have communicated with previously. For example, those who were in the initial 20,000 who were not in the plume, who were not in the area of even general population exposure as that moved south, and we will be talking to them, we'll be sending them a letter indicating that our best assessment is that they were not exposed.
+
+We have also improved our 800 hotline capability. We have 20 operators in Monterey. They will be operating during the week, and we've dispatched a team from here to make sure they have the right information and to train them. They all will have on their computer screens the ability to look at the unit rosters and the troop lists and confirm for anybody who calls whether they will be receiving or not receiving a letter. We have backup with our veterans contact managers, the people who do our lengthy debriefs here in Washington. They will work over the weekend. Phone calls will be forwarded. They provide backup to the initial contact in Monterey, and we're prepared to augment this with appropriate professional support as needed.
+
+There are a couple of other things that are coming. There are still some things to do in the analysis. We've talked to you before about the S3/G3 conferences to get much better fidelity on the location of troops to allow us to move from a battalion accounting to a company accounting. That is completed for all of 18th Airborne Corps and completed for a small portion of 7th Corps. We, frankly, did not expect to see large elements of 7th Corps under the plume. That was not the case. There are elements of 7th Corps under the plume. So we will be refining those estimates. Those conferences are scheduled for September. Right now we're using battalion level data which means the number is probably larger than it will be when we can actually place the companies on the map.
+
+Most importantly, this data, this analysis becomes an important input to ongoing and future epidemiological studies. What you have to have in an epidemiological study is not only the affects on people, but also what the dosages were, what they were exposed to. Previously, we frankly had no idea of what they were really exposed to at Khamisiyah. These are our best assessments of what their exposure was and will be, I think, a very valuable piece of information as we continue our medical research and our epidemiological research.
+
+That leads to the ongoing research, medical research program. But before that, let me just summarize the major points.
+
+That we know of no unit -- either from our survey work or from the analysis -- that received a dosage where people would have felt first affects, would have had any tightness, any wheezing of the eyes. This goes a long way to explain the missing inconsistencies in the Khamisiyah story. There are a number of troops who have been exposed to very low levels, and they remain a concern of ours -- both immediately a concern and in the long run -- to understand through epidemiological work and medical work the impacts of low level chemical exposure. And if anyone has any concern about their health who served in the Gulf -- whether they were at Khamisiyah or any place in the Gulf -- we implore them to come in and be examined either at a VA facility or at a Department of Defense facility. Here are the hotline numbers that they can call. There are people who are ready and able to answer their questions and make sure they get the medical treatment they need and deserve.
+
+With that, I'll turn it over to the VA.
+
+Dr. Garthwaite: Thank you.
+
+The Department of Veterans Affairs and Department of Defense have a joint goal which remains, and that is to provide quality health care, compensation, and services to our Gulf War veterans. This includes keeping them informed about investigation research efforts put forward by all the Administration.
+
+Under the auspices of the Persian Gulf Veterans Coordinating Board's Research Working Group, which is made up of scientists and other representatives of the Department of Veterans Affairs, Department of Defense, and Health and Human Services, we have developed a structured research portfolio to address the currently recognized highest priority medical and scientific issues regarding Persian Gulf veterans illnesses. More than 90 research projects are in progress, and others have been completed. We continue to search for answers to and expand our understanding of the complex array of issues related to Gulf War veterans' illnesses.
+
+There are seven research grants to universities and non-government labs in this country and abroad focusing on low level exposures to nerve agents already in progress. These grants total more than $3 million in support.
+
+We recently intensified our efforts following the release of information on possible low level exposure resulting from the Khamisiyah demolitions, and a focus on the long term health affects of low level exposure to chemical warfare agents has been incorporated into our research plan with a high priority for funding.
+
+A call for proposals for research in this area was issued in January. In response to the solicitation, proposals totaling several millions of dollars have been selected for funding and will be announced in September.
+
+The Research Working Group will meet in the near future to discuss the Khamisiyah exposure information released today and will determine the best way to proceed to assess any relationships between the risk of exposure and the health of these veterans. They also will review the research already in progress to determine if any modifications based on this new data are necessary.
+
+I think it's also important to emphasize that we are looking at all hazardous exposure in the Gulf War theater. The VA has established three environmental hazards research centers focusing on potential adverse health outcomes of exposure to a wide variety of hazards, as well as a reproductive hazards research center. Because we are not dealing with one cause or one disease, our epidemiologic research continues to remain essential.
+
+We are nearing completion of a national health survey of Persian Gulf veterans and their families. This survey consists of a random sample of 15,000 Gulf War veterans and active duty member with Gulf War service to compare their health status with an equal-sized group which was not deployed to the Gulf. This is the first time that a national survey such as this has been conducted on a random population of servicemen, and it's our hope that we'll get a better picture of the health status of Gulf War veterans and their families from that study.
+
+As Dr. Rostker pointed out, it is important to note that the knowledge of specific exposures is useful, but not necessary for the treatment of and the provision of health care and benefits to Gulf War veterans. While research and investigative efforts are important, we have not and will not wait for research results in order to provide appropriate and effective treatment to Gulf War veterans.
+
+When advising veterans about the Khamisiyah exposure event, VA and DoD will let them know that we don't believe there is a reason for them to be concerned, because the body of medical evidence to date does not support such an exposure has a long term health effect. But, especially for those in the low level exposure zones, we believe the responsible thing to do is to continue to conduct research into the low level exposures, to follow these veterans and make sure that they suffer no ill effects from their exposure; to keep them informed of any new discoveries and to offer them any new tests or treatment should research findings warrant.
+
+Both DoD and VA have active and aggressive programs to register, to examine and evaluate the health of Gulf War veterans. As it states in the letters being sent to these veterans, if you are ill, come into a VA or DoD medical facility and get a free health examination. If you are not ill, there is probably no need to seek medical attention, but we welcome all veterans to visit VA and get in on the Persian Gulf Registry. We will keep them informed about new developments in our health care, benefits and research. Veterans can call one of the numbers listed here on the board.
+
+Our focus will remain on treating individual veterans for their specific health concerns, compensating them for their disabilities, and conducting research to find out what is making them ill. We will continue to do that.
+
+Thank you.
+
+Q: Based on what is known today, how likely is it that this extremely low level exposure could account for the illnesses suffered by some Gulf War veterans?
+
+Dr. Garthwaite: I don't think the scientific data allows you to say that it couldn't account for the illness of some veterans. It seems unlikely that it would account for the illnesses experienced by all veterans who are experiencing some difficulties or illness related to their service in the Gulf. We don't think it's likely, based on the current data, but...
+
+Q: The Veterans Administration Persian Gulf Registry is the biggest register of people who came forward with health complaints. Now you have an outer boundary of plume, an outer boundary of probably exposure. Are you proposing to do an epidemiological study to see if there was a correlation between any of the units under the plume and the veterans who are registered on your registry? Because that, obviously, would give you a figure of whether or not there were unusual incidents of veterans coming forth. I know VA has been reluctant to do that in the past, but are you going to do that now?
+
+Dr. Garthwaite: We believe that conducting an epidemiologic study makes a whole lot of sense now that we've defined a population who may have a different risk factor. Whether or not the Persian Gulf Registry is a proper scientific database in which to make those comparisons is a key question and one I think we really need to ask our scientists to determine. I think it's a self-reported registry in which people come in. We will ask them to address that in their meetings.
+
+Q: Can you think of another better...
+
+Dr. Garthwaite: Probably the prospective study of the 15,000 veterans may be, if there are enough numbers in there to give statistically valid data.
+
+Q: Do you agree with the statement, "Current medical evidence indicates that long term health problems are unlikely as a result of what happened at Khamisiyah"?
+
+Dr. Garthwaite: I think what little evidence is available in the medical literature, at the levels we're talking about in the lavender plume, I think that's a true statement.
+
+Q: But wouldn't you agree, there are some respected scientists at Harvard and Duke and University of Texas who would not agree with that statement?
+
+Dr. Garthwaite: I don't know what... I'd need to look at the specific data that they have with regard to this level of Sarin exposure.
+
+Q: Dr. Joseph said there is very sparse research on low level affects, so there's more ignorance involved here than knowledge. Do you think we need to know more about low level affects?
+
+Dr. Garthwaite: Absolutely, and I think that's why I was detailing the commitment we have to fund additional studies on low level affects.
+
+Q: I think the point is that there is very little evidence on this. Isn't it a bit much for the government to say that it's unlikely on the basis of what is very sparse research?
+
+Dr. Garthwaite: I think that we need to do the research. I think we have to keep an open mind.
+
+Q: But isn't it going a little too far to say that it's unlikely at this point that this is the cause of some health problems?
+
+Dr. Garthwaite: I don't think the data suggests one way or the other, but the doses are low and previous data that... Maybe the Army can add to that, because they've done a lot of the research in the area, but...
+
+Q: Do you know enough at present about Sarin to know if when taken in as an aerosol or absorbed through the skin, is it retained by the body? For how long? Does it metabolize? Is it something that can have a long term affect?
+
+Dr. Rostker: We know that, and the answer is no. The body will reject it. The issue here would be whether there was any damage during the time. We have the research from accidental exposures and the like. The statement was fully coordinated through all of the government agencies, and the statement is that we believe it is unlikely, but it's a subject of ongoing research.
+
+Q: Would you agree that some respected scientists would say that's not the case. It's an overstatement?
+
+Dr. Rostker: I think you'd have to talk to the individual scientists. We've talked to scientists inside and outside the government and I think you need to... I wouldn't want to characterize what they said one way or the other.
+
+Q: Is the Defense Department more of an advocate of the position which you are stating here, Bernie, than is the Veterans Administration? The Veterans Administration apparently has more concern about low level affects of Sarin than does the bureaucracy at the Defense Department. I'm not trying to get you guys to fight with each other, but there is a disagreement within the two bureaucracies, is there not?
+
+Dr. Garthwaite: I don't perceive that we have a disagreement. I think we're attempting to keep an open mind and let the science determine this and to keep it in the arena of peer reviewed science and try to get the studies that will show that.
+
+I will say that one of the ways that we've looked at this, because there is a relatively small amount of data available, is that the VA convened an international symposium on organophosphates in Cincinnati last summer, and I think that has some potential to... It's got scientists from different countries comparing their results. I think it stimulated a fair amount of discussion, and we hope it will help stimulate the applications for our research proposals.
+
+Q: Dr. Rostker could you, I guess, get to the bottom line and help us understand how the study of this plume helps anyone understand the illnesses suffered by thousands of Gulf War veterans?
+
+Dr. Rostker: I think this really comes again, to the follow-on medical research, the epidemiological research. What we have never had before was a definitive account of both a release and what the agents were. We're working through that systematically. We've talked about you with Camp Monterey. Next week at the PAC meeting in Buffalo we will release to the public the Marine breaching case and our paper on Fox vehicles. Later in the summer will come Al Jabil, the girls' school. All of these were potential.
+
+This is a case where we now are quite sure that we have got the exposed and that we are notifying those who were exposed. Now that piece of information is absolutely critical in doing any follow-on research with the CCP, with any randomly drawn sample, and that's an important step forward.
+
+I think, getting back to the issue of other scientists and the like, I don't think any of us, whether we're talking about scientists outside of the government or not, has a treatment protocol. This issue is first identifying and then we can move forward. We've made a large step in identifying what some people might have been exposed to, and then we have to wait for the significance of that for the epidemiological work.
+
+Q: A CIA question. What's the probability of error in your plume analysis?
+
+Mr. Walpole: These are simulations, so they don't lend themselves to having an exact probability like them. What we were doing from the very beginning was trying to come up with the best estimate of where the plume went.
+
+As we've indicated, this is not just one plume. We took multiple models, and they all varied. They all have strengths and weaknesses. Then laying that down, drawing the outside boundary to increase the confidence we have in that. So the best we can say is we've got a best estimate on this. I do not have a mathematical probability on that.
+
+Q: Dr. Rostker, a basic question here. How many Gulf War veterans are sick?
+
+Dr. Rostker: I don't know what the definition of sick is, Jamie. I can tell you how many have come into the CCEP. We can talk about how many have different diagnoses. We can talk about how many have eventually come to the point of no diagnosis that falls under the unknown diagnosis category.
+
+Q: When you cite the number of people that you surveyed, the 7,000 or so, 99 percent weren't sick.
+
+Dr. Rostker: That was a question that related to the immediate affects. I don't have the numbers, but we can get them for you, of how many were registered in the CCEP...
+
+Q: Is that still an unknown, here five years later, how many Gulf War veterans are actually sick?
+
+Dr. Rostker: Again, I have to say what's the definition of sick?
+
+Dr. Garthwaite: The reason I mentioned the epidemiologic study we're doing with 15,000 veterans randomly surveyed, we hope to get at that answer. We know who self-selects and comes in for the registry examination, but we don't know who sees other clinicians in the private sector, we don't know who's sick and doesn't see anybody and haven't been asked if they're feeling well or not. So I think by doing this very rigorous random selection of 15,000 and then 15,000 the same age and gender and everything's the same except for the deployment to the Gulf, we can begin to get at that answer.
+
+Q: When will we get the results of that research?
+
+Dr. Garthwaite: About a year.
+
+Q: Just to clarify, until we get the results of that we also don't know the answer to the key question, are troops who deployed to the Gulf sick in greater numbers than those either in the general population or who didn't deploy?
+
+Dr. Garthwaite: That's important to know. We do know that they don't die more often than those that weren't deployed; we know they aren't hospitalized more often than those that don't deploy. We do know they have more symptoms, at least in some studies.
+
+Dr. Rostker: Let me give you an indication. There's a Navy study in peer review, an extensive study of Seabees. Of those who deployed to the Gulf, something like 100 have five or more complaints; of those, only 12 had actually registered in the CCEP. So there is a big difference between having a complaint and then taking the step; there's a big difference in terms of actual diagnosis; and all of that has to go into careful epidemiological work.
+
+The vast majority of the people who have been seen in the VA or at DoD have diagnoses that are not necessarily related to the Gulf. They're the same diagnoses that you or I could have if we went to see the doc. What we're looking for here is something that is out of the ordinary and that's where I have trouble with a grand statement of sick. It's how many people are ill and what are their symptoms in ways that we wouldn't expect to see in a population who had not deployed, and can we relate that to any experience that they had in the Gulf? Again, that's important for us as we address issues of our doctrine and our equipment.
+
+One of the issues you could ask is what have we learned from Khamisiyah? We've learned...
+
+Q: We have asked that question. We have other questions, though.
+
+Dr. Rostker: Well, let me just follow up. We learned that we need better monitoring. We learned that we have to ask the question about protective gear, even protective gear not just designed for MOP conditions, for exposures of high elements. What about exposures for low elements? What does this have to do with our doctrine? These are all questions that we're actively engaged in researching as a result of understanding better Khamisiyah.
+
+Q: Try and put it a different way. On a scale of one to 10, how much closer are you to solving the mystery?
+
+Dr. Rostker: I think we're much closer to solving the mystery because for the first time we have an exposure with an assessment of what the dosage was, what the effect was. That has to be married with the medical work and epidemiological studies, and that part hasn't been done. But I think we're much closer in terms of the richness of data, and filling in pieces of the puzzle to eventually get an answer. So I think this would move us from a four to a six or a seven; but that's just a guess. It's a very important piece of information that now has to be brought together with our medical research in ways that we've been waiting for this, literally, for years to have this kind of precision.
+
+Q: Will you be establishing how many of those, among those who have reported these out of ordinary illnesses, were in fact in this area?
+
+Dr. Rostker: This is part of the epidemiological work and this has to be done on by the actual researchers who are doing the epidemiological studies, and we'll be meeting to see how they incorporate these new data into their analysis.
+
+Q: How long will that take?
+
+Dr. Rostker: We're going to be starting the meetings next week, I believe.
+
+Q: As yet, though, you haven't done a correlation...
+
+Dr. Rostker: that's correct.
+
+Q: So you're not seeing an anomaly that correlates some symptoms among the population under the plume.
+
+Dr. Rostker: That's correct. In fact we met last Thursday and people, I think it was last week, and people talk about other numbers. I didn't know what this number was going to be until about 3:00 o'clock on Sunday, because we did the plume work first, and then we laid down the troop lists. We were ready to do it, we had the techniques in the computer, but we didn't have an idea of where this is. So you're getting stuff that is very fresh and we have a lot of work to do in terms of follow-on, correlations with medical.
+
+Q: What happened to the 750 rockets? They have been destroyed or stored?
+
+Dr. Rostker: They were burned by UNSCOM in incinerators.
+
+Q: Away from any danger...
+
+Dr. Rostker: I believe so.
+
+Q: This is one discreet event on one particular day that you've spent a lot of effort modeling. But Allied planes, correct me if I'm wrong, did a lot of other bombing around the region. Could that have any impact? Do you plan to plume all those other discreet events?
+
+Dr. Rostker: The CIA has already done that analysis of the chemical munitions factories. We will redo that analysis based on the ensemble of models that we have here, and redo the bunker based upon the ensemble of models that we do here. So we have a lot of work to take these techniques that Bob has talked about and extend them to the full range of possible air exposures.
+
+Mr. Walpole: In the manila paper in your package it walks through both of those -- Muhamadiat and Al Muthana. It's a little different than what we did with the pit here.
+
+We don't know the exact date in some cases, on either of those two bombings. We didn't know the exact wind direction. So what we did was a simulated model. We pushed it as far as it could before it dissipated and couldn't reach troops.
+
+The ensemble we did with the pit was to try to get what actually happened. There we were trying to force it and couldn't get it reach troops.
+
+Dr. Rostker: But it's important that we will redo all of those analyses. As you know, the President said no stone unturned, and we intend to carry out his wishes in this regard. So all of this will be subject to further redo based upon the new set.
+
+Q: Bernie, you've identified 26 guys with symptoms...
+
+Dr. Rostker: We had 26 people who had diarrhea, who reported to us over that 11 day period that they had diarrhea or dizziness or blurriness, and those are symptoms that we would recognize as both Sarin and we would recognize as the flu. Those people are not in one unit. They're spread across all of the unit. We've also looked at those under the plume and not under the plume, and I did a statistical test, a Chi-squared test to see if the variance was appropriate, and it is what we would expect. So we can look at it in terms of 26 or we can look at it in terms of 99.5 percent did not report any symptoms consistent, and that is a correlation, it's another piece of information that is consistent with the analysis of where the plume went and where our units were.
+
+Q: But you've never had 26 people with symptoms before. This is the first time we've heard of anybody with symptoms. Were any of them in the engineer unit that destroyed the bunkers on...
+
+Dr. Rostker: They're in all units.
+
+Q: There's only 26 people, Bernie.
+
+Dr. Rostker: Pat, I have the troop lists. We know exactly what units there are, but they are spread all over. There is no group, I will go and look and see if any in the troop units. But the engineers were well off the map at the time of the explosion.
+
+Q: On March 4th, they were at the bunker weren't they?
+
+Q: Was it a surprise to you that the plume traveled more than 300 miles? And if so, given that there was intense U.S. aircraft bombing at other Iraqi sites, is it possible that another plume in another site could travel hundreds of miles?
+
+Dr. Rostker: That's why we're going to redo the analysis.
+
+Q: But was it a surprise to you that it had traveled 300 miles?
+
+Dr. Rostker: Not a surprise one way or the other. I had no idea where it was going, because we really hadn't done any analysis on it, and it took us pulling these models together and seeing where it was. So I had no priors one way or the other.
+
+Q: The Defense Department maintained for years that despite all the bombing in Iraq that U.S. troops would not be affected by low level chemical exposure or any chemical exposure, and now it seems otherwise, that it could be...
+
+Dr. Rostker: This isn't the bombing in Iraq. This is a specific event. We do have modeling by the CIA that tried to push those plumes from the factories. We will redo that to ensure that the best modeling with much more sophisticated weather, and that's what you're talking about, did not change it. If it changed the conclusion, we'll tell you. But right now all we have is the previous modeling and a commitment to use the team of scientists we had to press this analysis.
+
+Q: Do you have a breakdown, back to the 26, a breakdown of how many were under the plume and how many were not?
+
+Dr. Rostker: Yes, we do. And they're not statistically different. They're what we would have expected to see given the statistics, and I can share that with you afterwards.
+
+Q: Do any of the 26 report long term health problems?
+
+Dr. Rostker: I don't know that. We did not correlate that with the CCEP, but we can, and we will...
+
+Q: Did you ask them...
+
+Dr. Rostker: They did in the telephone surveys. I did not ask that question. We were focusing on first affects.
+
+Q: One thing that puzzles me is I thought Sarin was degraded fairly rapidly under sunlight, ultraviolet and so on.
+
+Dr. Rostker: Exactly, and we took no credit for that in this analysis because we didn't know how to model it.
+
+Mr. Walpole: We know it degrades and we could get that model to reflect that degradation. We didn't know what number to put into the degradation over those periods of days. Where we didn't have confidence in the inputs, we took the upper bound -- in this case, no degradation. So you're right. We've got a bit of a worst case plume, the best estimate that we can lay out.
+
+Q: I thought this stuff went in for... I remember the briefings at the time, this stuff goes in 24, 36 hours or less.
+
+Mr. Walpole: It depends entirely on the temperature, what the sun is doing, how the wind is blowing. That's where all the meteorological play goes into it. But in talking with all the modelers who are trying to work this, they were not comfortable with putting a degradation number in.
+
+Q: But these really are worst case.
+
+Dr. Rostker: And that's what we want to stress. It's worst case at the 99 percent level in terms of variation in the winds. It's worst case because we're dealing with a union. So any individual model is well within this, and if we had an outlier it drove the extent of the footprint. That's why we're very confident that if someone was exposed, we will be notifying him. As I said, we are not as confident that everybody under the plume has been exposed. We will have better assessments at an individual unit level on an individual model run, and that we'll have to work out with the scientists, exactly how they want to portray the dosage that a person might have received in their epidemiological work.
+
+Q: From what you you've learned from this exercise, does it appear that the earlier statements about what was known about the plumes in the early days of the air war, those were inaccurate, and that when you do this re-evaluation you will find that the plumes actually went much further than...
+
+Dr. Rostker: You're asking us to speculate and I choose not to speculate. We'll do the analysis and we'll report the results.
+
+Q: Why is that a controversial question?
+
+Q: On the basis of what you've learned here, doesn't it appear the plumes go further than you initially thought they did?
+
+Dr. Rostker: It depends on the weather.
+
+Mr. Walpole: Muhamadiat, Al Muthana and Bunker 73 were buildings. We had the testing from the '60s that gave us that information.
+
+In the case of Bunker 73, it's an event that was of a relatively short duration so changes in meteorology don't affect it quite as much.
+
+That said, it will be remodeled using the ensemble, and see what happens relative to that. But keep in mind, that when we modeled Bunker 73 we used 100 percent agent purity. We'll now use 50 percent. We used eight kilograms of agent, we'll now use 6.3.
+
+So while you're suggesting weather might push it further, the inputs are going to be smaller.
+
+Now on Muhamadiat and Al Muthana, that was a case where we didn't know the date so we couldn't have known the weather, and until we get better information, bomb damage assessment, on the exact date, we couldn't apply this ensemble. DoD will be working that to come up with that information. Then if we can apply the ensemble, we will; but keep in mind that there we didn't model what we think actually took place. We tried to push it to the troops with the models we had. We have learned a lot about modeling, we've pushed the science and it will be applied.
+
+Q: Is this a worst case scenario?
+
+Dr. Rostker: This is our best assessment, and where we had any uncertainty, we took the worst case under the uncertainty. And then after we did all of that on an individual model basis, we grew it by taking the outer limits of any of the five models and included that in the ensemble. Again, what we were after here is to make sure we caught everybody. If we wanted to have an analysis which was are we sure you were under it? In other words, change the error calculations, it would have been a much smaller footprint. We have great certainty that we are capturing the people who may have been exposed.
+
+Q: Is it more likely that this sort of exposure might have been a factor in combination with something else, another risk factor or other kind of exposure? Is that something that there's active research going on now?
+
+Dr. Rostker: We have active research going on on all of the cross-factors. One of the things that was pointed out to us by one of the outside scientists was that this population was not taking PB. The war was over, we didn't expect, so this is a population that was not taking PB while other populations were. That has been hypothesized as one of the factors that go into the analysis, and that just indicates that each population is different, and our research is trying to understand not just the individual affects but the cross affects.
+
+Q: Are there any Syrian or Egyptian troops at all?
+
+Dr. Rostker: Yes, there were, sir.
+
+Q: Are they listed in that...
+
+Dr. Rostker: No, they are not. We will be talking to our allies. We believe that there may be some Syrian and Egyptian troops that may have been exposed. We'll be talking to the Brits and the French, although we think less likely in their case. We will also be talking to other government, civilian agencies about the possibility of other U.S. civilians being exposed. Then my team is scheduled in October to go to the Middle East and we will be talking to our allies in the Middle East about the details of this analysis.
+
+Q: Have the Kuwaitis maybe been affected too? Saudi civilians and Kuwaitis?
+
+Dr. Rostker: That's why we'll be talking to the Kuwaitis and the Saudis.
+
+Q: Why is it apparently so difficult to get accurate bomb damage assessment so that the study couldn't have been moving at some pace before now?
+
+Dr. Rostker: We have been looking at trying to pinpoint what days those have been done, but we couldn't start the ensemble for the bomb campaign until we put all the models together. Let me tell you, we have people who have been working seven days a week for weeks. We had a deadline here imposed upon us and readily accepted by us from the President's Advisory Committee, and we promised them we would have this analysis done this week, and they're planning to discuss it with us at their meeting in Buffalo next week. So we kept the pressure on all of our people to be able to do this and complete the analysis this week in time to be able to talk to the PAC next week.
+
+Q: You do have the dates for when this bombing took place?
+
+Dr. Rostker: I think it's an ongoing effort. I'm frankly not up to speed on exactly where it is, but we're looking at that and we'll be working with the CIA.
+
+Q: Bernie, you said you were doing some double counting on days one, two, three, four in your analysis.
+
+Dr. Rostker: Yes.
+
+Q: Does that mean that in the final analysis, although your number is 98,900 people, that's not really the number?
+
+Dr. Rostker: If you added this number up, it's greater than 98, so we have netted out. Now the issue is, there are people who would have been exposed on two days. As we do the detailed epidemiological work, we'll have the exact pattern of exposure. The concentration and the duration leading to the dose, we'll have that over time and we'll be able to provide that to the scientists as they look at this on an individual case basis.
+
+Q: Just to make clear, on your redo of the [factories] at Muthana and Muhamadiat, you're going to use UDA and the ensemble that you used to compile...
+
+Dr. Rostker: That's exactly correct.
+
+Q: Is the SAIC going to be involved at all?
+
+Dr. Rostker: They are, and that was one of the models in Bob's technique.
+
+Q: I'd like to know why, because your panel here and your package says that based on information given, there were major uncertainties about all key parameters in the analysis, and the panel concluded that the initial analysis of the pit performed by SAIC had a number of serious drawbacks.
+
+Dr. Rostker: The initial analysis was primarily the diffusion... The initial model was the diffusion with omega, and that is a valid approach, but it is encompassed in the ensemble.
+
+Mr. Walpole: They had indicated that we had not run the plume out long enough, that a contractor did. We had run it 48 hours. The new runs were running 100 hours, as you can see by the charts that Bernie has shown.
+
+They indicated that we needed to link the models. Now when we had done the run last year, we had in fact linked BLS track to OMEGA And then force-fed that into NUCCE. IDA said taht's not quite the linkage we're talking about. So with this modeling effort, this ensemble, we had a lot more linkages going on.
+
+They note, if you read further in the IDA paper, that every one of the models has strengths and weaknesses. NUCCE has a lot of significant algorithms that allows it to match what took place at Khamisiyah better, such as handling two agents, where some of our models can only handle one. That's why the ensemble is so critical. You take advantage of all the strengths of each of the models, then by using the union or the composite, you take care of the uncertainty rather than eliminating it.
+
+Q: When you add in Bunker 73, isn't the number going to go up way beyond 98,000?
+
+Dr. Rostker: First of all, again, I don't want to speculate, so we'll do the analysis and we'll see where the numbers are. The wind pattern that had, for the day of Bunker 73, was moving in the northeast direction. There were no troops in that direction.
+
+Q: It will be a very small number?
+
+Dr. Rostker: I have no idea what the number... We'll wait and see what the analysis says.
+
+Q: You could have more 7th Corps units after you meet with the...
+
+Dr. Rostker: We'll move the analysis from the battalion level to the company level, so that will give us finer grain. We're not going to have more units. But instead of capturing an entire battalion, we'll be able to break the battalion into its component companies and be able to be finer in terms of that analysis. And remember, that analysis and highlighting a given day resulted in a smaller number in the 50 kilometer catchment area. But we'll have to wait and see what it is. That's why we're going to do the...
+
+Q: Have you figured out what epidemiological studies you're going to do? You've got the population of potential exposees, as it were, 99,000. Are you going to survey all of them, are you going to do a random sample of it? What are you going to do?
+
+Dr. Rostker: I don't know yet. I think we'll have to wait and see.
+
+One additional thing, and you might... when we were putting this together in the final stages, we called in the head of the Air Resources Laboratory at NOAA to look at the approach. He was very helpful in reviewing it the last day. He's here with us, if there are any questions you might want him to answer. Dr. Bruce Hicks is in the back here. But he looked at all of the weather data and the way we were putting it together, and I think felt we were really pushing the state of the art in the efforts to do this and substantially increasing the number of models and the way we were using models. So if there are any residual questions now or after, Dr. Hicks is prepared to take them.
+
+Q: Dr. Garthwaite, since you're the physician in this group, can you review again what do you think the medical evidence does show about the health affects of exposure to the levels of Sarin we're talking about at Khamisiyah?
+
+Dr. Garthwaite: There are very few studies, obviously, in humans. You know at what point... I think we know reasonably well at what point symptoms occur, and I think it's well known what doses are lethal. But it's not known at what level as you go down that curve to zero that there's total safety. There have been some studies, I'm not an expert on them, but there have been some studies by the CDC trying to set up occupational exposure issues because of the need to destroy weapons and the people that work with them on a day to day basis. But all the efforts are to prevent that kind of exposure, so no one has been exposed for long periods of time.
+
+There's some analogy with organophosphates and pesticides with the chemistry of these nerve agents, so I think there are some other good reasons to want to know more about this in addition to understanding Persian Gulf illness in terms of occupational exposures.
+
+Q: Can we turn to the question of, is it unlikely that at these levels there would be health affects?
+
+Dr. Garthwaite: I think the human data is sparse. The animal data would suggest it's unlikely, I believe. But I think the human data is really quite sparse.
+
+Q: How about these scientists, again, at Harvard and the University of Texas and Duke who say that at very low levels you can have a problem, especially in combination with other risk factors that existed during and after the Gulf War?
+
+Dr. Garthwaite: I think that's what we need to have those scientists and the other scientists that we have who are also interested in this debate by providing additional data and doing additional studies.
+
+Q: Is it too early to say it's unlikely that there would be no health affects from these sorts of exposures?
+
+Dr. Garthwaite: It really gets back to the same question. In the absence of data can you say one thing or another. Clearly what we do know is that in terms of death rates, there's not an issue. If 100,000 people got this low level exposure, they haven't died or been hospitalized related to that.
+
+Q: If you look at the press release, troops not exposed to dangerous levels of chemical agent. I think the research suggests that we don't know what a dangerous level is.
+
+Dr. Garthwaite: Dr. Mather is the head of our environmental hazards area. Maybe she can help us...
+
+Dr. Mather: I think that's what we would have to say at this point in time, that as we understand it today, the risk... We know of no risk that this level would incur. I think the series that a combination of things needs to be tested, and that is in the process of happening. I also think that the animal studies, and certainly the studies that were done at Duke of combinations, were very large doses. We're not talking about low levels in Dr. Albadonia's chickens. We're talking about fairly high levels that were ingested.
+
+So I don't think you can say that ingested high levels can be attributed to people. We have to say we have some knowledge of what high levels do, but we don't have a lot of knowledge in human beings in that low level.
+
+Q: But you feel comfortable saying these were not dangerous levels?
+
+Dr. Mather: At this point in time, yes. We feel that these are levels that are very near what people would be exposed to occupationally without having ill affects.
+
+Q: It does seem that we're going back to the situation that GAO described where the government does seem eager to eliminate the possibility...
+
+Dr. Mather: I don't think we're eager. I think we have human beings out there, veterans who were exposed, patients, who we have to answer their questions. The answer to the question of where we are now is that we don't think this is a problem, but we need the research. That's all we're saying. We need to do the research.
+
+Dr. Rostker: And I think we would add that, and Susan's made this point before. We don't need the exposure data to treat people who are ill. So the most important thing is how they feel, and to get them appropriate treatment. Even under some of the research that you cite, there was no diagnostic techniques, and there were no treatment protocols. We need to treat the symptoms for the veterans. We don't need to scare a lot of people.
+
+This is our best assessment at this time, but we're not resting on that. We're committed to do the research necessary to provide a better answer, so when I had that chart up it said this is an area of concern, and that's exactly right. This is an area that we're spending the taxpayers' money to try to better understand and involving the very people that you're citing as part of the effort to better understand what the impact is from low level exposures. It's not even low level exposures. There's also the issue of duration here that is different from other low level exposures. We're talking about a matter of hours, not industrial workers who at one level of standard is supposed to be able to be exposed eight hours a day for the rest of their lives. We're talking about very different kinds of exposure patterns here, and that's why we must have the research that backs this up. But our best assessment, we worked that letter across the entire government, and that was what our best assessment was.
+
+Q: Bernie, you've got more than 1,000 units listed as under this plume, and no home towns. Is it safe to say that these units are from the 50 states?
+
+Dr. Rostker: Most of these units are active duty units and therefore, there would be no home town.
+
+Q: A lot of National Guard...
+
+Dr. Rostker: There are some National Guard units in the south, and we will look at all of that within the epidemiological work.
+
+Q: Can we get the home towns of these units?
+
+Dr. Rostker: Sure. No problem. We'll get you that. We'll get the troop lists and figure out what National Guard locations they come from and provide that for you.
+
+Press: Thank you.

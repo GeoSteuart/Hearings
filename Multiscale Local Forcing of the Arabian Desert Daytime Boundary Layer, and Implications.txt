@@ -1,0 +1,320 @@
+American Meteorological Society
+Multiscale Local Forcing of the Arabian Desert Daytime Boundary Layer, and Implications
+for the Dispersion of Surface-Released Contaminants
+Author(s): Thomas T. Warner and Rong-Shyang Sheu
+Source: Journal of Applied Meteorology (1988-2005) , Vol. 39, No. 5 (May 2000), pp. 686-707
+Published by: American Meteorological Society
+Stable URL: https://www.jstor.org/stable/10.2307/26184180
+REFERENCES
+Linked references are available on JSTOR for this article:
+https://www.jstor.org/stable/10.2307/26184180?seq=1&cid=pdfreference#references_tab_contents
+You may need to log in to JSTOR to access the linked references.
+
+Abstract
+In support of the Department of Defense's Gulf War Illness study, the Naval Research Laboratory (NRL) has performed global and mesoscale meteorological reanalyses to provide a quantitative atmospheric characterization of the Persian Gulf region during the period between 15 January and 15 March 1991. This paper presents a description of the mid- to late-winter synoptic conditions, mean statistical scores, and near-surface mean conditions of the Gulf War theater drawn from the 2-month reanalysis.
+
+The reanalysis is conducted with the U.S. Navy's operational global and mesoscale analysis and prediction systems: the Navy Operational Global Atmospheric Prediction System (NOGAPS) and the Coupled Ocean–Atmosphere Mesoscale Prediction System (COAMPS*). The synoptic conditions for the 2-month period can be characterized as fairly typical for the northeast monsoon season, with only one significant precipitation event affecting the Persian Gulf region.
+
+A comparison of error statistics to those from other mesoscale models with similar resolution covering complex terrains (though in different geographic locations) is performed. Results indicate similar if not smaller error statistics for the current study even though this 2-month reanalysis is conducted in an extremely data-sparse area, lending credence to the reanalysis dataset.
+
+The mean near-surface conditions indicate that variability in the wind and temperature fields arises mainly because of the differential diurnal processes in the region characterized by complex surface characteristics and terrain height. The surface wind over lower elevation, interior, land regions is mostly light and variable, especially in the nocturnal surface layer. The strong signature of diurnal variation of sea–land as well as lake–land circulation is apparent, with convergence over the water during the night and divergence during the day. Likewise, the boundary layer is thus strongly modulated by the diurnal cycle near the surface. The low mean PBL height and light mean winds combine to yield very low ventilation efficiency over the Saudi and Iraqi plains.
+
+Corresponding author address: Dr. Teddy R. Holt, Naval Research Laboratory, Code 7533, 7 Grace Hopper Ave., Stop 2, Monterey, CA 93940. Email: holt@nrlmry.navy.mil
+
+1. Introduction
+During the air and ground campaign of Operation Desert Storm between 15 January and 15 March 1991, numerous chemical weapon storage sites were destroyed. The destruction of these weapon storage sites resulted in the release of chemical agents such as sarin and cyclosarin into the lower atmosphere. It has been suggested that exposure to these chemical agents could have led to the symptoms associated with Gulf War Syndrome or Gulf War Illness. In addition, there were many hazardous natural and anthropogenic contaminants, such as fine sand particulates, soot from the oil well fires, smoke from explosives, unique bacteria specific to the region, and possible weaponized chemical agents. Ongoing investigative studies require accurate atmospheric transport and dispersion (T&D) modeling in order to assess the relative impacts of all of these contaminants. This in turn requires an analysis of the complicated, time-dependent mesoscale structure of the atmosphere at frequent intervals.
+
+Short-period meteorological reanalyses have been conducted in the past to characterize the atmospheric transport and dispersion properties for certain specific events during the Gulf War, such as for the Khamisiyah site (Westphal et al. 1999; Warner and Sheu 2000). The intermittent reanalyses described in Westphal et al. (1999) were provided to the Office of the Special Assistant for Gulf War Illnesses (OSAGWI) and then to T&D modelers at the Naval Surface Warfare Center and the Defense Threat Reduction Agency for detailed nerve gas concentration and dosage calculations. Since those reanalyses, the meteorological reanalysis covering the entire 2-month period of the Gulf War has been performed here in order to take full advantage of improvements to the models and to provide T&D models more flexibility of data selection. This new reanalysis provides an excellent dataset and, with that, a glimpse into the important meteorological phenomena and physical processes occurring during the tactically significant mid- to late-winter period over the Persian Gulf region.
+
+A brief review of the global and mesoscale models used and their relevant improvements since the Westphal et al. (1999) reanalysis is given in section 2. The synoptic scenario for the region is discussed in section 3. In section 4, the verification scores from this reanalysis and other major models will be compared. Near-surface mean fields of low-level winds, temperatures, boundary layer heights, hydrological fields, and fluxes are discussed in section 4. A summary and conclusions are given in section 5.
+
+2. Brief review of models
+The reanalysis is conducted with the U.S. Navy's operational global and mesoscale analysis and prediction systems: the Navy Operational Global Atmosphere Prediction System (NOGAPS) and the Coupled Ocean–Atmosphere Mesoscale Prediction System (COAMPS). A detailed description of NOGAPS can be found in Rosmond (1992), Hogan and Rosmond (1991), and Hogan and Brody (1993). A list of the dynamics and physics used in NOGAPS is also available on the model Web site (http://www.fnmoc.navy.mil/PUBLIC). The global reanalysis is conducted with NOGAPS at a spectral resolution of T159 with 24 vertical levels and a 6-h data assimilation cycle. The archived Fleet Numerical Meteorology and Oceanography Center (FNMOC) operational global analysis data at 1 January 1991 is used as the initial conditions, with data archived every 6-h from 1 January to 31 March 1991. Archived conventional and satellite observations, including those available in real time, late arrivals, and declassified, are assimilated into the analysis with the Multivariate Optimum Interpolation (MVOI; Barker 1992) scheme after a quality control check (Baker 1992). Details about the observational data sources are available in section 2 of Westphal et al. (1999), and a detailed distribution of the observational data is given in Fig. 3 of the same paper. The global reanalyzed fields at a 6-h interval provide the boundary conditions for the mesoscale reanalysis with COAMPS.
+
+The atmospheric component of COAMPS (Hodur 1997) with nonhydrostatic dynamics is used for the mesoscale reanalysis and prediction. A detailed documentation of COAMPS is available on the model Web site (http://www.nrlmry.navy.mil/projects/coamps). The triply nested, one-way interactive grids of COAMPS are centered over Iraq, with horizontal resolutions of 45, 15, and 5 km for the outer, middle, and inner grids, respectively (Fig. 1a), and 30 vertical levels with the highest vertical resolution in the planetary boundary layer (PBL), with the first three model sigma levels at 10, 25, and 55 m. The COAMPS reanalysis is conducted with a 12-h assimilation cycle starting at 0000 UTC 13 January until 0000 UTC 16 March 1991, with data archived hourly. The previous 12-h COAMPS forecast is used, with the assimilation of archived observations within the COAMPS domain, to provide the initial conditions for the next COAMPS forecast. Unfortunately, no conventional observations from Iraq are available, nor can be obtained, for the reanalysis.
+
+The global sea surface temperature (SST) is from the Navy's daily archived Optimum Thermal Interpolation System (OTIS) ocean analysis fields (Cummings et al. 1997), for which the primary observations are multichannel sea surface temperatures (MCSSTs), buoy, ship, and bathymetry data. The MCSST retrievals are produced at the Naval Oceanographic Office from high-resolution satellite infrared imagery. The mesoscale SST is analyzed on each COAMPS grid with the standard COAMPS Ocean Data Assimilation system using the same data sources. For the two large lakes (Buhayrat ath-Tharthar and Bahr al-Milh) in central Iraq (Fig. 1b), the Advanced Very High Resolution Radiometer (AVHRR)-retrieved monthly mean lake temperatures are used.
+
+COAMPS ground surface temperature is predicted based upon the effects of net radiation, sensible heat transfer with the atmosphere, latent heat flux, and a relaxation to a deep-soil temperature based upon climatology. There is no data assimilation of ground surface temperature after the initial 0000 UTC 13 January cold start.
+
+The versions of NOGAPS and COAMPS used in this study are essentially the same as those used in Westphal et al. (1999) and as described above except for several recent improvements: 1) For NOGAPS, improvements include (i) an increase of vertical layers (from 18 to 24), (ii) inclusion of recently available rawinsonde and surface data from the National Climatic Data Center (NCDC) that were not available in 1997, and (iii) reanalysis of the SST at T159 (SST was originally analyzed at T79), and 2) For COAMPS, the 1-km land-use dataset acquired form the United States Geological Survey is used in the estimate of background climatological fields for albedo, surface roughness, and ground wetness, resulting in better accuracy of those variables.
+
+3. Synoptic conditions
+The geographic window of interest comprises the Iraqi plains and the Arabian Peninsula surrounded by the Persian Gulf and the Red, Mediterranean, and Caspian Seas (Fig. 1b). The terrain varies from the mountains in western Saudi Arabia, the desert and the semiarid plain of central Saudi Arabia, the low seasonal wetlands along the Tigris–Euphrates Valley and northwest of Al Basrah, to the rugged Zagros Mountains to the northeast.
+
+The northeast Asian monsoon is the dominant large-scale feature during the winter season over this region. The colder Asian landmasses to the north and the relatively warmer ocean areas to the south cause a persistent flow from land to ocean, in contrast to the summertime southwesterly monsoon (Hulbert et al. 1983). The mean position of the polar front jet during late winter is typically in the northern Mediterranean Sea stretching to south of the Himalaya, while the subtropical jet typically is positioned south over the Arabian Peninsula. The mean storm track for the winter season follows the polar front, often directing storms into Turkey and curving northward into the Caspian Sea, north of the area of interest for this reanalysis. Such a typical scenario is represented in Fig. 2, which shows the NOGAPS analysis at 1200 UTC 28 January 1991 of 500-hPa geopotential heights and winds and sea level pressure and 10-m above ground level (AGL) winds displayed on the COAMPS 45-km nested domain. An upper-level trough is located just east of the Caspian Sea propagating east-northeast with weak ridging behind it over the eastern Mediterranean Sea (Fig. 2a). Evidence of the lower vertical extent of the subtropical jet with a 30 m s−1 maximum is apparent over eastern Saudi Arabia. The flow is westerly over central Iraq with speeds as weak as 7–8 m s−1. These types of upper-level troughs typically move through the northern region (northern Mediterranean to Caspian Sea) at fairly regular intervals but bring little adverse weather to the Persian Gulf region. Near the surface, high pressure is frequently observed to build in after frontal passage over both northern Iran and central Saudi Arabia (Fig. 2b). The resultant low-level flow is typically light and variable over much of Iraq. Over the Persian Gulf, however, the strong northwesterly flow evident in the greater than 12 m s−1 10-m winds (Fig. 2b) signals the onset of the winter Shamal. The Shamal is a subsynoptic-sale northwesterly wind feature lasting from 1 to 5 days, forced by synoptic-scale pressure gradients and enhanced by the basinlike topography of the region (Perrone 1979).
+
+The atypical synoptic scenario for the region occurs when the transient low pressure systems tracking along the polar front intrude farther south and propagate across Iraq and into the Persian Gulf. The 1200 UTC 6 March NOGAPS analysis shown in Fig. 3 illustrates such a scenario. The very deep upper-level trough extends well into Iraq with southwesterly winds greater than 40 m s−1 over the Persian Gulf at 500 hPa (Fig. 3a). The near-surface flow is strongly influenced by the 999-hPa low in northern Iraq, resulting in greater than 15 m s−1 southerly winds upslope of the Zagros Mountains at 10 m (Fig. 3b). The flow over the Persian Gulf is much more variable.
+
+This scenario typically produces the majority of the precipitation for the entire winter season over the Persian Gulf region. Figure 4 shows the time series of upper-level (represented by the model sigma level equal to 5800 m) and low-level (model sigma level of 10 m) wind speed and direction and the 12-h accumulated total precipitation forecast by the 15-km COAMPS grid for selected locations, as given in Fig. 1b. The wind direction and speed (Figs. 4a,b) are computed from hourly averaged u and υ wind components and are displayed every 3 h. The Kuwait City, Kuwait, and Baghdad, Iraq, locations are situated in the Tigris–Euphrates Valley, with much lower station elevations (55 and 34 m, respectively) than the more mountainous locations of Gach Saran and Masjed Soleyman, Iran (710 and 362 m, respectively).
+
+Figure 4c shows that a large percentage of the precipitation for Gach Saran, Masjed Soleyman, and Baghdad for the 2-month period occurs during the event of 6–7 March discussed above. For example, of the 135.9 mm that falls at Baghdad from 15 January to 15 March, 95.8 mm, or 70%, falls during the 6–7 March period. The upper-level flow at Baghdad (Fig. 4a) and Gach Saran (Fig. 4b) for 6–7 March clearly signals the frontal passage (as indicated in Fig. 3a), with wind directions showing a strong southerly component at both Baghdad and Gach Saran. The low-level flow shows an increase in wind speeds to 10–12 m s−1. The other, though less significant, precipitation event at Baghdad (21 February) is related to a much weaker upper-level frontal passage and associated low-level low pressure center that moved from southern Iraq/northern Saudi Arabia through the Persian Gulf.
+
+The other events at Gach Saran producing appreciable precipitation (1 February, 3–4 February, 21 February, and 28 February–1 March) (Fig. 4b) are typically associated with stronger low-level southwesterly upslope flow along the Zagros Mountains (as at Masjed Soleyman). Each of these events shows an increase in low-level wind speeds, ranging from 7–8.5 m s−1, as opposed to typical values of approximately 3–4 m s−1. The 1 February and 3–4 February events have no upper-level frontal passage, while the latter two events show a much weaker passage compared to 6–7 March.
+
+The 2-month accumulated amounts appear fairly typical compared to longer-period climatological values. Long-period data records for this region are rare, but data collected for Baghdad from 1888 to 1990 (Peterson and Vose 1997) indicate a February monthly mean precipitation of 27.9 mm (as compared to 26.5 mm for COAMPS 2-month average). Data collected by the Oil Companies Weather Co-Ordination Scheme (1976) for Gach Saran and Masjed Soleyman indicate February means of 46.7 and 56.7 mm, respectively, compared to COAMPS values of 55.3 and 12.8 mm. Thus, the synoptic scenario for the reanalysis period of 15 January to 15 March 1991 can be characterized as fairly typical for the northeast monsoon season, with several weak frontal passages but only one significant precipitation event.
+
+4. Verification skill scores
+Verification skill scores are computed for the 15-km grid of COAMPS using standard pressure levels from 1000 to 100 hPa from rawinsonde observations shown in Fig. 1b. The 5-km COAMPS domain is deemed too small to describe the regional circulation, in spite of the high-resolution details, and the 45-km resolution is too coarse for detailed mesoscale studies. Unfortunately, during the reanalysis period there were at most only 7–8 rawinsonde profiles available in the 15-km grid for any one forecast and none in the innermost 5-km grid.
+
+Two standard verification skill scores, bias error (BE) and root-mean-square error (rmse) are calculated. Bias error measures the inclination of a model to overpredict or underpredict a value. For a given variable x, BE is defined as
+i1520-0493-132-2-623-e1View Expanded
+where N is the total number of observed values, and superscripts f and 0 denote reanalyzed and observed values, respectively. The rmse skill score is computed as
+i1520-0493-132-2-623-e2View Expanded
+Both (1) and (2) are used for all variables except for winds. In order to take into account the wind direction error, BE and rmse for winds are calculated as
+i1520-0493-132-2-623-e3View Expanded
+a. Vertical profiles
+Figure 5 shows the vertical profile of COAMPS bias errors at 0 h (analysis) and 12 h at each standard pressure level. The analysis biases for all variables [geopotential height, temperature, relative humidity (RH), and wind speed] below 200 hPa are generally close to zero, with typically little vertical variation. The 12-h forecast biases below 200 hPa show a negative height bias of 3–9 m, a general cold bias of 0.2°–0.7°C, a positive RH bias less than 5% below 700 hPa, but as much as 18% at 300 hPa, and a strong wind bias of approximately 0.5 m s−1.
+
+The vertical profile of analysis and 12-h COAMPS rmse is given in Fig. 6. Below 200 hPa the analysis rmse varies from 6 to 12 m for geopotential height, from 0.7° to 1.5°C for temperature, from 10% to 20% for RH, and from 2 to 3.5 m s−1 for wind speed. The 12-h forecast rmse for geopotential height generally increases with height from a near-surface value of 15 m to 25 m at 200 hPa. The 12-h temperature rmse is ∼1.5°C in the middle troposphere and ∼2.5°C below 700 hPa. The 12-h RH rmse is ∼15%–35% throughout the troposphere. The 12-h wind rmse is ∼3 m s−1 near the surface, increasing to ∼7 m s−1 near jet level.
+
+b. Comparison to other models
+Verification scores for both analysis and 12-h forecasts are compared with those computed by White et al. (1999) to assess the relative statistical skill of COAMPS in a severely data-sparse region against other mesoscale models of similar resolution over complex terrain. White et al. (1999) compared the short-term forecast accuracy of six different forecast models over the western United States for January, February, and March 1996. Those six models included four operational models from the National Centers for Environmental Prediction (NCEP)—Medium-Range Forecast (MRF) (Kanamitsu 1989; Kalnay et al. 1990; Kanamitsu et al. 1991); Nested Grid Model (NGM) (Hoke et al. 1989; Peterson et al. 1991; DiMego et al. 1992); Eta Model (Black et al. 1993; Rogers et al. 1995, 1996) and Meso-Eta Model (MESO) (Black 1994); and two research models, the fifth-generation Pennsylvania State University–National Center for Atmospheric Research (PSU–NCAR) Mesoscale Model (MM5) (Dudhia 1993; Grell et al. 1994) and Utah Local Area Model (ULAM) (Waldron 1994; Paegle et al. 1996; Waldron et al. 1996). The 30-km ULAM, 29-km MESO, and 27-km MM5 will be emphasized in the comparison of statistical skill to COAMPS because they are closest in resolution to the COAMPS 15-km grid. It also should be pointed out that there were far more observational data available to White et al. (1999) than the current study because of the geographical location of their domain. This fact increases the difficulty for COAMPS to produce a reasonable analysis field.
+
+Table 1 shows the analysis bias error comparison at 300, 500, and 700 hPa for COAMPS and the six models listed in White et al. (1999). The bold type in Tables 1–4 indicates the model with the smallest magnitude for each pressure level. COAMPS consistently produced the smallest bias error in the geopotential height, temperature, and wind fields. The magnitude of geopotential height biases is typically less than 10 m, with biases less than 1 m for COAMPS. Typical magnitudes of temperature biases are 0.5°–1.0°C, with COAMPS biases less than 0.5°C. Most models have an analyzed cold temperature bias and a corresponding negative height bias. Wind biases are typically less than 1.3 m s−1, with COAMPS less than 0.5 m s−1. Relative humidity biases are typically less than 4%.
+
+Bias errors for 12-h forecasts (Table 2) of geopotential height are generally less than 8 m, with COAMPS biases slightly larger than MESO or MM5. Temperature biases are generally less than 1°C, with COAMPS biases comparable to MESO and MM5 and less than ULAM. Wind biases are less than 2 m s−1, with COAMPS biases less than 1 m s−1 and smaller than MESO, MM5, and ULAM. Relative humidity biases are generally less than 8%, except for the COAMPS bias at 300 hPa (18.32%).
+
+The analysis rmse given in Table 3 shows geopotential height rmse typically less than 20 m for all models, with COAMPS less than 10 m. Temperature rmse is less than 2°C, with COAMPS less than 1°C. Wind rmse is less than 5 m s−1 and less than 4 m s−1 for MESO, MM5, and COAMPS. Relative humidity rmse is generally less than 15%.
+
+The 12-h forecast rmse (Table 4) has amplified for all models as compared to the analysis. Typical height rmse is less than 25 m, with COAMPS less than 20 m. Temperature rmse is less than 2°C, with MESO, MM5, ULAM, and COAMPS rmse comparable. Wind rmse is generally less than 8 m s−1, with COAMPS less than 6.5 m s−1 and the best of all models. Relative humidity rmse is generally less then 25%, except for COAMPS at 700, 500, and 300 hPa (32.34%).
+
+In summary, the quality of the current reanalysis based upon a comparison of standard statistical scores is congruent with or better than similar models (White et al. 1999). It should be noted that the mesoscale numerical predictions presented in White et al. (1999), as well as here for COAMPS, were not designed for model comparison. These prediction systems all have different resolutions, domains, and data assimilation systems. It is encouraging that the errors and biases of the analysis, as measured by commonly used statistics, appear to be in the norm of other mesoscale numerical models.
+
+5. Near-surface mean fields
+a. Low-level winds
+The 2-month mean nighttime and daytime wind fields at 10 and 500 m AGL between 0000 UTC 16 January and 0000 UTC 16 March 1991 are shown in Figs. 7 and 8, respectively. The “nighttime” average is obtained by averaging all 60 reanalyzed fields valid for 0000 UTC (0300 local time), and the “daytime” by averaging the 1200 UTC (1500 local time) fields. It is recognized that these two times may not typically represent the extrema, but these times are considered representative of the day and night conditions for this region.
+
+The highest mean wind speed for both nighttime and daytime conditions occurs over the Zagros Mountains along the western border of Iran (7 m s−1 at 10 m AGL at 1200 UTC and 14 m s−1 at 500 m AGL at both 0000 and 1200 UTC). The mostly southwesterly wind vectors exhibit an anticyclonic curvature over the Zagros because of the decrease in absolute vorticity resulting from vertical compression (and associated horizontal expansion) due to the upward decrease in vertical motion. A part of the prevalent midlatitude westerly flow is diverted by the Zagros into moderate but persistent northwesterly flow over the Persian Gulf, further enhanced by several Shamal events, as discussed in section 3. The mean wind speed over the Gulf, an area of reduced surface friction, is approximately 6–7 m s−1 at both 10 and 500 m AGL, much stronger than the mean wind speed over the low-lying land. The mean wind over the Tigris–Euphrates Valley is light and variable, with a mean speed less than 2 m s−1. This region with light mean wind speed extends from the Iraq–Turkey border southeastward to the Saudi desert and the western shores of the Persian Gulf. Moderate southwesterlies occur over most of the western Arabian Peninsula.
+
+There is very strong diurnal variability in the mean wind fields, especially at 10 m AGL. The most prominent diurnal variation surrounds the Persian Gulf and the Zagros Mountains. During the night (0000 UTC), there is overall mean downslope drainage flow along the western slope of the Zagros Mountains into the Persian Gulf (Fig. 7a). This mean downslope flow at night turns into strong upslope flow over the Zagros during the day (Fig. 7b). A divergent flow superimposed on (and perpendicular to) the strong mean northwesterly flow over the northern Persian Gulf is quite discernible during the day. For the nighttime, a convergent flow that transverses to the mean flow over the Gulf is noticeable. This signifies the diurnal cycle of the sea–land circulation around the Gulf, as is often observed with a persistent nocturnal cloud band aligned along the major axis of the Persian Gulf. This diurnal sea–land circulation cycle is most noticeable in Fig. 7 to the east of the Kuwaiti coast, where the sea breeze is in the opposite direction of the climatic northwesterly flow, reducing the mean flow to less than 1 m s−1.
+
+Farther inland, the lake–land circulation is also apparent in the semiarid region around Lakes Buhayrat ath-Tharthar and Bahr al-Milh west of Baghdad (Fig. 9). The retrieved AVHRR temperatures used for the lakes contain no diurnal changes, in contrast to the land surface temperature predicted by the model. As shown in Fig. 9, there are alternating mean divergent and convergent patterns over the two lakes during the day and night, representing a mean lake–land circulation. In this region with light and variable mean winds, the lake–land circulation is an important factor in determining the transport and dispersion of contaminants in the absence of strong synoptic-scale forcing.
+
+Fluctuations of low-level winds are the strongest at the diurnal period. For variability on the synoptic period of more than several days, the standard deviations of the 10-m u and υ components at 0000 and 1200 UTC are computed relative to their respective means (as shown in Fig. 7). Because these standard deviations are computed on the basis of daily 0000 and 1200 UTC reanalyses, they represent wind variability of periods longer than 1 day. The distribution of standard deviations shows that during the night, the light but highly variable surface wind in the nocturnal stable surface layer over the desert and semiarid region in the central Saudi peninsula and the Iraqi plain becomes comparatively more prominent, reaching a standard deviation greater than 0.3 m s−1 (Figs. 10a,b). The daytime variability (∼0.3 m s−1) occurs mainly over the Zagros and the northern Persian Gulf (Figs. 10c,d). This suggests the relatively steep southwestern slope of the Zagros, rising above the Persian Gulf, amplifies many transient, synoptic perturbations that impinge upon it. Similarly, the western Saudi highland adjacent to the Red Sea also causes a local maximum variability in the afternoon.
+
+b. Surface and near-surface temperatures
+Figure 11 shows the mean surface temperatures and standard deviations at 0000 and 1200 UTC. At 0000 UTC the Persian Gulf, the Red Sea, and the Caspian Sea are all warmer than the surrounding landmass by as much as 10°C. The coldest mean temperature is over the Zagros Mountains and Iranian highland. At 1200 UTC the mean land surface temperature is generally warmer than water bodies except over the higher elevations. For example, the desert surface temperature over the southern Saudi peninsula is greater than 25°C, approximately 10°C warmer than the Red Sea and the Persian Gulf. The mean diurnal temperature contrast, also evident around Lakes Buhayrat ath-Tharthar and Bahr al-Milh, creates local, thermally direct circulations near the land–water interface, as discussed earlier. The comparatively higher ground wetness of the Tigris–Euphrates Valley, stretching from Baghdad to Al Basrah, Iraq, also contributes to the smaller diurnal temperature changes in the valley.
+
+Figure 12 shows the mean air temperature at 2 m AGL at 0000 and 1200 UTC. The 2-m temperature fields are obtained by vertical interpolation, following surface layer similarity theory, between the temperature at the lowest model level at 10 m AGL and the surface temperature. The 2-m day–night temperature contrasts are similar to that of the surface temperature. At night (Fig. 12a), the mean 2-m air temperature over land is warmer than the land temperature, suggesting a radiatively forced surface inversion. In contrast, the mean marine surface boundary layer remains unstable over the Persian Gulf at 0000 UTC as the land breeze brings colder air over the warmer Gulf water. During the day, the 2-m air temperature over the land is cooler than the underlying ground surface, suggesting an unstable surface boundary layer. The mean day and nighttime 2-m air temperatures over the lake regions near Baghdad have large diurnal changes because the lake temperatures are warmer (colder) than the surrounding land during the night (day).
+
+The standard deviation of the 2-m air temperature (Fig. 12c) has minimal values of less than 1.5°C over the Red Sea and the Persian Gulf. The temperature fluctuations are high over the interior Saudi peninsula and over Iran, reaching a standard deviation of more than 6°C. The lake regions west of Baghdad have local minima as larger surface wetness and constant lake temperatures reduce large temperature fluctuation. The time series of temperature standard deviation at selected locations over the 2-month period (not shown) indicates that temperature fluctuation is dominated by diurnal variations that arise from surface thermal characteristics and temperature instead of synoptic, latitudinal, or seasonal variations.
+
+c. Height of the boundary layer
+The model-diagnosed PBL height is defined by the lowest model level where the bulk Richardson number exceeds 0.5. Various critical Richardson numbers ranging from 0 to 1 have been tested in COAMPS validation tests. While there is no single value that produces the optimal statistical results for different conditions, the value of 0.5 seems to yield reasonably satisfying PBL heights.
+
+The mean PBL heights shown in Fig. 13 exhibit a complex interplay of dynamics, physical processes, surface characteristics, and terrain effects. The mean nocturnal PBL height (Fig. 13a) collapses to the surface over land, consistent with the existence of the mean near-surface temperature inversion (see Figs. 11a and 12a). There is no discernible spatial variability of the mean PBL height over the southwestern slope of the Zagros, which is dominated by downslope drainage flow (Fig. 7a). The mean PBL height is approximately 300 m along the ridge of the Zagros, collocated with the strong mean wind (Fig. 7a). The nighttime mean PBL bulges over the Persian Gulf to a depth of nearly 500 m, with the maximum elevation along the major axis of the Gulf. The deep mean PBL over the Persian Gulf (and over the Red Sea) during the night is supported thermally by the relatively warm ocean surface as compared to the land surface, and dynamically by the converging drainage flow from the surrounding land.
+
+The mean daytime PBL (Fig. 13b) has a maximum over the interior Saudi peninsula. The convergent flow from the western Saudi highland (Fig. 7b), the warm surface temperature (Fig. 11b), and the associated vertical mixing in the unstable boundary layer together elevate the mean PBL to a depth of more than 1200 m in this region. There is a PBL height gradient from 1200 m in the southwest to 600 m toward the northeast over the northern Saudi peninsula and the Iraqi plain, in approximate alignment with the general terrain gradient. The larger surface wetness in the Buhayrat ath-Tharthar and Bahr al-Milh lake region, the wetland west of Al Basrah, and the Persian Gulf, and the accompanying cooler surface temperature, significantly reduce the daytime PBL height in the Tigris–Euphrates Valley region. For example, the PBL heights over the wetland and the two-lake region are less than 600 m.
+
+The spatial distribution of the mean daytime PBL height over the Persian Gulf is particularly interesting. As the relatively warmer and deeper PBL above the Tigris–Euphrates Valley is transported by the mean northwesterly flow (Fig. 7b) offshore over the cooler surface of the Gulf (Fig. 11b), a near-surface inversion is formed, resulting in a new, shallow PBL less than 300 m deep (Fig. 13b). The new mean PBL at the northern Gulf redevelops downwind to a height of 600 m near Qatar. Similar phenomena and processes in regard to the development of an internal PBL occur downwind of the Qatar peninsula, albeit on a smaller scale. These phenomena in general agree with the elevated residual layer described in Stensrud (1993).
+
+The mean PBL heights at 0000 or 1200 UTC over the Zagros Mountains are considerably shallower than diagnosed in Warner and Sheu (2000), using a similar critical Richardson number technique. In their analysis, the 6-day average PBL height over the Zagros ranges from 1800 to 2400 m. In our reanalysis, the mean PBL height over the Zagros is in general below 1000 m. There is considerable accumulated precipitation along the southwestern slope during the 2-month reanalysis (as discussed earlier and in section 5d). The precipitation, absent during the 6 days considered by Warner and Sheu (2000), increases the ground wetness and acts to retard the growth of the PBL, even in the presence of stronger solar heating during the later part of the reanalysis period.
+
+The area of this reanalysis is centered near the climatological doldrums (∼30°N). Based on observations during the May 1979 Monsoon Experiment (MONEX) of the Global Atmospheric Research Program (GARP), the lower atmosphere above the PBL in the reanalysis area is characterized by weak general descending motion (Blake et al. 1983) associated with the Hadley circulation. During MONEX, the strong surface heating extended the PBL to 650 hPa, where the PBL growth is stabilized by the downward motion above. The COAMPS mean PBL heights at 0000 or 1200 UTC are considerably lower than those found during MONEX (Blake et al. 1983), where the top of the PBL was found to be near 650 hPa. As discussed above, the COAMPS PBL height diagnostic does not recognize elevated mixed layers as described in Carlson and Ludlam (1968). The relatively mid- to late-winter period from January to March covered by our reanalysis is also characterized by weaker solar heating as compared to MONEX.
+
+Ventilation, defined as the product of PBL depth and mean PBL wind speed, is used to indicate the efficiency of transport of a contaminant in the PBL and is a measure of the effectiveness of boundary layer dispersion (Schultz and Warner 1982). Figure 14 shows the mean ventilation at 0000 and 1200 UTC. During the nighttime (Fig. 14a), the ventilation varies from less than 500 m2 s−1 over central Iraq and coastal regions to greater than 4000 m2 s−1 over the Persian Gulf. The low mean ventilation over much of the desert and semiarid area is a result of the light winds and low nocturnal PBL heights. The PBL height over regions surrounding water bodies is even more depressed because of the divergent (or sinking) wind pattern associated with the nighttime land breeze, resulting in the minimum mean ventilation of less than 500 m2 s−1. During the day, the mean ventilation ranges from 1000 to 2000 m2 s−1 over the northern portion of the domain and over the Persian Gulf, to more than 7000 m2 s−1 over the Arabian Desert, and to 10 000 m2 s−1 over south Iran and the Zagros. There is easily a 10-fold difference in the mean ventilation depending on the location and time of day. These ventilation values are qualitatively similar to those found in the 6-day average in Warner and Sheu (2000).
+
+d. Precipitation
+The 2-month accumulated precipitation is shown in Fig. 15. There is very little precipitation over much of the model domain except the windward slope of the Zagros and along the southwestern coast of the Caspian Sea. During the analysis period, there are a number of low pressure systems that migrate through the northern portion of the domain, as discussed in section 3. These systems and the accompanied fronts are not major rain producers over the semiarid plains. However, once these low pressure systems pass over the Iraqi plain, stronger pressure gradients can significantly force the Shamal. Appreciable precipitation is produced during these periods in the uplifting associated with the upslope wind on the southwest side of the major mountain chains, in addition to the moisture from the Persian Gulf and Caspian Sea. The accumulated precipitation pattern affects, as expected, the variability of the ground wetness (not shown), defined as the amount of water in the top ground level divided by the amount of water in the top ground level when saturated. The largest variability of ground wetness occurs in the mountainous regions (standard deviations of 0.3 to 0.5) where there was a maximum in precipitation. Deviations over central Iraq were 0.1–0.2, and less than 0.1 over the Saudi desert.
+
+e. Surface sensible and latent heat fluxes
+Figure 16 shows the mean sensible heat flux for 0000 and 1200 UTC. During the night (Fig. 16a), the sensible heating occurs mainly over the Persian Gulf and the Caspian Sea, where the land breeze transports cooler air over relatively warm water. The maximum mean sensible heat flux over the Persian Gulf is approximately 60 W m−2. Over higher elevations, suppressed by the nocturnal low-level inversion, the mean sensible heating is mostly downward, reaching −30 to ∼−60 W m−2. During the daytime (Fig. 16b), all the sensible heat flux is upward. Whereas the mean sensible flux maintains the same strength of 30 W m−2 over the Persian Gulf as during the nighttime, the maximum sensible heat flux increases to more than 300 W m−2 over the western Arabian Desert. The mean sensible flux over the much of the Iraqi plains and the interior Arabian Desert is greater than 200 W m−2. The sensible heat flux over the Tigris–Euphrates Valley is lower than the surrounding deserts because of the increase in ground wetness.
+
+The nighttime mean latent heat flux occurs mainly over the Persian Gulf, with a maximum of about 200 W m−2 (Fig. 17a). Over Iraq and the entire Arabian Peninsula, the mean nighttime latent heat flux is less than 30 W m−2, typical of desert and semiarid regions. It is interesting to note that the location of the maximum sensible and latent heat in the Persian Gulf is located just downwind from the maximum mean drainage flow from the Zagros (Fig. 7a), owing to the combination of strong mean wind, dry drainage flow, and warm-water surface temperature. The mean daytime latent heating is similarly dominated by evaporation from the main water bodies and wetlands, with maximum values over 200 W m−2 (Fig. 17b). The downwind increase of the mean latent heating in the Persian Gulf is related to the downwind evolution of the PBL discussed earlier. There is only a slight increase of mean latent heat flux over land during the day as compared to the night.
+
+6. Summary and conclusions
+The fields from a 2-month (15 January to 15 March) meteorological reanalysis using the Navy's operational global (NOGAPS) and mesoscale (COAMPS) models during the 1991 Gulf War have been analyzed to provide a mid- to late-winter climatic picture of the Persian Gulf region. This study extends the previous 3–4-day intermittent reanalyses of Westphal et al. (1999).
+
+When compared with other mesoscale models (White et al. 1999) with similar resolution covering complex terrains, the reanalysis produced for this study of the Gulf War Illness shows similar if not smaller error statistics, even though the reanalysis was conducted in a data-sparse area.
+
+The terrain, the surface characteristics, and the water–land distribution in this region have a profound influence on the near-surface atmospheric conditions during the Gulf War period. The Zagros Mountains act as a major barrier to the generally westerly airflow, creating strong winds over the range. Part of the low-level airflow is deflected toward the southeast. Helped by the reduced friction over water, the deflection causes higher winds over the northern Persian Gulf (average 4–5 m s−1), especially during episodes of tight pressure gradient, or Shamal. Differential heating due to radiation has a modulating effect on the mean circulation. There is a very strong signature of diurnal variation of sea–land circulation with convergence over the Gulf during the night and divergence during the day. The surface wind over lower elevation, interior land regions, such as the Tigris–Euphrates Valley, is mostly light and variable, especially in the nocturnal surface layer (average <1 m s−1). The magnitude of lake–land circulations is significant as compared to that of the large-scale mean winds in that area.
+
+The radiation effect is very strong over land, even in late winter. The mean daily 2-m air temperature variations are ∼10°–15°C. The maximum standard deviation of hourly 2-m temperature of more than 6°C is located over the central Arabian Peninsula, indicating that the diurnal process is responsible for most of the temperature variability, rather than synoptic systems. The mean surface sensible heat flux over the land ranges from −60 to ∼0 W m−2 during the night to more than 300 W m−2 during the day. The latent heat flux over land is relatively small, typically less than 60 W m−2, but increases to more than 200 W m−2 over areas of high ground wetness. In contrast, the sensible and latent heat fluxes over the Persian Gulf show little diurnal variation.
+
+Similarly, the boundary layer is strongly modulated by the diurnal cycle near the surface. During the night when a surface inversion forms over the desert plain because of surface radiative cooling, the diagnosed mean PBL height is below 150 m. The height of the mean nocturnal PBL bulges to a height of more than 500 m in the middle of the Persian Gulf, supported by the constant SST and convergent land breeze. During the day, the mean PBL height over the desert plain rises to more than 1200 m. Mean daytime PBL height remains below 900 m over several regions surrounding the Tigris–Euphrates Valley because of higher ground wetness. The low mean PBL height and light mean winds combine to yield very low ventilation efficiency over the Saudi and Iraqi plains. The low ventilation efficiency near Lakes Buhayrat ath-Tharthar and Bahr al-Milh is further reduced because of the recirculation associated with the lake–land effect.
+
+This study also reveals potential deficiencies in COAMPS moisture forecasts in the mid- and upper troposphere. There is ongoing research at the Naval Research Lab (NRL) to improve the COAMPS moist physics to reflect changes in cloud moist microphysics schemes since Rutledge and Hobbs (1983). The development of a full two-moment ice microphysics scheme based on Meyers et al. (1997) and Reisner et al. (1998) has been completed and is currently being tested.
+
+The conclusion of a combined global and nested mesoscale models reanalysis presented here is that, coupled with effective data assimilation, such a system can be a powerful tool to characterize the atmospheric environment for many analysis and forensic applications.
+
+Acknowledgments
+Drs. Nancy Baker, James Cummings, and James Goerss of NRL-Monterey have contributed during the early stages of this study. We also thank two anonymous reviewers for many helpful suggestions. We also benefited from discussions with Drs. Jerome Schmidt and Jason Nachamkin of NRL-Monterey and Mr. Joe Chang of the OSAGWI. This effort has been supported by the OSAGWI under Program Element 0902198D.
+
+REFERENCES
+Baker, N. L., 1992: Quality control for the navy operational atmospheric database. Wea. Forecasting, 7 , 250–261.
+
+Find it in your library
+Search Google Scholar
+Export Citation
+Barker, E. H., 1992: Design of the navy's multivariate optimum interpolation analysis system. Wea. Forecasting, 7 , 220–231.
+
+Find it in your library
+Search Google Scholar
+Export Citation
+Black, T. L., 1994: The new NMC Mesoscale Eta Model: Description and forecast examples. Wea. Forecasting, 9 , 265–278.
+
+Find it in your library
+Search Google Scholar
+Export Citation
+Black, T. L., D. Deaven, and G. DiMego, 1993: The step-mountain Eta coordinate model: 80 km “early” version and objective verifications. NWS Technical Procedures Bulletin 412, 31 pp. [Available from National Weather Service, Office of Meteorology, 1325 East–West Highway, Silver Spring, MD 20910.].
+
+Find it in your library
+Search Google Scholar
+Export Citation
+Blake, D. W., T. N. Krishnamurti, S. V. Low-Nam, and J. S. Fein, 1983: Heat low over the Saudi Arabian Desert during May 1979 (Summer MONEX). Mon. Wea. Rev., 111 , 1759–1775.
+
+Find it in your library
+Search Google Scholar
+Export Citation
+Carlson, T. N., and F. H. Ludlam, 1968: Conditions for the formation of local storms. Tellus, 20 , 203–226.
+
+Find it in your library
+Search Google Scholar
+Export Citation
+Cummings, J. A., C. Szczechowski, and M. Carnes, 1997: Global and regional ocean thermal analysis systems. Mar. Technol. Soc. J., 31 , 63–75.
+
+Find it in your library
+Search Google Scholar
+Export Citation
+DiMego, G. J., K. E. Mitchell, R. A. Peterson, J. E. Hoke, J. P. Gerrity, J. J. Tuccillo, R. L. Wobus, and H. H. Juang, 1992: Changes to NMC's regional analysis and forecast system. Wea. Forecasting, 7 , 185–198.
+
+Find it in your library
+Search Google Scholar
+Export Citation
+Dudhia, J., 1993: A nonhydrostatic version of the Penn State–NCAR Mesoscale Model: Validation tests and simulation of an Atlantic cyclone and cold front. Mon. Wea. Rev., 121 , 1493–1513.
+
+Find it in your library
+Search Google Scholar
+Export Citation
+Grell, G. A., J. Dudhia, and D. R. Stauffer, 1994: A description of the fifth-generation Penn State/NCAR Mesoscale Model (MM5). NCAR Tech. Note NCAR/TN 3981STR, 138 pp. [Available from National Center for Atmospheric Research, P.O. Box 3000, Boulder, CO 80307.].
+
+Find it in your library
+Search Google Scholar
+Export Citation
+Hodur, R. M., 1997: The Naval Research Laboratory's Coupled Ocean/Atmosphere Mesoscale Prediction System (COAMPS). Mon. Wea. Rev., 125 , 1414–1430.
+
+Find it in your library
+Search Google Scholar
+Export Citation
+Hogan, T., and T. Rosmond, 1991: The description of the Navy Operational Global Atmospheric Prediction System's spectral forecast model. Mon. Wea. Rev., 119 , 1786–1815.
+
+Find it in your library
+Search Google Scholar
+Export Citation
+Hogan, T., and L. R. Brody, 1993: Sensitivity studies of the Navy's global forecast model parameterizations and evaluation of improvements to NOGAPS. Mon. Wea. Rev., 121 , 2373–2395.
+
+Find it in your library
+Search Google Scholar
+Export Citation
+Hoke, J. E., N. A. Phillips, G. J. DiMego, J. J. Tuccillo, and J. G. Sela, 1989: The regional analysis and forecast system of the National Meteorological Center. Wea. Forecasting, 4 , 323–334.
+
+Find it in your library
+Search Google Scholar
+Export Citation
+Hulbert, W. E., A. N. Hull, D. R. Morford, and R. E. Englebretson, 1983: Forecasters handbook for the Middle East/Arabian Sea. Naval Environmental Prediction Research Facility Contractor Rep. CR 83-06, 226 pp. [Available from Naval Research Laboratory, 7 Grace Hopper Avenue, Monterey, CA 93940.].
+
+Find it in your library
+Search Google Scholar
+Export Citation
+Kalnay, E., M. Kanamitsu, and W. E. Baker, 1990: Global numerical weather prediction at the National Meteorological Center. Bull. Amer. Meteor. Soc., 71 , 1410–1428.
+
+Find it in your library
+Search Google Scholar
+Export Citation
+Kanamitsu, M., 1989: Description of the NMC Global Data Assimilation and Forecast System. Wea. Forecasting, 4 , 335–342.
+
+Find it in your library
+Search Google Scholar
+Export Citation
+Kanamitsu, M., and Coauthors, 1991: Recent changes implemented into the global forecast system at NMC. Wea. Forecasting, 6 , 425–435.
+
+Find it in your library
+Search Google Scholar
+Export Citation
+Meyers, M. P., R. L. Walko, J. Y. Harrington, and W. R. Cotton, 1997: New RAMS cloud microphysics parameterization. Part II: The two-moment scheme. Atmos. Res., 45 , 3–39.
+
+Find it in your library
+Search Google Scholar
+Export Citation
+Oil Companies Weather Co-Ordination Scheme, 1976: Handbook of the Weather in the Gulf: General Climate Data. IMCOS Marine Ltd. and Austral Press, 101 pp.
+
+Find it in your library
+Search Google Scholar
+Export Citation
+Paegle, J., K. C. Mo, and J. N. Paegle, 1996: Dependence of simulated precipitation on surface evaporation during the 1993 United States summer floods. Mon. Wea. Rev., 124 , 345–361.
+
+Find it in your library
+Search Google Scholar
+Export Citation
+Perrone, T. J., 1979: Winter shamal in the Persian Gulf. Naval Environmental Prediction Research Facility Tech. Rep. TR 79-06, 158 pp. [Available from Naval Research Laboratory, 7 Grace Hopper Avenue, Monterey, CA 93940.].
+
+Find it in your library
+Search Google Scholar
+Export Citation
+Peterson, R. A., G. J. DiMego, J. E. Hoke, K. E. Mitchell, J. P. Gerrity, R. L. Wobus, H. H. Juang, and M. J. Pecnick, 1991: Changes to NMC's regional analysis and forecast system. Wea. Forecasting, 6 , 133–141.
+
+Find it in your library
+Search Google Scholar
+Export Citation
+Peterson, T. C., and R. S. Vose, 1997: An overview of the Global Historical Climatology Network temperature database. Bull. Amer. Meteor. Soc., 78 , 2837–2849.
+
+Find it in your library
+Search Google Scholar
+Export Citation
+Reisner, J., R. M. Rasmussen, and R. T. Bruintjes, 1998: Explicit forecasting of supercooled liquid water in winter storms using the MM5 mesoscale model. Quart. J. Roy. Meteor. Soc., 124 , 1071–1107.
+
+Find it in your library
+Search Google Scholar
+Export Citation
+Rogers, E., T. Black, D. Deaven, G. DiMego, Q. Zhao, Y. Lin, N. W. Junker, and M. Baldwin, 1995: Changes to the NMC operational Eta model analysis/forecast system. NWS Technical Procedures Bulletin 423, 51 pp. [Available from National Weather Service, Office of Meteorology, 1325 East–West Highway, Silver Spring, MD 20910.].
+
+Find it in your library
+Search Google Scholar
+Export Citation
+Rogers, E., T. Black, D. Deaven, G. DiMego, Q. Zhao, M. Baldwin, and N. M. Junker, 1996: Changes to the operational “early” Eta analysis/forecast system at the National Centers for Environmental Prediction. Wea. Forecasting, 11 , 391–413.
+
+Find it in your library
+Search Google Scholar
+Export Citation
+Rosmond, T. E., 1992: The design and testing of the Navy Operational Global Atmospheric Prediction System. Wea. Forecasting, 7 , 262–272.
+
+Find it in your library
+Search Google Scholar
+Export Citation
+Rutledge, S. A., and P. V. Hobbs, 1983: The mesoscale and microscale structure and organization of clouds and precipitation in midlatitude cyclones. VIII: A model for the “seeder-feeder” process in warm-frontal rainbands. J. Atmos. Sci., 40 , 1185–1206.
+
+Find it in your library
+Search Google Scholar
+Export Citation
+Schultz, P., and T. T. Warner, 1982: Characteristics of summertime circulations and pollutant ventilation in the Los Angeles basin. J. Appl. Meteor., 21 , 672–682.
+
+Find it in your library
+Search Google Scholar
+Export Citation
+Stensrud, D. J., 1993: Elevated residual layers and their influence on surface boundary-layer evolution. J. Atmos. Sci., 50 , 2284–2293.
+
+Find it in your library
+Search Google Scholar
+Export Citation
+Waldron, K. M., 1994: Sensitivity of local model prediction to large scale forcing. Ph.D. dissertation, University of Utah, 150 pp. [Available from University of Utah, Salt Lake City, UT 84112.].
+
+Find it in your library
+Search Google Scholar
+Export Citation
+Waldron, K. M., J. Paegle, and J. D. Horel, 1996: Sensitivity of a spectrally filtered and nudged limited-area model to outer model options. Mon. Wea. Rev., 124 , 529–547.
+
+Find it in your library
+Search Google Scholar
+Export Citation
+Warner, T. T., and R-S. Sheu, 2000: Multiscale local forcing of Arabian Desert daytime boundary layer, and implications for the dispersion of surface-released contaminants. J. Appl. Meteor., 39 , 686–707.
+
+Find it in your library
+Search Google Scholar
+Export Citation
+Westphal, D. L., and Coauthors, 1999: Meteorological reanalyses for the study of Gulf War illnesses: Khamisiyah case study. Wea. Forecasting, 14 , 215–241.
+
+Find it in your library
+Search Google Scholar
+Export Citation
+White, B. G., J. Paegle, W. J. Steenburgh, J. D. Horel, R. T. Swanson, L. K. Cook, D. J. Onton, and J. G. Miles, 1999: Short-term forecast validation of six models. Wea. Forecasting, 14 , 84–108.

@@ -1,0 +1,1791 @@
+NeuroToxicology 32 (2011) 814–822
+
+Contents lists available at ScienceDirect
+
+NeuroToxicology
+
+Effects of low-level sarin and cyclosarin exposure and Gulf War Illness on Brain
+Structure and Function: A study at 4 T
+Linda L. Chao a,b,c,*, Linda Abadjian a, Jennifer Hlavin a, Deiter J. Meyerhoff a,c, Michael W. Weiner a,b,c
+a
+
+Center for Imaging of Neurodegenerative Diseases, San Francisco Veterans Affairs Medical Center, San Francisco, CA, United States
+Department of Psychiatry, University of California, San Francisco, CA, United States
+c
+Department of Radiology and Biomedical Imaging, University of California, San Francisco, CA, United States
+b
+
+A R T I C L E I N F O
+
+A B S T R A C T
+
+Article history:
+Received 4 May 2011
+Accepted 18 June 2011
+Available online 29 June 2011
+
+Background: More than 100,000 US troops were potentially exposed to chemical warfare agents sarin
+(GB) and cyclosarin (GF) when an ammunition dump at Khamisiyah, Iraq was destroyed during the 1991
+Persian Gulf War (GW). We previously found reduced total gray matter (GM) volume in 40 GW veterans
+with suspected GB/GF exposure relative to 40 matched, unexposed GW veterans on a 1.5 T MR scanner.
+In this study, we reexamine the relationship between GB/GF exposure and volumetric measurements of
+gross neuroanatomical structures in a different cohort of GW veterans on a 4 T MR scanner.
+Methods: Neuropsychological and magnetic resonance imaging (MRI) data from a cross sectional study
+on Gulf War Illness performed between 2005 and 2010 were used in this study. 4 T MRI data were
+analyzed using automated image processing techniques that produced volumetric measurements of
+gray matter (GM), white matter (WM) and cerebrospinal ﬂuid (CSF).
+Results: Binary comparisons of 64 GB/GF exposed veterans and 64 ‘matched’, unexposed veterans
+revealed reduced GM (p = 0.03) and WM (p = 0.03) volumes in the exposed veterans. Behaviorally,
+exposed veterans committed more errors of omission (p = 0.02) and tended to have slower responses
+(p = 0.05) than unexposed veterans on the Continuous Performance Test (CPT), a measure sustained and
+selective attention. Regression analyses conﬁrmed that GB/GF exposure status predicted GM (b = 0.11,
+p = 0.02) and WM (b = 0.14, p = 0.03) volumes, and number of CPT omission errors (b = 0.22, p = 0.02)
+over and above potentially confounding demographic, clinical, and psychosocial variables. There was no
+dose–response relationship between estimated levels of GB/GF exposure and brain volume. However, we
+did ﬁnd an effect of Gulf War Illness/Chronic Mulitsymptom Illness on both GM and WM volume in the
+GB/GF exposed veterans.
+Conclusions: These ﬁndings conﬁrm previous reports by our group and others of central nervous system
+pathology in GW veterans with suspected exposure to low levels of GB/GF two decades after the exposure.
+ß 2011 Elsevier Inc. All rights reserved.
+
+Keywords:
+Magnetic resonance imaging
+Morphometric analysis
+Brain
+Central nervous system
+Cognitive functioning
+Chemical warfare agents
+Sarin
+Cyclosarin
+Gulf War veterans
+
+1. Introduction
+In 1990 and 1991, the US deployed almost 700,000 troops to the
+Persian Gulf to liberate Kuwait from Iraqi occupation. In March of
+1991, US troops detonated a munitions storage pit at Khamisiyah,
+Iraq that was later found to contain stockpiles of sarin (GB; oisopropyl methylphosphonoﬂouridate) and cyclosarin (GF; cyclohexyl methylphosphonoﬂouridate) (Directorate for Deployment
+Health Support of the Special Assistant to the Under Secretary of
+Defense (Personnel and Readiness) for Gulf War Illness Medical
+Readiness and Military Deployments, 1997). Although these
+
+* Corresponding author at: 4150 Clement Street, 114M, San Francisco, CA 94121,
+United States. Tel.: +1 415 221 4810x4386; fax: +1 415 668 2864.
+E-mail address: linda.chao@ucsf.edu (L.L. Chao).
+0161-813X/$ – see front matter ß 2011 Elsevier Inc. All rights reserved.
+doi:10.1016/j.neuro.2011.06.006
+
+acetylcholinesterase inhibitors are incapacitating upon acute, high
+level exposure, reviews of the medical records of potentially
+exposed GW veterans and of published ﬁeld accounts revealed no
+clinical indications of GB/GF poisoning at the time of the possible
+exposure (Riddle et al., 2003). However, later there were reports of
+an elevation in risk for hospitalization due to circulatory diseases
+(Smith et al., 2003) and a two-fold increase in the incidence of brain
+cancer deaths (Bullman et al., 2005).
+After the Persian Gulf War ended, the Department of Defense
+(DoD) and the Central Intelligence Agency (CIA) initiated efforts to
+determine the extent of potential human GB/GF exposure by
+modeling its estimated release from and dispersion around the
+Khamisiyah site (Persian Gulf War Illness Task Force, 1997). Using
+available meteorological data and estimates of atmospheric
+transport and diffusion, this ‘‘plume’’ analysis resulted in four
+modeled hazard areas, one corresponding to each of 4 days (10–13
+
+L.L. Chao et al. / NeuroToxicology 32 (2011) 814–822
+
+March 1991) when GB/GF release was considered to be possible.
+The plume estimates were then superimposed onto geographic
+maps containing military unit locations. A soldier was considered
+potentially exposed to low levels of GB/GF if his or her unit had
+been located within the modeled hazard area on any of the four
+target dates.
+Decrements in manual dexterity and visuospatial function
+(Proctor et al., 2006) and reduced total brain white matter (WM)
+volume (Heaton et al., 2007) have been noted 4–6 years after
+exposure in GW veterans with higher estimated levels of
+presumed GB/GF exposure. Recently, we reported reduced total
+gray matter (GM) and hippocampal volumes in a different cohort
+of 40 GW veterans with suspected GB/GF exposure more than a
+decade after exposure (Chao et al., 2010). Based on these ﬁndings
+and the results of Heaton et al., we argued that there was a
+compelling reason to conduct a follow-up study with more
+subjects and more sophisticated imaging technology. Therefore,
+the goal of this study is to replicate and extend our previous
+ﬁndings in a different cohort of GW veterans with suspected GB/
+GF exposure. We used a 4 T MRI scanner, which affords better
+signal-to-noise ratio, reduced voxel size, and improved GM/WM
+contrast than the 1.5 T scanner that we and Heaton used in our
+previous studies.
+2. Methods
+2.1. Description of exposure and exposure dosage estimates
+The Department of Defense and the Central Intelligence Agency
+initiated efforts to determine the extent of potential human GB/GF
+exposure by modeling its estimated release from and dispersion
+around the Khamisiyah site (Persian Gulf War Illness Task Force,
+1997). The possible hazard areas, which were estimated using
+available meteorological data and estimates of atmospheric
+transport and diffusion, were determined by the Ofﬁce of the
+Special Assistant for Gulf War Illnesses (OSAGWI), with assistance
+from the Naval Research Laboratory, Naval Surface Warfare Center,
+the Lawrence Livermore National Laboratory, and the Defense
+Threat Reduction Agency. This ‘‘plume’’ analysis resulted in four
+modeled hazard areas, one corresponding to each of 4 days (10–13
+March 1991) when GB/GF release was considered to be possible.
+Each model contained the area within the concentration contour of
+the general population limit (GPL), which reﬂects the limit below
+which individuals within the general population could be exposed
+24 h per day for 70 years without experiencing any adverse health
+effects. The US army and the Centers for Disease Control and
+Prevention estimate the GPL value to be 0.01296 mg min/m3
+(McNamara and Leitnaker, 1971). The plume estimates were then
+superimposed onto geographic maps containing military unit
+locations. A soldier was considered potentially exposed to low
+levels of GB/GF if his or her unit had been located within the
+modeled hazard area on any of the four target dates. In 2002, the
+exposure plume models were reanalyzed and revised using
+updated troop location and personnel information, improved
+meteorological modeling, more accurate estimates of the total
+number of GB/GF-containing rockets destroyed, consideration of
+the methods used to remove GB/GF from the area, relevant
+exposure thresholds for GB/GF, and the combined toxicity of these
+agents.
+We requested and received information about exposure status
+and the cumulative exposure level estimates for all of the GW
+veterans who participated in our studies on the effects of Gulf
+War Illness from the Deputy Assistant Secretary of Defense for
+Force Health Protection and Readiness. The exposure level
+estimates reﬂect the cumulative exposure level estimate for the
+unit to which each study participant was assigned from 10 to
+
+815
+
+13 March 1991. Because the last modeling effort that determined
+the exposure estimates occurred in 2002, individuals who were
+not identiﬁed in initial data collections but were later identiﬁed as
+having been with units that were in the hazard area, do not have
+cumulative exposure level estimates. In the current sample, 13%
+(N = 8) of the participants who had been potentially exposed
+to GB/GF exposure did not have cumulative exposure level
+estimates.
+2.2. Participants
+All participants were veterans of the 1991 Persian Gulf War
+who took part in our 4 T imaging studies on the effects of Gulf War
+Illness on the brain, conducted at the San Francisco Veterans Affairs
+Medical Center between 2005 and 2010. Information obtained
+from the ofﬁce of the Deputy Assistant Secretary of Defense for
+Force Health Protection and Readiness, which maintains the
+database of individuals who are considered to have been in the
+possible hazard areas, identiﬁed 77 GW veterans from the sample
+of 213 as having potentially been exposed to GB/GF according to
+the revised plume modeling data. Because our goal was to replicate
+our previous ﬁndings in a different cohort of GB/GF exposed
+veterans, data from 8 veterans who had also participated in our
+1.5-T study of Gulf War Illness were excluded from the current
+analysis. Five veterans with suspected GB/GF exposure did not
+have imaging data due to claustrophobia. Thus, we had 4 T imaging
+data from 64 GW veterans with suspected GB/GF exposure. Of the
+remaining 136 unexposed GW veterans, we matched 64 veterans
+to our cohort of exposed veterans based age, sex, level of education,
+Chronic Multisymptom Illness (CMI, Fukuda et al., 1998), current
+posttraumatic stress disorder (PTSD) and current major depressive
+disorder (MDD) status. The Institutional Review Boards of the
+University of California San Francisco and San Francisco VA and the
+DoD Human Research Protection Ofﬁce approved both studies.
+Informed consent was obtained from all participants.
+2.3. Study protocol and measures
+The complete study protocol included 9 self-report questionnaires about physical and mental health status, a battery of
+neuropsychological tests, a psychological diagnostic interview, a
+medical examination, and magnetic resonance imaging (MRI) on a
+4-T scanner. For the majority of participants, neuropsychological
+testing and MRI scans took place on the same day. In a few cases,
+neuropsychological testing and MRI scans were administered 1
+day apart.
+2.4. Neuropsychological battery and clinical assessment
+We used the Continuous Performance Test (CPT, Letz, 1991), the
+Digit Span forward subtest of the Wechsler Adult Intelligence
+Scale-III (WAIS-III; Wechsler, 1997), and the Trail-Making Test,
+Part A (TMT A, Reitan and Wolfson, 1985) to assess simple
+attention. Executive function was assessed with the Trail-Making
+Test, Part B (TMT B, Reitan and Wolfson, 1985), the Short Category
+Test, Wetzel and Boll, 1987), and the Digit Span backward subtest
+of the WAIS-III. We used the California Verbal Learning Test-II
+(CVLT, Delis et al., 2000) to assess memory, focusing on raw scores
+for the short- and long-delay free recall and recognition memory
+test. Manual dexterity was assessed with the Grooved Pegboard
+test (Lafayette Instrument, Lafayette, IN). The Test of Memory
+Malingering (TOMM; Tombaugh, 1995) was used to assess
+tendency to purposefully perform poorly. A TOMM score <90%
+(i.e., <45/50 correct) on trial 2 and/or the retention trial was
+operationalized as failing the TOMM. The clinical diagnoses of
+current MDD and current PTSD were made based on the Structured
+
+816
+
+L.L. Chao et al. / NeuroToxicology 32 (2011) 814–822
+
+Clinician Interview for DSM-IV, (Spitzer et al., 1992) and the
+Clinician Administered PTSD Scale (CAPS; Blake et al., 1990),
+respectively.
+2.5. Magnetic resonance imaging
+A volumetric T1-weighted gradient echo MRI (MPRAGE; TR/TE/
+TI = 2300/3/950 ms, 1.0 mm  1.0 mm  1.0 mm resolution) was
+acquired on a Bruker MedSpec 4 T system equipped with a USA
+instruments eight-channel array head coil.
+2.5.1. Tissue segmentation
+We used SPM8 (Statistical Parametric Mapping; Institute of
+Neurology, London, United Kingdom) to segment the volumetric
+T1 images into gray matter (GM), white matter (WM) and cerebral
+spinal ﬂuid (CSF) with the default uniﬁed segmentation algorithm.
+In order to calculate the volumes of the separate tissue
+compartments, we determined the number of voxels belonging
+to the GM, WM or CSF partitions. Each volume count was then
+multiplied with the voxel dimensions (1 mm  1 mm  1 mm)
+and converted into cubic centimeters. Every single voxel in the
+compartmental images contains a certain probability value,
+ranging from zero to one, identifying the likelihood that this
+voxel belongs to a particular compartment. Hence we also
+multiplied the number of voxels with the probability values of
+each voxel. After determining volumes of the GM, WM and CSF
+compartments, total intracranial volume (ICV) was calculated by
+summing the compartmental volumes (i.e., GM + WM + CSF).
+We also performed a voxel-based morphometry (VBM) analysis
+using SPM8 and MATLAB R2008a (Math-Works, Natick, MA, USA).
+First, MR images were segmented into GM, WM and cerebrospinal
+ﬂuid (CSF) using the standard uniﬁed segmentation model in SPM8
+(Ashburner and Friston, 2005). Second, GM and WM population
+templates were generated from the entire image dataset using the
+diffeomorphic anatomical registration using exponentiated Lie
+algebra (DARTEL) technique (Ashburner, 2007). Third, after an
+initial afﬁne registration of the GM and WM DARTEL templates to
+the tissue probability maps in Montreal Neurological Institute
+(MNI) space (http://www.mni.mcgill.ca/), non-linear warping of
+GM and WM images were performed to the DARTEL GM and WM
+templates in MNI space. Fourth, images were then modulated to
+ensure that relative volumes of GM and WM were preserved
+following the spatial normalization procedure. Lastly, images were
+smoothed with an 8 mm full width at half maximum Gaussian
+kernel. After spatial pre-processing, the smoothed, modulated,
+normalized GM and WM datasets were used for statistical analysis.
+2.6. Statistical analyses
+Statistical analyses of the demographic, clinical, neuropsychological, and volumetric measures were conducted using IBM SPSS
+Statistics, version 19. Demographic and descriptive characteristics
+were compared across the two dichotomous exposure groups with
+Student’s t-tests for continuous variables and chi-square tests for
+categorical variables. Analyses of the neuropsychological and
+volumetric imaging data were carried out in three stages. First,
+binary comparisons of the 64 exposed GW veterans and the 64
+matched, unexposed GW veterans were performed with Student’s ttests. Next, we used linear regression analyses to examine the
+impact of potential confounding factors (e.g., PTSD and depression
+symptoms, history of alcohol abuse/dependence, and current
+average number of drinks/month). These variables were forced into
+the regression equation in the ﬁrst step. CMI and GB/GF exposure
+status were forced into the regression equation in the second and
+third steps respectively, to determine their ability to predict
+neuropsychological performance and brain volume over demo-
+
+graphic, clinical, and psychosocial variables. Thirdly, we used
+hierarchical linear regression analyses to determine if a dose–
+response relationship existed between cumulative levels of
+estimated GB/GF exposure and brain volume and neuropsychological performance in the exposed GW veterans. In these analyses, age,
+gender, ICV (for analyses of brain volume data), education (for
+analyses of the neuropsychological data), symptoms of PTSD and
+depression, history of alcohol abuse/dependence, current drinking
+level, CMI status, and cumulative exposure level estimates were
+entered as independent predictors of brain volume and neuropsychological test scores in chronological order. Finally, we used
+Spearman’s rank correlations to assess the relationship between
+neuropsychological performance and brain volume (i.e., total gray
+and white matter), separately in the exposed and unexposed groups.
+For the VBM analyses, between group regional differences in
+GM and WM volumes were assessed using the general linear model
+in SPM8, and the signiﬁcance of each effect was estimated from the
+distributional approximations of Gaussian random ﬁelds (Friston
+et al., 1994). An absolute threshold mask of 0.05 was used for the
+GM and WM analyses. Age, gender and ICV were entered into the
+design matrix as nuisance covariates. Signiﬁcant effects were
+assessed using the family-wise error (FWE) threshold of
+PFWE  0.05, corrected for multiple comparisons.
+3. Results
+Table 1 summarizes the demographic, military, and clinical data
+of the 64 GB/GF exposed GW veterans who had imaging data and
+the 64 unexposed, matched controls. The two groups were
+matched for age, gender, years of education, and diagnoses of
+current PTSD, current MDD, and CMI based on criteria previously
+described by Fukuda et al. (1998). However, there were group
+differences in ethnicity (x2 = 11.0, p = 0.03) and years of military
+service (p = 0.04).
+3.1. Binary comparisons of the Neuropsychological and 4 T MRI data
+in the exposed and unexposed GW veterans
+Table 2 lists the neuropsychological and volumetric MRI data
+of the 64 GB/GF exposed subjects and the matched controls. The
+GB/GF exposed subjects performed more quickly than the
+unexposed subjects on the TMT-A (p < 0.001) and Grooved
+Pegboard with the non-dominant hand (p < 0.05). Importantly,
+there was no difference in the number of ambidextrous subjects
+in exposed and unexposed groups (3% vs. 4% respectively,
+p > 0.8). On the CPT test, GB/GF exposed subjects made more
+errors of omission (p = 0.02) and tended to have slower response
+times (p = 0.05) than unexposed subjects. Analysis of the SPM8
+segmentation data revealed reduced total GM and WM volume
+(p = 0.03) in the GB/GF exposed subjects compared to the
+matched controls. Nothing from the VBM analyses of the GM
+or WM segmentation maps survived FWE corrections for
+multiple comparisons.
+3.2. Consideration of potential confounding variables
+Table 3 summarizes the results of the multiple linear regression
+analyses that examined the ability of GB/GF exposure status to
+predict GM and WM volumes and neuropsychological performance over and above potential confounding variables. Consistent
+with results from the binary comparisons, GB/GF exposure status
+was a signiﬁcant predictor of GM (b = 0.11, p = 0.02) and WM
+(b = 0.14, p = 0.03) volumes, performance on the TMT-A
+(b = 0.32, p < 0.001), Grooved Pegboard, non-dominant hand
+(b = 0.19, p = 0.03), and number of CPT omission errors (b = 0.22,
+p = 0.02) when entered in the third step of the linear regression
+
+L.L. Chao et al. / NeuroToxicology 32 (2011) 814–822
+Table 1
+Demographic, military, and clinical information about the 64 GB/GF exposed GW
+veterans and 64 matched controls.
+
+Age, mean (S.D.)
+No. female (%)
+Ethnicitya
+African American (%)
+Caucasian (%)
+Latino (%)
+Other (%)
+No. married (%)
+Years education
+Military status during Gulf War
+No. Active Duty (%)
+No. National Guard (%)
+No. Reserves (%)
+Years in the militaryb
+No. with service-connected disability (%)
+Average percent VA disability
+No. with no exposure estimate (%)
+No. with low estimated exposure
+(0.021–0.0469 mg min/m3)
+No. with moderate estimated exposure
+(0.0496–0.072 mg min/m3)
+No. with high estimated exposure
+(>0.072 mg min/m3)
+No. with CMI cases (%)
+No. with current PTSD diagnosis (%)
+Current CAPS score
+No. with current MDD diagnosis (%)
+HAM-D Score
+No. with history of alcohol problem (%)
+Current average no. alcoholic drinks/month
+
+Exposed
+
+Unexposed
+
+48.4 (7.0)
+5 (8%)
+
+48.5 (7.8)
+5 (8%)
+
+6 (9%)
+28 (44%)
+23 (36%)
+7 (11%)
+42 (66%)
+15.1 (2.3)
+
+7 (11%)
+43 (67%)
+10 (16%)
+4 (6%)
+44 (69%)
+15.1 (2.1)
+
+47 (73%)
+11 (17%)
+4 (6%)
+15.0 (8.2)
+26 (41%)
+36.0 (26.5)
+8 (13%)
+6 (9%)
+
+53 (83%)
+3 (5%)
+7 (11%)
+18.1 (8.1)
+34 (53%)
+32.7 (28.9)
+–
+–
+
+18 (28%)
+
+–
+
+32 (50%)
+
+–
+
+33 (52%)
+5 (8%)
+10.2 (18.8)
+6 (9%)
+4.8 (4.5)
+60 (94%)
+15.1 (22.7)
+
+33 (52%)
+5 (8%)
+9.0 (16.2)
+8 (13%)
+4.9 (5.1)
+57 (89%)
+10.8 (19.0)
+
+CMI, Chronic Mulitsymptom Illness as deﬁned by Fukuda et al. (1998); PTSD,
+posttraumatic stress disorder, CAPS, Clinician Administered PTSD Scale, MDD,
+major depressive disorder; HAM-D, Hamilton Depression Score.
+a
+x2 = 11.0, p = 0.03.
+b
+p = 0.04.
+
+817
+
+models. GB/GF exposure status was also marginally associated
+with response time on CPT hits (b = 0.18, p = 0.06).
+Because the regression analyses also revealed CMI status,
+entered in the second step, to be a signiﬁcant predictor of total WM
+volume (b = 0.17, p < 0.05), we further examined the relationship between CMI status and WM volume in a post hoc analysis.
+Because the regression model showed that gender, history of
+alcohol abuse/dependence, and current drinking level were not
+signiﬁcantly associated with total WM volume, these variables
+were excluded from the post hoc analysis of covariance (ANCOVA).
+The ANCOVA, which controlled for age, ICV, current CAPS and
+HAMD scores, revealed a marginal effect of CMI status (p = 0.06) on
+total brain WM volume.
+The regression analyses also revealed a signiﬁcant relationship
+between CMI status and CPT errors of commission (b = 0.29,
+p = 0.01). Because none of the independent variables were
+signiﬁcantly associated with CPT commission errors, they were
+not included in the post hoc one-way analysis of variance
+(ANOVA) that we used to further examine the relationship
+between CMI status and CPT commission errors. This post hoc
+analysis revealed a signiﬁcant main effect of CMI on commission
+errors (F1,107 = 25.35, p < 0.001). Subjects with CMI committed
+more commission errors (14.1  6.0) on the CPT than subjects
+without CMI- (8.6  5.2 errors). CMI status was also signiﬁcantly
+associated with performance on the Grooved Pegboard with the nondominant hand (b = 0.23, p < 0.03). Of all the independent
+variables in the regression analysis, only age and exposure status
+were signiﬁcantly associated with Grooved Pegboard performance.
+Thus, we examined the relationship between CMI status and
+Grooved Pegboard performance in a post hoc ANCOVA that
+controlled for age and GB/GF exposure. This analysis revealed only
+a marginal effect of CMI status (F1,126 = 3.19, p = 0.08) on Grooved
+Pegboard performance with the non-dominant hand.
+
+Table 2
+Neuropsychological and MRI volumetric data in 64 exposed veterans and 64 matched controls.
+
+Neuropsychological data
+Attention
+CPT hits RTa
+CPT no. omission errors
+CPT no. commission errors
+TMT A, time to completea
+WAIS-III Digit Spans (forward)
+Executive function
+TMT B, time to completea
+Short Category Test, total errorsa
+WAIS-III Digit Spans (backward)
+Psychomotor function
+Grooved Pegboard, dominant handa
+Grooved Pegboard, non-dominant handa
+Short-term memory
+CVLT, short-delay free recall
+CVLT, long-delay free recall
+CVLT, recognition hits
+Test of Memory Malingering (TOMM)
+Trial 1
+Trial 2
+Retention
+Volumetric MRI datab
+SPM8 segmentation
+Intracranical volume (ICV, in cc)
+Total gray matter (cc)
+Total white matter (cc)
+
+Exposed
+
+Nonexposed
+
+t-Value
+
+439.5 (71.1)
+2.4 (3.9)
+12.1 (5.9)
+26.2 (7.6)
+10.2 (2.2)
+
+412.5 (70.2)
+1.0 (1.8)
+10.4 (6.4)
+33.0 (12.9)
+10.4 (2.2)
+
+1.98
+2.41
+1.47
+3.62
+0.55
+
+0.38
+0.46
+0.28
+0.64
+0.09
+
+0.05
+0.02
+0.14
+<0.001
+0.58
+
+65.3 (26.7)
+29.6 (13.9)
+6.8 (2.1)
+
+68.0 (25.2)
+26.6 (14.3)
+6.7 (2.2)
+
+0.58
+1.19
+0.25
+
+0.10
+0.21
+0.05
+
+0.56
+0.24
+0.81
+
+68.2 (12.4)
+73.0 (16.5)
+
+71.9 (13.9)
+78.6 (14.8)
+
+1.58
+2.00
+
+0.28
+0.36
+
+0.12
+0.048
+
+9.9 (3.2)
+10.8 (3.1)
+14.5 (1.5)
+
+10.4 (3.1)
+11.2 (3.2)
+14.8 (1.4)
+
+0.93
+0.68
+1.22
+
+0.16
+0.13
+0.21
+
+0.35
+0.50
+0.22
+
+48.1 (2.4)
+49.9 (0.3)
+49.7 (0.6)
+
+48.0 (3.0)
+49.8 (1.3)
+49.7 (1.7)
+
+0.29
+0.29
+0.22
+
+0.04
+0.11
+0.0
+
+0.77
+0.77
+0.83
+
+1798.4 (186.8)
+724.0 (76.1)
+505.3 (54.3)
+
+1810.21(230.6)
+745.1 (93.3)
+524.1 (63.9)
+
+0.32
+F = 4.93
+F = 4.83
+
+0.06
+0.25
+0.32
+
+0.75
+0.03
+0.03
+
+Effect size (d)
+
+Values are mean (SD).
+CPT, Continuous Performance Test, TMT, Trail-making Test, WAIS-III, Wechsler Adult Intelligence Scale; CVLT, California Verbal Learning Test.
+a
+Lower scores indicate better performance.
+b
+Analyzed with analysis of covariance, controlling for effects of age, gender and ICV.
+
+p-Value
+
+L.L. Chao et al. / NeuroToxicology 32 (2011) 814–822
+
+818
+
+Table 3
+Ability of CMI status and GB/GF exposure to predict neuropsychological test scores and MRI volume after accounting for potential confounding variables.
+Step 1a
+F(7,120)
+
+0.04
+0.16
+0.19
+0.03
+0.13
+
+a
+b
+c
+d
+e
+f
+
+2
+
+2
+
+Step 3 – GB/GF exposure
+
+R
+
+DR
+
+DF(1,119)
+
+R2
+
+DR2
+
+DF(1,118)
+
+0.62
+2.65b
+3.43c
+0.46
+2.52b
+
+0.04
+0.18
+0.24
+0.05
+0.13
+
+0.00
+0.02
+0.05
+0.02
+0.00
+
+0.29
+2.59
+6.49b
+2.34
+0.46
+
+0.07
+0.23
+0.25
+0.15
+0.13
+
+0.03
+0.05
+0.01
+0.10
+0.00
+
+3.58e
+6.17b
+1.36
+13.77d
+0.31
+
+0.11
+0.15
+0.11
+
+2.11b
+2.93c
+2.04e
+
+0.11
+0.15
+0.11
+
+0.00
+0.00
+0.00
+
+0.06
+0.06
+0.00
+
+0.11
+0.16
+0.11
+
+0.00
+0.01
+0.00
+
+0.30
+1.81
+0.08
+
+0.12
+0.15
+
+2.41b
+3.04c
+
+0.13
+0.18
+
+0.01
+0.03
+
+0.79
+4.61b
+
+0.15
+0.21
+
+0.02
+0.03
+
+2.62
+4.73b
+
+0.19
+0.16
+0.06
+
+3.90c
+3.30c
+1.05
+
+0.20
+0.16
+0.07
+
+0.01
+0.00
+0.01
+
+1.41
+0.00
+1.00
+
+0.20
+0.17
+0.08
+
+0.00
+0.01
+0.01
+
+0.79
+0.35
+1.72
+
+0.13
+0.09
+0.06
+
+2.63b
+1.61
+1.02
+
+0.13
+0.09
+0.06
+
+0.00
+0.00
+0.00
+
+0.14
+0.25
+0.14
+
+0.13
+0.09
+0.06
+
+0.00
+0.00
+0.00
+
+0.03
+0.07
+0.08
+
+0.74
+0.53
+
+48.19d
+19.63d
+
+0.75
+0.55
+
+0.01
+0.02
+
+3.45
+4.78b
+
+0.76
+0.57
+
+0.01
+0.02
+
+5.56b
+5.18b
+
+R
+Attention
+CPT hits RT
+CPT no. omission errors
+CPT no. commission errors
+TMT A, time to complete
+WAIS-III Digit Spans (forward)
+Executive function
+TMT B, time to complete
+Short Category Test, total errors
+WAIS-III Digit Spans (backward)
+Psychomotor function
+Grooved Pegboard, dominant hand
+Grooved Pegboard, non-dominant hand
+Short-term memory
+CVLT, short-delay free recall
+CVLT, long-delay free recall
+CVLT, recognition hits
+Test of Memory Malingering (TOMM)
+Trial 1
+Trial 2
+Retention
+MRI volumef
+Total GM
+Total WM
+
+Step 2 – CMI status
+
+2
+
+Variables entered: age, gender, years of education, current average no. drinks/month, history of alcohol abuse/dependence, current CAPS score, HAMD score.
+p < 0.05.
+p < 0.01.
+p < 0.001.
+p = 0.06.
+Variables entered in step 1: age, gender, ICV, current average no. drinks/month, history of alcohol abuse/dependence, current CAPS score, HAMD score.
+
+3.3. Examination of dose–response relationship between estimated
+levels of GB/GF exposure and brain volume and neuropsychological
+performance
+Table 4 summarizes the results of the hierarchical regression
+analyses used to examine the relationship between estimated
+levels of GB/GF exposure and brain volume. Cumulative exposure
+level estimates did not signiﬁcantly predict GM or WM volume. In
+contrast, ICV and CMI status signiﬁcantly predicted both. Age was
+also a signiﬁcant predictor of total brain GM volume while
+current CAPS score and current drinking level predicted total
+brain WM volume. Table 5 summarizes a similar analysis of the
+relationship between cumulative exposure level estimates and
+neuropsychological performance. Age (b = 0.31, p = 0.06) and
+CMI status (b = 0.40, p = 0.01) were both signiﬁcant be
+predictors of the number of CPT commission errors in the GB/
+GF exposed veterans.
+3.4. Interaction between GB/GF exposure and CMI status on
+brain volume
+The ﬁnding that CMI status signiﬁcantly predicted GM and WM
+volume in the regression analyses of 56 exposed veterans, and
+signiﬁcantly predicted WM volume in the regression model that
+we used to examine potentially confounding variables prompted
+us to further investigate the relationship between CMI and GB/GF
+exposure status on brain volume. We initially used a one-way
+ANCOVA that controlled for ICV, age, gender, and psychosocial
+variables (i.e., current CAPS and HAMD scores, history of alcohol
+abuse/dependence and current drinking levels) separately in the
+exposed and unexposed veterans. This analysis revealed a
+signiﬁcant main effect of CMI status on GM (F1,63 = 12.29,
+p = 0.001) and WM (F1,63 = 7.39, p = 0.009) volume in the GB/GF
+exposed veterans, with smaller volumes in veterans with CMI. In
+
+contrast, there was no effect of CMI on GM (F1,63 = 1.36, p = 0.25) or
+WM (F1,63 = 0.87, p = 0.36) volumes in the unexposed veterans.
+Next, we used a 2-way ANCOVA, with GB/GF exposure and CMI
+status as between-subject factors, to investigate the interaction
+between CMI and GB/GF exposure status. As expected, there were
+signiﬁcant effects of GB/GF exposure on both GM (F1,127 = 5.52,
+p = 0.02) and WM (F1,127 = 4.82, p = 0.03) volume. There was also a
+signiﬁcant effect of CMI status on GM volume (F1,127 = 3.94,
+p = 0.049). However, CMI and GB/GF exposure status only
+interacted signiﬁcant for GM volume (F1,127 = 6.17, p = 0.01) and
+not for WM volume (F1,127 = 0.07, p = 0.80).
+3.5. Relationship between brain volume and neuropsychological
+performance
+Table 6 lists the Spearman’s correlation coefﬁcients between
+total GM and WM volumes and neuropsychological test scores. In
+the exposed veterans, total GM volume correlated positively with
+short- (r = 0.39, p = 0.002) and long- (r = 0.31, p = 0.01) delay free
+recall on the CVLT, and Digit Span, backwards on the WAIS-III
+(r = 0.25, p = 0.047). Total WM volume also correlated positively
+with short-delay free recall on the CVLT (r = 0.30, p = 0.02). In
+contrast, there were no signiﬁcant correlations between brain
+volume and neuropsychological test performance in the group of
+64 unexposed veterans.
+4. Discussion
+The ﬁrst major ﬁnding of this study is that GB/GF exposed
+veterans had reduced total GM volume compared to matched,
+unexposed GW veterans. This ﬁnding replicates our previous 1.5-T
+results in a different cohort of GB/GF exposed GW veterans. The
+second major ﬁnding of this study is that GB/GF exposed veterans
+also had reduced total WM volume compared to age- and gender-
+
+L.L. Chao et al. / NeuroToxicology 32 (2011) 814–822
+
+819
+
+Table 4
+Hierarchical regression analysis of total brain GM and WM in 56 exposed subjects with cumulative GB/GF dose estimates.
+
+DR2
+
+Total GM
+Step 1
+ICV
+Age
+Gender
+Step 2
+Current CAPS
+HAMD score
+History ETOH problem
+Current drinking
+Step 3
+CMI status
+Step 4
+Estimated exposure dose
+Total WM
+Step 1
+ICV
+Age
+Gender
+Step 2
+Current CAPS
+HAMD score
+History ETOH problem
+Current drinking
+Step 3
+CMI status
+Step 4
+Estimated exposure dose
+a
+b
+c
+
+Adjusted R2
+
+0.69
+
+DF
+
+Step 1
+
+Step 2
+
+Step 3
+
+Step 4
+
+0.78c
+0.26b
+0.08
+
+0.80c
+0.24b
+0.10
+
+0.80c
+0.28c
+0.06
+
+0.79c
+0.30b
+0.60
+
+0.23
+0.18
+0.06
+0.01
+
+0.21
+0.03
+0.03
+0.03
+
+0.20
+0.01
+0.03
+0.02
+
+0.27b
+
+0.27b
+
+39.36c
+
+0.68
+
+0.02
+
+Standardized coefﬁcients b for each step
+
+0.67
+
+0.90
+
+0.05
+
+0.73
+
+9.79b
+
+0.00
+
+0.72
+
+0.27
+0.04
+
+0.58
+
+0.56
+
+23.94
+
+c
+
+0.76c
+0.16
+0.11
+0.15
+
+0.83c
+0.08
+0.06
+
+0.83c
+0.12
+0.09
+
+0.82c
+0.13
+0.09
+
+0.32a
+0.06
+0.01
+0.15
+
+0.30a
+0.17
+0.00
+0.16a
+
+0.28a
+0.18
+0.01
+0.16
+
+0.18a
+
+0.19a
+
+6.45c
+
+0.69
+
+0.02
+
+0.71
+
+4.18a
+
+0.00
+
+0.70
+
+0.22
+0.04
+
+p < 0.05.
+p < 0.01.
+p < 0.001.
+
+Table 5
+Hierarchical regression analysis of neuropsychological test scores in 56 exposed subjects with cumulative GB/GF exposure dose estimates.
+Dependent variables
+
+Step 1a
+
+DR2
+Attention
+CPT hits RT
+CPT no. omission errors
+CPT no. commission errors
+TMT A, time to complete
+WAIS-III Digit Spans (forward)
+Executive function
+TMT B, time to complete
+Short Category Test, total errors
+WAIS-III Digit Spans (backward)
+Psychomotor function
+Grooved Pegboard, dominant
+Grooved Pegboard, non-dominant
+Short-term memory
+CVLT, short-delay free recall
+CVLT, long-delay free recall
+CVLT, recognition hits
+a
+b
+c
+d
+e
+f
+g
+
+Step 2b
+Adjusted R2
+
+DF
+
+DR2
+
+Step 3c
+Adjusted R2
+
+DF
+
+DR2
+
+Step 4d
+Adjusted R2
+
+DF
+
+DR2
+
+Adjusted R2
+
+DF
+
+0.02
+0.10
+0.07
+0.16
+0.06
+
+0.04
+0.05
+0.01
+0.12
+0.01
+
+0.36
+1.78
+1.18
+3.40e
+1.19
+
+0.09
+0.26
+0.06
+0.01
+0.01
+
+0.03
+0.26
+0.02
+0.05
+0.06
+
+1.10
+4.23e
+0.67
+0.11
+0.09
+
+0.00
+0.04
+0.03
+0.00
+0.01
+
+0.05
+0.29
+0.00
+0.03
+0.07
+
+0.06
+2.89
+1.69
+0.00
+0.53
+
+0.01
+0.00
+0.13
+0.00
+0.01
+
+0.07
+0.27
+0.13
+0.01
+0.08
+
+0.28
+0.02
+7.32e
+0.01
+0.44
+
+0.07
+0.09
+0.19
+
+0.02
+0.04
+0.14
+
+1.31
+1.67
+3.99e
+
+0.02
+0.05
+0.06
+
+0.04
+0.02
+0.13
+
+0.28
+0.74
+0.91
+
+0.01
+0.06
+0.01
+
+0.05
+0.06
+0.13
+
+0.36
+3.38
+0.87
+
+0.03
+0.00
+0.01
+
+0.05
+0.04
+0.12
+
+1.33
+0.01
+0.45
+
+0.24
+0.30
+
+0.20
+0.25
+
+5.55f
+7.26g
+
+0.05
+0.02
+
+0.19
+0.22
+
+0.82
+0.44
+
+0.02
+0.02
+
+0.20
+0.23
+
+1.52
+1.76
+
+0.00
+0.00
+
+0.18
+0.22
+
+0.23
+0.26
+
+0.32
+0.18
+0.04
+
+0.28
+0.13
+0.02
+
+7.85g
+3.61e
+0.71
+
+0.03
+0.04
+0.06
+
+0.25
+0.10
+0.03
+
+0.57
+0.65
+0.79
+
+0.00
+0.00
+0.00
+
+0.23
+0.09
+0.06
+
+0.14
+0.15
+0.01
+
+0.01
+0.00
+0.05
+
+0.23
+0.06
+0.01
+
+0.70
+0.01
+2.91
+
+Variables entered = age, gender, education.
+Variables entered = current CAPS score, HAMD score, current drinking level, history of alcohol abuse/dependence.
+Variable entered = CMI status.
+Variable entered = estimated GB/GF exposure level.
+p < 0.05.
+p < 0.01.
+p < 0.001.
+
+matched, unexposed GW veterans, in line with the previous report by
+Heaton et al. (2007). Linear regression analyses conﬁrmed the ability
+of GB/GF exposure status to predict GM and WM volumes over and
+above potentially confounding demographic, clinical, and psychosocial variables. Larger sample size, improved contrast between GM
+and WM, increased signal-to-noise ratio, and reduced voxel size (i.e.,
+
+reduced partial volume effects) in images acquired on a 4-T scanner
+may explain why we were able to detect WM atrophy in GB/GF
+exposed veterans in this study and not in our previous 1.5 T study.
+The third major ﬁnding of this study is that Gulf War Illness/CMI
+status signiﬁcantly predicted both GM and WM volumes in GB/GF
+exposed veterans, even after accounting for demographic and
+
+L.L. Chao et al. / NeuroToxicology 32 (2011) 814–822
+
+820
+
+Table 6
+Spearman’s correlation coefﬁcient between measures of brain volume and
+neuropsychological test performance.
+
+CVLT II
+Short-delay free recall
+Long-delay free recall
+WAIS-III
+Digit Span, backwards
+a
+b
+
+Total GM volume
+
+Total WM volume
+
+Unexposed
+
+Unexposed
+
+Exposed
+
+Exposed
+
+0.12
+0.06
+
+0.39b
+0.31a
+
+0.04
+0.09
+
+0.30a
+0.25
+
+0.01
+
+0.25a
+
+0.05
+
+0.15
+
+p < 0.05.
+p < 0.01.
+
+psychosocial factors. When we further examined the interaction
+between exposure and CMI status with 2-way ANCOVAs in all 128
+veterans, we only found a signiﬁcant interaction between exposure
+and CMI status for GM volume and not WM.
+In 1994 the Centers for Disease Control and Prevention used
+factor analysis to deﬁne a symptom complex termed ‘‘chronic
+multisymptom illness’’ (CMI). CMI was deﬁned as the presence, for
+6 months or longer, of one or more symptoms from at least two of
+the following clusters: general fatigue, mood and cognitive
+abnormalities, and musculoskeletal pain (Fukuda et al., 1998).
+Shortly after the 1991 Gulf War, CMI was noted to be quite
+common in all GW veterans but more prevalent in deployed than in
+nondeployed veterans (Steele, 2000; Unwin et al., 1999; Wolfe
+et al., 2002). Several studies have reported spectroscopic abnormalities in the brains of ill GW veterans (e.g., Haley et al., 2000;
+Menon et al., 2004). However, to our knowledge, this is the ﬁrst
+report of an interaction between Gulf War Illness/CMI and GB/GF
+exposure on brain volume. Results of the post hoc 2-way ANCOVA
+in the entire sample of 128 GW veterans suggest that the
+interaction is stronger for GM than WM volume.
+Linear regression and a one-way ANOVA also showed Gulf War
+Illness/CMI status to be signiﬁcantly associated increased numbers
+of commission errors on the CPT. The results of studies
+investigating cognitive dysfunction associated with Gulf War
+Illness/CMI have been mixed. Many studies have shown signiﬁcant
+deﬁcits in cognitive performance in samples of ill GW veterans
+(Binder et al., 2001; Haley et al., 1997; Hom et al., 1997; Lange
+et al., 2001; Storzbach et al., 2001; Sullivan et al., 2003 147).
+However, some of these differences were only observed when
+subgroups were analyzed (Anger et al., 1999; White et al., 2001).
+Moreover, two studies have failed to ﬁnd any signiﬁcant
+neuropsychological test differences between ill and healthy GW
+veterans (Goldstein et al., 1996; Vasterling et al., 2003). In the
+current study, when we used hierarchical regression analyses to
+examine possible dose–response relationships between estimated
+levels of exposure and neuropsychological performance in the
+exposed subjects, CMI status was not a signiﬁcant predictor of CPT
+commission errors. Therefore, we need to be cautious about
+inferring any potential relationship between CMI status and
+performance on the CPT.
+Consistent with our previous study, we did not ﬁnd evidence of
+a dose–response relationship between cumulative exposure
+estimates and GM or WM volumes in the present study. Although
+hierarchical regression analysis showed cumulative exposure
+estimate to be a signiﬁcant predictor of number of CPT commission
+errors, the negative standardized regression coefﬁcient (b = 0.40)
+suggests that veterans with higher exposure level estimates
+committed fewer commission errors than veterans with lower
+exposure level estimates. Upon careful review of the data, we
+found that six veterans with the highest exposure level estimates
+(0.83–1.05 mg min/m3) who committed only a moderate number
+of commission errors on the CPT (4–16). When these six veterans
+
+were excluded from the regression analysis, exposure level
+estimates no longer predicted number of CPT commission errors.
+Thus, there is likely no relationship between cumulative exposure
+estimates and performance on the CPT.
+Although GB/GF exposure was not associated with deﬁcits on
+neurobehavioral measures of memory or manual dexterity in the
+current study, binary analyses of the neuropsychological data did
+show that GB/GF exposed veterans responded more quickly than
+unexposed veterans on the TMT A and Grooved Pegboard with the
+non-dominant hand. Regression analyses conﬁrmed that even
+after accounting for demographic, clinical, and psychosocial
+variables, GB/GF exposure status still signiﬁcantly predicted
+TMT A and Grooved Pegboard performance with the non-dominant
+hand. The negative standardized regression coefﬁcients (b = 0.32
+for TMT A and b = 0.18 for Grooved Pegboard) indicate that the
+exposed veterans had shorter response times than unexposed
+veterans. Proctor et al. (2006) similarly found better Finger
+Tapping performance among GW veterans with higher than lower
+estimated GB/GF exposures and they speculated that it might
+relate to the occupational training and skill set abilities of military
+personnel more likely to be in the higher exposure areas. Although
+this explanation could also account for the faster response times
+that we observed on TMT A and Grooved Pegboard with the nondominant hand in the exposed veterans, it is noteworthy that we
+did not ﬁnd any signiﬁcant group differences on TMT B or Grooved
+Pegboard performance with the dominant hand. Moreover, we did
+not ﬁnd an effect of GB/GF exposure on these measures in our
+previous study. Thus, it may be possible that the current ﬁndings of
+faster response times on these two neuropsychological measures
+in exposed GW veterans are spurious results.
+Although there were no effects of GB/GF exposure on the CVLT
+or Digit Span measures that we examined, there were positive
+correlations between GM and WM volume CVLT short and long
+delay free recall and the backwards Digit Span in GB/GF exposed
+veterans. These correlations suggest that the reduced GM and WM
+volume that we observed in GB/GF exposed veterans had some
+deleterious effect on memory and executive function abilities.
+This study has some limitations: (1) We did not have
+information about the veteran’s unit or whether the veterans
+were ofﬁcers or enlisted personnel during the Persian Gulf War. (2)
+We did not have information about severity of the symptoms
+associated with CMI, smoking status, or history of head injury;
+although history of head injury associated with prolonged loss of
+consciousness was exclusionary for the study. (3) The cumulative
+GB/GF exposure level estimates were calculated at the unit rather
+than individual level. Therefore, there is no deﬁnitive way of
+checking if an individual soldier was with his or her unit on the four
+target dates the model. Moreover, the modeled exposure estimates
+may be subject to misclassiﬁcation (United States General
+Accounting Ofﬁce, 2004). However, general misclassiﬁcation
+errors are likely to be random, thus would have limited inﬂuence
+on the present results. These limitations notwithstanding, the
+current ﬁndings replicate a previous report by our group of
+reduced gray-matter volume in GW veterans with suspected
+exposure to low levels of GB/GF. These ﬁndings also conﬁrm the
+ﬁndings of white matter changes in GW veterans with suspected
+exposure to low levels of GB/GF by Heaton et al. (2007). Moreover,
+there we found some evidence of an interaction between GB/GF
+exposure and CMI status on total GM volume.
+Although the long term consequences of GB/GF exposure are
+not known, it is recognized that brain injury due to head trauma
+(Corkin et al., 1989; Himanen et al., 2006; Klein et al., 1996) or
+cerebrovascular disease and stroke (Kokmen et al., 1996; Luchsinger et al., 2005; Mielke et al., 2007; Tatemichi et al., 1994) are
+associated with increased risk for cognitive decline and dementia
+due to Alzheimer’s disease. Neurotoxin exposure has also been
+
+L.L. Chao et al. / NeuroToxicology 32 (2011) 814–822
+
+implicated as a possible causative factor in the development of
+Parkinson’s disease (Liou et al., 1997; Seidler et al., 1996; Semchuk
+et al., 1992). Furthermore, a number of reports suggest that
+reduced brain ‘‘reserve’’ is also a risk factor in the development of
+Alzheimer’s disease (Satz, 1993; Stern, 2006). Taken together,
+these ﬁndings argue for further investigation of the long-term
+effects of GB/GB exposure and CMI/Gulf War Illness in GW
+veterans, including replication of the current ﬁndings in an
+epidemiologically sampled cohort studied at multiple sites across
+the United States. The fact that nearly 100,000 troops were
+potentially exposed to sublethal levels of GB/GF during the Persian
+Gulf War emphasizes the importance of these results, and the need
+to investigate further their possible consequences on aging and
+veteran health.
+Conﬂict of interest statement
+None declared.
+Acknowledgements
+This publication was supported by NIH/NCRR UCSF-CTSI Grant
+Number UL1 RR024131. Its contents are solely the responsibility of
+the authors and do not necessarily represent the ofﬁcial views of
+the NIH. This study was also supported by Department of Defense
+grant DAMD17-01-1-0764 entitled ‘Magnetic Resonance and
+Spectroscopy of the Human Brain in Gulf War Illness’, awarded
+to the Northern California Institute for Research and Education
+from the Department of Defense Gulf War Illnesses Research
+Program, US Army Medical Research and Materiel Command and a
+Department of Veterans Affairs grant VA GWI No. B3776 entitled
+‘Effects of Gulf War Illness on Brain Structure Function and
+Metabolism: MRI/MRS at 4 T’, awarded to Dr. Michael Weiner. This
+material is the result of work supported with resources and the use
+of facilities at the San Francisco Veterans Affairs Medical Center.
+The authors acknowledge Col. Karl Friedl, US Army Medical
+Research and Materiel Command, Derek Flenniken for managing
+the database, Diana Truran Sacrey and her staff for scanning the
+subjects and processing the MRI data, Larry Sippos, Executive
+Ofﬁcer to the Deputy Assistant Secretary of Defense for Force
+Health Protection and Readiness for providing information about
+the presence or absence of the research participants’ units in the
+modeled hazard areas and the cumulative estimated GB/GF
+exposure levels, and the Gulf War veterans who participated in
+these studies.
+DISCLOSURE STATEMENT
+
+The opinions or assertions contained herein are the private
+views of the author(s) and are not to be construed as ofﬁcial or
+reﬂecting the views of the Army, Department of Defense, or
+Department of Veterans Affairs. Drs. Chao, Meyerhoff, and Weiner
+have received grant support from the Department of Defense and
+Dr. Weiner receives grant support from the Department of
+Veteran’s Affairs.
+References
+Anger WK, Storzbach D, Binder LM, Campbell KA, Rohlman DS, McCauley L, et al.
+Neurobehavioral deﬁcits in Persian Gulf veterans: evidence from a populationbased study. J Int Neuropyschol Soc 1999;5:203–12.
+Ashburner J. A fast diffeomorphic image registration algorithm. Neuroimage
+2007;38:95–113.
+Ashburner J, Friston KJ. Uniﬁed segmentation. Neuroimage 2005;26:839–51.
+Binder LM, Storzbach D, Campbell KA, Rohlman DS, Anger WK. Members of the
+Portland Environmental Hazards Research CenterNeurobehavioral deﬁcits associated with chronic fatigue syndrome in veterans with Gulf War unexplained illnesses. J Int Neuropsychol Soc 2001;7:835–9.
+
+821
+
+Blake D, Weathers F, Nagy L, Kaloupek D, Klauminzer G, Charney D, et al. Clinician
+administered PTSD scale. CT: West Haven; 1990.
+Bullman TA, Mahan CM, Kang HK, Page WF. Mortality in US army Gulf War veterans
+exposed to 1991 Khamisiyah chemical munitions destruction. Am J Public Health
+2005;95:1382–8.
+Chao LL, Rothlind JC, Cardenas VA, Meyerhoff DJ, Weiner MW. Effects of low-level
+exposure to sarin and cyclosarin during the 1991 Gulf War on brain function and
+brain structure in US veterans. Neurotoxicology 2010;31:493–501.
+Corkin S, Rosen TJ, Sullivan EV, Clegg RA. Penetrating head injury in young adulthood
+exacerbates cognitive decline in later years. J Neurosci 1989;9:3876–83.
+Deli DC, Kramer JH, Kaplan E, Ober BA. California Verbal Learning Test. San Antonio, TX:
+The Psychological Corporation; 2000.
+Directorate for Deployment Health Support of the Special Assistant to the Under
+Secretary of Defense (Personnel and Readiness) for Gulf War Illness Medical
+Readiness and Military Deployments. Potential exposure to sarin from the demolitions at Khamisiyah, Iraq on March 10, 1991. Available from: http://www.gulﬂink.osd.mil; 1997.
+Friston KJ, Worsley KJ, Frackowiak RS, Mazziotta JC, Evans AC. Assessing the signiﬁcance
+of focal activations using their spatial extent. Hum Brain Mapp 1994;1:214–20.
+Fukuda K, Nisenbaum R, Stewart G, Thompson WW, Robin L, Washko RM, et al. Chronic
+multisymptom illness affecting Air Force veterans of the Gulf War. JAMA
+1998;280:981–8.
+Goldstein G, Beers SR, Morrow LA, Shemansky WJ, Steinhauer SR. A preliminary
+neuropsychological study of Persian Gulf veterans. J Prev Med 1996;26:443–52.
+Haley RW, Hom J, Roland PS, Bryan WW, Van Ness PC, Bonte FJ, et al. Evaluation of
+neurologic function in Gulf War veterans. A blinded case–control study. JAMA
+1997;277:223–30.
+Haley RW, Marshall WW, McDonald GG, Daugherty MA, Petty F, Fleckenstein JL. Brain
+abnormalities in Gulf War Syndrome: Evaluation with 1 H MR Spectroscopy.
+Neuroradiology 2000;215:807–17.
+Heaton KJ, Palumbo CL, Proctor SP, Killiany RJ, Yurgelun-Todd DA, White RF. Quantitative magnetic resonance brain imaging in US army veterans of the 1991 Gulf War
+potentially exposed to sarin and cyclosarin. Neurotoxicology 2007;28:761–9.
+Himanen L, Portin R, Isoniemi H, Helenius H, Kurki T, Tenovuo O. Longitudinal cognitive
+changes in traumatic brain injury: a 30-year follow-up study. Neurology
+2006;66:187–92.
+Hom J, Haley RW, Kurt TL. Neuropsychological correlates of Gulf War syndrome. Arch
+Clin Neuropsychol 1997;12:531–44.
+Klein M, Houx P, Jolles J. Long term persisting cognitive sequelae of traumatic brain
+injury and the effect of age. J Nerv Ment Dis 1996;184:459–67.
+Kokmen E, Whisnant JP, O’Fallon WM, Chu CP, Beard CM. Dementia after ischemic
+stroke: a population-based study in Rochester, Minnesota (1960–1984). Neurology
+1996;46:154–9.
+Lange G, Tiersky LA, Scharer JB, Policastro T, Fiedler N, Morgan TE, et al. Cognitive
+functioning in Gulf War Illness. J Clin Exp Neuropsychol 2001;23:240–9.
+Letz RL. NES2 user’s manual. Cambridge, MA: Neurobehavioral Systems, Inc.; 1991.
+Liou HH, Tsai MC, Chen CJ, Jeng JS, Chang YC, Chen SY, et al. Environmental risk factors
+and Parkinson’s disease: a case–control study in Taiwan. Neurology
+1997;48:1583–8.
+Luchsinger JA, Reitz C, Honig LS, Tang MX, Shea S, Mayeux R. Aggregation of vascular
+risk factors and risk of incident Alzheimer disease. Neurology 2005;65:545–51.
+McNamara B, Leitnaker F. Toxicological basis for controlling emission of GB into the
+environment. MD, Edgewood Arsenal: Aberdeen Proving Grounds, US Army Medical Research Laboratories; 1971.
+Menon PM, Nasrallah HA, Reeves RR, Ali JA. Hippocampal dysfunction in Gulf War
+Syndrome. A proton MR spectroscopy study. Brain Res 2004;1009:189–94.
+Mielke MM, Rosenberg PB, Tschanz J, Cook L, Corcoran C, Hayden KM, et al. Vascular
+factors predict rate of progression in Alzheimer disease. Neurology 2007;69:1850–8.
+Persian Gulf War Illness Task Force. Khamisiyah: a historical perspective on related
+intelligence. Washington, DC: Central Intelligence Agency; 1997.
+Proctor SP, Heaton KJ, Heeren T, White RF. Effects of chemical warfare agent exposure
+on central nervous system functioning in US army veterans of the 1991 Gulf War.
+Neurotoxicology 2006;27:931–9.
+Reitan RM, Wolfson D. The Halstead–Reitan Neuropsychological Test Battery: theory
+and interpetation. Tucson, AZ: Neuropsychological Press; 1985.
+Riddle JR, Brown M, Smith T, Ritchie EC, Brix KA, Romano J. Chemical warfare and the Gulf
+War: a review of the impact on Gulf veterans’ health. Mil Med 2003;168:606–13.
+Satz P. Brain reserve capacity on symptom onset after brain injury: a formulation and
+review of evidence for threshold theory. Neuropsychology 1993;7:273–95.
+Seidler A, Hellenbrand W, Robra BP, Vieregge P, Nischan P, Joerg J, et al. Possible
+environmental, occupational, and other etiologic factors for Parkinson’s disease: a
+case–control study in Germany. Neurology 1996;46:1275–84.
+Semchuk KM, Love EJ, Lee RG. Parkinson’s disease and exposure to agricultural work
+and pesticide chemicals. Neurology 1992;42:1328–35.
+Smith TC, Gray GC, Weir JC, Heller JM, Ryan MA. Gulf War veterans and Iraqi nerve
+agents at Khamisiyah: postwar hospitalization data revisited. Am J Epidemiol
+2003;158:457–67.
+Spitzer R, Williams J, Gibbon M, First M. The structured clinical interview for DSM-IV
+Diagnosis (SCID). Washington, DC: American Psychiatric Press; 1992.
+Steele L. Prevalence and patterns of Gulf War illness in Kansas veterans: association of
+symptoms with characteristics of person, place, and time of military service. Am J
+Epidemiol 2000;152:992–1002.
+Stern Y. Cognitive reserve – theory and applications. Psychology Press; 2006.
+Storzbach D, Rohlman DS, Anger WK, Binder LM, Campbell KA. Neurobehavioral
+deﬁcits in Persian Gulf veterans: additional evidence from a population-based
+study. Environ Res 2001;85:1–13.
+
+822
+
+L.L. Chao et al. / NeuroToxicology 32 (2011) 814–822
+
+Sullivan K, Krengel M, Proctor SP, Devine S, Heeren T, White RF. Cognitive functioning
+in treatment-seeking Gulf War veterans: pyridostigmine bromide use and PTSD. J
+Psychopathol Behav Assess 2003;25:95–103.
+Tatemichi TK, Paik M, Bagiella E, Desmond DW, Stern Y, Sano M, et al. Risk of dementia
+after stroke in a hospitalized cohort: results of a longitudinal study. Neurology
+1994;44:1885–91.
+Tombaugh TN. Tests of memory malingering. Toronto, ON: Multi-Health Systems, Inc.;
+1995.
+United States General Accounting Ofﬁce. DoD’s conclusions about U.S. troops’ exposure
+cannot be adequately supported. Washington, DC: United States General Accounting Ofﬁce; 2004.
+Unwin C, Blatchley N, Coker W, Ferry S, Hotofp M, Hull L, et al. Health of UK servicemen
+who served in Persian Gulf War. Lancet 1999;353:169–78.
+
+Vasterling JJ, Brailey K, Tomlin H, Rice J, Sutker PB. Olfactory functioning in Gulf Warera veterans: relationships to war-zone duty, self-reported hazards exposures, and
+psychological distress. J Int Neuropsychol Soc 2003;9:407–18.
+Wechsler D. The Wechsler Adult Intelligence Scale. San Antonio, TX: Psychological
+Corporation; 1997.
+Wetzel L, Boll T. Short Category Test, Booklet Format. Los Angeles, CA: Western
+Psychological Services; 1987.
+White RF, Proctor SP, Heeren T, Wolfe J, Krengel M, Vasterling J, et al. Neuropsychological function in Gulf War veterans: relationships to self reported toxicant
+exposures. Am J Ind Med 2001;40:42–54.
+Wolfe J, Proctor S, Erickson D, Hu H. Risk factors for multisymptom illness in US Army
+veterans of the Gulf War. J Occup Environ Med 2002;44:271–81.
+
+

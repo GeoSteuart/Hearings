@@ -1,0 +1,1854 @@
+U.S. Department of Veterans Affairs
+Public Access Author manuscript
+Neurotoxicology. Author manuscript; available in PMC 2017 June 30.
+Published in final edited form as:
+Neurotoxicology. 2015 May ; 48: 239–248. doi:10.1016/j.neuro.2015.04.005.
+
+VA Author Manuscript
+
+Effects of low-level sarin and cyclosarin exposure on white
+matter integrity in Gulf War Veterans
+Linda L. Chaoa,b,c,*, Yu Zhanga,b, and Shannon Buckleya
+aCenter
+
+for Imaging of Neurodegenerative Diseases, San Francisco Veterans Affairs Medical
+Center, 4150 Clement Street, 114M, San Francisco, CA 94121, United States
+bDepartment
+
+of Radiology and Biomedical Imaging, University of California San Francisco, San
+Francisco, CA, United States
+
+cDepartment
+
+of Psychiatry, University of California San Francisco, San Francisco, CA, United
+
+States
+
+VA Author Manuscript
+
+Abstract
+Background—We previously found evidence of reduced gray and white matter volume in Gulf
+War (GW) veterans with predicted low-level exposure to sarin (GB) and cyclosarin (GF). Because
+loss of white matter tissue integrity has been linked to both gray and white matter atrophy, the
+current study sought to test the hypothesis that GW veterans with predicted GB/GF exposure have
+evidence of disrupted white matter microstructural integrity.
+Methods—Measures of fractional anisotropy and directional (i.e., axial and radial) diffusivity
+were assessed from the 4 T diffusion tensor images (DTI) of 59 GW veterans with predicted
+GB/GF exposure and 59 “matched” unexposed GW veterans (mean age: 48 ± 7 years). The DTI
+data were analyzed using regions of interest (ROI) analyses that accounted for age, sex, total brain
+gray and white matter volume, trauma exposure, posttraumatic stress disorder, current major
+depression, and chronic multisymptom illness status.
+
+VA Author Manuscript
+
+Results—There were no significant group differences in fractional anisotropy or radial
+diffusivity. However, there was increased axial diffusivity in GW veterans with predicted GB/GF
+exposure compared to matched, unexposed veterans throughout the brain, including the temporal
+stem, corona radiata, superior and inferior (hippocampal) cingulum, inferior and superior frontooccipital fasciculus, internal and external capsule, and superficial cortical white matter blades. Post
+hoc analysis revealed significant correlations between higher fractional anisotropy and lower radial
+diffusivity with better neurobehavioral performance in unexposed GW veterans. In contrast, only
+
+*
+
+Corresponding author at: 4150 Clement Street, 114M San Francisco, CA 94121, United States. Tel.: +1 415 221 4810x4386; fax: +1
+415 668 2864.; linda.chao@ucsf.edu (L.L. Chao).
+Disclosure statement
+The opinions or assertions contained herein are the private views of the author(s) and are not to be construed as official or reflecting
+the views of the Army, Department of Defense, or Department of Veterans Affairs. Dr. Chao receives grant support from the
+Department of Veteran’s Affairs.
+Conflict of interest
+The authors declare that there are no conflicts of interest.
+Transparency document
+The Transparency document associated with this article can be found in the online version.
+
+Chao et al.
+
+Page 2
+
+increased axial diffusivity in posterior limb of the internal capsule was associated with better
+psychomotor function in GW veterans with predicted GB/GF exposure.
+
+VA Author Manuscript
+
+Conclusions—The finding that increased axial diffusivity in a region of the brain that contains
+descending corticospinal fibers was associated with better psychomotor function and the lack of
+significant neurobehavioral deficits in veterans with predicted GB/GF exposure hint at the
+possibility that the widespread increases in axial diffusivity that we observed in GW veterans with
+predicted GB/GF exposure relative to unexposed controls may reflect white matter reorganization
+after brain injury (i.e., exposure to GB/GF).
+Keywords
+Diffusion tensor imaging; White matter; Sarin; Cyclosarin; Gulf War veterans
+
+1. Introduction
+
+VA Author Manuscript
+VA Author Manuscript
+
+More than 100,000 US service members participating in the Persian Gulf War (GW) were
+potentially exposed to low levels of sarin (GB; o-isopropyl methylphosphonofluoridate) and
+cyclosarin (GF; cyclohexyl methylphosphonoflouridate) following the destruction of an Iraqi
+munitions storage complex at Khamisiyah, Iraq in March 1991 (Directorate for Deployment
+Health Support of the Special Assistant to the Under Secretary of Defense (Personnel and
+Readiness) for Gulf War Illness Medical Readiness and Military Deployments, 1997). After
+the Gulf War ended, the Department of Defense and the Central Intelligence Agency tried to
+determine the extent of potential human GB/GF exposure by modeling its estimated release
+from and dispersion around the Khamisiyah site (Persian Gulf War Illness Task Force,
+1997). Plume estimates were superimposed onto geographic maps containing military unit
+locations. A soldier was considered potentially exposed to low levels of GB/GF if his or her
+unit had been located within the modeled hazard area on any of the four target dates in
+March 1991. The exposure plume models were later reanalyzed and revised using updated
+troop location and personnel information, improved meteorological modeling, more accurate
+estimates of the total number of GB/GF-containing rockets destroyed, consideration of the
+methods used to remove GB/GF from the area, relevant exposure thresholds for GB/GF, and
+the combined toxicity of these agents (Directorate for Deployment Health Support of the
+Special Assistant to the Under Secretary of Defense (Personnel and Readiness) for Gulf War
+Illness Medical Readiness and Military Deployments, 2002).
+After the plume model analyses were made public, we and other investigators have reported
+evidence that GW veterans with predicted GB/GF exposure have reduced gray (Chao et al.,
+2010, 2011) and white (Heaton et al., 2007; Chao et al., 2011) matter volume compared to
+unexposed GW veterans. Because loss of tissue integrity in regions of normal-appearing
+white matter has been associated with atrophy in both gray (Agosta et al., 2011; Steenwijk et
+al., 2014) and white (Vernooij et al., 2008) matter, the present study sought to test the
+hypothesis that GW veterans with predicted GB/GF exposure evidence of have disrupted
+white matter microstructure integrity compared to unexposed GW veterans.
+To our knowledge, only one study has used diffusion tensor imaging (DTI) to examine the
+effects of sarin poisoning on the microstructural structural organization of white matter:
+
+Neurotoxicology. Author manuscript; available in PMC 2017 June 30.
+
+Chao et al.
+
+Page 3
+
+VA Author Manuscript
+
+Yamasue et al. (2007) reported lower fractional anisotropy (FA), a DTI metric commonly
+used as a proxy measure for white matter integrity (Alexander et al., 2007), in multiple brain
+regions in victims of the 1995 Tokyo subway sarin attack compared to healthy controls.
+Yamasue and colleagues also found significant correlations between somatic complaints and
+reduced FA in the sarin attack victims. Therefore, the first aim of the study was to examine
+FA in the brain regions where Yamasue et al. (2007) found reduced FA in the sarin attack
+victims relative to controls and in the brain regions where reduced FA correlated with
+somatic complaints in the sarin attack victims (i.e., a priori Yamasue et al., regions of
+interest or ROIs) in GW veterans with and without predicted GB/GF exposure. We
+hypothesize that GW veterans with predicted GB/GF exposure would have reduced FA in
+the a priori Yamasue et al. ROIs compared to unexposed veterans.
+
+VA Author Manuscript
+
+Yamasue and colleagues only analyzed FA; however, other DTI parameters can be calculated
+from the diffusion tensor. Axial diffusivity describes the rate of diffusion along the direction
+of the semi-major axis (i.e., along the length of the axon) while radial diffusivity describes
+the rate of diffusion along the semi-minor axes (i.e., perpendicular to the axon). It has been
+argued that FA may be less sensitive than its component measures (i.e., axial and radial
+diffusivity) to changes in axonal morphology or myelination (Tyszka et al., 2006). For
+example, animal studies suggest that alterations in axial diffusivity are associated with
+morphological changes in the axon (e.g., axonal density or caliber; Kumar et al., 2010,
+2012) while changes in radial diffusivity have been associated with morphological changes
+in myelin (e.g., dys- and de-myelination; Song et al., 2002, 2003). Therefore, the second aim
+of the study was to examine measures of axial and radial diffusivity in the a priori Yamasue
+et al. ROIs in GW veterans with and without predicted GB/GF exposure.
+
+VA Author Manuscript
+
+Yamasue and colleagues observed FA reductions in a larger extent of the brain than volume
+reductions. Because we previously found evidence of whole brain gray and white atrophy in
+GW veterans with predicted GB/GF exposure (Chao et al., 2010, 2011), the third aim of the
+study was to investigate the effects of predicted GB/GF exposure on DTI measures from
+major white matter fiber systems through the brain. Finally Rayhan et al. (2013) recently
+proposed that axial diffusivity in the right inferior fronto-occipital fasciculus may be a
+biomarker for Gulf War Illness (or Chronic Multisymptom Illness, CMI). Therefore, we
+examined the ability of axial diffusivity from the right inferior fronto-occipital fasciculus to
+predict CMI status over and above potentially confounding variables (i.e., age, gender,
+GB/GF exposure status, and trauma exposure, posttraumatic stress disorder, current major
+depression).
+
+2. Methods
+2.1. Participants
+All participants were GW veterans who took part in an imaging study that investigated the
+effects of Gulf War Illness on the brain on a 4 T MR scanner at the San Francisco Veterans
+Affairs Medical Center between 2005 and 2010. A detailed description of predicted
+exposure and exposure dosage estimates has been described previously (Chao et al., 2010,
+2011). The current analysis included DTI data from 59 GW veterans with predicted GB/GF
+exposure and 59 GW veterans selected from a group of 114 unexposed GW veterans to
+Neurotoxicology. Author manuscript; available in PMC 2017 June 30.
+
+Chao et al.
+
+Page 4
+
+match the GB/GF-exposed veterans for age, sex, level of education, CMI status (Fukuda et
+al., 1998), diagnoses of posttraumatic stress disorder (PTSD) according to the ClinicianAdministered PTSD Scale (Blake et al., 1995), and current major depressive disorder,
+according to the Structured Clinical Interview for DSM-IV (First et al., 1995).
+
+VA Author Manuscript
+
+The Institutional Review Boards of the University of California, San Francisco, the San
+Francisco Veterans Affairs Medical Center, and the Department of Defense Human Research
+Protection Office approved both studies. Informed consent was obtained from all
+participants.
+2.2. Image acquisition
+
+VA Author Manuscript
+
+All subjects were scanned at the SF Veterans Affairs Medical Center on a Bruker MedSpec 4
+T magnetic resonance imaging system equipped with a USA instruments eight-channel array
+head coil. T1-weighted images were obtained using a 3D volumetric magnetization prepared
+rapid gradient echo sequence with TR/TE/TI = 2300/3/950 ms, a 7-degree flip angle, and 1.0
+mm × 1.0 mm × 1.0 mm resolution. In addition, fluid attenuated inversion recovery images
+with TR/TE/TI = 5000/355/1900 ms were acquired to identify white matter lesions and to
+improve brain extraction in the segmentation procedure. DTI was acquired using a twicerefocused spin-echo diffusion echo-planar imaging sequence supplemented with twofold
+parallel imaging acceleration to reduce susceptibility distortions. DTI imaging parameters
+were TR/TE = 6000/77 ms, field of view 256 cm × 224 cm, 128 × 112 matrix size, yielding
+2 mm × 2 mm mm in-plane resolution, 40 continuous slices each 3 mm thick. One reference
+image (b = 0) and six diffusion-weighted images (b = 800 s/mm2, each along 6 non-collinear
+directions) were acquired.
+2.3. DTI image processing
+
+VA Author Manuscript
+
+Preprocessing of the DTI data involved skull-stripping, motion and eddy-current correction
+with FSL package, and geometric distortion correction based on a variational matching
+algorithm (Tao et al., 2009). After FA, axial and radial diffusivity images were created for
+each participant (mean diffusivity was not included because it is not independent of
+measures of axial and radial diffusivity), these images, together with the structural T1weighted image underwent an automated image segmentation and spatial warping protocol
+in SPM8. The protocol included the following steps: first, each individual FA image was
+registered to the white matter probabilistic image of the segmented T1-weighted image
+through affine registration. Next, the white matter probabilistic images of the entire study
+sample were registered into Montreal Neurological Institute (MNI) space using standard
+procedures of the diffeomorphic registration algorithm (DARTEL; Ashburner, 2007).
+Finally, the FA, axial and radial images of all subjects were transferred to MNI space based
+on transformation parameters of the white matter probabilistic images in DARTEL. We used
+the DTI atlas from the Laboratory of Brain Anatomical MRI at the Johns Hopkins
+University (i.e., ICBM-DTI-81 White Matter Atlas (Mori et al., 2008); hereinafter referred
+as the DTI Atlas) as a template to facilitate identification of major white matter structures.
+All the DTI images and the DTI atlas were warped in MNI space and manually checked to
+validate registration quality. To avoid inclusion of surrounding gray matter or cerebral spinal
+
+Neurotoxicology. Author manuscript; available in PMC 2017 June 30.
+
+Chao et al.
+
+Page 5
+
+fluid, a mask where the white matter probability was ≥50% was used to restrict the DTI ROI
+analyses to white matter regions.
+2.4. DTI regions of interest (ROIs)
+
+VA Author Manuscript
+VA Author Manuscript
+
+2.4.1. A priori Yamasue et al. ROIs—To examine DTI measures from the a priori
+Yamasue et al. ROIs, we extracted FA, axial and radial diffusivity values from parcels in the
+DTI atlas that corresponded best with the coordinates where Yamasue et al. (2007) reported
+reduced FA in the sarin attack victims relative to controls. These ROIs included the left
+parietal lobe (Yamasue et al. peak MNI coordinates: −20, −43, −27), which corresponded
+with the left posterior corona radiata parcel in the DTI atlas, bilateral temporal stem
+(Yamasue et al., peak MNI coordinates: 43, −17, −9; −40, −40, −5), which corresponded to
+the bilateral sagittal straitum in the DTI atlas, and brainstem (Yamasue et al., peak MNI
+coordinates: 2, −27, −29), which corresponded with the pontine crossing tract in the DTI
+atlas. Yamasue et al. (2007) also reported significant correlations between somatic
+complaints in sarin attack victims and reduced FA in the temporal stem bilaterally (peak
+MNI coordinates: 34, 0, −15; −38, 2, −16), which corresponded to the bilateral uncinate
+fasciculus in the DTI atlas, and left subinsula (peak MNI coordinates: −28, −6, 8), which
+corresponded to the left external capsule in the DTI atlas. For each participant, we extracted
+the mean FA, axial and radial diffusivity value from each tract using a previously described
+method (Zhang et al., 2013). To protect against type I error, we reduced the number of
+measurements by averaging the DTI values from the left and right sagittal straitum and
+uncinate fasciculus to create one temporal stem ROI. Fig. 1 illustrates the a priori Yamasue
+et al. ROIs on coronal views of a group FA map.
+
+VA Author Manuscript
+
+2.4.2. Other white matter ROIs—In addition to the a priori Yamasue et al. ROIs, we also
+extracted DTI values from other major white matter tracts and regions throughout the brain.
+These included bilateral tracts that pass through limbic (fornix, cingulum) and striatal
+(internal and external capsule) regions, supratentorial tracts (superior and inferior frontooccipital fasciculus and superior longitudinal fasciculus), the corona radiata, corpus
+callosum, and superficially located white matter “blades” located in between the cortex and
+deep white matter. To protect against type I error, we combined homologous DTI atlas
+parcels across hemispheres, the anterior and posterior parts of the superior cingulum, the
+anterior and posterior limbs and the retolenticular part of the internal capsule, the anterior,
+superior, and posterior parts of the corona radiata, the genu, body, and splenium of the
+corpus callosum, and the 9 superficial white matter “blades.” This resulted in eleven white
+matter ROIs in the fornix, superior and inferior (i.e., hippocampal) cingulum, internal and
+external capsule, superior and inferior fronto-occipital fasciculus, superior longitudinal
+fasciculus, corona radiata, corpus callosum, superficial white matter. Fig. 2 illustrates
+representations of the eleven white matter ROIs on a group FA map.
+
+3. Data analysis
+3.1. Statistical analyses
+Statistical analyses of the demographic, clinical, and volumetric measures were conducted
+using IBM SPSS Statistics, version 22. Demographic and descriptive characteristics were
+
+Neurotoxicology. Author manuscript; available in PMC 2017 June 30.
+
+Chao et al.
+
+Page 6
+
+compared across the two exposure groups with Student’s t tests for continuous variables and
+chi-square tests for categorical variables.
+3.2. Examination of group DTI differences
+
+VA Author Manuscript
+
+The main analyses of regional DTI differences by exposure group were performed using
+multivariate analysis of covariance (MANCOVA), with age, sex, CMI status, trauma
+exposure, current PTSD, current major depressive disorder, history of alcohol and/or drug
+abuse or dependence, and total brain gray and white matter volume as covariates. Total brain
+gray and white matter volumes were adjusted for intracranial volume (ICV) according to the
+following formula: raw volume – β(ICV − mean ICV), where β is the regression coefficient
+when the raw volume is regressed against ICV and mean ICV is the group mean. DTI values
+from the a priori Yamasue et al. ROIs were evaluated at p = 0.05. p-Values for the other
+white matter ROIs were adjusted for multiple comparisons according to the number of ROIs
+(n = 11) and the average intercorrelations among the ROIs (Sankoh et al., 1997). The
+average intercorrelation correlation was r = 0.42 for FA, r = 0.38 for axial diffusivity, and r =
+0.48 for radial diffusivity. Accordingly, a 2-sided adjusted p < 0.01 was considered
+statistically significant for DTI values from the other white matter ROIs.
+
+VA Author Manuscript
+
+3.3. Examination of ability of axial diffusivity from the right inferior fronto-occipital
+fasciculus to determine CMI status
+We used linear regression to examine the ability of axial diffusivity from the right inferior
+fronto-occipital fasciculus (dependent variable) to predict CMI status (dependent variable)
+over and above other potentially confounding variables (i.e., age, sex, predicted GB/GF
+exposure status, trauma exposure, diagnoses of current PTSD and/or major depressive
+disorder, history of alcohol and/or drug abuse or dependence, and ICV-adjusted whole brain
+gray and white matter volume).
+3.4. Post hoc analyses
+
+VA Author Manuscript
+
+The significant group differences in axial diffusivity from white matter tracts and regions
+throughout the brain prompted us to further examine the relationship between DTI and
+neurobehavioral measures. Because some studies have reported increased axial diffusivity in
+neurodegenerative conditions (e.g., amyotrophic lateral sclerosis (Metwalli et al., 2010),
+Alzheimer’s disease (Bosch et al., 2010; Shu et al., 2011), animal model of Parkinson
+disease (Hikishima et al., 2015)) while others have suggested that increased axial diffusivity
+following brain injury may reflect reorganization in the white matter (e.g., axonal recovery
+or even regrowth; Sidaros et al., 2008; Voss et al., 2006), we reasoned that if higher axial
+diffusivity in GW veterans with predicted GB/GF exposure were associated with poorer
+neurobehavioral performance, then may be related to neurodegeneration. On the other hand,
+if higher axial diffusivity in GW veterans with predicted GB/GF exposure were associated
+with better neurobehavioral performance, it may be related to white matter reorganization
+after exposure to GB/GF. We correlated the DTI data with the neurobehavioral measures that
+we previously reported in our 4 T study of GW veterans (Chao et al., 2011), of which the
+current cohort is a subset. These included: the Continuous Performance Test (Letz, 1991),
+the Digit Span subtest of the Wechsler Adult Intelligence Scale-III (Wechsler, 1997), and the
+Trail-Making Test, Parts A and B (Reitan and Wolfson, 1985), the Short Category Test
+Neurotoxicology. Author manuscript; available in PMC 2017 June 30.
+
+Chao et al.
+
+Page 7
+
+VA Author Manuscript
+
+(Wetzel and Boll, 1987), the California Verbal Learning Test-II (Delis et al., 2000), and the
+Grooved Pegboard test (Lafayette Instrument, Lafayette, IN). To protect against type I error,
+we reduced the number of measurements by averaging FA, axial and radial diffusivity values
+from the temporal stem and the eleven white matter ROIs to create a composite FA, a
+composite axial diffusivity and a composite radial diffusivity measure. The relationship
+between composite DTI measures and the neurobehavioral measures were examined in each
+group separately with partial correlations that accounted for age, sex, years of education,
+CMI, trauma exposure, current PTSD and major depressive disorder, history of alcohol
+and/or drug abuse/dependence. The partial correlations within each group were compared
+with Fisher’s z-test.
+
+VA Author Manuscript
+
+Because a previous study reported a positive correlation between axial diffusivity in the
+posterior limb of the internal capsule, which tractography studies have mapped to the
+posterior limb of the internal capsule to motor and premotor cortices (Zarei et al., 2007),
+with psychomotor speed in patients with traumatic brain injury (Kinnunen et al., 2011), our
+finding of a trend for a positive association between axial diffusivity in GW veterans with
+predicted GB/GF exposure and performance on the Grooved Pegboard test prompted us to
+further examine axial diffusivity from the posterior limb of the internal capsule. Age was the
+only potentially confounding variable that was significantly associated performance on the
+Grooved Pegboard test (p < 0.001), as expected from the aging literature (Madden, 2001).
+Therefore, our post hoc examination of the relationship between axial diffusivity from the
+posterior limb of the internal capsule and performance on the Grooved Pegboard test only
+accounted for age. The partial correlation was examined in each group separately and
+compared using Fisher’s z-test.
+
+4. Results
+
+VA Author Manuscript
+
+Table 1 summarizes the demographic, military, and clinical data of the GB/GF exposed and
+unexposed GW veterans. The two groups were matched for age, gender, years of education,
+and diagnoses of current PTSD, major depressive disorder, and CMI based on criteria
+described by Fukuda et al. (1998). However, there were group differences in ethnicity (χ2 =
+20.67, df = 3, p < 0.001) and military status during the Gulf War (χ2 = 8.30, df = 2, p =
+0.02): there were more Caucasians among the unexposed GW veterans and more Latinos
+and National Guard personnel among GW veterans with predicted GB/GF exposure.
+4.1. Group DTI differences in a priori Yamasue et al. ROIs
+DTI data from the a priori Yamasue et al. ROIs are summarized in Table 2. There was no
+significant group effect for FA (omnibus MANCOVA: Wilks lambda = 0.96, Pillais
+approximate F4,103 = 1.19, p = 0.32) or radial diffusivity (omnibus MANCOVA: Wilks
+lambda = 0.96, Pillais approximate F4,103 = 1.18, p = 0.33). However, there was a significant
+group effect for axial diffusivity (omnibus MANCOVA: Wilks lambda = 0.84, Pillais
+approximate F4,103 = 4.97, p = 0.001). The individual ANCOVAs revealed that veterans with
+predicted GB/GF exposure had significantly higher axial diffusivity in the left parietal cortex
+(F1,106 = 4.80, p < 0.03, Cohen’s d = 0.36), temporal stem (F1,106 = 15.83, p < 0.001,
+
+Neurotoxicology. Author manuscript; available in PMC 2017 June 30.
+
+Chao et al.
+
+Page 8
+
+Cohen’s d = 0.99) and left sub-insular region (F1,106 = 7.88, p = 0.006, Cohen’s d = 0.50)
+compared to unexposed GW veterans.
+4.2. Group DTI differences in the other white matter ROIs
+
+VA Author Manuscript
+VA Author Manuscript
+
+DTI data from the other white matter ROIs are summarized in Table 3. As with the a priori
+Yamasue et al. ROIs, there was no significant group effect for FA (omnibus MANCOVA:
+Wilks lambda = 0.90, Pillais approximate F11,96 = 1.02, p = 0.44), but there was a significant
+group effect for axial diffusivity (Wilks lambda = 0.67, Pillais approximate F11,96 = 4.43, p
+< 0.001). Individual ANCOVAs revealed that veterans with predicted GB/GF exposure had
+higher axial diffusivity in the superior cingulum (F1,106 = 9.48, p = 0.003, Cohen’s d =
+0.51), internal capsule (F1,106 = 7.23, p = 0.008, Cohen’s d = 0.50), external capsule (F1,106
+= 26.15, p < 0.001, Cohen’s d = 0.67), superior fronto-occipital fasciculus (F1,106 = 23.20, p
+< 0.001, Cohen’s d = 0.78), inferior fronto-occipital fasciculus (F1,106 = 15.30, p < 0.001,
+Cohen’s d = 0.80), corona radiata (F1,106 = 15.06, p < 0.0001, Cohen’s d = 0.50), and
+superficial white matter blades (F1,106 = 19.77, p <0.001, Cohen’s d = 0.78) than unexposed
+GW veterans. Although axial diffusivity differences in the inferior/hippocampal cingulum
+(F1,106 = 6.40, p = 0.01) and the superior longitudinal fasciculus (F1,106 = 5.57, p = 0.02)
+were not statistically significant after adjustments for multiple comparisons, the effect sizes
+of the group differences (Cohen’s d = 0.50 and 0.57) may be considered medium (Cohen,
+1988).
+There was no overall group effect for radial diffusivity (omnibus MANCOVA: Wilks lambda
+= 0.86, Pillais approximate F11,96 = 1.48, p = 0.17). However, the individual ANCOVAs
+revealed that veterans with predicted GB/GF exposure had higher radial diffusivity in the
+internal capsule (F1,106 = 7.64, p = 0.007, Cohen’s d = 0.57) and superior fronto-occipital
+fasciculus (F1,106 = 9.55, p = 0.003, Cohen’s d = 0.50) compared to unexposed veterans.
+Although group differences in radial diffusivity in external capsule (F1,106 = 5.34, p = 0.02),
+superior longitudinal fasciculus (F1,106 = 4.62, p = 0.03), and superficial WM blades (F1,106
+= 5.04, p = 0.03) were not statistically significant after adjustments for multiple
+comparisons, the effect sizes of these radial diffusivity differences (Cohen’s d = 0.50–0.57)
+may be considered medium (Cohen, 1988).
+
+VA Author Manuscript
+
+4.3. Post hoc analyses of the relationship between DTI and neurobehavioral measures
+Table 4 summarizes the post hoc partial correlations between the DTI and neurobehavioral
+data. In unexposed GW veterans, higher FA and lower radial diffusivity values were
+significantly associated with better performance (e.g., faster response times or fewer errors)
+on the Continuous Performance test, Trail Making Test Part A, Digit Span (forward and
+backward) subtest, Short Category test, and recognition memory on the California Verbal
+Learning Test. In contrast, there was only a trend (0.05 < p < 0.06) for higher axial and
+radial diffusivity values test in GW veterans with predicted GB/GF exposure to be associated
+with faster response times on the Grooved Pegboard. Fisher’s z-test revealed significant
+group differences in the correlations between FA and number of omission errors on the
+Continuous Performance test (z = −2.03, p = 0.04), number of errors on the Short Categories
+test (z = 2.15, p = 0.03), response time on the Trail Making Test A (z = −3.38, p = 0.001),
+forward (z = 3.16, p = 0.002) and backward (z = 2.26, p = 0.008) Digit Span, Grooved
+
+Neurotoxicology. Author manuscript; available in PMC 2017 June 30.
+
+Chao et al.
+
+Page 9
+
+VA Author Manuscript
+
+Pegboard with the non-dominant hand (z = −2.99, p = 0.003), recognition hits on the
+California Verbal Learning test (z = 3.57, p < 0.001) and significant group differences in the
+correlations between radial diffusivity and response time on the Trail Making Test A (z =
+3.26, p < 0.001), forward (z = −3.72, p < 0.001) and backward (z = −2.48, p = 0.01) Digit
+Span, number of errors on the Short Categories test (z = 2.15, p = 0.03) and recognition hits
+on the California Verbal Learning test (z = −2.19, p = 0.03).
+4.4. Post hoc analysis of the relationship between axial diffusivity in the posterior limb of
+the internal capsule and performance on the Grooved Pegboard test
+In veterans with predicted GB/GF exposure, axial diffusivity in the posterior limb of the
+internal capsule was negatively associated with response time on the Grooved Pegboard test
+with the dominant (Rpartial = −0.28, p = 0.03) and non-dominant (Rpartial = −0.27, p = 0.04)
+hands (i.e., higher axial diffusivity was associated with shorter response times). Axial
+diffusivity in the posterior limb of the internal capsule was also negatively associated with
+response time on the Grooved Pegboard test with the dominant (Rpartial = −0.30, p = 0.02) in
+unexposed GW veterans. Fisher’s z test revealed no significant group differences in the
+correlations.
+
+VA Author Manuscript
+
+4.5. Ability of axial diffusivity in the right inferior fronto-occipital fasciculus to predict CMI
+status
+After accounting for age, sex, predicted GB/GF exposure status, trauma exposure, diagnoses
+of current PTSD, major depressive disorder, history of alcohol and/or drug abuse or
+dependence, and ICV-adjusted gray and white matter volume, axial diffusivity in the right
+inferior fronto-occipital fasciculus was not significantly associated with CMI status
+(standardized β = −0.13, t = −1.61, p = 0.11). There was still significant association between
+the axial diffusivity in the right inferior fronto-occipital fasciculus and CMI status
+(standardized β = −0.08, t = −0.88, p = 0.38) even when GW veterans with CMI due to nonfatigue related symptoms (i.e., musculoskeletal pain and mood/cognition) were excluded
+from the analysis.
+
+5. Discussion
+VA Author Manuscript
+
+To our knowledge this is the first study to examine white matter microstructure in GW
+veterans with predicted GB/GF exposure. Contrary to our hypothesis, GW veterans with
+predicted GB/GF exposure did not have reduced FA in the brain regions where Yamasue et
+al. (2007) previously found reduced FA in victims of the 1995 Tokyo subway sarin attack.
+There were also no significant FA differences between GW veterans with and without
+predicted GB/GF exposure in other major white matter fiber systems throughout the brain.
+This lack of group FA difference may relate to the fact that FA is derived from the ratio of
+the three eigenvalues of the diffusion tensor. Therefore an increase (or decrease) in the
+primary eigenvalue (i.e., axial diffusivity) accompanied by an increase (or decrease) in the
+other two eigenvalues (which are measured by radial diffusivity) would result in no change
+in FA. With this respect, it is noteworthy that previous studies of aging and Alzheimer’s
+disease have found FA to be the least sensitive of all the DTI indices for detecting
+differences between diagnostic groups (Acosta-Cabronero et al., 2010; Clerx et al., 2012;
+
+Neurotoxicology. Author manuscript; available in PMC 2017 June 30.
+
+Chao et al.
+
+Page 10
+
+Nir et al., 2013; Sullivan et al., 2010). This was our rationale for examining other DTI
+parameters in GW veterans with and without predicted GB/GF exposure in the present study.
+
+VA Author Manuscript
+
+Examination of axial and radial diffusivity in the a priori Yamasue et al. ROIs revealed
+significant group differences in axial diffusivity in the temporal stem bilaterally, the left
+parietal, and left subinsular regions. Specifically, veterans with predicted GB/GF exposure
+had higher axial diffusivity in these regions compared to unexposed GW veterans. Our
+investigation of other white matter ROIs also revealed higher axial diffusivity in the superior
+cingulum, internal and external capsule, superior and inferior fronto-occipital fasciculus,
+corona radiata, and superficial white matter blades of veterans with predicted GB/GF
+exposure compared to unexposed controls. According to the guidelines proposed by Cohen
+(1988), the effect sizes of these group differences may be considered medium to large.
+
+VA Author Manuscript
+
+It was not clear whether the increased axial diffusivity that we observed in GW veterans
+with predicted GB/GF exposure relative to unexposed veterans was associated with
+neurodegeneration or white matter reorganization because increased axial diffusivity has
+been linked with both (e.g., amyotrophic lateral sclerosis (Metwalli et al., 2010),
+Alzheimer’s disease (Bosch et al., 2010; Nir et al., 2013; Shu et al., 2011), animal models of
+Parkinson disease (Hikishima et al., 2015), white matter reorganization due to axonal
+recovery or even regrowth (Sidaros et al., 2008; Voss et al., 2006)). For this reason, we
+conducted post hoc analyses to examine the association between DTI measures and
+neurobehavioral performance. In unexposed GW veterans, we found significant correlations
+between higher FA and lower radial diffusivity values and better performance on measures
+of attention, executive function, and recognition memory. This makes sense because
+healthier white matter tracts would be expected to be associated with better neurobehavioral
+function and in healthy white matter tracts, water molecules diffuse more freely along the
+axonal fibers (which would be measured as high FA) but are relatively restricted
+perpendicular to the fibers due to tightly packed axons and myelin sheets that surround them
+(which would be measured as low radial diffusivity; Basser and Pierpaoli, 1996). In contrast,
+in GW veterans with predicted GB/GF exposure there was only a trend for increased axial
+and radial diffusivity to be associated with faster response times on the Grooved Pegboard
+test.
+
+VA Author Manuscript
+
+Because increased axial diffusivity in the posterior limb of the internal capsule has been
+associated with faster psychomotor speed (Kinnunen et al., 2011) and better functional
+outcome after traumatic brain injury (Sidaros et al., 2008), this prompted us to further
+investigate the relationship between axial diffusivity in the posterior limb of the internal
+capsule with performance on the Grooved Pegboard test. This second post hoc analysis
+revealed a positive correlation between axial diffusivity in the posterior limb of the internal
+capsule, which maps to the posterior limb of the internal capsule to motor and premotor
+cortices (Zarei et al., 2007), and response time on the Grooved Pegboard test in veterans
+with predicted GB/GF exposure. Although there have been reports of psychomotor slowing
+in GW veterans with predicted GB/GF exposure (Proctor et al., 2006) and in victims of the
+Tokyo subway sarin attack (Miyaki et al., 2005; Yokoyama et al., 1998), it is noteworthy that
+we did not find any evidence of psychomotor slowing in the current cohort of GW veterans
+with predicted GB/GF exposure (Chao et al., 2011). Instead, this cohort of GW veterans
+
+Neurotoxicology. Author manuscript; available in PMC 2017 June 30.
+
+Chao et al.
+
+Page 11
+
+VA Author Manuscript
+
+with predicted GB/GF exposure actually performed faster than unexposed GW veterans on
+the Trail Making Test A and the Grooved Pegboard test with the non-dominant hand.
+Moreover, compared to unexposed GW veterans, there were no major neurobehavioral
+impairments in this cohort of GW veterans with predicted GB/GF exposure other than subtle
+attention deficits (i.e., more omission errors on the Continuous Performance Test; Chao et
+al., 2011). We similarly found no evidence of significant neurobehavioral deficits in an
+earlier study of a different cohort of GW veterans with predicted GB/GF exposure compared
+to unexposed veterans. Thus these findings, together with the absence of correlations
+between DTI measures and neurobehavioral performance GW veterans with predicted
+GB/GF exposure hints at the possibility of white matter reorganization in GW veterans with
+predicted GB/GF exposure. However, this interpretation should be viewed with caution
+because the biophysical basis of changes in axial diffusivity in the brain are still not
+completely understood (Budde et al., 2009; Englund et al., 2004) and because measures of
+axial and radial diffusivities may be problematic when crossing fibers make eigenvalue
+directions between subjects uncertain (Wheeler-Kingshott and Cercignani, 2009).
+
+VA Author Manuscript
+
+If increased the axial diffusivity that we observed in GW veterans with predicted GB/GF
+exposure may be a sign of white matter reorganization after GB/GF exposure, then why
+would there also be a significant correlation between axial diffusivity in the posterior limb of
+the internal capsule and performance on the Grooved Pegboard test in unexposed GW
+veterans? Although the plume model analysis suggests that these veterans were probably not
+exposed to GB/GF, GW military personnel were likely exposed to a variety of other
+potentially hazardous chemicals, including pyridostigmine bromide pills given
+prophylactically as a protective measure against nerve agents and extensive use of pesticides
+(Research Advisory Committee on Gulf War Veterans’ Illness, 2008; U.S. Department of
+Defense, 2003; Fricker et al., 2000; Steele et al., 2012). Therefore, it is reasonable to
+hypothesize that there may also be some degree of white matter reorganization after
+exposure to other potentially hazardous chemicals in unexposed GW veterans.
+
+VA Author Manuscript
+
+Rayhan et al. (2013) recently suggested that axial diffusivity in the right inferior frontooccipital fasciculus may be a potential biomarker for CMI. However we did not find axial
+diffusivity from the right inferior fronto-occipital axial diffusivity to be significantly
+associated with CMI status after accounting for potentially confounding variables. One
+possible reason for the discrepant findings may be a difference in study samples: all the GW
+veterans with CMI in the Rayhan et al. study also met the clinical criteria for Chronic
+Fatigue Syndrome (Fukuda et al., 1994). In contrast, we did not assess GW veterans for
+Chronic Fatigue Syndrome. Some the GW veterans with CMI in the current study did not
+have symptoms of fatigue because the (Fukuda et al., 1998) case definition of CMI only
+requires symptoms in 2/3 domains. However, we still did not observe a significant
+association between right inferior fronto-occipital fasciculus axial diffusivity and CMI status
+even after excluding veterans with CMI due to non-fatigue-related symptoms from the
+analysis. Therefore other reasons (e.g., 3 T vs. 4 T MR scanner, different imaging
+parameters, different pre- and post-processing of the DTI data) may account for why we
+were unable to replicate Rayhan et al.’s findings.
+
+Neurotoxicology. Author manuscript; available in PMC 2017 June 30.
+
+Chao et al.
+
+Page 12
+
+VA Author Manuscript
+VA Author Manuscript
+
+The present findings should be considered in the context of several study limitations: first,
+the DTI data had low (6 directions) angular resolution. Second, we did not have information
+about the severity of the symptoms associated with CMI, smoking status, or history of head
+injury (although history of head injury associated with prolonged loss of consciousness was
+exclusionary for the study). Third, it may be possible that military personnel more likely to
+have been in the GB/GF exposure areas are different from those in low or no exposure areas.
+Unfortunately, we are not able to address this question in the current study. Fourth, because
+the GB/GF exposure estimates were calculated at the unit rather than individual level, there
+is no definitive way of knowing if an individual soldier was with his or her unit on the four
+target dates the model. Moreover, the modeled exposure estimates may be subject to
+misclassification (United States General Accounting Office, 2004). However, general
+misclassification errors are likely to be random, therefore would have limited influence on
+the present results. Fifth, as mentioned earlier, it has been suggested that measures of axial
+and radial diffusivities may be problematic when crossing fibers make eigenvalue directions
+between subjects uncertain (Wheeler-Kingshott and Cercignani, 2009). Finally, the crosssectional study design did not allow us to address issues pertaining to longitudinal changes
+in white matter microstructure. Therefore future longitudinal DTI studies will be needed to
+resolve whether the white matter alterations that we observed in GW veterans with predicted
+GB/GF exposure represent white matter reorganization associated with adaptive axonal
+recovery or neurodegeneration.
+
+Acknowledgments
+The contents of this publication are solely the responsibility of the authors and do not necessarily represent the
+official views of the Army, Department of Defense, or Department of Veterans Affairs. This study also supported by
+Department of Defense grant DAMD17-01-1-0764 entitled ‘Magnetic Resonance and Spectroscopy of the Human
+Brain in Gulf War Illness,’ awarded to the Northern California Institute for Research and Education from the
+Department of Defense Gulf War Illnesses Research Program, US Army Medical Research and Materiel Command
+and a Department of Veterans Affairs grant VA GWI No. B3776 entitled ‘Effects of Gulf War Illness on Brain
+Structure Function and Metabolism: MRI/MRS at 4 T’, and VA grant No. I01BX007080 entitled ‘Longitudinal
+Assessment of Gulf War Veterans with Suspected Sarin Exposure.’ This material is the result of work supported
+with resources and the use of facilities at the San Francisco Veterans Affairs Medical Center. The authors would
+like to thank Dr. Michael Weiner for his support and the Gulf War veterans who participated in these studies.
+
+References
+VA Author Manuscript
+
+Acosta-Cabronero J, Williams GB, Pengas G, Nestor PJ. Absolute diffusivities define the landscape of
+white matter degeneration in Alzheimer’s disease. Brain. 2010; 133:529–39. [PubMed: 19914928]
+Agosta F, Pievani M, Sala S, Geroldi C, Galluzzi S, Frisoni GB. White matter damage in Alzheimer
+disease and its relationship to gray matter atrophy. Radiology. 2011; 258:853–63. [PubMed:
+21177393]
+Alexander AL, Lee JE, Lazar M, Field AS. Diffusion tensor imaging of the brain. Neurotherapeutics.
+2007; 3:316–29.
+Ashburner J. A fast diffeomorphic image registration algorithm. Neuroimage. 2007; 38:95–113.
+[PubMed: 17761438]
+Basser PJ, Pierpaoli C. Microstructural and physiological features of tissues elucidated by quantitativediffusion-tensor MRI. J Magn Reson B. 1996; 111:209–19. [PubMed: 8661285]
+Blake DD, Weathers FW, Nagy LM, Kaloupek DG, Gusman FD, Charney DS. The development of a
+clinician-administered PTSD scale. J Trauma Stress. 1995; 8:75–90. [PubMed: 7712061]
+
+Neurotoxicology. Author manuscript; available in PMC 2017 June 30.
+
+Chao et al.
+
+Page 13
+
+VA Author Manuscript
+VA Author Manuscript
+VA Author Manuscript
+
+Bosch B, Arenaza-Urquijo EM, Rami L, Sala-Llonch R, Junqué C, Solé-Padullés C. Multiple DTI
+index analysis in normal aging, amnestic MCI and AD. Relationship with neuropsychological
+performance. Neurobiol Aging. 2010; 33:61–74. [PubMed: 20371138]
+Budde MD, Xie M, Cross AH, Song SK. Axial diffusivity is the primary correlate of axonal injury in
+the EAE spinal cord: a quantitative pixelwise analysis. J Neurosci. 2009; 29:2805–13. [PubMed:
+19261876]
+Chao LL, Rothlind JC, Cardenas VA, Meyerhoff DJ, Weiner MW. Effects of low-level exposure to
+sarin and cyclosarin during the 1991 Gulf War on brain function and brain structure in US veterans.
+Neurotoxicology. 2010; 31:493–501. [PubMed: 20580739]
+Chao LL, Abadjian L, Hlavin J, Meyerhoff DJ, Weiner MW. Effects of low-level sarin and cyclosarin
+exposure and Gulf War Illness on brain structure and function: a study at 4 Tesla. Neurotoxicology.
+2011; 32:814–22. [PubMed: 21741405]
+Clerx L, Visser PJ, Verhey F, Aalten P. New MRI markers for Alzheimer’s disease: a meta-analysis of
+diffusion tensor imaging and a comparison with medial temporal lobe measurements. J Alzheimers
+Dis. 2012; 29:405–29. [PubMed: 22330833]
+Cohen, J. Statistical power analysis for the behavioral sciences. 2nd. Hillsdale, NJ: Laurence Erlbaum
+Associates; 1988.
+Directorate for Deployment Health Support of the Special Assistant to the Under Secretary of Defense
+(Personnel and Readiness) for Gulf War Illness Medical Readiness and Military Deployments.
+Potential exposure to sarin from the demolitions at Khamisiyah, Iraq on March 10, 1991. 1997.
+Available from: http://www.gulflink.osd.mil
+Directorate for Deployment Health Support of the Special Assistant to the Under Secretary of Defense
+(Personnel and Readiness) for Gulf War Illness Medical Readiness and Military Deployments. US
+demolition operations at the Khamisiyah ammunition point (case narrative). 2002. Available at:
+http://www.gulflink.osd.mil/khamisiyahiii
+Delis, DC., Kramer, JH., Kaplan, E., Ober, BA. California verbal learning test. 2nd. San Antonio, TX:
+The Psychological Corporation; 2000.
+Englund E, Sjobeck M, Brockstedt S, Lätt J, Larsson EM. Diffusion tensor MRI post mortem
+demonstrated cerebral white matter pathology. J Neurol. 2004; 251:350–2. [PubMed: 15015019]
+First, M., Spitzer, R., Gobbon, M., Williams, J. Structured clinical interview for DMS-IV. New York:
+New York State Psychiatric Institute Biometrics Research Department; 1995.
+Fricker, RD., Jr, Reardon, E., Spektor, DM., Cotton, SK., Hawes-Dawson, J., Pace, JE. Pesticide use
+during the Gulf War: a survey of Gulf War veterans. Arlington, VA: 2000.
+Fukuda K, Niesenbaum R, Stewart G, Thompson WW, Robin L, Washko RM, et al. Chronic
+multisymptom illness affecting air force veterans of the Gulf War. JAMA. 1998; 280:981–8.
+[PubMed: 9749480]
+Fukuda K, Straus SE, Hickie I, Sharpe MC, Dobbins JG, Komaroff A. The chronic fatigue syndrome: a
+comprehensive approach to its definition and study International Chronic Fatigue Syndrome Study
+Group. Adv Intern Med. 1994; 12:953–9.
+Heaton KJ, Palumbo CL, Proctor SP, Killiany RJ, Yurgelun-Todd DA, White RF. Quantitative
+magnetic resonance brain imaging in US army veterans of the 1991 Gulf War potentially exposed
+to sarin and cyclosarin. Neurotoxicology. 2007; 28:761–9. [PubMed: 17485118]
+Hikishima K, Ando K, Yano R, Kawai K, Komaki Y, Inoue T, et al. Parkinson disease: diffusion MR
+imaging to detect nigrostriatal pathway loss in a marmoset model treated with 1-methyl-4phenyl-1,2,3,6-tetrahydropyridine. Radiology. 2015; 275:430–7. [PubMed: 25602507]
+Kinnunen KM, Greenwood R, Powell JH, Leech R, Hawkins PC, Bonnelle V, et al. White matter
+damage and cognitive impairment after traumatic brain injury. Brain. 2011; 134:449–63. [PubMed:
+21193486]
+Kumar R, Macey PM, Woo MA, Harper RM. Rostral brain axonal injury in congenital central
+hypoventilation syndrome. J Neurosci Res. 2010; 88:2146–54. [PubMed: 20209631]
+Kumar R, Nguyen HD, Macey PM, Woo MA, Harper RM. Regional brain axial and radial diffusivity
+changes during development. J Neurosci Res. 2012; 90:346–55. [PubMed: 21938736]
+Letz RL. NES2 user’s manual. 1991
+
+Neurotoxicology. Author manuscript; available in PMC 2017 June 30.
+
+Chao et al.
+
+Page 14
+
+VA Author Manuscript
+VA Author Manuscript
+VA Author Manuscript
+
+Madden, DJ. Speed and timing of behavioral processes. In: Birren, JE., Schaie, KW., editors.
+Handbook of the psychology of aging. San Diego: Academic Press; 2001. p. 288-312.
+Metwalli NS, Benatar M, Nair G, Usher S, Hu X, Carew JD. Utility of axial and radial diffusivity from
+diffusion tensor MRI as markers of neurodegeneration in amyotrophic lateral sclerosis. Brain Res.
+2010; 1348:156–64. [PubMed: 20513367]
+Miyaki K, Nishiwaki Y, Maekawa K, Ogawa Y, Asukai N, Yoshimura K, et al. Effects of sarin on the
+nervous system of subway workers seven years after the Tokyo subway sarin attack. J Occup
+Health. 2005; 47:299–304. [PubMed: 16096354]
+Mori S, Oishi K, Jiang H, Jiang L, Li X, Akhter K, et al. Stereotaxic white matter atlas based on
+diffusion tensor imaging in an ICBM template. Neuroimage. 2008; 40:570–82. [PubMed:
+18255316]
+Nir TM, Jahanshad N, Villalon-Reina JE, Toga AW, Jack CR, Weiner MW, et al. Effectiveness of
+regional DTI measures in distinguishing Alzheimer’s disease, MCI, and normal aging.
+Neuroimage. 2013; 3:180–95. [PubMed: 24179862]
+Persian Gulf War Illness Task Force. Khamisiyah: a historical perspective on related intelligence.
+Washington, DC: Central Intelligence Agency; 1997.
+Proctor SP, Heaton KJ, Heeren T, White RF. Effects of chemical warfare agent exposure on central
+nervous system functioning in US army veterans of the 1991 Gulf War. Neurotoxicology. 2006;
+27:931–9. [PubMed: 16982099]
+Research Advisory Committee on Gulf War Veterans’ Illness (RAC-GWVI). Gulf War illness and the
+health of Gulf War veterans. Washington, DC: 2008.
+Rayhan RU, Stevens BW, Timbol CR, Adewuyi O, Walitt B, VanMeter JW, et al. Increased brain white
+matter axial diffusivity associated with fatigue, pain and hyperalgesia in Gulf War illness. PLOS
+ONE. 2013; 8:e58493. [PubMed: 23526988]
+Reitan RM, Wolfson D. The Halstead-Reitan neuropsychological test battery: theory and interpetation.
+1985
+Sankoh AJ, Huque MF, Dubey SD. Some comments on frequently used multiple endpoint adjustment
+methods in clinical trials. Stat Med. 1997; 16:2529–42. [PubMed: 9403954]
+Shu N, Wang Z, Qi Z, Li K, He Y. Multiple diffusion indices reveals white matter degeneration in
+Alzheimer’s disease and mild cognitive impairment: a tract-based spatial statistics study. J Addict
+Dis. 2011; 26:275–85.
+Sidaros A, Engberg A, Sidaros K, Liptrot MG, Herning M, Petersen P, et al. Diffusion tensor imaging
+during recovery from severe traumatic brain injury and relation to clinical outcome: a longitudinal
+study. Brain. 2008; 131:559–72. [PubMed: 18083753]
+Song SK, Sun SW, Ju WK, Lin SJ, Cross AH, Neufeld AH. Diffusion tensor imaging detects and
+differentiates axon and myelin degeneration in mouse optic nerve after retinal ischemia.
+Neuroimage. 2003; 20:1714–22. [PubMed: 14642481]
+Song SK, Sun SW, Ramsbottom M, Chang C, Russell J, Cross AH. Dysmyelination revealed through
+MRI as increased radial (but unchanged axial) diffusion of water. Neuroimage. 2002; 17:1429–36.
+[PubMed: 12414282]
+Steele L, Sastre A, Gerkovich MM, Cook MR. Complex factors in the etiology of Gulf War Illness:
+wartime exposures and risk factors in veteran subgroups. Environ Health Perspect. 2012; 120:112–
+8. [PubMed: 21930452]
+Steenwijk MD, Daams M, Pouwels PJ, Balk LJ, Tewarie PK, Killestein J, et al. What explains gray
+matter atrophy in long-standing multiple sclerosis. Radiology. 2014; 272:832–42. [PubMed:
+24761837]
+Sullivan EV, Rohlfing T, Pfefferbaum A. Quantitative fiber tracking of lateral and interhemispheric
+white matter systems in normal aging: relations to timed performance. Neurobiol Aging. 2010;
+31:464–81. [PubMed: 18495300]
+Tao R, Fletcher PT, Gerber S, Whitaker RT. A variational image-based approach to the correction of
+susceptibility artifacts in the alignment of diffusion weighted and structural MRI. Inf Process Med
+Imaging. 2009; 21:651–63. [PubMed: 19694301]
+
+Neurotoxicology. Author manuscript; available in PMC 2017 June 30.
+
+Chao et al.
+
+Page 15
+
+VA Author Manuscript
+VA Author Manuscript
+
+Tyszka JM, Readhead C, Bearer EL, Pautler RG, Jacobs RE. Statistical diffusion tensor histology
+reveals regional dysmyelination effects in the shiverer mouse mutant. Neuroimage. 2006;
+29:1058–65. [PubMed: 16213163]
+United States Department of Defense. Environmental exposure report: pesticides: final report.
+Washington, DC: 2003.
+United States General Accounting Office. DOD’s conclusions about U.S. troops’ exposure cannot be
+adequately supported. Washington, DC: United States General Accounting Office; 2004.
+Vernooij MW, de Groot M, van der Lugt A, Ikram MA, Krestin GP, Hofman A, et al. White matter
+atrophy and lesion formation explain the loss of structural integrity of white matter in aging.
+Neuroimage. 2008; 43:470–7. [PubMed: 18755279]
+Voss HU, Ulug AM, Dyke JP, Watts R, Kobylarz EJ, McCandliss BD, et al. Possible axonal regrowth
+in late recovery from the minimally conscious state. J Clin Invest. 2006; 116:2005–11. [PubMed:
+16823492]
+Wechsler, D. The Wechsler adult intelligence scale. San Antonio, TX: Psychological Corporation;
+1997.
+Wetzel, L., Boll, T. The short category test, booklet format. Los Angeles, CA: Western Psychological
+Services; 1987.
+Wheeler-Kingshott CAM, Cercignani M. About axial and radial diffusivities. Magn Reson Med. 2009;
+61:1255–60. [PubMed: 19253405]
+Yamasue H, Abe O, Kasai K, Suga M, Iwanami A, Yamada H, et al. Human brain structural change
+related to acute single exposure to sarin. Ann Neurol. 2007; 61:37–46. [PubMed: 17187377]
+Yokoyama K, Araki S, Murata K, Nishikitani M, Okumura T, Ishimatsu S, et al. Chronic
+neurobehavioral effects of Tokyo subway sarin poisoning in relation to posttraumatic stress
+disorder. Arch Environ Health. 1998; 53:249–56. [PubMed: 9709988]
+Zarei M, Johansen-Berg H, Jenkinson M, Ciccarelli O, Thompson AJ, Matthews PM. Twodimensional population map of cortical connections in the human internal capsule. J Magn Reson
+Imaging. 2007; 25:48–54. [PubMed: 17152053]
+Zhang YZ, Schuff N, Camacho M, Chao LL, Fletcher TP, Yaffe K, et al. MRI markers for mild
+cognitive impairment: comparisons between white matter integrity and gray matter volume
+measurements. PLOS ONE. 2013; 8:e663687.
+
+VA Author Manuscript
+Neurotoxicology. Author manuscript; available in PMC 2017 June 30.
+
+Chao et al.
+
+Page 16
+
+VA Author Manuscript
+VA Author Manuscript
+
+Fig. 1.
+
+Representation of a priori Yamasue et al. ROIs overlaid on coronal sections of a group FA
+map. Top row shows left subinsula ROI; second row shows left subinsula and bilateral
+temporal stem ROIs; third row shows left subinsula, bilateral temporal stem, left parietal
+cortex, and brainstem ROIs; bottom row shows left parietal and bilateral temporal stem
+ROIs.
+
+VA Author Manuscript
+Neurotoxicology. Author manuscript; available in PMC 2017 June 30.
+
+Chao et al.
+
+Page 17
+
+VA Author Manuscript
+
+Fig. 2.
+
+Representation of eleven other white matter ROIs overlaid on coronal, axial, and sagittal
+sections of a group FA map. (A) Corpus callosum = red, fornix = light blue; superior
+cingulum = green; corona radiata = yellow; internal capsule = dark blue; external capsule =
+magenta; (B) inferior fronto-occipital fasciculus = pink; superior fronto-occipital fasciculus
+= orange; superior longitudinal fasciculus = lavender; inferior (hippocampal) cingulum =
+green (C) superficial WM blades = cyan.
+
+VA Author Manuscript
+VA Author Manuscript
+Neurotoxicology. Author manuscript; available in PMC 2017 June 30.
+
+Chao et al.
+
+Page 18
+
+Table 1
+
+VA Author Manuscript
+
+Demographic, military, and clinical characteristics GB/GF exposed and unexposed GW veterans.
+Exposed
+
+Unexposed
+
+N
+
+59
+
+59
+
+Age (years)
+
+48.5 (7.6)
+
+48.4 (7.2)
+
+6 (10%)
+
+6 (10%)
+
+8 (14%)
+
+3 (5%)
+
+Caucasian (%)
+
+26 (44%)
+
+42 (71%)
+
+Latino (%)
+
+19 (32%)
+
+9 (15%)
+
+No. of females (%)
+Ethnicitya
+African American (%)
+
+Other (%)
+
+6 (10%)
+
+5 (8%)
+
+15.1 (2.2)
+
+15.6 (2.2)
+
+Active Duty (%)
+
+43 (73%)
+
+52 (88%)
+
+National Guard (%)
+
+11 (19%)
+
+2 (3%)
+
+5 (9%)
+
+5 (9%)
+
+No. with service-connected disability
+
+25 (42%)
+
+34 (58%)
+
+Average % disability (range)
+
+21 (5–80)
+
+34 (5–100)
+
+No. with CMI (%)
+
+Education (years)
+Military status during Gulf Wara
+
+VA Author Manuscript
+
+Reserves (%)
+
+36 (61%)
+
+36 (61%)
+
+No. with current PTSD diagnosis (%)
+
+4 (7%)
+
+4 (7%)
+
+Current CAPS score
+
+9.8 (18.9)
+
+9.5 (16.7)
+
+No. with current MDD diagnosis (%)
+
+5 (8%)
+
+7 (12%)
+
+HAM-D Score
+
+5.2 (4.8)
+
+6.1 (6.5)
+
+No. on psychotropic medication
+
+9 (15%)
+
+15 (25%)
+
+No. with history of alcohol abuse/dependence
+
+21 (36%)
+
+28 (47%)
+
+Current average no. drinks/month
+
+22.5 (25.8)
+
+20.5 (33.7)
+
+7 (12%)
+
+6 (10%)
+
+No. with history of drug abuse/dependence
+
+VA Author Manuscript
+
+Means (SD) or N (%) reported.
+CMI, Chronic multisymptom illness; PTSD, posttraumatic stress disorder; CAPS, Clinician Administered PTSD Scale; MDD, major depressive
+disorder; HAM-D, Hamilton Depressive Scale.
+
+a
+
+Significantly different between the two groups, p < 0.05.
+
+Neurotoxicology. Author manuscript; available in PMC 2017 June 30.
+
+VA Author Manuscript
+Pontine crossing tract
+L. external capsule
+L. posterior corona radiata
+L & R sagittal striatum & uncinate
+Pontine crossing tract
+L. external capsule
+
+Brainstem
+
+L. subinsula
+
+L. parietal
+
+Bilateral temporal stem
+
+Brainstem
+
+L. subinsula
+
+0.61 (0.05)
+
+0.53 (0.10)
+
+0.57 (0.05)
+
+0.61 (0.05)
+
+1.13 (0.04)
+
+1.15 (0.18)
+
+1.35 (0.04)
+
+1.19 (0.05)
+
+0.40 (0.05)
+
+0.48 (0.08)
+
+0.52 (0.05)
+
+0.42 (0.03)
+
+Unexposed
+
+0.63 (0.05)
+
+0.51 (0.09)
+
+0.59 (0.09)
+
+0.62 (0.04)
+
+1.15 (0.04)
+
+1.11 (0.18)
+
+1.39(0.04)
+
+1.21 (0.06)
+
+0.40 (0.04)
+
+0.48 (0.09)
+
+0.51 (0.06)
+
+0.43 (0.03)
+
+Exposed
+
+1.83
+
+1.99
+
+3.04
+
+−0.40
+
+0.21
+
+−0.27
+
+−0.22
+
+−0.50
+
+7.88 **
+0.62
+
+0.22
+
+−0.99
+
+15.83***
+1.22
+
+−0.36
+
+0.00
+
+0.00
+
+0.18
+
+−0.33
+
+4.80 *
+
+0.10
+
+0.03
+
+0.53
+
+0.93
+
+Cohen’s d
+
+p < 0.001.
+
+***
+
+p < 0.01.
+
+p < 0.05.
+
+**
+
+*
+
+Controlling for age, sex, total brain GM and WM volume, CMI-status, trauma exposure, diagnoses of current PTSD and/or major depressive disorder, history of alcohol and/or drug abuse/dependence.
+
+a
+
+Means and standard deviations (in parentheses) are reported.
+
+RD
+
+L& R sagittal striatum & uncinate
+
+L. external capsule
+
+L. subinsula
+
+Bilateral temporal stem
+
+Pontine crossing tract
+
+Brainstem
+
+L. posterior corona radiata
+
+L & R sagittal striatum & uncinate
+
+Bilateral temporal stem
+
+L. parietal
+
+L. posterior corona radiata
+
+L. parietal
+
+FA
+
+AD
+
+DTI atlas ROI
+
+Yamasue et al. ROI
+
+DTI index
+
+F (1,106)
+
+VA Author Manuscript
+
+Least squares mean DTI valuesa by group from the Yamasue et al. a priori ROIs.
+
+VA Author Manuscript
+
+Table 2
+Chao et al.
+Page 19
+
+Neurotoxicology. Author manuscript; available in PMC 2017 June 30.
+
+VA Author Manuscript
+
+VA Author Manuscript
+
+Neurotoxicology. Author manuscript; available in PMC 2017 June 30.
+
+RD
+
+AD
+
+0.45 (0.04)
+0.47 (0.05)
+0.48 (0.03)
+0.42 (0.02)
+0.59 (0.04)
+0.45 (0.02)
+2.26 (0.14)
+1.18 (0.05)
+1.14 (0.06)
+1.30 (0.04)
+1.13 (0.03)
+1.12 (0.04)
+1.30 (0.05)
+1.18 (0.03)
+1.17 (0.04)
+1.54 (0.05)
+1.17 (0.02)
+1.01 (0.23)
+0.58 (0.04)
+0.58 (0.06)
+0.46 (0.03)
+
+Superior longitudinal fasiciculus
+
+Corona Radiata
+
+Corpus Callosum
+
+Superficial WM blades
+
+Fornix
+
+Superior cingulum
+
+Inferior (hippocampal) cingulum
+
+Internal capsule
+
+External capsule
+
+Superior fonto-occipital fasciculus
+
+Inferior fronto-occipital fasciculus
+
+Superior longitudinal fasiciculus
+
+Corona radiata
+
+Corpus callosum
+
+Superficial WM blades
+
+Fornix
+
+Superior cingulum
+
+Inferior (hippocampal) cingulum
+
+Internal capsule
+
+0.59 (0.03)
+
+Internal capsule
+
+Inferior fronto-occipital fasciculus
+
+0.43 (0.04)
+
+Inferior (hippocampal) cingulum
+
+Superior fonto-occipital fasciculus
+
+0.44 (0.04)
+
+Superior cingulum
+
+0.41 (0.04)
+
+0.53 (0.08)
+
+Fornix
+
+FA
+
+External capsule
+
+Unexposed
+
+ROI
+
+DTI index
+
+0.48 (0.04)
+
+0.59 (0.06)
+
+0.60 (0.09)
+
+1.06 (0.24)
+
+1.19 (0.03)
+
+1.55 (0.04)
+
+1.19 (0.04)
+
+1.20 (0.04)
+
+1.34 (0.05)
+
+1.16 (0.06)
+
+1.15 (0.03)
+
+1.32 (0.04)
+
+1.17 (0.05)
+
+1.22 (0.10)
+
+2.28 (0.16)
+
+0.45 (0.03)
+
+0.58 (0.06)
+
+0.42 (0.02)
+
+0.47 (0.03)
+
+0.48 (0.06)
+
+0.45 (0.04)
+
+0.41 (0.03)
+
+0.58 (0.04)
+
+0.43 (0.04)
+
+0.44 (0.04)
+
+0.52 (0.10)
+
+Exposed
+
+−0.67
+−0.78
+−0.80
+−0.57
+−0.50
+
+26.15 ***
+23.20 ***
+15.30 ***
+5.57*
+15.06 ***
+
+−0.17
+−0.57
+
+7.64**
+
+−0.29
+
+−0.22
+
+1.68
+
+3.37
+
+1.34
+
+−0.78
+
+−0.50
+
+7.23**
+
+19.77 ***
+
+−0.54
+
+6.40*
+
+−0.22
+
+−0.51
+
+1.02
+
+−0.13
+
+9.48**
+
+0.00
+
+0.20
+
+0.00
+
+0.33
+
+−0.18
+
+0.00
+
+0.00
+
+0.28
+
+0.00
+
+0.00
+
+0.11
+
+Cohen’s d
+
+0.68
+
+0.45
+
+0.50
+
+0.99
+
+0.13
+
+0.69
+
+0.82
+
+0.62
+
+0.12
+
+0.81
+
+0.85
+
+0.38
+
+F (1,106)
+
+Least Squares DTI valuesa by group from the other white matter ROIs.
+
+VA Author Manuscript
+
+Table 3
+Chao et al.
+Page 20
+
+0.60 (0.06)
+0.55 (0.04)
+0.60 (0.03)
+0.55 (0.07)
+
+Inferior fronto-occipital fasciculus
+
+Superior longitudinal fasiciculus
+
+Corona radiata
+
+Corpus callosum
+0.60 (0.04)
+
+0.56 (0.08)
+
+0.61 (0.03)
+
+0.57 (0.04)
+
+0.61 (0.07)
+
+0.57 (0.04)
+
+0.62 (0.04)
+
+Exposed
+
+5.04*
+
+0.56
+
+3.73
+
+−0.57
+
+−0.13
+
+−0.33
+
+−0.50
+
+4.62*
+
+−0.50
+
+9.55**
+−0.15
+
+−0.50
+
+5.34*
+
+0.97
+
+Cohen’s d
+
+F (1,106)
+
+p < 0.001.
+
+***
+
+p < 0.01.
+
+p < 0.05.
+
+**
+
+*
+
+Controlling for age, sex, total brain GM and WM volume, CMI-status, trauma exposure, diagnoses of current PTSD and/or major depressive disorder, history of alcohol and/or drug abuse/dependence.
+
+a
+
+Means and standard deviations (in parentheses) are reported.
+
+0.58 (0.03)
+
+0.55 (0.04)
+
+Superior fonto-occipital fasciculus
+
+Superficial WM blades
+
+0.60 (0.04)
+
+External capsule
+
+VA Author Manuscript
+Unexposed
+
+VA Author Manuscript
+
+ROI
+
+VA Author Manuscript
+
+DTI index
+
+Chao et al.
+Page 21
+
+Neurotoxicology. Author manuscript; available in PMC 2017 June 30.
+
+VA Author Manuscript
+−0.22
+
+−0.50 ***
+0.46 **
+
+trail test making Aa
+
+WAIS-III digit spans (forward)
+
+0.41 **
+
+WAIS-III digit spans (backward)
+
+−0.30 *
+
+Non-dominant handa
+
+Neurotoxicology. Author manuscript; available in PMC 2017 June 30.
+0.01
+0.38*
+
+Long-delay free recallc
+
+Recognition hitsc
+0.05
+
+0.15
+
+−0.01
+
+−0.03
+
+−0.35*
+
+0.05
+
+0.02
+
+0.28
+
+0.14
+
+−0.37 *
+
+0.36 *
+
+0.27
+
+−0.51 ***
+
+0.05**
+
+−0.10
+
+0.33*
+
+0.32*
+
+−0.27
+
+−0.04
+
+−0.10
+
+0.25
+
+0.24
+
+−0.06
+
+−0.02
+
+0.11
+
+−0.10
+
+0.09
+
+0.03
+
+0.04
+
+−0.01
+
+0.09
+
+0.08
+
+−0.07
+
+−0.21
+
+−0.28†
+
+0.17
+
+−0.06
+
+−0.14
+
+0.12
+
+−0.04
+
+−0.22
+
+0.14
+
+0.19
+
+0.05
+
+0.03
+
+0.05
+
+−0.27†
+
+−0.27†
+
+0.08
+
+−0.03
+
+−0.14
+
+0.14
+
+−0.13
+
+−0.05
+
+0.03
+
+0.03
+
+Radial diffusivity
+
+Data available for 50 unexposed and 51 exposed GW veterans.
+
+p < 0.05.
+
+*
+
+c
+Data available for 59 unexposed and 58 exposed GW veterans.
+
+b
+
+Lower scores indicate better performance.
+
+a
+
+CPT, Continuous Performance Test; WAIS, Wechsler Adult Intelligence Scale.
+
+Partial correlation coefficients, controlling for age, sex, education, chronic multisymptom illness, trauma exposure, posttraumatic stress disorder, major depressive disorder, history of alcohol and/or drug
+abuse/dependence.
+
+−0.02
+
+Short-delay freerecallc
+
+Memory (California Verbal Learning test)
+
+−0.20
+
+Dominant handa
+−0.17
+
+0.08
+
+−0.34 *
+
+Short category total test, errorsa
+
+Psychomotor function (Grooved Pegboard test)
+
+0.01
+
+−0.25
+
+0.09
+
+−0.07
+
+Trail making test Ba
+
+Executive function
+
+−0.10
+
+0.04
+
+CPT no. commission errorsb
+
+−0.07
+
+−0.36 *
+
+CPT no. omission errorsb
+
+−0.26
+
+−0.39 **
+
+CPT response time to targetsa,b
+
+Attention
+
+FA
+
+Radial diffusivity
+
+FA
+
+Axial diffusivity
+
+Exposed
+
+Unexposed
+Axial diffusivity
+
+VA Author Manuscript
+
+Post hoc partial correlations between DTI and neurobehavioral data by group.
+
+VA Author Manuscript
+
+Table 4
+Chao et al.
+Page 22
+
+0.05 < p < 0.06.
+
+Page 23
+
+†
+
+p < 0.001.
+***
+
+VA Author Manuscript
+
+**
+
+p ≤ 0.01.
+
+Chao et al.
+
+VA Author Manuscript
+VA Author Manuscript
+Neurotoxicology. Author manuscript; available in PMC 2017 June 30.
+
+

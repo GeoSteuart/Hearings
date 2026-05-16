@@ -1,0 +1,717 @@
+Gray Matter Concentration Abnormality
+in Brains of Narcolepsy Patients
+Eun Yeon Joo, MD1
+Woo Suk Tae, PhD1, 3
+Sung Tae Kim, MD2
+Seung Bong Hong, MD1
+
+Index terms :
+Narcolepsy
+Magnetic resonance (MR)
+Voxel based morphometry
+Hypothalamus
+Nucleus accumbens
+Thalamus
+DOI:10.3348/kjr.2009.10.6.552
+
+Korean J Radiol 2009;10:552-558
+Received March 9, 2009; accepted
+after revision June 8, 2009.
+Department of Neurology, Sleep Center;
+Department of Radiology, Samsung
+Medical Center, Sungkyunkwan
+University School of Medicine, Seoul 135710, Korea; 3Neuroscience Research
+Institute, Kangwon National University
+College of Medicine, Kangwon-do 220093, Korea
+
+1
+2
+
+*This study was supported by a Grant
+(2009K001257) from Brain Research
+Center of the 21st Century Frontier
+Research Program funded by the Ministry
+of Science, by a grant (no. A090579) of
+Good Health R&D Project, Ministry of the
+Health & Welfare, Republic of Korea, and
+by the Samsung Biomedical Research
+Institute grant, #SBRI C-A7-226-3, and by
+the Samsung Medical Center Clinical
+Research Development Program Grant,
+#CRS-108-11-1.
+Address reprint requests to :
+Seung Bong Hong, MD, Department of
+Neurology, Samsung Medical Center,
+Sungkyunkwan University School of
+Medicine, 50 Ilwon-dong, Gangnam-gu,
+Seoul 135-710, Korea.
+Tel. (822) 3410-3592
+Fax. (822) 3410-0052
+e-mail: sbhong@skku.edu;
+sbhongsmc@gmail.com
+
+552
+
+Objective: To investigate gray matter concentration changes in the brains of
+narcoleptic patients.
+Materials and Methods: Twenty-nine narcoleptic patient with cataplexy and 29
+age and sex-matched normal subjects (mean age, 31 years old) underwent volumetric MRIs. The MRIs were spatially normalized to a standard T1 template and
+subdivided into gray matter, white matter, and cerebrospinal fluid (CSF). These
+segmented images were then smoothed using a 12-mm full width at half maximum (FWHM) isotropic Gaussian kernel. An optimized voxel-based morphometry protocol was used to analyze brain tissue concentrations using SPM2 (statistical parametric mapping). A one-way analysis of variance was applied to the concentration analysis of gray matter images.
+Results: Narcoleptics with cataplexy showed reduced gray matter concentration in bilateral thalami, left gyrus rectus, bilateral frontopolar gyri, bilateral short
+insular gyri, bilateral superior frontal gyri, and right superior temporal and left inferior temporal gyri compared to normal subjects (uncorrected p < 0.001).
+Furthermore, small volume correction revealed gray matter concentration reduction in bilateral nuclei accumbens, hypothalami, and thalami (false discovery rate
+corrected p < 0.05).
+Conclusion: Gray matter concentration reductions were observed in brain
+regions related to excessive daytime sleepiness, cognition, attention, and memory in narcoleptics with cataplexy.
+
+N
+
+arcolepsy is characterized by excessive daytime sleepiness (EDS), a
+disruption of sleep-wake behavior, cataplexy (a sudden loss of muscle
+tone provoked by emotional stimuli), and other rapid eye movement
+(REM) sleep phenomena, such as, sleep paralysis and hypnagogic hallucinations (1).
+Numerous investigations, including neuroimaging studies, have been performed to
+characterize the pathophysiology of narcolepsy. An abnormality of the pontine reticular formation, where REM sleep is generated, was reported in the brain MRIs of three
+idiopathic narcoleptic patients (2), whereas another study found no evidence of a
+pontine lesion (3).
+Several voxel-based morphometry (VBM) studies of brain MRIs in narcoleptics have
+produced controversial results. One distinct VBM study revealed reduced gray matter
+(GM) concentrations in the hypothalamus and nucleus accumbens (4). A subsequent
+study failed to find any changes of GM concentrations in the hypothalamus (5).
+Another study found reductions in bilateral inferior temporal and frontal regions (6).
+Recently, GM loss in the prefrontal and frontomesial cortices was found, but could not
+provide functional significance with respect to the relevance to the pathophysiology of
+Korean J Radiol 10(6), Nov/Dec 2009
+
+Gray Matter Concentration Abnormality in Narcoleptic Brains
+
+narcolepsy due to inhomogeneous patient groups and small
+sample size (7).
+In the present study, we enrolled narcoleptics with
+cataplexy. A VBM analysis was performed on the brain
+MRIs of narcoleptic patients and normal subjects to
+identify and compare cerebral structural abnormalities in
+the narcoleptics with cataplexy.
+
+MATERIALS AND METHODS
+Patients
+We consecutively recruited 32 patients with narcolepsy
+that visited the university hospital sleep center. The
+recruitment criteria included patients with no central
+nervous system (CNS) stimulant or cataplexy drug
+treatment history. The diagnosis of narcoleptics with
+cataplexy was made according to the revised International
+Classification of Sleep Disorders. The presence of
+cataplexy was determined by criteria outlined by Mignot et
+al. (8) and include: 1) loss of muscle tone has a visible
+effect or involves other muscle groups in addition to leg
+muscles; 2) frequency of cataplexy occurring > 1 per
+month; 3) duration of cataplexy (often or always) < 10
+min; 4) cataplexy (often or always) associated with normal
+state of consciousness.
+A standard polysomnographic study comprising one
+overnight recording followed by a MSLT (multiple sleep
+latency test) was also performed. MSLT consisted of five
+naps scheduled at 2-hour intervals starting at 9:00 AM.
+Patients were invited to lie down on a bed in a dark,
+sound-attenuated room and instructed to try to fall asleep.
+Sleep latency was defined as the time elapsed from the
+start of the test (lights out) to the first 30-second epoch
+scored as sleep. Each sleep latency test was ended 20
+minute after the onset of sleep or after 20 minute of
+wakefulness. A sleep onset REM period (SOREMP) was
+defined as one or more epochs of REM sleep occurring
+within 15 minute of the first 30-second epoch scored as
+sleep.
+Subjects with a mean sleep latency of ≤ 8 minute on the
+MSLT were evaluated for HLA-DQB1*0602 and
+DRB1*1501. Other information including the presence of
+sleep attacks, hypnagogic hallucinations, sleep paralysis,
+and a positive family history of narcolepsy was obtained
+from patients and their families. Three of the patients were
+excluded because they had concomitant mild to moderate
+obstructive sleep apnea hypopnea syndrome. Finally, a
+total of 29 narcoleptics with cataplexy were included.
+
+community advertisement and fulfilled a detailed clinical
+interview, sleep questionnaire, overnight polysomnography, which were evaluated and interpreted by two sleep
+medicine specialists. Exclusion criteria included a normal
+subject who showed an apnea-hypopnea index (AHI) > 4 or
+evidence for other sleep disorders such as periodic limb
+movement disorders on polysomnography.
+The exclusion criteria for normal subjects were those
+with a 1) mean daily sleep time < 7 hours, 2) abnormal
+sleep-wake rhythm, 3) other sleep disorders, 4) heart or
+respiratory disease, 5) history of cerebrovascular disease,
+6) other neurological (neurodegenerative diseases,
+epilepsy, head injury) or psychiatric diseases (psychosis,
+current depression), 7) alcohol or illicit drug abuse or
+current intake of psychoactive medications, and 8) a
+structural lesion on brain MRI.
+All patients and normal subjects granted written
+informed consent before an MRI scan was performed and
+the Institutional Review Board at Samsung Medical Center
+authorized the informed consent form and study protocol,
+which included an MRI scan.
+Human Leukocyte Antigen Typing
+The human leukocyte antigen (HLA) plays a key role in
+autoimmune disease etiology. As one component of the
+trimolecular complex (major histocompatibility complexpeptide-T-cell receptor), the presence of specific HLA
+alleles determines the repertoire of peptide epitopes that
+can be presented, thereby restricting the specificity of
+reactive T cells (9). The HLA class II region genes
+DQB1*0602 and DRB1*1501 are currently the best
+genetic predictors for narcolepsy in humans (9, 10).
+Sequence-specific primers and a BigDye Terminator v.
+3.1 cycle Sequencing Kit (Applied Biosystems, Foster City,
+CA) were used for HLA-DQB1*0602 and DRB1*1501
+genotyping according to manufacturer’s instructions
+(Applied Biosystems).
+Magnetic Resonance Imaging (MRI)
+MRI scanning was performed using a GE Signa 1.5 Tesla
+scanner (GE Medical Systems, Milwaukee, WI). T1weighted spoiled gradient recalled (SPGR) coronal images
+were obtained using the following scanning variables; 1.6
+mm thickness, no gap, 124 slices, repetition time/echo time
+(TR/TE) = 30/7 msec, flip angle (FA) = 450, number of
+excitations (NEX) = 1, matrix = 256 × 192, and field of
+view (FOV) = 22 × 22 cm. The investigators performing
+the MRI were blinded as to the order of the subject status
+was (patients versus normal subjects).
+
+Normal Subjects
+Twenty-nine normal subjects that responded to a local
+Korean J Radiol 10(6), Nov/Dec 2009
+
+553
+
+Joo et al.
+
+Voxel-Based Morphometry
+
+and then sub-sampled for voxel sizes of 2×2 ×2 mm. To
+remove the isolated voxels of one tissue class which were
+unlikely to be a member of this tissue type, the Hidden
+Markov Random Field model was applied in all segmentation processes. Spatially normalized raw images, as well as
+GM and WM were averaged and saved into customized T1
+templates, GM, WM, and CSF prior images, respectively.
+Finally, the customized T1 template, GM and WM prior
+images were smoothed using an 8-mm full-width at halfmaximum (FWHM) isotropic Gaussian kernel (IGK).
+
+Image Processing for Voxel-Based Morphometry
+Using SPM2 (Wellcome Department of Cognitive
+Neurology, Institute of Neurology, University College
+London, UK) and MATLAB 6.5 (The MathWorks, MA), an
+optimized VBM protocol was used to analyze brain tissue
+concentrations. The brain center point was placed on the
+anterior commissure.
+Create Template and Priors
+To create customized templates and prior images of GM,
+all MRIs of narcoleptic patients and normal controls were
+spatially normalized against the standard MNI (Montreal
+Neurological Institute) T1 SPM template. Spatial normalizations were applied using the following a voxel size of 1
+×1×1 mm, cutoff spatial normalization, a 25 mm cutoff’
+nonlinear regularization, medium regularization, and 16
+nonlinear iterations. The normalized images were
+subdivided into GM, white matter (WM), and CSF spaces,
+
+Optimized Voxel-Based Morphometry
+The raw T1 images of all subjects (n = 102) were
+automatically subdivided into GM, WM, and CSF
+partitions in native space. Spatial normalization parameters were estimated by matching GM with an own GM
+template, and then spatially normalized versions of the
+original images were created. The spatially normalized
+images were segmented using our own images taken
+
+Table 1. Polysomnographic Findings in Narcoleptics with Cataplexy and Normal Subjects
+Narcoleptics with Cataplexy (n = 29)
+Overnight polysomnography
+Mean sleep latency, minute
+Mean REM sleep latency, minute
+Mean AHI, per hour
+Mean arousal index, per hour
+Multiple sleep latency test
+Mean sleep latency, minute
+Sleep-onset REM sleep periods, number
+Mean REM sleep latency, minute
+
+04.1
+.063.1
+03.9
+.0019.2
+
+5.0 0(0-5.2)
+45.6 (15-130)
+1.5 0(2-7).0
+4.7 0(7.8-24.9)
+
+0.01.6
+0.03.4
+.003.3
+
+2.0 0(0.5-5.0)
+1.00 (2.0-5.0)
+2.50 (0.5-6.8)
+
+Normal Subjects (n = 29)
+012.8
+0097.8
+003.7
+00017.2
+
+P
+
+1.60 (10-15)
+17.0 (78-135)
+2.4 0(0-6.1).
+6.9 0(5.2-34.2)
+
+< 0.001*
+< 0.025*
+< 0.468*
+< 0.671*
+
+Note.─ * Independent t-test, p < 0.05. REM = rapid eye movement, AHI = apnea-hypopnea index
+
+Table 2. Brain Regions Showing Significant Decrease in Gray Matter Concentration by Voxel-Based Morphometry in
+Narcoleptics with Cataplexy
+MNI Coordinates (mm)
+Location
+Nucleus accumbens
+Hypothalamus
+a
+Thalamus
+Gyrus rectus
+Frontopolar gyrus
+Superior frontal gyrus
+a
+a
+
+Short insular gyrus
+Superior temporal gyrus
+Inferior temporal gyrus
+
+Side
+
+x
+
+y
+
+z
+
+B
+B
+B
+L
+B
+L
+R
+L
+R
+R
+L
+
+0
+9
+9
+-7
+0
+-13
+19
+-42
+32
+40
+-71
+
+5
+1
+-21
+30
+58
+22
+16
+23
+24
+6
+-35
+
+2
+0
+4
+-24
+-7
+40
+61
+-15
+-15
+-11
+-6
+
+kE
+
+Peak Z
+
+Uncorrected P
+
+429
+0
+674
+3,260
+1,053
+463
+2,496
+643
+491
+736
+1,057
+
+3.46
+2.93
+3.75
+3.88
+3.98
+4.38
+3.63
+4.25
+3.44
+3.60
+3.87
+
+0.0002700
+0.0020000
+0.0000880
+0.0000520
+0.0000350
+0.0000059
+0.0001500
+0.0000110
+0.0003000
+0.0001600
+0.0000540
+
+Note.─ MNI = Montreal Neurological Institute, B = bilateral, L = left, R = right. Height threshold, uncorrected p < 0.001. Extent threshold kE > 100
+a
+Significant at false discovery rate p < 0.05 by small volume correction using sphere of radius 30 mm located at center point (x, y, z: 0, 0, 0).
+
+554
+
+Korean J Radiol 10(6), Nov/Dec 2009
+
+Gray Matter Concentration Abnormality in Narcoleptic Brains
+
+beforehand (GM, WM, and CSF partitions). The GM
+images were smoothed using a 12-mm FWHM IGK and the
+final voxel size was 1×1×1 mm.
+Statistical Analysis
+An ANCOVA covariate with age was used for the
+concentration analysis of GM images. The significance
+level (height threshold) was set to an uncorrected p value
+of < 0.001. In addition, cluster sizes less than 200 voxels
+were excluded (extent threshold, kE < 200 voxels). Partial
+correlation analyses were set up with confounding factors
+such as age between gray matter concentrations (GMCs)
+and age of EDS onset, disease duration, mean sleep latency
+of MSLT, or Epworth sleepiness scale were performed
+
+using SPM2 using a whole brain mask.
+The mean values of the significant clusters were
+extracted from GM images at an uncorrected p-value <
+0.001.
+Age, EDS or cataplexy onset age, mean ESS (Epworth
+sleepiness scale) and SSS (Stanford sleepiness scale), and
+night polysomnographic findings were analyzed with the
+two-tailed t-test.
+To evaluate the prior hypothesis pertaining to the
+hypothalamus (4, 11, 12) small volume correction, a
+sphere with a radius of 30 mm and located at the center
+point (x, y, z: 0, 0, 0), was applied in the results. The
+coordinates were defined as per the MNI coordinate
+system.
+
+A
+
+C
+B
+Fig. 1. Brain regions showing reduced gray matter concentrations in patients with narcolepsy and cataplexy.
+A. Overall areas showing reduced gray matter concentrations as whole are shown in glass brain view.
+B. Decreased gray matter concentrations in narcoleptics with cataplexy in: left gyrus rectus, bilateral thalami, bilateral frontopolar gyri,
+bilateral short insula gyri, bilateral superior frontal gyri, right superior temporal gyrus, and left inferior temporal gyrus are shown as T1
+template overlaid MR image. Uncorrected p < 0.001 (extent threshold kE < 100 voxels).
+C. Bilateral nuclei accumbens (dotted arrows), bilateral hypothalamus (solid arrows), and bilateral thalami (arrowhead) showed reduced
+gray matter concentrations at false discovery rate level of corrected p < 0.05 with small volume correction. Superior to inferior panels are
+arranged in anterior to posterior direction in coronal images. Left-hand sides of images represent left side of brain.
+Korean J Radiol 10(6), Nov/Dec 2009
+
+555
+
+Joo et al.
+
+RESULTS
+Characteristics of Patients and Normal Subjects
+All patients examined were right-handed. The mean age
+of the patients and normal subjects (M:F = 15:14) was 31.2
+years. The onset age of EDS in patients was 22.3 years
+(range of age: 8-37) and the cataplexy was 23.1 years (941). Twenty-three patients (79%) have suffered from
+hypnagogic or hypnapompic hallucinations and 19 patients
+(65%) had a history of sleep paralysis. The mean Epworth
+sleepiness scale result was 17.5 in patients versus 4.3 in
+normal subjects (t-test, p < 0.01). Positive HLA typing
+(DR2 and DQB1*0602) was identified in 27 (93%) of the
+studied patients. The sleep study findings in patients and
+normal subjects were summarized in Table 1 (normal
+subjects underwent only night polysomnography).
+All patients and normal subjects underwent a brain MRI
+using the same protocol, which revealed no gross abnormal
+findings on visual inspection.
+Voxel-Based Morphometry Analysis
+Compared to normal subjects, narcoleptics with
+cataplexy showed reduced GM concentrations in bilateral
+thalami, left gyrus rectus, bilateral frontopolar gyri,
+bilateral superior frontal gyri, bilateral anterior short
+insular gyri, right superior temporal gyrus, and left inferior
+temporal gyrus at the level of uncorrected p < 0.001 (Fig.
+1A, B) (Table 2). There were no regions of the brain that
+showed increased GM concentrations in narcoleptics with
+cataplexy. Using small volume corrected analysis, the GM
+concentration was significantly reduced in bilateral nuclei
+accumbens, bilateral hypothalami, and at bilateral thalami
+at the level of a false discovery rate p < 0.05 (Fig. 1C).
+A partial correlation analyses with the confounder of age
+between GMCs and age of EDS onset, disease duration,
+mean sleep latency of MSLT, or Epworth sleepiness scale
+did not show statistically significant results.
+
+DISCUSSION
+In the present study, a VBM analysis was performed on
+the brain MRIs to identify cerebral structural abnormalities
+in the narcoleptics with cataplexy. VBM methods for GM
+concentrations refer to differences observed in the proportion of GM voxels, which are defined based on signal
+intensity thresholds, compared to voxels representing
+other tissue types as GM density differences (13). On the
+contrary, the thickness of the cerebral cortex (ranging
+between 1.5 to 4.5 mm) reflects the density and arrangement of cells (neurons and neuroglia and nerve fibers) (14).
+556
+
+Our study demonstrates a significant decrease in GM
+concentrations in the hypothalamus, nucleus accumbens,
+thalamus, anterior insular cortex, and in some cortical
+areas in the frontal and temporal lobes of the brains of
+patients with narcolepsy with cataplexy, when compared
+to normal subjects.
+In the present study, reduced GM concentrations in the
+bilateral hypothalami and nuclei accumbens may be
+related to a decreased number of hypocretin immunoreactive neurons in the hypothalamus of a narcoleptic brain
+(15). The neuropeptide hypocretin exists exclusively in the
+posterior hypothalamus of the human brain and plays a
+critical role in the neurobiology of narcolepsy (15). Our
+previous FDG-PET (fluorodeoxyglucose-positron emission
+tomography) (16) and SPECT (single photon emission
+computed tomography) studies (17) showed significant
+glucose hypometabolism and hypoperfusion in the bilateral
+hypothalami of narcoleptics. A recent proton MR
+spectroscopy study revealed that the hypothalamic Nacetylaspartate-to-creatine ratio was significantly lower in
+narcoleptics with cataplexy, when compared to narcoleptics without cataplexy or in normal subjects (18). The
+nucleus accumbens has been implicated in involvement in
+the regulation of the sleep-wake cycle via the mesolimbicdopamine system (19), and in the interface between the
+limbic and motor systems (20, 21). However, others were
+unable to find similar changes in the hypothalamus or
+nucleus accumbens (5-7). One study suggested that the
+absence of detectable structural changes in hypothalamus
+and in hypocretin projection areas may be due to
+microscopic changes in these areas that are not detected by
+VBM, or alternatively, that functional abnormalities of
+hypocretin neurons are not associated with structural
+correlates (5). Other VBM studies found that a bilateral
+reduction of GM concentrations in inferior temporal and
+frontal brain regions (22) or in prefrontal and frontomesial
+regions (7). They acknowledged that the functional significance of these findings was unclear, but suggested that the
+involvement of a presumed autoimmune mediated process
+that destroys hypothalamic hypocretin neurons and
+extends to other neuronal populations. As pointed out,
+inhomogeneous patient groups, a stimulant or antidepressant medication history, and small sample sizes may have
+caused the negative findings of previous VBM studies (7).
+Because narcolepsy is composed of different subgroups,
+i.e., narcoleptics with or without cataplexy, and narcolepsy
+with a reduced or a normal hypocretin level in CSF, it is
+important that homogenous subgroups of narcoleptic
+patients are identified in studies to facilitate accurate intergroup comparisons. The findings of the present VBM
+study, which included reduced GM concentrations in the
+Korean J Radiol 10(6), Nov/Dec 2009
+
+Gray Matter Concentration Abnormality in Narcoleptic Brains
+
+hypothalamus and nucleus accumbens, may strengthen the
+prior hypothesis that these reductions are associated with
+EDS and cataplexy in narcolepsy cases.
+Intralaminar nuclei are included in the ‘nonspecific
+ascending reticular activating system’ and are functionally
+associated with the sense of attention, arousal, and
+consciousness (22). These central nuclei are also involved
+in the motor function in the basal ganglia circuitry and in
+cognitive, oculomotor, and limbic functions (23). The
+anterior thalamic nucleus belongs to the Papez circuit, the
+neural circuit of emotion. The median thalamic nucleus has
+been implicated in the wake-sleep cycle (24). A decrease in
+metabolism and regional cerebral blood flow in the
+thalamus of the narcoleptic brain, have been demonstrated
+by previous neuroimaging studies (16, 17). Thus, the
+reduction of GM concentrations in bilateral thalamic nuclei
+may be related to attention or cognition deficits, memory
+impairments as well as arousal and sleep-wake disturbances in narcolepsy.
+Depressive and neurotic symptoms are considered to be
+common in narcolepsy (25). Some have suggested that
+significant hypoperfusion of the limbic system may be
+related to the emotional instability seen in narcoleptics
+(17). The insular cortex has numerous connections with the
+cerebral cortex, basal ganglia, and limbic structures (26,
+27). Mesial temporal lobe epilepsy patients with emotional
+symptoms have shown hypometabolism in the anterior
+insula by FDG-PET (28, 29). A GMC decrease in the
+anterior insular cortex found in narcoleptics with cataplexy
+suggested that a structural abnormality in that region may
+be associated with the cataplexy induced by emotional
+changes.
+We applied two types of statistical analyses, namely, an
+unpaired t-test for the group comparisons between the
+narcoleptic patients and normal subjects; and a small
+volume correction (SVC) on the prior hypothesis, which
+mentions the hypothalamus, nucleus accumbens, and
+thalamic dysfunction in narcoleptics. The results obtained
+by the two methods were similar for the hypothalamus,
+nucleus accumbens, and thalamus. The use of SVC in a
+SPM analysis is a widely accepted method. A SVC can be
+applied when there is prior knowledge or consensus on an
+activation effect of a particular region instead of the entire
+brain (12, 30). Any clinical or animal experimental data
+can be the supportive evidence for a SVC analysis. SPM99
+and later versions, use the results to calculate corrected
+statistics across the whole brain by working out the shape
+and size of the whole brain volume in the analysis, and
+calculating the correction accordingly (11). Thus, for a
+whole-brain analyses, SPM99 can offer a reasonable
+correction factor for the entire brain volume. For smaller
+Korean J Radiol 10(6), Nov/Dec 2009
+
+volumes, the correction must take into account the
+geometric properties of the volume, such as shape and
+surface area. This is important, because you may well have
+an a priori hypothesis to test an area of expected activation
+in a SPM. Because multiple comparisons across the whole
+brain image are too conservative, one must restrict their
+region of interest to a subset area instead of using the
+whole brain image. Worsley et al. (11) gives results which
+allow for the choice of appropriate thresholds given that
+you are restricting your investigation to a certain volume
+of interest, defined shape, size, and so on. This is because
+both size and shape dictate how many resels the volume
+will contain. As the random fields tutorial explains, the
+number of resels in a volume is a measure related to the
+number of independent observations in that volume, and
+this in turn will dictate how strict our correction must be
+(http://imaging.mrc-cbu.cam.ac.uk/imaging/
+SmallVolumeCorrection).
+In conclusion, this study revealed significant GM concentration deficits in narcoleptics with cataplexy. Those areas
+included structures that may serve possible roles in wakesleep controls, attention, or memory. These findings would
+be helpful in elucidating the pathomechanism of cerebral
+disturbances in patients with narcolepsy with cataplexy.
+
+References
+1. Guilleminault C, Dement WC. 235 cases of excessive daytime
+sleepiness. Diagnosis and tentative classification. J Neurol Sci
+1977;31:13-27
+2. Plazzi G, Montagna P, Provini F, Bizzi A, Cohen M, Lugaresi E.
+Pontine lesions in idiopathic narcolepsy. Neurology
+1996;46:1250-1254
+3. Bassetti C, Aldrich MS, Quint DJ. MRI findings in narcolepsy.
+Sleep 1997;20:630-631
+4. Draganski B, Geisler P, Hajak G, Schuierer G, Bogdahn U,
+Winkler J, et al. Hypothalamic gray matter changes in narcoleptic patients. Nat Med 2002;8:1186-1188
+5. Overeem S, Steens SC, Good CD, Ferrari MD, Mignot E,
+Frackowiak RS, et al. Voxel-based morphometry in hypocretindeficient narcolepsy. Sleep 2003;26:44-46
+6. Kaufmann C, Schuld A, Pollmächer T, Auer DP. Reduced
+cortical gray matter in narcolepsy: preliminary findings with
+voxel-based morphometry. Neurology 2002;58:1852-1855
+7. Brenneis C, Brandauer E, Frauscher B, Schocke M, Trieb T,
+Poewe W, et al. Voxel-based morphometry in narcolepsy. Sleep
+Med 2005;6:531-536
+8. Mignot E, Hayduk R, Black J, Grumet FC, Guilleminault C.
+HLA DQB1*0602 is associated with cataplexy in 509 narcoleptic patients. Sleep 1997;20:1012-1020
+9. Doherty DG, Penzotti JE, Koelle DM, Kwok WW, Lybrand TP,
+Masewicz S, et al. Structural basis of specificity and degeneracy
+of T cell recognition: pluriallelic restriction of T cell responses to
+a peptide antigen involves both specific and promiscuous
+interactions between the T cell receptor, peptide, and HLA-DR.
+J Immunol 1998;161:3527-3535
+10. Chabas D, Taheri S, Renier C, Mignot E. The genetics of
+
+557
+
+Joo et al.
+narcolepsy. Annu Rev Genomics Hum Genet 2003;4:459-483
+11. Worsley KJ, Marrett S, Neelin P, Vandal AC, Friston KJ, Evans
+AC. An unified statistical approach for determining significant
+signals in images of cerebral activation. Hum Brain Mapping
+1996;4:58-73
+12. Thannickal TC, Moore RY, Nienhuis R, Ramanathan L, Gulyani
+S, Aldrich M, et al. Reduced number of hypocretin neurons in
+human narcolepsy. Neuron 2000;27:469-474
+13. Ashburner J, Friston KJ. Voxel-based morphometry -- the
+methods. Neuroimage 2000;11:805-821
+14. Parent A, Carpenter MB. Human neuroanatomy. Baltimore,
+MD: Williams & Wilkins 1995
+15. Bourgin P, Huitron-Resendiz S, Spier AD, Fabre V, Morte B,
+Criado JR, et al. Hypocretin-1 modulates rapid eye movement
+sleep through activation of locus coeruleus neurons. J Neurosci
+2000;20:7760-7765
+16. Joo EY, Tae WS, Kim JH, Kim BT, Hong SB. Glucose hypometabolism of hypothalamus and thalamus in narcolepsy. Ann
+Neurol 2004;56:437-440
+17. Joo EY, Hong SB, Tae WS, Kim JH, Han SJ, Cho YW, et al.
+Cerebral perfusion abnormality in narcolepsy with cataplexy.
+Neuroimage 2005;28:410-416
+18. Lodi R, Tonon C, Vignatelli L, Iotti S, Montagna P, Barbiroli B,
+et al. In vivo evidence of neuronal loss in the hypothalamus of
+narcoleptic patients. Neurology 2004;63:1513-1515
+19. Groenewegen HJ, Uylings HB. The prefrontal cortex and the
+integration of sensory, limbic and autonomic information. Prog
+Brain Res 2000;126:3-28
+20. Heimer L. A new anatomical framework for neuropsychiatric
+disorders and drug abuse. Am J Psychiatry 2003;160:1726-1739
+21. American Academy of Sleep Medicine. The International
+Classification of Sleep Disorders. Diagnostic & Coding Manual,
+
+558
+
+2nd ed. Westchester: The American Academy of Sleep
+Medicine, 2005
+22. Percheron G, François C, Talbi B, Meder JF, Fenelon G, Yelnik
+J. The primate motor thalamus analysed with reference to
+subcortical afferent territories. Stereotact Funct Neurosurg
+1993;60:32-41
+23. Sadikot AF, Parent A, François C. Efferent connections of the
+centromedian and parafascicular thalamic nuclei in the squirrel
+monkey: a PHA-L study of subcortical projections. J Comp
+Neurol 1992;315:137-159
+24. Akopyan NS, Baklavadzhyan OG, Sarkisyan NV. The effects of
+the mediodorsal nucleus of the thalamus on respiratory neurons
+of the medulla oblongata and respiration in rats in conditions of
+hypoxia. Neurosci Behav Physiol 2000;30:449-453
+25. Lishman A. Organic Psychiatry, 3rd ed. Oxford: Blackwell,
+1998
+26. Chikama M, McFarland NR, Amaral DG, Haber SN. Insular
+cortical projections to functional regions of the striatum
+correlate with cortical cytoarchitectonic organization in the
+primate. J Neurosci 1997;17:9686-9705
+27. Vogt BA, Pandya DN. Cingulate cortex of the rhesus monkey:
+II. Cortical afferents. J Comp Neurol 1987;262:271-289
+28. Bouilleret V, Dupont S, Spelle L, Baulac M, Samson Y, Semah
+F. Insular cortex involvement in mesiotemporal lobe epilepsy: a
+positron emission tomography study. Ann Neurol 2002;51:202208
+29. Wehner T, Luders H. Role of neuroimaging in the presurgical
+evaluation of epilepsy. J Clin Neurol 2008;1:1-16
+30. Lee JD, Park HJ, Park ES, Kim DG, Rha DW, Kim EY, et al.
+Assessment of regional GABA(A) receptor binding using 18Ffluoroflumazenil positron emission tomography in spastic type
+cerebral palsy. Neuroimage 2007;34:19-25
+
+Korean J Radiol 10(6), Nov/Dec 2009
+
+

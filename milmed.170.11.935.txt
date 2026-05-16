@@ -1,0 +1,203 @@
+MILITARY MEDICINE, 170, 11:935, 2005
+
+Health Effects in Army Gulf War Veterans Possibly Exposed to
+Chemical Munitions Destruction at Khamisiyah, Iraq:
+Part I. Morbidity Associated with Potential Exposure
+
+In March 1991, U.S. troops detonated the Khamisiyah, Iraq,
+ammunition depot, possibly releasing two chemical warfare
+agents, sarin and cyclosarin. The long-term health effects associated with possible exposure to these chemical warfare
+agents are unknown. This study was undertaken to investigate
+whether possible exposure was associated with morbidity
+among Army Gulf War veterans using morbidity data for 5,555
+Army veterans who were deployed to the Gulf region. Responses to 86 self-assessed health measures, as reported in
+the 1995 Department of Veterans Affairs National Health Survey
+of Gulf War Era Veterans, were evaluated. We found little association between potential exposure and health, after adjustment
+for demographic variables, and conclude that potential exposure
+to sarin or cyclosarin at Khamisiyah does not seem to have
+adversely affected self-perceived health status, as evidenced by a
+wide range of health measures.
+
+Introduction
+mmediately after the Gulf War, demolition was carried out in
+Ieastern
+March 1991 at the Khamisiyah ammunition depot in southIraq. Troops who were possibly exposed to chemical
+warfare agents were identified subsequently by environmental
+and climatological modeling, in conjunction with unit location
+data for the days of the demolition.1 In this article, we compare
+the morbidity outcomes in the group of Army veterans possibly
+exposed to low levels of chemical warfare agents with those of a
+similar group of unexposed Army personnel. The morbidity data
+were collected as part of the Department of Veterans Affairs (VA)
+National Health Survey of Gulf War Era Veterans (NHS).2 Two
+other articles examine deaths associated with possible exposure3 and morbidity associated with notification of possible exposure.4
+On March 4 and 10, 1991, combat engineer and explosive
+ordnance disposal units of the U.S. Army XVIII Corps (Airborne)
+destroyed two large caches of 122-mm rockets, one in a bunker
+and the other in a nearby pit, at the Khamisiyah ammunition
+supply point, ⬃350 km southeast of Baghdad, Iraq. In October
+1991, March 1992, May 1992, and May 1998, representatives
+from the United Nations Special Commission inspected Khamisiyah and detected the existence of sarin and cyclosarin in both
+intact and damaged rockets in the bunker and pit.1
+*Veterans Health Administration, Department of Veterans Affairs, Washington, DC
+20420.
+†Medical Follow-up Agency, Institute of Medicine, Washington, DC 20001.
+The opinions and assertions contained herein are those of the authors and are not
+to be construed as necessarily reflecting the views or positions of the National Academy of Sciences, the Institute of Medicine, the National Research Council, or the
+Department of Veterans Affairs.
+This manuscript was received for review in June 2004. The revised manuscript was
+accepted for publication in December 2004.
+Reprint & Copyright © by Association of Military Surgeons of U.S., 2005.
+
+Approximately contemporaneously, concerns increased
+about postwar morbidity among Gulf War veterans.5–12 On June
+21, 1996, the Department of Defense (DoD) released a statement
+confirming that U.S. soldiers had destroyed ammunition bunkers at Khamisiyah, Iraq, and that one of these bunkers contained chemical warfare agents.13 Following this, the DoD made
+efforts to determine who was possibly exposed to chemical
+agents (see below) and also made efforts to notify veterans of
+possible exposure; the effects of these notification letters are the
+subject of another article.4
+
+Toxicology of Nerve Agents Sarin and Cyclosarin
+Sarin, an organophosphorus ester, is a highly toxic nerve
+agent. Exposure to acutely toxic concentrations can produce
+excessive bronchial, salivary, ocular, and intestinal secretions,
+as well as sweating, miosis, bronchospasm, bradycardia, muscle fasciculations, paralysis, convulsions, and death.14 Minimal
+effects observed at low concentrations include miosis, chest
+tightness, rhinorrhea, and dyspnea.14 There is limited evidence
+associating sarin exposure at a level sufficient to produce acute
+cholinergic signs with subsequent long-term health effects,
+such as fatigue, headache, blurred vision, post-traumatic stress
+disorder (PTSD), and abnormal test results of unknown clinical
+significance.15 At doses too low to produce acute cholinergic
+effects, there is insufficient evidence to determine whether there
+is an association with subsequent long-term health effects, in
+part because of a lack of well-controlled studies.15 Cyclosarin is
+similar in composition to sarin, although less volatile. Its mechanism of action is similar to that of sarin, although less is known
+about its toxicity.15 A recent study of self-reported, long-term
+(25–45 years), health effects among 1,339 veterans experimentally exposed to anticholinesterase agents (including 287 exposed to sarin) included neurological and psychological outcomes such as peripheral nerve disease, vestibular dysfunction,
+sleep disorders, anxiety, and depression. There were only two
+statistically significant differences, i.e., subjects exposed to
+anticholinesterase agents had fewer attention problems than
+subjects in one control group and greater sleep disturbance
+problems than subjects in another control group. In contrast,
+self-reported exposure to hazardous chemicals outside the experimental testing program was significantly associated with all
+primary study outcomes.16
+
+Methods
+Study Population
+The cohort for this study was selected in collaboration with
+the Office of the Special Assistant for Gulf War Illnesses, the
+
+935
+
+Military Medicine, Vol. 170, November 2005
+
+Downloaded from https://academic.oup.com/milmed/article/170/11/935/4577716 by University of Missouri-Columbia Law Library user on 07 May 2025
+
+Guarantor: William F. Page, PhD
+Contributors: Clare M. Mahan, PhD*; William F. Page, PhD†; Tim A. Bullman, MS*; Han K. Kang, DrPH*
+
+936
+
+Determining Possible Exposure
+The risk factors associated with the demolition in the Khamisiyah pit in March 1991 are possible exposures to chemical warfare agents, including sarin and cyclosarin.1 For completeness,
+we also examined the data using exposure defined with the
+“50-km model,” an early exposure model that declared Gulf War
+veterans who were within a circle with a radius of 50 km, centered at Khamisiyah, Iraq, to have been possibly exposed.1 The
+history of DoD’s exposure determination efforts is given below in
+brief.
+Determining the possible risk of chemical agent exposure to
+U.S. troops in the vicinity of Khamisiyah began as a joint effort
+by the Central Intelligence Agency and the DoD in late 1996. It
+quickly became apparent that the pit demolition posed a number of challenges requiring expertise in modeling the physical
+characteristics of open-air demolition, as well as environmental
+and meteorological conditions at the site. The DoD-Central Intelligence Agency team used interviews with troops who had
+been at the site and test demolitions and other experiments at
+the Dugway Proving Grounds and Edgewood Laboratories to
+reduce uncertainties associated with the physical and environmental conditions at the site. Because of relatively scarce meteorological data for Iraq, the team used state-of-the-art mesoscale meteorological models to simulate prevailing weather
+conditions over the region. Dispersion models were then used to
+predict the transport and spread of chemical warfare agents,
+based on these simulated meteorological conditions. To account
+for uncertainty, a conservative assumption was made to define
+the potential hazard area as the union of the hazard areas given
+by each of the various combinations of meteorological and dispersion models. The result was the generation of a potential
+hazard area that varied in size and shape from March 10 to
+March 13, 1991. From this, the team was able to determine
+which units of troops were presumed to have been within the
+Military Medicine, Vol. 170, November 2005
+
+potential hazard area over the course of the 4-day period. The
+result of this effort is known as the “1997 hazard area” (see Ref.
+1 for additional details).
+Several factors contributed to the development of a subsequent exposure model, the remodeling effort or the “2000 hazard area.” Meteorological modeling methods were further refined. The assumed amount of nerve agent released was
+reduced, based on more-recent intelligence analyses. The toxicity effects of cyclosarin were added to those of sarin, which was
+used alone in the 1997 analysis. Atmospheric removal mechanisms, such as dry deposition and degradation, were also considered. Finally, and possibly of most importance, unit location
+information was significantly improved in the 2000 model. Both
+models considered a soldier to have been exposed if his or her
+unit was in the hazard area but in 1997 the unit was generally
+at the battalion level (⬃1,000 soldiers), whereas in 2000 the unit
+was generally at the company level (⬃200 soldiers). Therefore,
+on average, an individual’s unit was located with greater precision in the 2000 hazard area. In this study, an individual is
+deemed presumed exposed if, during any of the four 24-hour
+periods from March 10 to March 13, 1991, his or her unit was at
+a location that was exposed to a level of chemical warfare agent
+higher that the general population limit, adjusted for short-term
+exposure.1 The general population limit is defined as the limit
+below which any member of the general population could be
+exposed daily, for a lifetime, and not experience any related
+adverse health effects. The modeling process also provided data
+on the number of days (0 or 1 through 4) of potential exposure.
+Although this does not constitute a true measure of intensity of
+exposure, we used number of days of exposure in some of our
+analyses as a limited proxy for intensity of exposure. We adopt
+the terms “exposed” to mean possible exposure under the 2000
+hazard area, “unexposed” to mean no exposure under the 2000
+hazard area, and “missing exposure” to mean that there was no
+2000 hazard area exposure status assigned to an individual,
+because of missing or incorrect information identifying the individual or his or her military unit.
+Through use of the 2000 hazard area and location data for
+soldiers at the company level in the Gulf region, exposure determination was provided for the 351,121 deployed Army personnel by the Office of the Special Assistant for Gulf War Illnesses. Record linkage of this chemical exposure data with the
+file of respondents to Phase I of the VA NHS yielded a total of
+5,555 Army Gulf War veterans, who were classified into one of
+three categories of exposure to chemical agents, mainly sarin or
+cyclosarin, as follows: exposed Army Gulf War veterans, n ⫽
+1,898; unexposed Army Gulf War veterans, n ⫽ 3,336; missing
+exposure Army Gulf War veterans, n ⫽ 321.
+Health Outcomes
+Health perception data, before notification, were derived for
+all 5,555 Army Gulf War veterans who responded during Phase
+I of the VA NHS. The outcomes of interest are the self-assessments that were reported on the postal questionnaire developed
+for the VA NHS. The self-administered questionnaire was used
+to obtain information on the presence of various medical conditions and symptoms, measures of functional impairment, limitation of activity, and health care utilization.
+A self-report symptom inventory composed of 48 items that
+were representative of the symptom configuration commonly
+
+Downloaded from https://academic.oup.com/milmed/article/170/11/935/4577716 by University of Missouri-Columbia Law Library user on 07 May 2025
+
+Deployment Environmental Surveillance Program of the U.S.
+Army Center for Health Promotion and Preventive Medicine, and
+the VA Environmental Epidemiology Service. Eligibility for entry
+into the cohort was based on the veteran having served in the
+Gulf theater of operations. Individuals identified as having been
+within and outside the modeled potential hazard area were eligible for inclusion. The cohort was further defined by having
+participated in Phase I of the VA NHS, conducted in 1995–
+1997.2
+The NHS was designed as a retrospective cohort study in
+which health factors of a population-based sample of 15,000
+troops deployed into the Gulf area were compared with those of
+15,000 troops serving in the military during the period of the
+Gulf War but not in the Gulf area. Phase I of the survey was
+performed in 1995–1996, before troop notification of possible
+chemical agent exposure at Khamisiyah, Iraq, by the DoD. A
+total of 11,441 military personnel, who represented four
+branches of service deployed to the Gulf region during the 1990–
+1991 Gulf War, responded to either Phase I, the postal printed
+questionnaire survey in 1995–1996, or Phase II, the telephone
+interview survey in 1996–1997. The subset of veterans who
+participated in the postal questionnaire survey and who served
+in the Army numbered 5,555.
+
+Exposure and Morbidity
+
+

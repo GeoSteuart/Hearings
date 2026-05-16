@@ -1,0 +1,524 @@
+REDACTED COPY
+
+DEPARTMENT OF THE ARMY INSPECTOR GENERAL
+           INQUIRY INTO DEMOLITION OF IRAQ AMMUNITION
+SEPTEMBER 1996 - OCTOBER 1997
+
+10 OCTOBER 1997
+
+REDACTED COPY
+
+
+
+
+
+
+
+
+
+
+
+EXECUTIVE SUMMARY
+
+
+The Secretary of the Army directed the The Inspector General of the United States Army to conduct an inquiry to determine the facts surrounding the demolition of ammunition at and in vicinity of Bunker 73 at the Khamisiyah Ammunition Storage Facility in March 1991. The inquiry was to focus on:
+
+Was the presence of chemical munitions detected when the ammunition was destroyed?
+
+Was this presence reported and to what level?
+
+Were appropriate force protection measures taken during the ammunition demolition operations?
+
+The facts as to:
+--the weapons destroyed;
+--the personnel who participated in the destruction;
+--the potential exposure of those personnel;
+--the potential exposure of other personnel who, taking into consideration the amount of chemical agent possibly released and applicable weather patterns, may have been exposed; and
+--Any other significant factors pertaining to this incident.
+
+Identify any other sites where the same or similar operations were conducted.
+
+The Department of the Army Inspector General (DAIG) Inquiry Team gathered and assessed over 2000 pages of documents and support materials, to include orders, reports, photographs, video tapes, and operational logs of appropriate CENTCOM units. Visiting twelve major installations, including some located in Korea, Japan, and Germany, the Team interviewed over 700 soldiers, veterans, and civilians, collecting over 300 photos and numerous copies of personal logs and notes. Of the approximately 430 individuals involved in the Khamisiyah demolition operation, the Team interviewed about 250 of them. Coordination was made with agencies ranging from the CIA/DIA to the Office of the Special Assistant for Gulf War Illnesses.
+
+The DAIG Team developed a detailed timeline of the Khamisiyah demolition operation, concluding that no chemical weapons were detected during the operation itself and that force protection measures were generally adequate, although not all soldiers performed to standard when an M8 alarm sounded on 4 March 1991.
+
+The DAIG Team found no empirical evidence that chemical munitions/agents were present during the demolition operation. The Team found no conclusive evidence that US Army ground units either knew or suspected that they were destroying chemical munitions. Physical evidence found later by UNSCOM, supported by a review of available imagery, photos, and intelligence, led the intelligence community and various investigative bodies concerned with Khamisiyah to conclude that chemical munitions were present when the facility was destroyed. The Team likewise found no conclusive evidence that supported or refuted the conclusions of the intelligence community/other investigative bodies. If the presence of chemical munitions is accepted/presumed, other conclusions include:
+
+2160 rockets possibly filled with sarin/cyclosarin were at Khamisiyah in March 1991. About 910 were destroyed in Bunker 73. Of the approximate 1250 rockets in "the pit," about 500 were likely destroyed.
+
+Approximately 430 soldiers participated in the destruction of the facility. (A by-unit listing is on page 3-8 and 3-9. A by-name listing is on page 3-10, Figure 4.)
+
+If chemical munitions were, in fact, destroyed at Khamisiyah, about 99,000 soldiers may have been exposed to low levels of sarin and cyclosarin greater than the general population level of .01296 milligram-minutes per cubic meter, but well below the noticeable health effects level of 1 milligram-minute per cubic meter. (The general population level, established by the Centers for Disease Control in 1988, is a level which "long term exposure to these concentrations would not create any adverse effects.") (A by-unit list of those possibly exposed is at Annex G.)
+
+Lack of available information may have affected the on-site commander's force protection decisions, although there is no certainty that having that information would have altered the course of events.
+
+No credible evidence was found that a similar event had occurred elsewhere.
+The DAIG Inquiry Team made eight recommendations: No requirement for major doctrinal changes.
+Improve the flow of intelligence information available from external agencies into the operational arena at Army and Corps level through enhanced horizontal interface.
+
+Incorporate the issue of detector sensitivity and false alarms into routine training scenarios at the Combat Training Centers (CTC's).
+Improve detector capability to discriminate and eliminate false positives.
+
+Develop/procure a non-destructive, hand-held detector for chemical filled munitions and field it down to Division level, minimum.
+Improve/stress training at the Chemical and Explosive Ordinance schools on recognition of chemical munitions by methods other than external marking.
+Clarify the relationship/command responsibility between Engineer Commanders and EOD soldiers on large scale munitions destruction missions.
+Improve the system of Army records maintenance, storage, and retrieval regarding war/contingency operations. Educate on regulatory requirements.
+
+
+TABLE OF CONTENTS
+
+
+SECTIONPAGESecretary of the Army Report Approval/ReleaseiExecutive SummaryiiTable of ContentsivChapter I--Methodology1-1Chapter II--Chronology of Events2-1Figure 1: Khamisiyah Ammunition Storage Area2-9Figure 2: Khamisiyah Ammunition Storage Area Timeline Reconstruction
+2-10Chapter III--Findings3-1Figure 3: Chemical Munitions Possibly Destroyed--Khamisiyah3-7Figure 4: Khamisiyah Facility--Units/Personnel on Site3-10Chapter IV--Conclusions and Recommendations4-1Annex A--Secretary of the Army DirectivesA-1
+
+Annex B--Mission Oriented Protective Posture and Chemical
+Detector Capabilities and LimitationsB-1Annex C--2nd ACR/VII Corps/ARCENT Documents
+C-1
+Annex D--XVIII Airborne Corps MessageD-1Annex E--Markings on Iraqi Chemical MunitionsE-1Annex F--Percent of Population Participating in the Veterans' Registry or the Comprehensive Clinical Evaluation Program
+F-1Annex G--Units Possibly Exposed to Low Levels of Chemical Agent 10 - 13 March 1991 Resulting From Khamisiyah Pit Demolition (Based on DoD/CIA Modeling. Includes DAIG Additions)
+G-1Annex H--DIA/CENTCOM MessageH-1Annex I--Major Munitions Demolition SitesI-1
+
+
+
+
+CHAPTER 1 METHODOLOGY
+
+
+PHASE 1: The Secretary of the Army signed an initial and a supplemental directive on 25 September and 18 October 1996, respectively, directing The Inspector General to conduct an inquiry to determine the facts surrounding the demolition of ammunition in and around the Khamisiyah Ammunition Storage Facility in Iraq in March 1991. (These directives are at Annex A). The Department of the Army Inspector General (DAIG) organized a team consisting of four detailed Inspector General officers from the Inspections Division to conduct the inquiry. The inspection commenced on 25 September 1996. The initial team was comprised of Colonel Stanley E. Meyer, Lieutenant Colonels Michael J. Whitaker, William L. Roper and Donald K. Saxon, Jr. Lieutenant Colonel Saxon departed in December 1996 and was replaced by Major Conrad H. Munster in February 1997. The team developed an action plan for the inquiry that was approved by The Inspector General in early October 1996. That Action Plan is summarized as follows:
+a. Gather and assess background information, to include operational logs, orders, and reports of appropriate CENTCOM units.
+
+b. Conduct interviews (sworn, if appropriate) with soldiers, veterans, and leaders of the units conducting demolition operations at Khamisiyah, followed by interviews with other members of the chain of command, as appropriate.
+
+c. Crosswalk information gathered with data captured by other agencies.
+
+d. Consolidate information into a briefing and final report.
+
+PHASE 2: The Team "train-up" phase began with an intensive search for messages/communication data, and other historical documents that might pertain to the issues surrounding the destruction of the Khamisiyah facility. This phase resulted in the review and collection of background information in over two thousand pages of documents and support materials, to include orders, reports, photographs, video tapes, and
+
+operational logs of appropriate CENTCOM units. During this phase, the Team made initial coordination with representatives from the Assistant Secretary of the Army (Manpower and Reserve Affairs), The Surgeon General, Central Intelligence Agency (CIA), various offices of the Army Staff (ARSTAF), Army Materiel Command (AMC), the Gulf War Declassification Project Office, the Chemical and Biological Defense Command (CBDCOM), Office of the Secretary of Defense (OSD) Persian Gulf War Veteran's Illnesses Investigation Team (I-Team), and the Presidential Advisory Committee (PAC).
+
+The DAIG Inquiry Team visited Aberdeen, MD for a briefing by the CBDCOM staff and Program Managers on the numerous chemical protection/detection devices used by the major commands during the Gulf War. The briefings provided detailed information on how the devices operated, their doctrinal use, capabilities and limitations. Information was also presented on the causes and propensity of the devices to false alarms or "false positives." (See Annex B.) This was followed by a briefing from the S-3, 513th Military Intelligence Brigade on operations of the Joint Captured Materiel Exploitation Center for Operation Desert Shield/Storm. The Team essentially completed its train-up by conducting practice interviews with soldiers and civilians assigned to the Gulf War Declassification Project.
+
+PHASE 3: This phase consisted mainly of detailed interviews with various soldiers, veterans, and civilians who participated in the Khamisiyah operation or other operations of a similar nature. It also included interviews with various commanders, chemical officers/NCO's, and intelligence officers at levels ranging from company to CENTCOM. This phase was, by far, the longest and most detailed portion of the Inquiry, providing the basis for most of the data and information gathered. The DAIG Inquiry Team spoke with about 700 soldiers, veterans, and civilians. Over 300 of those interviews consisted of sworn, recorded testimony that was then transcribed. The focus of the sworn testimonies was on those individuals directly involved in the demolition of the Khamisiyah Ammunition Storage Facility. Of the approximate 430 individuals in that specific mission, the Team spoke with about 250 of them. Those interviewed ranged from Private to General Officer. These interviews yielded over 300 photographs, 2 video tapes, one audio tape, copies of numerous personal logs/notes, and copies of official documents and orders. In addition to taking telephonic testimony from the Pentagon, the Team conducted formal visits to the following locations:
+
+????Aberdeen Proving Grounds, MD
+????Central Intelligence Agency
+???? Elgin Air Force Base, FL.
+???? Fort Bragg, N.C. (twice)
+???? Fort Hood, TX.
+???? Fort Leavenworth, KS.
+???? Fort Leonard Wood, MO.
+???? Germany
+???? Hawaii
+???? Japan
+???? Korea
+???? U.S. Army War College, Carlisle Barracks, Pennsylvania
+???? Also conducted individual interviews in Arizona, North Carolina, Michigan, Indiana, Kentucky, and Pentagon.
+
+The Team coordinated with various agencies, to include the Gulf War Declassification Project, Investigative and Analysis Division of the Office of the Special Assistant for Gulf War Illnesses (subsumed the I-Team), The Persian Gulf War Focus Group (Defense Intelligence Agency), the Department of Defense (DoD) Inspector General Agency, and the Central Intelligence Agency. Of particular note was the coordinated effort of all the involved/interested agencies in the DoD/CIA effort to model the plume from possible 10 March 1991 release of chemical agent from "the pit" vicinity of Khamisiyah. (Members of the Team also became involved in assisting and preparing The Inspector General to testify at the Presidential Advisory Committee (PAC)
+
+hearing on 18 March 1997 at Salt Lake City, Utah regarding the status of the ongoing DAIG Inquiry. The Chief of the DAIG Inspections Division was also called on to testify before the House Subcommittees on Health and Oversight and Investigations on 16 April 1997.)
+
+Phase 4: This phase consisted of a consolidation of the information gathered from the previous phases. Transcriptions of sworn testimony were reviewed and verified and information cross-walked between individuals and various agencies to ensure a full understanding of the operational and intelligence aspects surrounding the destruction of the Khamisiyah Ammunition Storage Facility by U. S. Army ground forces in March 1991. A detailed analysis of the available information was also conducted to assess the probability of a similar occurrence elsewhere in the Kuwaiti Theater of Operations (KTO). Approximately 500 phone calls were made during this phase to clarify information given in previous testimony or to pursue additional leads. Coordination with the various players and agencies involved continued, including modeling of the possible 10 March 1991 chemical agent release from the pit.
+PHASE 5: This phase consisted of development of a briefing to answer the questions in the Secretary of the Army's directives and obtaining The Inspector General's approval of the proposed findings, conclusions, and recommendations. This written report was prepared for the Secretary of the Army's approval.
+
+
+
+
+CHAPTER 2
+
+
+
+CHRONOLOGY OF EVENTS
+
+GENERAL.
+
+
+Purpose. To develop and record the salient events and activities relevant to the destruction of the ammunition supply facility at Khamisiyah, Iraq by U.S. Army ground forces. Primarily two sources, interviews with individuals who participated in the cited actions and an extensive review of documents recovered from Operations Desert Shield and Desert Storm, provided the substance of the events described.
+Structure. The chronology contains index dates coupled to brief summaries of associated significant events and activities. When activities span multiple days, the duration of the action follows its description parenthetically.
+CHRONOLOGY (See Figure 1 and Figure 2 on Pages 2-9 and 2-10.)
+
+16 January 1991:
+
+Operation Desert Storm begins with initiation of the air campaign. 19 January 1991:
+The Allied Air Tasking Order indicates that, beginning this date, an assortment of coalition aircraft, to include F-15Es, B-52Gs and Tornadoes, flew ten interdiction missions against the Tall Al Lahm (Khamisiyah) ammunition storage area. Of 43 separate sorties flown, 26 were logged as successful. (19 Jan-25 Feb 91)
+
+24 February 1991:
+
+Ground forces launch the initial assault of Iraqi positions.
+
+26 February 1991:
+
+The 24th Infantry Division (24ID), attacking north with two brigades abreast, the 197th and 2nd forming its left and right flanks, respectively and the 1st Brigade (Bde) trailing the 2nd, reaches the canal defining the southern boundary of the Khamisiyah ammunition supply area. Without crossing the canal or entering the Khamisiyah Ammunitions Storage Facility, the 24ID turns east, continuing the attack toward the Rumaylah oil fields, with 1st and 2nd Bde's assuming the left and right flank, respectively, and the 197th Bde following the 1st. Task Force 4-64 and the left flank element of the 1st Brigade, recalls the morning of 27 February looking across the canal, the task force's northern limit of advance, from its southern bank at the ammunition storage facility. 2-64 Armor Battalion, the left flank element of the 197th Brigade, also asserts that the canal formed his battalion's limit of advance. Neither commander sent forces into the facility. (26-27 Feb 91)
+28 February 1991:
+
+General Schwarzkopf orders cessation of offensive coalition activity.
+
+While exploring enemy bunkers within the tactical objective seized by the 4/8 Cavalry, 2nd Brigade, 3rd Armored Division, , a member of the scout platoon, sustains a burn on his left upper arm. (This incident took place in Iraq, just across the Kuwaiti northeast border. It was approximately 125 kilometers southeast of Khamisiyah.) After having complained of blistering skin,	is evacuated to the 45th Support Battalion where, after treatment, clinically diagnoses		case as blister agent exposure. Using a Fox vehicle, chemical personnel test  clothing and reconnoiter the bunker complex, finding positive evidence of the presence of HD mustard compound. After conferring with the attending medical personnel, examining the patient, reviewing results of the Fox spectra analysis, and securing samples of the patient's clothing and urine,, the chemical casualty consultant for U.S. Central Command (CENTCOM) and an assistant to the CENTCOM Surgeon, concludes injury was caused by exposure to liquid mustard chemical warfare agent. (Although not associated with any Iraqi offensive action, became the Persian Gulf War's only known chemical casualty.)
+1 March 1991:
+
+As the 82nd Airborne Division (82nd Abn Division) follows the 24ID's advance into Iraq, the 2-505 Parachute Infantry Regiment (PIR), a battalion from 3rd Brigade of the 82nd Abn Division, encounters the Khamisiyah ammunition supply facility. Upon entering the complex, Delta Company's anti-tank platoon, task organized with A Company (Co), 2/505 PIR to form the battalion's A Co Team, encounters minor resistance from Iraqi guards left to protect the facility. After engaging and subsequently capturing the Iraqi soldiers, the A Co Team secures the entire facility and performs an initial reconnaissance. Assisted by members of 2nd Platoon (Plt), C Co, 307th Engineer Battalion (307th Eng Bn), the A Co Team destroys perimeter antiaircraft gun emplacements and conducts a cursory inventory of the bunkers' contents. Interrogation of captured Iraqi soldiers confirms that the A Co Team's arrival marks the guards' initial contact with coalition ground forces, making A Company, 2-505 PIR the first coalition ground unit to reach and enter the Khamisiyah facility.
+
+2 March 1991:
+
+With the capture of the ammunition supply facility, a headquarters element from the 307th Eng Bn, the 82nd Abn Division's organic engineers, establishes a tactical command post in the immediate vicinity of Khamisiyah in preparation for its destruction, as required by the standing XVIII Abn Corps order to destroy all captured Iraqi war materiel.
+
+After evaluating the scope of the demolition mission, ,concludes that he cannot destroy the Khamisiyah complex while continuing to provide basic engineer support to the three Divisional brigades. Consequently, he requests assistance, through Division, from the 20th Engineer Brigade, an XVIII Abn Corps asset. Having received the approved mission from XVIII Abn Corps, the 20th Engineer Brigade, tasks the 37th Engineer Battalion (37th Eng Bn) to provide direct support to the 82nd Abn Division.
+, arrives at Khamisiyah to coordinate the destruction mission with . After conferring with his operations officer, , decides to split the battalion in two, moving the 12B combat engineers forward to the ammunition storage complex, while leaving the heavy equipment and the balance of the support personnel in a desert assembly area well to the south/southeast of the Khamisiyah facility. Advanced party elements of the 37th Eng Bn, upon reaching the facility, perform a chemical/ security reconnaissance of the permanent concrete bunkers. During the reconnaissance, they had their M8 Chemical Alarms with them and were in MOPP 1. No alarms sounded. (See Annex B for Test Kit/Alarm Capabilities/ Limitations.)
+As the majority of 2-505 PIR moved away from the immediate vicinity of the Khamisiyah facility, the Anti-Tank Platoon, D Company 2-505 PIR assisted the 37th Eng Bn with security and traffic control by establishing a series of blocking positions along the complex's primary avenues of advance. (2-10 Mar 91)
+3 March 1991:
+
+Signature of the Safwan Treaty formally concludes hostilities.
+
+Combat engineers and organic support personnel from HHC, A, B and C Companies of the 37th Eng Bn, two teams from the 60th Ordnance Detachment (Explosive Ordnance Disposal) (60th ORD) and Technical Intelligence Team #1 dispatched from the Foreign Military Intelligence Brigade, arrive at Khamisiyah. Units separate into squads and perform an inventory, providing an estimate of the type and quantity of ammunition stored within the complex.
+In order to gage the magnitude of the destructive forces involved and estimate safe buffer zones, explosive ordnance disposal personnel and combat engineers perform preliminary test explosions of bunkers #98 and #99 at Khamisiyah.
+
+Alpha Company, 307th Eng Bn destroys munitions at Jalibah Airfield, located about 30 kilometers from Khamisiyah within the 1st Bde, 82nd Abn Division's sector of responsibility. (This is significant as soldiers participating in this operation often confuse it with the Khamisiyah demolition.)
+
+
+
+4 March 1991:
+
+The mission to destroy ordnance stockpiled at the Tallil/An Nasiriyah Ammunition Storage Facility, situated within 3rd Brigade's area of responsibility had been previously charged to C Company, 307th Eng Bn. With the return of the 82nd Abn Division's 2nd Brigade and their supporting engineers (B Company) from the 6th French Division,
+
+directed his B Company to Tallil Airfield to assist C Company. En route to Tallil Airfield, 3rd Plt, B Co, 307th Eng Bn stops by Khamisiyah to confer with their commander and replenish their supplies and were consequently present during demolition operations.
+
+After having been cross attached to the 37th Eng Bn, A Co, 307 Eng Bn, a security platoon drawn from the 2- 504 PIR and a third 60th ORD team proceed to Khamisiyah following completion of their demolition mission at Jalibah Airfield. directs them to destroy the ammunition housed in the collection of warehouses situated on the northwest corner of the complex. These elements are also present when demolition operations commence.
+
+The 450th Civil Affairs Battalion was attached to the 82nd Abn Division. Drawing specialists from the 450th Civil Affairs Battalion, the 82nd Abn Division's 4th Psychological Operations Group formed a complement of linguists which was charged to assist 3rd Bde in evacuating Iraqi civilians from the Khamisiyah bunkers and warning neighboring residents to remain clear of areas scheduled for demolition. Using Blackhawk helicopters and ground vehicles, the linguists conducted this mission from 4-10 Mar 91.
+Commencing about 1400 hours, the 37th Eng Bn initiates the destruction of 37 permanent concrete bunkers, which had been interconnected with detonation cord and demolition materiel. The resulting explosion, which consumes what the Iraqis later identified as Bunker #73, generates sympathetic, secondary explosions, unexpectedly expelling debris ranging from shell fragments to intact projectiles to distances exceeding the safe buffer zone estimated by the engineers. The resulting dust and debris land at distances up to 10 KM away from the facility. At about 1440 hours, at least one M8 alarm sounds in the 37th Eng Bn assembly area along the canal by Khamisiyah, prompting actions by the engineers ranging from immediate evacuation from the vicinity to donning protective garments and seeking available shelter. Multiple M-256 Chemical Agent Detector Kit tests are conducted. Two of these initial tests reportedly show inconclusive results (partial positives). (One of these reported inconclusive test results is disputed by the Company Commander. He states that the test was negative.) Follow-up M-256 tests are negative. Nobody shows any suspicious symptoms and the Battalion leadership concludes that the incident was a false alarm. (See Annex D for M8/M-256 capabilities and limitations.) Eventually, all engineer and supporting forces relocate to a safer position.
+
+
+
+5 March 1991:
+
+Explosive ordnance disposal personnel, assisted by members of C Co, 37th Eng Bn, re-fuse and destroy bunker #92, which misfired during the previous explosion. An M8 Alarm is with them during this operation, and does not go off.
+
+A Co, 307th Eng Bn releases its attached 2-504 PIR platoon from its security mission. 6 March 1991:
+To conserve the available demolition materiel and to minimize further blow-outs, the engineers evaluated alternatives to direct destruction of the ammunition. One technique proposed involved collapsing the bunker to render its contents unserviceable. Representatives from 37th Eng Bn and A Co, 307th Eng Bn evaluated this proposal through "test shots" on four bunkers. The munitions in three of the four bunkers detonated anyway and the results from the fourth bunker were less than satisfactory. The engineers concluded that direct rigging of the ammunition itself was the preferable method of destruction.
+7-10 March 1991
+
+Preparations continue for final demolition of the Khamisiyah facility.
+
+Coincident with operations at Khamisiyah, combat engineers from B and C Co's, 307th Eng Bn, prepare the Tallil/An Nasiriyah Ammunition Storage Facility, located adjacent to Tallil Airfield, for demolition. (This facility
+
+was about 40 kilometers northeast of Khamisiyah. The similarity in construction, design, and number of the bunkers in this facility to those located at Khamisiyah cause some engineers to confuse the two locations.) (7- 10 Mar 91)
+
+9 March 1991:
+
+During a reconnaissance of the area abutting the Khamisiyah bunker complex, 37th Eng Bn finds a wadi or pit on the north side of the canal, containing more than ten separate stacks of crated 122 mm rockets. The rockets had been placed adjacent to the pit's south wall, and then concealed with tarps and loose dirt. (The south wall of the pit abuts the canal's north berm/dike.) After reporting his discovery to, the decision is made to destroy these rockets simultaneously with the rest of the Khamisiyah facility. With the bulk of the combat engineers engaged in rigging the bunkers and warehouses for demolition, the  orders the, a combat engineer working in the Section, to prepare the stacked rockets in the area later labeled "the pit" for destruction. He is assisted in this mission by at least two EOD soldiers and other members of the section. The ordinance specialists open some of the crates, find they contain unmarked rockets colored olive drab and decide that they are conventional and can be effectively destroyed using a shaped charge to cut them in two.
+
+10 March 1991:
+
+At approximately 1600 hours, the 37th Eng Bn ignites the fuses on the explosives, leading to the destruction of most of the remaining permanent concrete bunkers at the Khamisiyah facility. The rockets in the pit are detonated at approximately the same time.
+
+Simultaneously, A Co, 307th Eng Bn does the same, destroying most of the remaining warehouses at the Khamisiyah facility.
+
+While the fuses are burning, 37th Eng Bn departs Khamisiyah for Saudi Arabia and is about 30 minutes travel time to the south when the facility explodes. A/307th Eng Bn and other supporting elements depart Khamisiyah at the same time, returning to parent organizations and other missions in the XVIII Abn Corps area.
+11 March 1991:
+
+Since B Co, 307th Eng Bn had been the first company of the 307th Eng Bn deployed to Southwest Asia,  decides that it will be the first to return to the U.S. Consequently, with the demolition mission at Tallil Airfield nearing completion, B Co, 307th Eng Bn departs Tallil Airfield en route to Saudi Arabia.
+C Co, 307th Eng Bn detonates explosives, destroying most of the remaining permanent concrete bunkers and munitions caches at the Tallil/An Nasiriyah facility.
+11-13 March 1991:
+
+Sometime during this period,from 60th EOD and a second EOD soldier (probably) return to the pit. has his picture taken in the debris of the rockets there. He is not wearing any protective equipment and shows no symptoms that might be associated with exposure to a chemical agent. Neither EOD soldier wears their chemical protective overgarments. They do not show any immediate symptoms of exposure to a chemical agent. When interviewed by the DAIG inquiry team in 1997, they had not developed any subsequent health problems up to that point.
+
+Sometime during this period, , returns to the Khamisiyah Facility and takes pictures of some bunkers that are still intact, having failed to detonate. He then takes a picture of a soldier standing in the debris of 122mm rockets, most likely in the pit. Neither or this soldier are in their chemical protective overgarments. They show no symptoms of chemical exposure.
+
+
+
+15 March 1991:
+
+Combat engineers from A and C Co's, 307th Eng Bn proceed to the area south of the permanent bunker complex at Khamisiyah to prepare munitions organized in a vast system of earthen revetments for destruction. This area is another location soldiers often confuse with the Khamisiyah facility itself. (15-19 Mar 91)
+
+20 March 1991:
+
+Combat engineers from A and C Co's, 307th Eng Bn detonate the revetments situated south of Khamisiyah. 23 March 1991:
+The 2nd Armored Cavalry Regiment (2nd ACR) assumes operational control of the area encompassing Khamisiyah from the 82nd Abn Division.
+24 March 1991:
+
+The balance of forces remaining from the 307th Eng Bn and the 60th EOD contingent depart Khamisiyah for Saudi Arabia.
+
+28 March 1991:
+
+Prior to the start of Operation Desert Storm U.S. intelligence agencies suspected that certain locations within Iraq possibly contained chemical and/or biological weapons. In late Feb 91, CENTCOM requested that units exercising operational control of the suspected locations in southern Iraq conduct surveys to determine if such weapons remained at the sites. In response to the 27 Mar 91 VII Corps FRAGO #189-91 order to perform chemical surveys of the suspect ammunition storage area, the 2nd ACR reports on 28 March 1991 that chemical surveys of Tallil Airfield, Tall Al Lahm/Khamisiyah ammunition storage area, and the revetments to the south are negative, showing no indication of chemical weapons or chemical agents. This negative report from 2nd ACR is apparently not the result of an actual 2nd ACR chemical survey, but, rather, is based on 23 March 1991 documentary evidence of such surveys conducted by the 82nd Abn Division prior to their hand-off of the area to 2nd ACR. (See Annex C for XVIII Abn Corps MSG on Chemical Surveys, VII Corps FRAGO #189-91, VII Corps Spot Report, and 2nd ACR TAC/VII Corps TAC log entries on this subject.)
+6 April 1991:
+
+Upon finding a number of permanent concrete ammunition bunkers at Khamisiyah intact, members of the 146th Ordnance Detachment (Explosive Ordnance Disposal) and the 84th Engineer Company, the organic engineer force of the 2 ACR, destroy six of them.
+
+
+
+Late April 1991:
+
+Last U.S. units vacate Khamisiyah area.
+
+
+
+October 1991:
+
+Upon their arrival at Khamisiyah on 26 Oct 91, United Nations Special Commission (UNSCOM) Inspection Team #20 is told by their Iraqi guides that the facility previously housed chemical weapons, which were subsequently destroyed by occupying coalition forces in conjunction with their demolition of the facility. In an area later known as "the pit", the UNSCOM team notes that several piles of debris have been pushed together, most likely by an Iraqi bulldozer, judging from the tracks in the area. After excavating debris in the pit area, UNSCOM members recover several intact rockets. In protective garb, they drill one of the rockets on 27 Oct 91 and confirm it contains sarin/cyclosarin nerve agent. (There is no evidence that U.S. forces used a bulldozer in the pit area. The fact that the Iraqis had obviously moved the pit debris around fueled early suspicions by UNSCOM and others that the presence of chemical weapons in/around Khamisiyah was an Iraqi subterfuge.) Using a Chemical Agent Monitor (CAM), an initial UNSCOM chemical test of the remains of Bunker #73 yield negative results. (In keeping with the peace accords, the Iraqis also report in a May 91 formal written declaration that 2160 chemical rockets had been stockpiled at Khamisiyah in Bunker #73 and the pit and were destroyed by coalition forces.) The Iraqis also show UNSCOM over 6000 intact 155 mm rounds containing mustard agent, as indicated by CAMs, in an open area several kilometers west of Khamisiyah. These rounds had apparently not been found by U.S. ground forces.
+
+March 1992:
+
+UNSCOM members destroy rockets retrieved from the pit. 14 May 1996:
+In a subsequent inspection, UNSCOM personnel excavate the remains of Khamisiyah bunker #73 and find fragment debris consistent with chemical munitions.
+Note: The physical evidence of chemical weapons presence at Khamisiyah is found 6 months and 5 years, respectively, after U.S. units depart the area.
+
+
+
+
+
+
+Figure 1: Khamisiyah Ammunition Storage Area
+
+
+
+
+Figure 2: Khamisiyah Ammunition Storage Area Timeline Reconstruction
+
+
+
+CHAPTER III
+
+
+FINDINGS
+
+This chapter deals specifically with each issue on the Secretary of the Army's directives, providing a discussion of relevant issues and events, as well as a finding. The findings noted result not only from specific effort on the part of the Department of the Army Inspector General Inquiry Team, but also from the Team's coordination and interaction with various other agencies involved in these issues, to include the Office of the Special Assistant for Gulf War Illnesses (OSAGWI), the Central Intelligence Agency (CIA), the Defense Intelligence Agency (DIA), and the Army Staff (ARSTAF).
+
+ISSUE # 1: Was the presence of chemical munitions detected when the ammunition was destroyed?
+
+DISCUSSION: When the  37th Eng Bn assumed overall responsibility for the demolition of the Khamisiyah/Tall Al Lahm Ammunition Storage Facility on 2 March 1991, he was generally aware that any Iraqi ammunition storage facility, to include Khamisiyah, might contain chemical weapons/munitions. However, he had not received any specific warning regarding Khamisiyah and was unaware of the 23 February "CIA warning" to CENTCOM regarding the facility or the 26 February XVIII Abn Corps message warning of
+
+"Possible Chemicals on OBJECTIVE GOLD" (Annex D). None-the-less, those involved in the demolition mission proceeded on the assumption that chemical munitions could be stored in the facility.
+Within the resource and time constraints perceived to be available for the mission, the soldiers involved searched the facility for munitions that were marked suspiciously, i.e. for munitions that were marked with colored bands such as Warsaw Pact armies would have used to mark their chemical munitions. Some intelligence reports had also indicated that Iraqi chemical munitions might be marked with a "skull and crossbones." Although a review of message traffic/documents shows a growing awareness at CENTCOM, ARCENT, and XVIII Abn Corps that Iraqi chemical munitions might be unmarked, (see Annex E for Iraqi marking of chemical munitions) there is no indication that this information made its way down to the soldiers involved in destroying the Khamisiyah facility. On the contrary, testimony reveals that almost everyone at Khamisiyah was looking for suspiciously marked munitions.
+
+In addition to the Engineers, three-two man teams from the 60th Ordnance Detachment (EOD) and a five man Technical Intelligence Team from the Foreign Military Intelligence Brigade were available throughout the operation to assist in identification of suspicious munitions. The testified that his team entered the vast majority of the bunkers and warehouses at Khamisiyah and saw nothing that they thought was chemical. (The Technical Intelligence Team did remove some ASTROS II rockets for technical exploitation purposes.
+The stated that these rockets were not chemical munitions.) In several instances, the Technical Intelligence Team or Engineer soldiers reported suspiciously marked munitions (yellow bands or tips) to the EOD soldiers, but those munitions were determined to be conventional high explosives. In hindsight, several soldiers and veterans have reported seeing "suspicious munitions" at Khamisiyah--information which they supposedly passed on to their chain of command or to EOD. However, interviews with the unit's leadership, EOD, and the Technical Intelligence Team indicates that the "suspicious munitions" they were asked to examine were, in fact, conventional high explosive rounds. (Information available today, largely resulting from United Nations Special Commission (UNSCOM) inspections indicates that the Iraqis usually did not mark their chemical munitions. An average soldier would have found such chemical munitions largely indistinguishable from regular conventional munitions.)
+
+About 35-45 minutes after the major detonation at Khamisiyah on 4 March 91, at least one M8 Chemical Alarm sounded in the 37th Eng Bn assembly area, just north of the canal. Several soldiers report more than one alarm sounding, but this is disputed by the Engineer Company Commanders who state that it was a single alarm belonging to B Company, 37th Eng Bn. This alarm engendered multiple tests in all units present using the M256A1 Chemical Agent Detector Kit. During these tests, a soldier from B/37th Eng Bn supposedly had a "partial positive" or inconclusive test result i.e. the center of the appropriate area on the test card turned blue (negative for nerve agent) while the outside of that area remained white, indicating the possible presence of a nerve agent. A soldier from C/37th Eng Bn reports his initial M256A1 test led to a slight purple/red tinge, a "partial positive" indicating possible blister agent. (See Annex B for Test Kit/Alarm Capabilities/Limitations.) The Company commander of one of the soldiers reporting a partial positive disputes that report, saying that he was present and the test result in question was negative. Despite this inconsistency, all involved agree that the repeat of the M256 testing yielded a negative result. Furthermore, all soldiers/veterans interviewed agree that none of the soldiers, Iraqi civilians, or animals present at the time showed any physical symptoms that would have been consistent with exposure to a chemical agent. These facts, coupled with the units' training and previous experience with numerous M8 false alarm soundings, led the unit leadership to conclude that no chemical agent was actually present.
+FINDINGS: There was no credible, empirical evidence at the time of the demolition operation at the Khamisiyah Ammunitions Storage Facility in March 1991 that chemical munitions/agents were present. Based on the information they had available before and during the mission, as well as their training and previous experience in the Gulf, the unit leadership left Khamisiyah believing that the 2 - 10 March 1991 operation had destroyed only conventional munitions.
+
+ISSUE #2: Was this presence reported, and to what level?
+
+DISCUSSION: The use/location/storage of chemical agents or chemical munitions was a Priority Intelligence Requirement (PIR) at levels of command from CENTCOM down to the subordinate companies of the 37th and 307th Eng Bns. The requirement to "find and report" was evident down to the soldier level of the units involved in the destruction of the Khamisiyah Ammunition Storage Facility. There is every reason to believe that, had chemical munitions been discovered, such discovery would have been immediately reported through established channels to the highest levels of the Theater Command. Since the leadership of the organizations involved in the mission didn't think they had found or destroyed chemical munitions, no report of such a discovery or destruction was made.
+
+FINDINGS: The unit leadership concluded there were no chemical weapons found or destroyed at Khamisiyah and that no chemical agents had been detected. Therefore, no report of a chemical nature was made or required.
+ISSUE #3: Were appropriate force protection measures taken during the ammunition demolition operations?
+
+DISCUSSION: Interviews with the soldiers/veterans involved in the 2 - 10 March 91 operation at Khamisiyah indicate that the unit was well trained in the use of their chemical protective equipment and their chemical detectors/test kits. The unit had all of the chemical-related equipment that it was supposed to have and that equipment was well maintained and in generally good condition. Each soldier had a protective mask and two sets of chemical protective overgarments (CPOG's). (One set had been unwrapped and was in use prior to the units arrival at Khamisiyah.) As outlined in the 37th Eng Bn OPLAN, the general chemical protective guidance that was in effect before and during the operation at Khamisiyah was:
+-- Mission Oriented Protective Posture (MOPP) Zero is in effect. (Mask on hip, CPOG readily accessible.) Commanders or senior responsible individual upgrade as necessary. (See Annex B for further definition of MOPP levels.)
+
+-- Units will take all action necessary to defend against a chemical or biological attack while planning for continued operations in the contaminated environment.
+
+-- Units will avoid contaminated areas to minimize MOPP level and required decontamination operations.
+
+MOPP Level Zero will remain in effect until changed by , supported unit commander, or senior individual in accordance with threat conditions/indicators.
+
+It appears that the initial clearance/reconnaissance of the Khamisiyah Ammunition Storage Facility was done by elements of the 2-505 Parachute Infantry Regiment (PIR) on 1 March 1991. The 2d Platoon of C Company, 307th Eng Bn was attached to the 2-505 PIR and participated in that reconnaissance, which was likely conducted in MOPP Level Zero (mask on hip, CPOG available). The subsequent, more detailed reconnaissance by elements of the 37th Eng Bn was conducted in MOPP Level One (mask on hip, wearing CPOG trousers and coat). Once the 37th Eng Bn completed their reconnaissance without detecting any chemical threat and a plan was formulated for destroying the facility, the actual rigging and destruction of the facility over the period from 3 - 10 March was generally done at MOPP Level Zero. The M8 Chemical Alarms were apparently taken into the facility during the initial reconnaissance and were then deployed in the unit assembly area located 3 kilometers outside the Khamisiyah complex for the duration of the operation. When EOD and soldiers from C Company, 37th Eng Bn entered the facility the morning of 5 March to detonate Bunker #92, which had failed to detonate with 37 other bunkers the previous day (to include "Bunker #73), they had an M8 Chemical Alarm mounted on their vehicle. This alarm did not sound.
+
+The planning and rehearsal for the demolition of the facility was detailed and well supervised. Responsibility for specific bunkers/warehouses was assigned down to the level of the Engineer Squad/separate team, with overall coordination being done at the Battalion level. A detailed rehearsal was conducted by the involving all organizations involved in the mission. Based on reference to the appropriate Technical Manuals and data obtained from the 3 March 91 test shots of Bunkers #98 and #99, the unit leadership determined what they believed to be an appropriate stand-off distance (approximately 4 kilometers) for the major demolition on 4 March.
+
+During the first large-scale detonation at the Khamisiyah facility on 4 March 1991, several occurrences reflected directly on the validity of the leadership's force protection planning. The value of the detailed planning and rehearsal was evident as all individuals involved lit their fuses, quickly exited the facility, and arrived at the designated assembly area on the north bank of the canal well prior to the explosion. However, about 15 to 20 minutes after the explosions commenced, it became apparent that the stand-off distance was inadequate as munitions were ejected or blown out of the facility to reported distances of about 10 kilometers. Some of these blow-outs landed in and around the Engineer's assembly area by the canal. About 40 minutes after the initial detonation on 4 March, the situation was further complicated by the sounding of at least one of the M8 Chemical Alarms in the assembly area. (This is the same alarm sounding discussed in Issue #1.) Despite the fact that the unit was trained to proceed to a MOPP Four posture when the alarms sounded, a "cry-wolf" syndrome based on previous false alarms led to a haphazard execution of this standard by the units and individuals involved. For example, B Company, 37th Eng Bn went to a full MOPP Level Four posture. Throughout the assembly area, the other units reacted to the alarm in varying degrees. Overall, the vast majority of the soldiers put their protective masks on, but not all went to MOPP Level Four. About the time that unit chemical NCO's were completing M256 testing required to determine chemical presence and the need for continued protective posture or to initiate unmasking procedures, the battalion leadership made the decision to move farther away to lessen the chance of sustaining casualties from the munitions blow-out. The various teams supporting the 37th Eng Bn moved away with them. The only exception was A Company, 307th Eng Bn which, having arrived in the area just as the 4 March detonation was initiated, elected to remain in defilade on the south side of the canal.
+FINDINGS: Force protection measures taken during the ammunition demolition operation at Khamisiyah were generally appropriate. However, despite their training, not all soldiers performed to standard on 4 March 1991 when the chemical alarm sounded in the assembly area by the canal. (The unit standard was to go to MOPP Level Four when the chemical alarms sounded. While the vast majority of the soldiers masked, many did not go all the way to MOPP Level Four.) The units' previous experience with numerous M8 false alarms in DESERT SHIELD/ STORM contributed to a failure to enforce the standard uniformly across the units involved in the operation.
+ISSUE #4: Address the facts as to the weapons destroyed.
+
+DISCUSSION: As noted in the discussion regarding Issue #1, there was no compelling evidence at the time of the demolition operation at Khamisiyah that chemical munitions were destroyed there. Even today, the only credible evidence of chemical weapons at or in the vicinity of the Khamisiyah facility comes from UNSCOM inspections conducted six months to five years after the demolition operation and the deductive efforts of intelligence agencies, based on analysis of imagery, intelligence documents, and recently discovered photos of the pit. Although the possibility still exists that the issue of chemical munitions in and around Khamisiyah in March 1991 could be the result of Iraqi disinformation and subterfuge, the preponderance of the community examining the evidence as it exists today has concluded that chemical weapons were present at the Khamisiyah Ammunition Storage Facility at the time of its destruction. This conclusion is based on:
+Intelligence on possible pre-war storage sites (Feb 91); Iraqi declarations (Oct 91/May 96);
+
+UNSCOM documents, videos, and reports (Oct/Nov 91, Feb/Mar92, May/Jun 96);
+Imagery (Aug 90/Feb 91/Mar 91/Apr 91/Oct 91);
+
+Consistency of existing "pit" photos (11 - 13 Mar 91) with UNSCOM findings.
+The exact number of chemical filled munitions possibly destroyed at/vicinity of Khamisiyah is impossible to determine. However, based on the Iraqi declaration that 2160 sarin/cyclosarin filled 122 millimeter rockets were at/vicinity of Khamisiyah (a figure that UNSCOM and CIA accept), it is possible through interviews with the soldiers who rigged the rockets in the pit, along with analysis of existing imagery and UNSCOM findings, to determine a maximum, minimum, and most likely number of rockets at the locations in question. Though the soldiers involved universally believed they were dealing with conventional munitions, the indirect evidence available suggests that these rockets were chemical filled.
+
+
+
+FINDINGS: The DAIG found no empirical evidence that chemical munitions/ agents were present during the demolition operation. Likewise, the DAIG found no conclusive evidence that supported or refuted the conclusions of the intelligence community and other investigative bodies. The preponderance of the available evidence that exists, albeit indirect and deductive, supports the conclusion that there were 2160 sarin/cyclosarin filled 122 millimeter rockets at/vicinity of Khamisiyah, as declared by Iraq. The following chart (Figure 3) summarizes the maximum, minimum, and most likely number of chemical munitions destroyed at each location. (This chart uses the 2160 base line and derives the other numbers from UNSCOM findings, numerous interviews with veterans/soldiers from the pit, and extensive imagery and document analysis by DoD/CIA.)
+
+
+
+FIGURE 3: CHEMICAL MUNITIONS POSSIBLY DESTROYED--KHAMISIYAH
+
+
+(CIA ESTIMATE)
+
+The warheads on the rockets in the Pit and Bunker 73 contained 6.3 kilograms (13.86 pounds) of sarin/cyclosarin in a 3 to 1 ratio. The intelligence community estimates that the agent was 40 - 60% pure when destroyed on 4 and 10 March 1991 (50% purity most likely).
+
+ISSUE #5: Address the facts as to the personnel who participated in the destruction.
+
+DISCUSSION: Although the 37th Eng Bn (Minus) and A Company (Minus), 307th Eng Bn were the primary units responsible for the 3 - 10 March 1991 destruction of the ammunition in and around the Khamisiyah Ammunition Storage Facility, there were several other units, detachments, and teams involved in or in direct support of the operation. In addition, there were some additional organizations that played on the periphery of the mission itself. (For the purposes of this report, if units or soldiers were involved in the demolition operation from either inside the Khamisiyah facility or in the vicinity of the bridge over the canal that runs generally along the south/southwest side of the facility, they were considered "at Khamisiyah" during the demolition operation.)
+The first coalition ground forces to arrive at and enter the Khamisiyah facility were Company Team A, 2-505 PIR from the 3rd Brigade, 82nd Abn Division on 1 March 1991. Supporting 2-505 PIR was 2nd Platoon, C Company, 307th Eng Bn, who were the first Engineer soldiers to enter the facility. Although this platoon of Engineers apparently did not destroy anything in the facility and moved on with 2-505 PIR within a day, they did notify their chain of command of the scope and scale of the facility, resulting in the coming forward with his TOC to assess the situation on 2 March 1991. He requested further assistance from the 82d Abn Division. This prompted a request to XVIII Abn Corps for additional engineer support, leading to the 37th Eng Bn being placed in direct support to the 82d Abn Division. The was placed in charge of destroying the Khamisiyah facility. The 37th took slightly more than half of his unit forward to the facility itself. This forward contingent consisted mainly of combat engineers, command and control, and those needed for immediate support of the operation. He left the bulk of the unit's heavy equipment and those not immediately required in an assembly area well to the south. On 4 March, the sent A Company, 307th Eng Bn to further augment the 37th Eng Bn effort at Khamisiyah.
+Although not involved in the operation at Khamisiyah, 3rd Platoon, B Company, 307th Eng Bn stopped on the south of the canal bridge in the vicinity of Khamisiyah for several hours on 4 March 91 and were witness to the major detonation on that day, to include seeing the blow-outs from the facility and hearing a chemical alarm sound. Once the all clear was given, 3rd Platoon proceeded on up the highway to Tallil Airbase.
+The 37th Eng Bn and its supporting units conducted their last demolition at the Khamisiyah facility on the afternoon of 10 March 1991. As the detonation took place, the unit was already en route back to Saudi Arabia. Subsequently the 2nd ACR (VII Corps) assumed responsibility for the area on 24 Mar 91. The last
+U.S. unit to actually conduct demolition operations inside the facility was the 84th Engineer Company from the 2nd Armored Cavalry Regiment (ACR) when they destroyed six more bunkers in the facility on 6 April 1991. (There were several bunkers inside the facility that were never destroyed, mainly due to time constraints and lack of demolition material.) The last U.S. ground forces departed the Tallil/Khamisiyah/Jalibah area in late April 1991.
+
+FINDINGS: There were approximately 430 soldiers from the 37th Eng Bn and its supporting units involved in destroying the Khamisiyah Ammunition Storage Facility from 3 - 10 March 1991. The 84th Engineer Company from 2nd ACR conducted the last demolition operation at the facility on 6 April 1991 with approximately 100 soldiers. The units represented by these soldiers were:
+37th Eng Bn (Minus);
+A Company (Minus), 307th Eng Bn; 467th Engineer Platoon (Firefighters);
+
+Detachment from HHC, 307th Eng Bn;
+Detachment from 450th Civil Affairs Battalion;
+Three Teams from the 60th Ordnance Battalion (EOD);
+
+Technical Intelligence Team #1, 11th MI Company, 4th MI Battalion, Foreign Military Intelligence Brigade (FMIB);
+84th Engineer Company, 2d ACR (6 April 1991 demolition).
+(Figure 4 on page 3-10 provides a by-name listing of those soldiers on-site at Khamisiyah 3 - 10 March 1991.)
+
+
+
+
+ FIGURE 4 REMOVED IN ACCORDANCE WITH THE PROVISIONS OF
+THE PRIVACY ACT OF 1974
+
+
+
+FIGURE 4: KHAMISIYAH FACILITY - UNITS/PERSONNEL ON SITE
+
+
+
+
+ISSUE 6: Address the facts as to the potential exposure of those personnel involved in the destruction.
+
+DISCUSSION: As previously noted, there was no direct, empirical evidence at the time of the operation that anyone was exposed to chemical agent at Khamisiyah. A constant throughout the interviews of those involved in the operation was that no soldiers, Iraqi civilians, or animals showed any symptoms that have indicated exposure. (During DAIG interviews with Khamisiyah soldiers/veterans, there were numerous reports of medical problems, including skin rash, fatigue, and joint pain, that the individuals acknowledged might have no association with the Khamisiyah operation. Eleven of the 250 Khamisiyah veterans/soldiers interviewed reported apparently major medical problems/ illnesses. They are all registered with the Veteran's Registry/Comprehensive Clinical Evaluation Program and are being treated in military hospitals or by the Veteran's Administration.) If we presume exposure at low levels, it must be based on UNSCOM findings six months to 5 years after the demolition operation, intelligence, and imagery analysis.
+FINDINGS: Although the DAIG Team did not uncover any direct or conclusive evidence that US Army ground forces knew or suspected that they were destroying chemical munitions, the Team likewise found no conclusive evidence that supports or refutes the conclusions of the intelligence community/other investigative bodies. However, if low level exposure is presumed based on later UNSCOM findings, intelligence, imagery analysis and DoD/CIA modeling, then we can surmise:
+
+-- The exposure was not of immediate military significance;
+
+-- It was at levels less than that necessary to immediately cause first physical symptoms (threshold eye effects dosage-
+-1 milligram minute per cubic meter).
+
+ISSUE #7: Address the facts as to the potential exposure of other personnel who, taking into consideration the amount of chemical agent possibly released and applicable weather patterns, may have been exposed.
+DISCUSSION: Again, there is no direct evidence that personnel anywhere in the Kuwaiti Theater of Operations (KTO) were exposed to chemical agents as a result of the Khamisiyah demolition operation. No soldiers, civilians, or animals anywhere in the KTO showed any suspicious symptoms that might be associated with a chemical agent release at Khamisiyah. If we are to presume low level exposure, it must be based upon UNSCOM findings and later analysis of intelligence, photos, and other imagery six months to 5 years after the March 1991 demolition operation.
+
+In August 1996, the Central Intelligence Agency (CIA) modeled the probable dispersal of chemical agent possibly resulting from the 4 March 1991 destruction of "Bunker 73". Based on information available at the time, to include photographs and video footage of the detonation, the model predicted that any chemical agent release would have been dispersed to the northeast, generally away from coalition troops. Although soldiers within two kilometers of the 4 March detonation would theoretically have been exposed, the nearest
+U.S. troops were believed to be about 3 kilometers away and none of them reported any immediate symptoms. The Department of Defense (DoD) and the CIA plan to repeat the modeling of this event, using the latest available data and techniques.
+
+In June and July 1997, a team from DoD and CIA conducted modeling of the possible dispersal of chemical agent from the 10 March 1991 demolition event at the pit. The modeling incorporated the best data available on probable wind direction and speed. It also took into account results from the May 97 tests conducted on crated rockets virtually identical to those destroyed in the pit on 10 March 1991. This testing yielded information on several variables, ranging from the likely amount of agent immediately released into the air to later aerosolization of agent initially absorbed into the sand and the wood from the rocket crates. This projected dispersal of agent was templated over the best test data available regarding location of troop units during the period in question. Though not exact, the result of this effort offers the best available indication of the potential exposure of "other personnel," projecting possible exposure of about 99,000 personnel to low levels of chemical agent. (It is worthwhile to note that a July 1997 analysis of individuals registered with the Veteran's Registry or the Comprehensive Clinical Evaluation Program as of 1 July 1996 suggested no correlation between proximity to Khamisiyah and propensity to register in these programs. See Annex F.)
+
+FINDINGS: Although the DAIG Team did not uncover any direct or conclusive evidence that US Army ground forces knew or suspected that they were destroying chemical munitions, the Team likewise found no conclusive evidence that supports or refutes the conclusions of the intelligence community/other investigative bodies. However, if low level exposure is presumed based on later UNSCOM findings, intelligence, imagery analysis and DoD/CIA modeling, then we can surmise:
+-- The exposure was not of immediate military significance;
+
+-- If chemical weapons were destroyed at Khamisiyah, about 99,000 soldiers may have been exposed to low levels of sarin greater than the general population level of .01297 milligram- minutes per cubic meter, but well below the noticeable effects level of 1 milligram-minute per cubic meter. (The general population level, established by the Centers for Disease
+
+Control in 1988, is a level which "long term exposure to these concentrations would not create any adverse health effects.")
+The by-unit listing of those personnel who were potentially exposed to low levels of sarin by the 10 March 1991 demolition of pit munitions is at Annex G.
+ISSUE #8: Address the facts as to other significant factors pertaining to this incident.
+
+DISCUSSION: The directly involved in the destruction of the Khamisiyah Ammunition Supply Facility in March 1991 did not have all the information available about the facility. Although it is impossible to determine if possession of this additional information would have had any impact on the course of events, the fact remains that information suggesting the facility might house chemical munitions was available at higher levels of command (CENTCOM, ARCENT, XVIII Abn Corps). It apparently did not get down to the in any degree of specificity. For example, there is no indication that a 26 Feb 91 XVIII Abn Corps message warning of "Possible Chemicals on OBJECTIVE GOLD" (Annex D) was forwarded to the 82nd Abn Division, much less the . (This Corps message was apparently based on reports of enemy troops departing in two directions and an implied speculation that U.S. bombing had released chemical agents. At the time this message was issued to the 24th Infantry Division and the 101st Abn Division, the 82nd Abn Division was far to the southwest of OBJECTIVE GOLD, generally following in support of the 6th French Division. When the 82nd got near Khamisiyah on 1 March 1991, there is no indication that the original warning was re-issued.) Likewise, at Khamisiyah were apparently unaware of information available in-theater via CIA and DIA channels listing Khamisiyah/Tall Al Lahm as a possible chemical weapons storage site.
+
+At higher levels of command, it is unclear when or where information available in CIA and DIA in-theater channels cross-walked into J-2/G-2 intelligence channels or J-3/G-3 operational channels. The impact of that information, if any, on force protection decisions at those higher levels of command is equally unclear. For example, DIA information available at the CENTCOM/ARCENT level in late February 1991 (Annex H) shows up in VII Corps G-2 message traffic in early March and in G-3 operational channels later that month. That same information was not found in any XVIII Abn Corps documents or message traffic. (Interviews with those involved in drafting/ sending the XVIII Abn Corps "Possible Chemicals on OBJECTIVE GOLD" message failed to identify the genesis of that information. The link between the vague warning in the XVIII Abn Corps message and the information available in DIA/CIA channels appears tenuous.) The DIA information in question was part of a large volume of message traffic flowing in intelligence channels, much of it based on analysis of the general data available, rather than anything specific, and has become significant only in hindsight.
+
+Another example regarding the flow of available information has to do with how Iraqi chemical munitions were marked. Although there were indicators down to the ARCENT level in mid to late February 91, and probably down to XVIII Abn Corps, that Iraqi chemical munitions were likely unmarked (Annex E), that information never reached the units at Khamisiyah. Conversely, almost all testimony from those involved in the operation indicates that they were looking for suspiciously marked munitions as an indicator of chemical weapons.
+However, Iraqi chemical munitions were generally not marked in any specific way that would distinguish them from conventional, high explosive munitions, a fact confirmed by later UNSCOM inspections. Although there is no certainty that it would have made any difference, the bottom line is that at the execution level did not have all the information available about Khamisiyah and the chemical munitions possibly stored there.
+
+Another factor relating to the Khamisiyah operation has to do with the FOX Chemical Detection Vehicle. Based on numerous testimonies, it appears that a FOX vehicle was not at Khamisiyah during the 3 - 10 March 1991 demolition operation. Although its presence would probably not have had any impact on the course of events, this vehicle would have proved useful had there been any leaking chemical munitions on the site.
+
+A final factor of note was the sense of haste that seemed to pervade every aspect of the Khamisiyah operation. Although the political/military situation at the time was rife with uncertainty, a more deliberate, time- consuming approach to the destruction of the Khamisiyah facility might have increased the likelihood of discovering any chemical munitions possibly stored there. As it turned out, coalition forces were actually in control of the Khamisiyah area until late April 1991.
+
+FINDINGS: At the execution level:
+
+-- Although there is no certainty that it would have made any difference, lack of available information may have affected the force protection decisions regarding MOPP level, the need for additional expertise/equipment, and the need for a more deliberate, time-consuming operation.
+
+-- A FOX Chemical Detection Vehicle was not at the site during the demolition operation;
+
+-- The political/military situation conveyed a sense of urgency and haste to the demolition operation at the Khamisiyah Ammunition Storage Facility.
+
+ISSUE #10: Identify any other sites where the same or similar operations were conducted.
+
+DISCUSSION: In the immediate aftermath of the Persian Gulf War, demolition/ destruction of Iraqi equipment, stores, and munitions took place across the width and breadth of southern Iraq, as well as in Kuwait. The Iraqi desert north of Kuwait stretching for hundreds of miles across to the Tallil/An Nasiriyah area was dotted with numerous open-air, revetted storage areas. This area also contained the hardened ammunition storage facilities at Khamisiyah/Tall Al Lahm and Tallil/An Nasiriyah. Targeting those individuals most likely to have knowledge of these demolition operations, such as EOD soldiers, engineers, chemical NCO's, and intelligence specialists, the team talked to approximately 450 soldiers from across the theater involved in demolition operations other than Khamisiyah. No credible evidence was found that chemical munitions were destroyed by coalition ground forces in demolition operations at any other location in the KTO. Likewise, UNSCOM has found no evidence of chemical munitions demolition by coalition ground forces anywhere except at Khamisiyah.
+FINDINGS:
+
+-- No credible evidence that chemical munitions were destroyed in similar operations elsewhere.
+
+-- Other major conventional munitions demolition operations were conducted at (see Annex I):
+
+Tallil/An Nasiriyah;
+
+Revetted area south of Khamisiyah;
+Jalibah Airfield;
+
+Vicinity Ar Rumaylah Airfield;
+Umm Qasr.
+
+
+
+
+
+
+CHAPTER IV
+
+
+CONCLUSIONS AND RECOMMENDATIONS
+
+
+
+CONCLUSIONS
+
+
+The units involved in the destruction of the Khamisiyah Ammunition Storage Facility:
+
+-- Were well-led and well-trained;
+
+-- Did not detect the presence of chemical munitions or chemical agents during the demolition operation;
+-- Made no reports of such a detection;
+
+-- Took force protection measures generally appropriate for the mission/situation. (Standards not uniformly enforced across all units.)
+
+An estimated 6500 tons of munitions were destroyed by ground forces in and around the Khamisiyah Ammunition Storage Facility. Of these munitions, 2160-122 millimeter rockets were possibly filled with sarin/cyclosarin. If the presence of chemical munitions is presumed based on later UNSCOM findings, intelligence and imagery analysis (done by CIA, DIA, and other members of the intelligence community), and interviews with the soldiers involved, the most likely number of chemical filled 122 millimeter rockets destroyed in Bunker 73 was 910. The most likely number of chemical filled 122 millimeter rockets destroyed in the pit was 500. (Approximately 750 generally intact chemical filled rockets were found later in the pit area and destroyed by UNSCOM.)
+
+The primary units involved in the destruction of the Khamisiyah Ammunition Storage Facility in March 1991 were the 37th Eng Bn and A Company, 307th Eng Bn. (A complete listing of all units/teams/ detachments can be found on page 3-8 and 3-9 of this report. A by-name listing is on page 3-10, Figure 4.)
+If low level chemical exposure of soldiers in the KTO is presumed, based on later UNSCOM findings and later intelligence community analysis of imagery, intelligence documents, and recently discovered pit photos:
+-- It was not of immediate military significance;
+
+-- It was at a level less than that necessary to cause immediate physical symptoms;
+-- DoD/CIA modeling suggests that about 99,000 soldiers may have been exposed to low levels of chemical agent. A listing of those units possibly exposed to low levels of chemical agent as a result of the Khamisiyah demolition operation is at Annex G.
+
+conducting the demolition operation at the Khamisiyah facility did not have all of the information available about the facility. However, there is no certainty that possession of that information would have changed the
+
+course of events.
+
+There is no credible evidence that an event similar to Khamisiyah occurred elsewhere in the Kuwaiti Theater of Operations.
+
+
+
+RECOMMENDATIONS
+
+
+No requirement for major doctrinal changes.
+
+Improve the flow of intelligence information available from external agencies into the operational arena at Army and Corps level through enhanced horizontal interface.
+
+Incorporate the issue of detector sensitivity and false alarms into routine training scenarios at the Combat Training Centers (CTC's).
+Improve detector capability to discriminate and eliminate false positives.
+
+Develop/procure a non-destructive, hand-held detector for chemical filled munitions and field it down to Division level, minimum.
+
+Improve/stress training at the Chemical and Explosive Ordinance schools on recognition of chemical munitions by methods other than external marking.
+Clarify the relationship/command responsibility between Engineer Commanders and EOD soldiers on large scale munitions destruction missions.
+Improve the system of Army records maintenance, storage, and retrieval regarding war and contingency operations. Educate on regulatory requirements.
+
+Return to GulfLINK
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
